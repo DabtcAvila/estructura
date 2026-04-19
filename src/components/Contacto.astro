@@ -1,0 +1,110 @@
+<section id="contacto" class="py-24 sm:py-32 bg-white">
+  <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+    <div class="grid grid-cols-1 lg:grid-cols-2 gap-16">
+      <!-- Left: Info -->
+      <div>
+        <span class="inline-flex items-center gap-2 text-accent-600 text-sm font-medium tracking-wider uppercase">
+          <span class="w-8 h-px bg-accent-600"></span>
+          Contacto
+        </span>
+        <h2 class="mt-4 text-3xl sm:text-4xl font-serif text-primary-900">
+          Trabajemos juntos
+        </h2>
+        <p class="mt-6 text-lg text-primary-600 leading-relaxed">
+          Si tienes preguntas sobre nuestras investigaciones, buscas colaborar o
+          necesitas consultoría en infraestructura de datos, escríbenos.
+        </p>
+
+        <!-- LinkedIn -->
+        <div class="mt-8">
+          <a
+            href="https://www.linkedin.com/company/estructuramexico"
+            target="_blank"
+            rel="noopener noreferrer"
+            class="inline-flex items-center gap-3 px-6 py-3 bg-primary-50 hover:bg-primary-100 rounded-lg text-primary-700 transition-colors group"
+          >
+            <svg class="w-5 h-5 text-primary-600 group-hover:text-accent-600 transition-colors" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+              <path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/>
+            </svg>
+            <span class="text-sm font-medium">Síguenos en LinkedIn</span>
+          </a>
+        </div>
+      </div>
+
+      <!-- Right: Form -->
+      <div class="bg-primary-50/50 rounded-2xl p-8 border border-primary-100">
+        <form
+          action="https://formspree.io/f/xplaceholder"
+          method="POST"
+          class="space-y-6"
+        >
+          <div>
+            <label for="name" class="block text-sm font-medium text-primary-700 mb-2">
+              Nombre
+            </label>
+            <input
+              type="text"
+              id="name"
+              name="name"
+              required
+              class="w-full px-4 py-3 bg-white border border-primary-200 rounded-lg text-sm text-primary-900 placeholder-primary-400 focus:outline-none focus:ring-2 focus:ring-accent-500 focus:border-transparent transition-shadow"
+              placeholder="Tu nombre"
+            />
+          </div>
+
+          <div>
+            <label for="email" class="block text-sm font-medium text-primary-700 mb-2">
+              Correo electrónico
+            </label>
+            <input
+              type="email"
+              id="email"
+              name="email"
+              required
+              class="w-full px-4 py-3 bg-white border border-primary-200 rounded-lg text-sm text-primary-900 placeholder-primary-400 focus:outline-none focus:ring-2 focus:ring-accent-500 focus:border-transparent transition-shadow"
+              placeholder="tu@correo.com"
+            />
+          </div>
+
+          <div>
+            <label for="subject" class="block text-sm font-medium text-primary-700 mb-2">
+              Asunto
+            </label>
+            <select
+              id="subject"
+              name="subject"
+              class="w-full px-4 py-3 bg-white border border-primary-200 rounded-lg text-sm text-primary-900 focus:outline-none focus:ring-2 focus:ring-accent-500 focus:border-transparent transition-shadow"
+            >
+              <option value="investigacion">Sobre nuestras investigaciones</option>
+              <option value="colaboracion">Colaboración</option>
+              <option value="consultoria">Consultoría en datos</option>
+              <option value="indepar">INDEPAR - Pensiones</option>
+              <option value="otro">Otro</option>
+            </select>
+          </div>
+
+          <div>
+            <label for="message" class="block text-sm font-medium text-primary-700 mb-2">
+              Mensaje
+            </label>
+            <textarea
+              id="message"
+              name="message"
+              rows="4"
+              required
+              class="w-full px-4 py-3 bg-white border border-primary-200 rounded-lg text-sm text-primary-900 placeholder-primary-400 focus:outline-none focus:ring-2 focus:ring-accent-500 focus:border-transparent transition-shadow resize-none"
+              placeholder="¿En qué podemos ayudarte?"
+            ></textarea>
+          </div>
+
+          <button
+            type="submit"
+            class="w-full px-8 py-3.5 bg-primary-700 hover:bg-primary-800 text-white font-medium rounded-lg transition-colors text-sm cursor-pointer"
+          >
+            Enviar mensaje
+          </button>
+        </form>
+      </div>
+    </div>
+  </div>
+</section>

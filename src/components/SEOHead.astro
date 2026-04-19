@@ -1,0 +1,67 @@
+---
+interface Props {
+  title?: string;
+  description?: string;
+  canonical?: string;
+  ogImage?: string;
+}
+
+const {
+  title = "Estructura — Anuario Nacional de Estrategia, Riesgo y Datos · México",
+  description = "Firma de investigación y analítica de datos enfocada en México. Sistemas de pensiones, mercados laborales e infraestructura de datos con fuentes oficiales.",
+  canonical = Astro.url.href,
+  ogImage = "/og-image.svg",
+} = Astro.props;
+
+const siteUrl = "https://estructura.org";
+const fullOgImage = ogImage.startsWith("http") ? ogImage : `${siteUrl}${ogImage}`;
+---
+
+<!-- Primary Meta Tags -->
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>{title}</title>
+<meta name="description" content={description} />
+<meta name="generator" content={Astro.generator} />
+<link rel="canonical" href={canonical} />
+<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+
+<!-- Open Graph / Facebook / LinkedIn -->
+<meta property="og:type" content="website" />
+<meta property="og:url" content={canonical} />
+<meta property="og:title" content={title} />
+<meta property="og:description" content={description} />
+<meta property="og:image" content={fullOgImage} />
+<meta property="og:locale" content="es_MX" />
+<meta property="og:site_name" content="Estructura" />
+
+<!-- Twitter -->
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:url" content={canonical} />
+<meta name="twitter:title" content={title} />
+<meta name="twitter:description" content={description} />
+<meta name="twitter:image" content={fullOgImage} />
+
+<!-- JSON-LD Structured Data -->
+<script type="application/ld+json" set:html={JSON.stringify({
+  "@context": "https://schema.org",
+  "@type": "ResearchOrganization",
+  "name": "Estructura",
+  "alternateName": "Anuario Nacional de Estrategia, Riesgo y Datos",
+  "url": siteUrl,
+  "logo": `${siteUrl}/favicon.svg`,
+  "description": description,
+  "areaServed": {
+    "@type": "Country",
+    "name": "México"
+  },
+  "knowsAbout": [
+    "Sistemas de pensiones en México",
+    "Mercados laborales",
+    "Infraestructura de datos",
+    "Analítica de datos"
+  ],
+  "sameAs": [
+    "https://www.linkedin.com/company/estructuramexico"
+  ]
+})} />
