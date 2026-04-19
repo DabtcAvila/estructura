@@ -1,0 +1,155 @@
+[
+  {
+    "id": "rendimientos-afores-2024",
+    "title": "Rendimientos reales de las AFORES: análisis comparativo 2020-2024",
+    "category": "pensiones",
+    "description": "Evaluación de rendimientos netos de comisiones de las principales AFORES, comparando desempeño por tipo de SIEFORE y horizonte de inversión.",
+    "keyPoints": ["Rendimientos por SIEFORE generacional", "Comparativo entre administradoras", "Impacto de comisiones en rendimiento neto", "Rendimiento real vs inflación"],
+    "dataSources": ["CONSAR", "Banxico"],
+    "covered": false
+  },
+  {
+    "id": "cobertura-pensionaria-mexico",
+    "title": "La brecha de cobertura pensionaria en México",
+    "category": "pensiones",
+    "description": "Análisis de la población sin acceso al sistema de ahorro para el retiro, factores demográficos y geográficos que determinan la exclusión.",
+    "keyPoints": ["Porcentaje de PEA sin cuenta AFORE activa", "Distribución por estado y sector", "Género y brecha pensionaria", "Proyecciones de cobertura"],
+    "dataSources": ["CONSAR", "INEGI"],
+    "covered": false
+  },
+  {
+    "id": "reforma-pensiones-2020-impacto",
+    "title": "Reforma de pensiones 2020: impacto a 5 años",
+    "category": "pensiones",
+    "description": "Evaluación del impacto de la reforma que incrementó aportaciones patronales y redujo semanas de cotización mínimas para acceder a pensión.",
+    "keyPoints": ["Incremento gradual de aportaciones", "Efecto en tasas de reemplazo", "Reducción de semanas de cotización", "Impacto fiscal"],
+    "dataSources": ["CONSAR", "SHCP"],
+    "covered": false
+  },
+  {
+    "id": "comisiones-afores-tendencia",
+    "title": "Evolución de comisiones en el SAR: de 2008 a la fecha",
+    "category": "pensiones",
+    "description": "Trayectoria de las comisiones cobradas por las AFORES, efecto regulatorio y comparación internacional.",
+    "keyPoints": ["Tendencia histórica de comisiones", "Marco regulatorio CONSAR", "Comparativo internacional", "Impacto en saldo final del trabajador"],
+    "dataSources": ["CONSAR"],
+    "covered": false
+  },
+  {
+    "id": "pensiones-bienestar-complementariedad",
+    "title": "Pensión del Bienestar y SAR: complementariedad o sustitución",
+    "category": "pensiones",
+    "description": "Análisis de la interacción entre la pensión universal no contributiva y el sistema contributivo de ahorro para el retiro.",
+    "keyPoints": ["Cobertura de pensión no contributiva", "Desincentivos al ahorro formal", "Costo fiscal proyectado", "Modelos internacionales de pilares"],
+    "dataSources": ["CONSAR", "SHCP", "DOF"],
+    "covered": false
+  },
+  {
+    "id": "informalidad-laboral-mexico",
+    "title": "Informalidad laboral en México: diagnóstico estructural",
+    "category": "laboral",
+    "description": "Radiografía de la informalidad laboral mexicana: magnitud, distribución sectorial, geográfica y sus implicaciones para la seguridad social.",
+    "keyPoints": ["Tasa de informalidad por estado", "Sectores con mayor informalidad", "Perfil demográfico del trabajador informal", "Relación con cobertura de seguridad social"],
+    "dataSources": ["INEGI", "ENOE"],
+    "covered": false
+  },
+  {
+    "id": "brecha-salarial-genero",
+    "title": "Brecha salarial de género en el mercado laboral mexicano",
+    "category": "laboral",
+    "description": "Cuantificación y descomposición de la brecha salarial entre hombres y mujeres, controlando por sector, educación y experiencia.",
+    "keyPoints": ["Brecha bruta vs ajustada", "Variación por sector y nivel educativo", "Evolución temporal", "Comparativo con OCDE"],
+    "dataSources": ["INEGI", "ENOE", "IMSS"],
+    "covered": false
+  },
+  {
+    "id": "empleo-juvenil-ninis",
+    "title": "Empleo juvenil y el fenómeno NiNi en México",
+    "category": "laboral",
+    "description": "Análisis de la situación laboral de jóvenes de 15 a 29 años que no estudian ni trabajan, factores determinantes y políticas públicas.",
+    "keyPoints": ["Magnitud del fenómeno NiNi", "Distribución por género y región", "Causas estructurales", "Políticas de inserción laboral"],
+    "dataSources": ["INEGI", "ENOE", "SEP"],
+    "covered": false
+  },
+  {
+    "id": "automatizacion-empleo-mexico",
+    "title": "Automatización y futuro del empleo en México",
+    "category": "laboral",
+    "description": "Estimación de empleos en riesgo de automatización por sector y ocupación, con enfoque en la estructura productiva mexicana.",
+    "keyPoints": ["Ocupaciones con mayor riesgo", "Sectores más vulnerables", "Comparación con economías similares", "Habilidades requeridas para transición"],
+    "dataSources": ["INEGI", "OCDE"],
+    "covered": false
+  },
+  {
+    "id": "salario-minimo-efectos",
+    "title": "Efectos de los incrementos al salario mínimo 2019-2025",
+    "category": "laboral",
+    "description": "Evaluación del impacto de la política de recuperación del salario mínimo en empleo formal, informalidad y distribución del ingreso.",
+    "keyPoints": ["Evolución real del salario mínimo", "Efecto en empleo formal e informal", "Impacto en distribución del ingreso", "Zona Libre de la Frontera Norte"],
+    "dataSources": ["CONASAMI", "INEGI", "IMSS"],
+    "covered": false
+  },
+  {
+    "id": "migracion-mercado-laboral",
+    "title": "Migración y mercado laboral: flujos, remesas e impacto",
+    "category": "laboral",
+    "description": "Análisis del impacto de los flujos migratorios en el mercado laboral mexicano, incluyendo remesas y su efecto en comunidades de origen.",
+    "keyPoints": ["Flujos migratorios recientes", "Remesas como porcentaje del PIB", "Impacto en mercados laborales locales", "Migración de retorno"],
+    "dataSources": ["Banxico", "INEGI", "CONAPO"],
+    "covered": false
+  },
+  {
+    "id": "datos-abiertos-gobierno-mexico",
+    "title": "Estado de los datos abiertos gubernamentales en México",
+    "category": "datos",
+    "description": "Evaluación de la calidad, accesibilidad y uso de los datos abiertos publicados por instituciones del gobierno mexicano.",
+    "keyPoints": ["Portales de datos abiertos", "Calidad y actualización", "Estándares de publicación", "Comparativo internacional"],
+    "dataSources": ["INAI", "datos.gob.mx"],
+    "covered": false
+  },
+  {
+    "id": "infraestructura-estadistica-inegi",
+    "title": "La infraestructura estadística de INEGI: fortalezas y retos",
+    "category": "datos",
+    "description": "Análisis de las capacidades del sistema estadístico nacional, sus encuestas clave y áreas de oportunidad en la era digital.",
+    "keyPoints": ["Encuestas y censos principales", "Frecuencia y cobertura", "Modernización digital", "Autonomía institucional"],
+    "dataSources": ["INEGI"],
+    "covered": false
+  },
+  {
+    "id": "pipelines-datos-sector-publico",
+    "title": "Pipelines de datos para el sector público: mejores prácticas",
+    "category": "datos",
+    "description": "Guía de arquitectura y mejores prácticas para construir pipelines de datos robustos en instituciones gubernamentales mexicanas.",
+    "keyPoints": ["Arquitectura de datos moderna", "ETL vs ELT", "Gobernanza de datos", "Casos de uso en gobierno"],
+    "dataSources": ["OCDE", "BID"],
+    "covered": false
+  },
+  {
+    "id": "indicadores-bienestar-alternativo",
+    "title": "Más allá del PIB: indicadores alternativos de bienestar en México",
+    "category": "datos",
+    "description": "Exploración de métricas alternativas al PIB para medir el bienestar de la población mexicana, incluyendo índices multidimensionales.",
+    "keyPoints": ["Índice de Desarrollo Humano México", "Medición multidimensional de pobreza", "Bienestar subjetivo", "Indicadores de sostenibilidad"],
+    "dataSources": ["CONEVAL", "INEGI", "PNUD"],
+    "covered": false
+  },
+  {
+    "id": "microdatos-inegi-analisis",
+    "title": "Guía práctica: trabajar con microdatos de INEGI",
+    "category": "datos",
+    "description": "Tutorial técnico sobre cómo acceder, procesar y analizar microdatos de las principales encuestas de INEGI.",
+    "keyPoints": ["Acceso a microdatos", "Formatos y estructuras", "Factores de expansión", "Herramientas de análisis"],
+    "dataSources": ["INEGI"],
+    "covered": false
+  },
+  {
+    "id": "fintech-inclusion-financiera",
+    "title": "Fintech e inclusión financiera en México",
+    "category": "datos",
+    "description": "Análisis del ecosistema fintech mexicano y su contribución a la inclusión financiera, con datos de la CNBV y Banxico.",
+    "keyPoints": ["Ecosistema fintech en México", "Regulación (Ley Fintech)", "Inclusión financiera digital", "CoDi y pagos digitales"],
+    "dataSources": ["CNBV", "Banxico", "INEGI"],
+    "covered": false
+  }
+]
