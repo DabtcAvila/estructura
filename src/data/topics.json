@@ -15,7 +15,9 @@
     "description": "Análisis de la población sin acceso al sistema de ahorro para el retiro, factores demográficos y geográficos que determinan la exclusión.",
     "keyPoints": ["Porcentaje de PEA sin cuenta AFORE activa", "Distribución por estado y sector", "Género y brecha pensionaria", "Proyecciones de cobertura"],
     "dataSources": ["CONSAR", "INEGI"],
-    "covered": false
+    "covered": true,
+    "publishedDate": "2026-04-20",
+    "publishedSlug": "brecha-cobertura-pensionaria-mexico-2026"
   },
   {
     "id": "reforma-pensiones-2020-impacto",
