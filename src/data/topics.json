@@ -64,7 +64,9 @@
     "description": "Cuantificación y descomposición de la brecha salarial entre hombres y mujeres, controlando por sector, educación y experiencia.",
     "keyPoints": ["Brecha bruta vs ajustada", "Variación por sector y nivel educativo", "Evolución temporal", "Comparativo con OCDE"],
     "dataSources": ["INEGI", "ENOE", "IMSS"],
-    "covered": false
+    "covered": true,
+    "publishedDate": "2026-04-20",
+    "publishedSlug": "brecha-salarial-genero-mexico-2026"
   },
   {
     "id": "empleo-juvenil-ninis",
