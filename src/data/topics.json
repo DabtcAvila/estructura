@@ -107,7 +107,9 @@
     "description": "Evaluación de la calidad, accesibilidad y uso de los datos abiertos publicados por instituciones del gobierno mexicano.",
     "keyPoints": ["Portales de datos abiertos", "Calidad y actualización", "Estándares de publicación", "Comparativo internacional"],
     "dataSources": ["INAI", "datos.gob.mx"],
-    "covered": false
+    "covered": true,
+    "publishedDate": "2026-04-20",
+    "publishedSlug": "datos-abiertos-mexico-nuevo-marco-retos-2026"
   },
   {
     "id": "infraestructura-estadistica-inegi",
