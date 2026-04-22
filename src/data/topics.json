@@ -51,7 +51,9 @@
     "description": "Radiografía de la informalidad laboral mexicana: magnitud, distribución sectorial, geográfica y sus implicaciones para la seguridad social.",
     "keyPoints": ["Tasa de informalidad por estado", "Sectores con mayor informalidad", "Perfil demográfico del trabajador informal", "Relación con cobertura de seguridad social"],
     "dataSources": ["INEGI", "ENOE"],
-    "covered": false
+    "covered": true,
+    "publishedDate": "2026-04-22",
+    "publishedSlug": "informalidad-laboral-mexico-2026"
   },
   {
     "id": "brecha-salarial-genero",
