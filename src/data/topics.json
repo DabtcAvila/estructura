@@ -26,7 +26,9 @@
     "description": "Evaluación del impacto de la reforma que incrementó aportaciones patronales y redujo semanas de cotización mínimas para acceder a pensión.",
     "keyPoints": ["Incremento gradual de aportaciones", "Efecto en tasas de reemplazo", "Reducción de semanas de cotización", "Impacto fiscal"],
     "dataSources": ["CONSAR", "SHCP"],
-    "covered": false
+    "covered": true,
+    "publishedDate": "2026-04-25",
+    "publishedSlug": "reforma-pensiones-2020-impacto-cinco-anos"
   },
   {
     "id": "comisiones-afores-tendencia",
