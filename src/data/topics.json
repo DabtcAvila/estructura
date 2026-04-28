@@ -126,7 +126,9 @@
     "description": "Análisis de las capacidades del sistema estadístico nacional, sus encuestas clave y áreas de oportunidad en la era digital.",
     "keyPoints": ["Encuestas y censos principales", "Frecuencia y cobertura", "Modernización digital", "Autonomía institucional"],
     "dataSources": ["INEGI"],
-    "covered": false
+    "covered": true,
+    "publishedDate": "2026-04-28",
+    "publishedSlug": "inegi-infraestructura-estadistica-2026"
   },
   {
     "id": "pipelines-datos-sector-publico",
