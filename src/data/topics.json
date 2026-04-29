@@ -6,7 +6,9 @@
     "description": "Evaluación de rendimientos netos de comisiones de las principales AFORES, comparando desempeño por tipo de SIEFORE y horizonte de inversión.",
     "keyPoints": ["Rendimientos por SIEFORE generacional", "Comparativo entre administradoras", "Impacto de comisiones en rendimiento neto", "Rendimiento real vs inflación"],
     "dataSources": ["CONSAR", "Banxico"],
-    "covered": false
+    "covered": true,
+    "publishedDate": "2026-04-29",
+    "publishedSlug": "rendimientos-reales-afores-2020-2024"
   },
   {
     "id": "cobertura-pensionaria-mexico",
