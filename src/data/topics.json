@@ -39,7 +39,9 @@
     "description": "Trayectoria de las comisiones cobradas por las AFORES, efecto regulatorio y comparación internacional.",
     "keyPoints": ["Tendencia histórica de comisiones", "Marco regulatorio CONSAR", "Comparativo internacional", "Impacto en saldo final del trabajador"],
     "dataSources": ["CONSAR"],
-    "covered": false
+    "covered": true,
+    "publishedDate": "2026-04-30",
+    "publishedSlug": "comisiones-afore-trayectoria-2008-2026"
   },
   {
     "id": "pensiones-bienestar-complementariedad",
