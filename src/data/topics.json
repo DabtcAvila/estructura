@@ -92,7 +92,9 @@
     "description": "Estimación de empleos en riesgo de automatización por sector y ocupación, con enfoque en la estructura productiva mexicana.",
     "keyPoints": ["Ocupaciones con mayor riesgo", "Sectores más vulnerables", "Comparación con economías similares", "Habilidades requeridas para transición"],
     "dataSources": ["INEGI", "OCDE"],
-    "covered": false
+    "covered": true,
+    "publishedDate": "2026-05-01",
+    "publishedSlug": "automatizacion-empleo-mexico-2026"
   },
   {
     "id": "salario-minimo-efectos",
