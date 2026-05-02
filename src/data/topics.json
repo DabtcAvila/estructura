@@ -152,7 +152,9 @@
     "description": "Exploración de métricas alternativas al PIB para medir el bienestar de la población mexicana, incluyendo índices multidimensionales.",
     "keyPoints": ["Índice de Desarrollo Humano México", "Medición multidimensional de pobreza", "Bienestar subjetivo", "Indicadores de sostenibilidad"],
     "dataSources": ["CONEVAL", "INEGI", "PNUD"],
-    "covered": false
+    "covered": true,
+    "publishedDate": "2026-05-02",
+    "publishedSlug": "indicadores-bienestar-mexico-mas-alla-pib-2026"
   },
   {
     "id": "microdatos-inegi-analisis",
