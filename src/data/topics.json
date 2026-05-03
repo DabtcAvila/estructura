@@ -50,7 +50,9 @@
     "description": "Análisis de la interacción entre la pensión universal no contributiva y el sistema contributivo de ahorro para el retiro.",
     "keyPoints": ["Cobertura de pensión no contributiva", "Desincentivos al ahorro formal", "Costo fiscal proyectado", "Modelos internacionales de pilares"],
     "dataSources": ["CONSAR", "SHCP", "DOF"],
-    "covered": false
+    "covered": true,
+    "publishedDate": "2026-05-03",
+    "publishedSlug": "pension-bienestar-sar-complementariedad-sustitucion-2026"
   },
   {
     "id": "informalidad-laboral-mexico",
