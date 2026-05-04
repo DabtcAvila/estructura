@@ -105,7 +105,9 @@
     "description": "Evaluación del impacto de la política de recuperación del salario mínimo en empleo formal, informalidad y distribución del ingreso.",
     "keyPoints": ["Evolución real del salario mínimo", "Efecto en empleo formal e informal", "Impacto en distribución del ingreso", "Zona Libre de la Frontera Norte"],
     "dataSources": ["CONASAMI", "INEGI", "IMSS"],
-    "covered": false
+    "covered": true,
+    "publishedDate": "2026-05-04",
+    "publishedSlug": "salario-minimo-mexico-recuperacion-balance-2019-2026"
   },
   {
     "id": "migracion-mercado-laboral",
