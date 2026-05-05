@@ -176,6 +176,8 @@
     "description": "Análisis del ecosistema fintech mexicano y su contribución a la inclusión financiera, con datos de la CNBV y Banxico.",
     "keyPoints": ["Ecosistema fintech en México", "Regulación (Ley Fintech)", "Inclusión financiera digital", "CoDi y pagos digitales"],
     "dataSources": ["CNBV", "Banxico", "INEGI"],
-    "covered": false
+    "covered": true,
+    "publishedDate": "2026-05-05",
+    "publishedSlug": "fintech-inclusion-financiera-mexico-2026"
   }
 ]
