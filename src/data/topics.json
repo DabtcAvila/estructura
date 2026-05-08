@@ -169,7 +169,9 @@
     "description": "Tutorial técnico sobre cómo acceder, procesar y analizar microdatos de las principales encuestas de INEGI.",
     "keyPoints": ["Acceso a microdatos", "Formatos y estructuras", "Factores de expansión", "Herramientas de análisis"],
     "dataSources": ["INEGI"],
-    "covered": false
+    "covered": true,
+    "publishedDate": "2026-05-08",
+    "publishedSlug": "microdatos-inegi-arquitectura-acceso-2026"
   },
   {
     "id": "fintech-inclusion-financiera",
