@@ -149,7 +149,9 @@
     "description": "Guía de arquitectura y mejores prácticas para construir pipelines de datos robustos en instituciones gubernamentales mexicanas.",
     "keyPoints": ["Arquitectura de datos moderna", "ETL vs ELT", "Gobernanza de datos", "Casos de uso en gobierno"],
     "dataSources": ["OCDE", "BID"],
-    "covered": false
+    "covered": true,
+    "publishedDate": "2026-05-09",
+    "publishedSlug": "pipelines-datos-sector-publico-mexico-2026"
   },
   {
     "id": "indicadores-bienestar-alternativo",
