@@ -116,7 +116,9 @@
     "description": "Análisis del impacto de los flujos migratorios en el mercado laboral mexicano, incluyendo remesas y su efecto en comunidades de origen.",
     "keyPoints": ["Flujos migratorios recientes", "Remesas como porcentaje del PIB", "Impacto en mercados laborales locales", "Migración de retorno"],
     "dataSources": ["Banxico", "INEGI", "CONAPO"],
-    "covered": false
+    "covered": true,
+    "publishedDate": "2026-05-09",
+    "publishedSlug": "migracion-remesas-mercado-laboral-mexico-2024-2026"
   },
   {
     "id": "datos-abiertos-gobierno-mexico",
