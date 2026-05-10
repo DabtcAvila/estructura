@@ -185,5 +185,16 @@
     "covered": true,
     "publishedDate": "2026-05-05",
     "publishedSlug": "fintech-inclusion-financiera-mexico-2026"
+  },
+  {
+    "id": "ahorro-voluntario-sar",
+    "title": "Ahorro voluntario en el SAR: trayectoria, barreras y agenda regulatoria",
+    "category": "pensiones",
+    "description": "Diagnóstico del ahorro voluntario en el Sistema de Ahorro para el Retiro: penetración, marco fiscal, canales digitales y los retos para complementar las pensiones obligatorias.",
+    "keyPoints": ["Saldo y crecimiento del ahorro voluntario", "Penetración entre titulares de cuenta", "Régimen fiscal y deducibilidad", "Canales digitales y minoristas", "Política Nacional de Inclusión Financiera 2025-2030"],
+    "dataSources": ["CONSAR", "INEGI", "ENIF", "CIEP", "SAT", "OCDE", "AMAFORE", "CNBV"],
+    "covered": true,
+    "publishedDate": "2026-05-10",
+    "publishedSlug": "ahorro-voluntario-sar-mexico-2026"
   }
 ]
