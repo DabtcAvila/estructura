@@ -196,5 +196,16 @@
     "covered": true,
     "publishedDate": "2026-05-10",
     "publishedSlug": "ahorro-voluntario-sar-mexico-2026"
+  },
+  {
+    "id": "jornada-laboral-40-horas",
+    "title": "Reforma de la jornada laboral a 40 horas en México: la transición 2026-2030",
+    "category": "laboral",
+    "description": "Análisis de la reforma constitucional al artículo 123 que reduce la jornada semanal de 48 a 40 horas, su calendario, costos sectoriales y el comparativo con Chile.",
+    "keyPoints": ["Cronología legislativa y publicación en DOF", "Calendario gradual 2026-2030", "Rezago en horas trabajadas vs OCDE", "Impacto sectorial y costos para empresas", "Riesgo de informalidad y registro electrónico de jornada", "Referencia chilena Ley N° 21.561"],
+    "dataSources": ["DOF", "STPS", "INEGI", "OCDE", "Senado", "Cámara de Diputados", "Deloitte"],
+    "covered": true,
+    "publishedDate": "2026-05-11",
+    "publishedSlug": "jornada-laboral-40-horas-mexico-transicion-2026-2030"
   }
 ]
