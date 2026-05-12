@@ -207,5 +207,16 @@
     "covered": true,
     "publishedDate": "2026-05-11",
     "publishedSlug": "jornada-laboral-40-horas-mexico-transicion-2026-2030"
+  },
+  {
+    "id": "enigh-2024-ingreso-gasto-desigualdad",
+    "title": "ENIGH 2024: ingreso, gasto y desigualdad en los hogares mexicanos",
+    "category": "datos",
+    "description": "Lectura analítica de la ENIGH 2024 publicada por el INEGI en julio de 2025: crecimiento del ingreso de los hogares, mínimo histórico del coeficiente de Gini, recomposición de las transferencias y persistencia de la brecha rural-urbana, en el contexto de la nueva atribución del INEGI para medir la pobreza multidimensional.",
+    "keyPoints": ["Diseño muestral y cobertura del levantamiento 2024", "Crecimiento del ingreso laboral y de las transferencias", "Coeficiente de Gini en 0.391 y rol redistributivo de transferencias", "Brecha rural-urbana y heterogeneidad estatal", "Estructura del gasto por deciles", "Transferencia de la medición de pobreza al INEGI"],
+    "dataSources": ["INEGI", "CONEVAL", "IMCO", "México ¿Cómo Vamos?", "CIEP", "SNIEG"],
+    "covered": true,
+    "publishedDate": "2026-05-12",
+    "publishedSlug": "enigh-2024-ingreso-gasto-desigualdad-hogares-mexico"
   }
 ]
