@@ -218,5 +218,16 @@
     "covered": true,
     "publishedDate": "2026-05-12",
     "publishedSlug": "enigh-2024-ingreso-gasto-desigualdad-hogares-mexico"
+  },
+  {
+    "id": "plataformas-digitales-reforma-balance",
+    "title": "Reforma de plataformas digitales: balance de la prueba piloto del IMSS",
+    "category": "laboral",
+    "description": "Análisis de la reforma a la LFT en materia de plataformas digitales publicada en diciembre de 2024, la prueba piloto del IMSS de julio a diciembre de 2025 y las tensiones del esquema binario de cobertura.",
+    "keyPoints": ["Capítulo IX Bis de la LFT y umbral de ingreso", "Reglas Generales del Consejo Técnico del IMSS", "Padrón acumulado y cobertura plena en el piloto", "Efecto del salario mínimo 2026 sobre el umbral", "Composición sectorial: movilidad vs reparto", "Agenda 2026: inspecciones STPS e iniciativa pendiente"],
+    "dataSources": ["DOF", "IMSS", "STPS", "Cámara de Diputados", "OIT", "CEPAL", "INEGI"],
+    "covered": true,
+    "publishedDate": "2026-05-13",
+    "publishedSlug": "reforma-plataformas-digitales-balance-prueba-piloto-imss-2026"
   }
 ]
