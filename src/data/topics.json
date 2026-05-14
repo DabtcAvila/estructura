@@ -229,5 +229,16 @@
     "covered": true,
     "publishedDate": "2026-05-13",
     "publishedSlug": "reforma-plataformas-digitales-balance-prueba-piloto-imss-2026"
+  },
+  {
+    "id": "siefores-generacionales-balance-ciclo-vida",
+    "title": "SIEFOREs generacionales: balance del modelo de ciclo de vida a seis años",
+    "category": "pensiones",
+    "description": "Análisis del modelo target date adoptado por el SAR mexicano en diciembre de 2019: diseño del glide path, actualización del régimen de inversión de 2024, desempeño medido por el IRN y retos pendientes.",
+    "keyPoints": ["Transición de 5 SIEFOREs Básicas a 10 Generacionales", "Cohortes quinquenales por año de nacimiento y glide path", "Actualización del régimen de inversión del 25 de octubre de 2024", "Cartera observada vs límites regulatorios", "IRN y dispersión de rendimientos entre Afores en 2026", "Comparativos con Estados Unidos y Chile, tensiones de cobertura y desacumulación"],
+    "dataSources": ["CONSAR", "AMAFORE", "DOF", "Superintendencia de Pensiones de Chile", "OCDE", "Condusef"],
+    "covered": true,
+    "publishedDate": "2026-05-14",
+    "publishedSlug": "siefores-generacionales-balance-ciclo-vida-2026"
   }
 ]
