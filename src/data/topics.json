@@ -240,5 +240,16 @@
     "covered": true,
     "publishedDate": "2026-05-14",
     "publishedSlug": "siefores-generacionales-balance-ciclo-vida-2026"
+  },
+  {
+    "id": "reforma-subcontratacion-balance-cinco-anos",
+    "title": "Reforma a la subcontratación: balance estructural a cinco años de su entrada en vigor",
+    "category": "laboral",
+    "description": "Balance a cinco años del decreto del 23 de abril de 2021 que reformó la LFT en materia de subcontratación: arquitectura del REPSE, migración al patrón real, evidencia censal de los Censos Económicos 2024, jurisprudencia del tope a la PTU y agenda 2026-2030.",
+    "keyPoints": ["Decreto DOF 23-abr-2021 y modificaciones a LFT, LSS, INFONAVIT y régimen fiscal", "Migración de 2.745 millones de trabajadores al patrón real reportada por el IMSS", "Caída de 89.4% del personal subcontratado entre 2018 y 2023 según los Censos Económicos 2024", "Consolidación del REPSE, ICSOE y SISUB como instrumentos de control", "Sentencia SCJN AR 633/2023 sobre la constitucionalidad del tope a la PTU", "Renovación trienal del REPSE y agenda de inspección 2025-2030"],
+    "dataSources": ["DOF", "IMSS", "STPS", "INEGI", "SCJN", "IMCO", "CEPAL/OIT"],
+    "covered": true,
+    "publishedDate": "2026-05-15",
+    "publishedSlug": "reforma-subcontratacion-balance-cinco-anos-mexico-2026"
   }
 ]
