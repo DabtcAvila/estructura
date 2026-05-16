@@ -251,5 +251,16 @@
     "covered": true,
     "publishedDate": "2026-05-15",
     "publishedSlug": "reforma-subcontratacion-balance-cinco-anos-mexico-2026"
+  },
+  {
+    "id": "pobreza-multidimensional-2024-primera-medicion-inegi",
+    "title": "Pobreza multidimensional 2024: la primera medición del INEGI tras la extinción del CONEVAL",
+    "category": "datos",
+    "description": "Análisis del primer ejercicio de medición de la pobreza multidimensional realizado por el INEGI con base en la ENIGH 2024, tras la reforma constitucional del 20 de diciembre de 2024 y la entrada en vigor de las leyes secundarias el 17 de julio de 2025 que extinguieron el CONEVAL.",
+    "keyPoints": ["Reforma constitucional DOF 20-dic-2024 y leyes secundarias 17-jul-2025", "Continuidad metodológica con la serie CONEVAL 2016-2022", "Caída de la pobreza multidimensional de 36.3% a 29.6% entre 2022 y 2024", "Pobreza extrema en 5.3% y descenso a 7.0 millones de personas", "Reducción de las seis carencias sociales con especial caída en servicios de salud", "Crecimiento de la población vulnerable por carencias sociales a 32.2%", "Patrón estatal con Chiapas, Guerrero y Oaxaca en el extremo alto", "Papel de las transferencias monetarias y de las líneas de pobreza por ingresos"],
+    "dataSources": ["INEGI", "CONEVAL", "DOF", "ENIGH", "SNIEG", "BBVA Research", "México ¿Cómo Vamos?"],
+    "covered": true,
+    "publishedDate": "2026-05-16",
+    "publishedSlug": "pobreza-multidimensional-2024-primera-medicion-inegi"
   }
 ]
