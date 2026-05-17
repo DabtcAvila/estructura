@@ -262,5 +262,16 @@
     "covered": true,
     "publishedDate": "2026-05-16",
     "publishedSlug": "pobreza-multidimensional-2024-primera-medicion-inegi"
+  },
+  {
+    "id": "fondo-pensiones-bienestar-balance-dos-anos",
+    "title": "Fondo de Pensiones para el Bienestar: balance de la operación a dos años de su creación",
+    "category": "pensiones",
+    "description": "Análisis del FPB a dos años de su entrada en vigor: arquitectura fiduciaria como fideicomiso público de SHCP-Banxico, fuentes de financiamiento, dos ciclos de transferencias del SAR, brecha entre complementos pagados y devoluciones, y litigio constitucional pendiente ante la SCJN.",
+    "keyPoints": ["Decreto DOF 30-abr-2024 y entrada en vigor el 1 de mayo de 2024", "Estructura de fideicomiso público con SHCP fideicomitente y Banxico fiduciario", "Aportaciones 2024 por 44,833 mdp (70% de lo proyectado) y segunda transferencia 2025 por 5,061 mdp", "Patrimonio del fondo de 47,426 mdp al 30 de mayo de 2025", "Composición de egresos: ~96% devoluciones y <4% complementos en 2024", "Crecimiento del padrón de 268 a 3,236 beneficiarios entre julio de 2024 y abril de 2025", "Estimación CEFP de 35.4 mil mdp en fuentes alternas y riesgo CIEP de agotamiento antes de 2038", "Acción de inconstitucionalidad 116/2024 y amparos del Poder Judicial Federal"],
+    "dataSources": ["DOF", "CONSAR", "Banco de México", "CIEP", "IMCO", "CEFP", "IMSS", "SCJN", "AMAFORE"],
+    "covered": true,
+    "publishedDate": "2026-05-17",
+    "publishedSlug": "fondo-pensiones-bienestar-balance-dos-anos-creacion-2026"
   }
 ]
