@@ -273,5 +273,16 @@
     "covered": true,
     "publishedDate": "2026-05-17",
     "publishedSlug": "fondo-pensiones-bienestar-balance-dos-anos-creacion-2026"
+  },
+  {
+    "id": "participacion-laboral-femenina-arquitectura-cuidados-2026",
+    "title": "Participación laboral femenina en México: estancamiento estructural y arquitectura de cuidados en 2026",
+    "category": "laboral",
+    "description": "Diagnóstico del estancamiento de la participación laboral femenina con base en ENOE 2025-2026, ENUT 2024, la Cuenta Satélite del Trabajo No Remunerado de los Hogares y el Anexo Transversal 31 del PEF 2026, en contraste con las referencias OCDE y América Latina.",
+    "keyPoints": ["TPL femenina cercana a 46% y brecha de 28.6 puntos porcentuales frente a hombres", "Comparativo con OCDE (67.1%) y América Latina (52.1%) en el Employment Outlook 2025", "ENUT 2024: 21.5 horas semanales de diferencia en trabajo no remunerado entre mujeres y hombres", "Cuenta Satélite: valor del trabajo no remunerado equivalente al 23.9% del PIB", "Penalización por maternidad mayor en niveles educativos altos e informalidad del 55.9% en mujeres ocupadas", "Anexo Transversal 31 del PEF 2026 por 466 mil mdp y caída de 18.6% en programas con objetivos directos de cuidado"],
+    "dataSources": ["INEGI", "ENOE", "ENUT", "OCDE", "IMCO", "CIEP", "SHCP", "Banco Mundial", "SOMEDE"],
+    "covered": true,
+    "publishedDate": "2026-05-18",
+    "publishedSlug": "participacion-laboral-femenina-mexico-arquitectura-cuidados-2026"
   }
 ]
