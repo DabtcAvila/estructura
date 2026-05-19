@@ -284,5 +284,16 @@
     "covered": true,
     "publishedDate": "2026-05-18",
     "publishedSlug": "participacion-laboral-femenina-mexico-arquitectura-cuidados-2026"
+  },
+  {
+    "id": "issste-pensionissste-cuentas-individuales-balance-2026",
+    "title": "ISSSTE y PENSIONISSSTE: balance del régimen de cuentas individuales a 19 años de la reforma de 2007",
+    "category": "pensiones",
+    "description": "Diagnóstico del régimen contributivo del ISSSTE y de PENSIONISSSTE a 19 años de la reforma de 2007: dualidad con el Décimo Transitorio, comisión de 0.52% en 2026, Remanente de Operación, peso del Apoyo a Pensiones del ISSSTE en el PEF 2026 y articulación con el Fondo de Pensiones para el Bienestar.",
+    "keyPoints": ["Ley del ISSSTE DOF 31-mar-2007 y división entre Régimen de Cuentas Individuales y Décimo Transitorio", "Bono de Pensión calculado al 31 de diciembre de 2007 y administrado en PENSIONISSSTE o Afore privada", "Padrón ISSSTE 2024: 13.9 millones de derechohabientes, 3.2 millones de trabajadores activos y 1.3 millones de pensionados", "PENSIONISSSTE: comisión 0.52% en 2026 y promedio del sistema en 0.538%", "Remanente de Operación 2025 por 1,125 mdp a 1.06 millones de cuentahabientes", "Apoyos a Pensiones del ISSSTE en PEF 2026 por 390 mil mdp (1.0% del PIB) con contracción real estimada de 2.3% por CIEP", "Interacción con el Fondo de Pensiones para el Bienestar (DOF 1-may-2024) y tope referido al salario promedio IMSS de 17,364 pesos", "Pico proyectado de jubilaciones del Décimo Transitorio entre 2030 y 2040"],
+    "dataSources": ["DOF", "CONSAR", "ISSSTE", "PENSIONISSSTE", "SHCP", "CIEP", "OCDE"],
+    "covered": true,
+    "publishedDate": "2026-05-19",
+    "publishedSlug": "issste-pensionissste-cuentas-individuales-balance-2026"
   }
 ]
