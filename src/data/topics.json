@@ -295,5 +295,16 @@
     "covered": true,
     "publishedDate": "2026-05-19",
     "publishedSlug": "issste-pensionissste-cuentas-individuales-balance-2026"
+  },
+  {
+    "id": "reforma-laboral-2019-democracia-sindical-balance-2026",
+    "title": "Reforma laboral de 2019: balance de la democracia sindical y la nueva justicia laboral a siete años",
+    "category": "laboral",
+    "description": "Diagnóstico a siete años del decreto del 1 de mayo de 2019: legitimación de contratos colectivos, transición a tribunales laborales, operación del CFCRL, evolución del Mecanismo Laboral de Respuesta Rápida del T-MEC y comportamiento de la sindicalización.",
+    "keyPoints": ["Decreto DOF 1-may-2019 que reformó LFT, Ley Orgánica del PJF, Ley Federal de Defensoría Pública, INFONAVIT y Ley del Seguro Social", "Tres etapas de implementación: 18-nov-2020, 1-oct-2021 y 3-oct-2022 con tribunales laborales y centros de conciliación", "Cierre del plazo de legitimación de contratos colectivos el 1-may-2023 con 27,336 legitimados, 596 terminados y 6.4 millones de personas trabajadoras participantes", "CFCRL: más de 513 mil conciliaciones federales acumuladas a 2025, 91 mil mdp recuperados y 75% de índice de conciliación", "MLRR del T-MEC: 38 invocaciones acumuladas a julio de 2025, concentración en cadenas de exportación y caso GM Silao 2022 como precedente", "Estabilidad de la tasa de sindicalización entre 22.33% (1T 2019) y 22.42% (1T 2024) según ENOE", "Saturación operativa documentada en 2024-2025 y agenda hacia la revisión del T-MEC 2026"],
+    "dataSources": ["DOF", "STPS", "CFCRL", "INEGI", "ENOE", "DOL", "OIT", "Banco de México"],
+    "covered": true,
+    "publishedDate": "2026-05-21",
+    "publishedSlug": "reforma-laboral-2019-democracia-sindical-balance-2026"
   }
 ]
