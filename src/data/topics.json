@@ -306,5 +306,16 @@
     "covered": true,
     "publishedDate": "2026-05-21",
     "publishedSlug": "reforma-laboral-2019-democracia-sindical-balance-2026"
+  },
+  {
+    "id": "censos-economicos-2024-radiografia-estructura-productiva",
+    "title": "Censos Económicos 2024: la nueva radiografía de la estructura productiva mexicana",
+    "category": "datos",
+    "description": "Análisis de los resultados definitivos de los Censos Económicos 2024 del INEGI publicados el 24 de julio de 2025: tamaño y composición del aparato productivo, recomposición sectorial 2018-2023, concentración geográfica, avance de la informalidad y novedades metodológicas.",
+    "keyPoints": ["Levantamiento febrero-agosto 2024 y publicación de resultados oportunos en enero 2025 y definitivos en julio 2025 (comunicado 79/25)", "5.47 millones de unidades económicas y 27.97 millones de personas ocupadas en sector privado y paraestatal con año de referencia 2023", "Valor Agregado Censal Bruto de 15.67 billones de pesos, +21.9% real respecto a 2018", "95.4% microempresas concentran 41.4% del personal y solo 16.1% del VACB; grandes empresas generan 54.3% del VACB", "Recomposición sectorial: manufactura sube de 32.0% a 34.3% del VACB y comercio de 21.4% a 23.5%", "Concentración geográfica: CDMX, Nuevo León, Estado de México, Jalisco y Guanajuato suman cerca de 50% del VACB", "Unidades informales pasan de 62.6% a 64.3% del total entre 2018 y 2023", "Inclusión del módulo de discapacidad con cerca de 101 mil unidades económicas identificadas"],
+    "dataSources": ["INEGI", "SNIEG", "SAIC", "México ¿Cómo Vamos?"],
+    "covered": true,
+    "publishedDate": "2026-05-22",
+    "publishedSlug": "censos-economicos-2024-radiografia-estructura-productiva-mexico"
   }
 ]
