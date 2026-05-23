@@ -317,5 +317,16 @@
     "covered": true,
     "publishedDate": "2026-05-22",
     "publishedSlug": "censos-economicos-2024-radiografia-estructura-productiva-mexico"
+  },
+  {
+    "id": "retiros-desempleo-sar-record-2025",
+    "title": "Retiros por desempleo del SAR: el récord de 2025 y su costo pensionario",
+    "category": "pensiones",
+    "description": "Análisis del máximo histórico de retiros parciales por desempleo de las Afores en 2025, su origen en la gestoría irregular pese al desempleo en mínimos, el descuento de semanas de cotización y la reforma al artículo 191 de la Ley del Seguro Social.",
+    "keyPoints": ["Récord de 39,118 millones de pesos retirados por desempleo en 2025 según CONSAR, +26% anual", "1,944,402 operaciones en 2025, segundo año más alto en número tras el récord de 2021 que reporta AMAFORE", "Marco legal del artículo 191 de la LSS: modalidades A y B, requisito de 46 días y tope de 10 UMA", "Paradoja de récord de retiros con desocupación de 2.5% en el cuarto trimestre de 2025 según la ENOE", "CONSAR estima que 68.8% del monto se origina en falsos gestores que simulan altas con salario inflado", "Descuento de semanas de cotización del artículo 198 frente al umbral que escala de 825 en 2024 a 1,000 en 2031", "Concentración por administradora: Coppel y Azteca con los mayores saldos al cierre de 2024", "Reforma al artículo 191 aprobada por unanimidad en Diputados el 23 de junio de 2025 y pendiente en el Senado"],
+    "dataSources": ["CONSAR", "AMAFORE", "Cámara de Diputados", "DOF", "INEGI", "ENOE"],
+    "covered": true,
+    "publishedDate": "2026-05-23",
+    "publishedSlug": "retiros-desempleo-afore-sar-record-2025"
   }
 ]
