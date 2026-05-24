@@ -328,5 +328,16 @@
     "covered": true,
     "publishedDate": "2026-05-23",
     "publishedSlug": "retiros-desempleo-afore-sar-record-2025"
+  },
+  {
+    "id": "trabajo-hogar-remunerado-formalizacion-imss-2026",
+    "title": "Trabajo del hogar remunerado en México: la formalización pendiente",
+    "category": "laboral",
+    "description": "Diagnóstico de la formalización del trabajo del hogar remunerado: construcción del marco de derechos entre 2018 y 2022, magnitud del universo según la ENOE, estancamiento de la afiliación al esquema del IMSS, obstáculos operativos y comparativo regional.",
+    "keyPoints": ["Amparo Directo 9/2018 de la SCJN y programa piloto del IMSS de 2019", "Reforma a la LFT (DOF 2-jul-2019) y ratificación del Convenio 189 de la OIT en 2020", "Afiliación obligatoria con el Capítulo XI de la LSS (DOF 16-nov-2022) y sus tres modalidades", "Universo de 2.5 millones de personas con 95% de informalidad según la ENOE 3T 2023", "Estancamiento de la afiliación en torno a 59 mil titulares vigentes según el IMSS en marzo de 2026", "Barreras operativas: multiplicidad de empleadores, rotación, ingresos bajos e inviolabilidad del domicilio", "Comparativo regional con el caso de Uruguay y el panorama de la OIT en América Latina"],
+    "dataSources": ["INEGI", "ENOE", "IMSS", "SCJN", "DOF", "OIT", "IMCO", "STPS"],
+    "covered": true,
+    "publishedDate": "2026-05-24",
+    "publishedSlug": "trabajo-hogar-remunerado-mexico-formalizacion-imss-2026"
   }
 ]
