@@ -339,5 +339,16 @@
     "covered": true,
     "publishedDate": "2026-05-24",
     "publishedSlug": "trabajo-hogar-remunerado-mexico-formalizacion-imss-2026"
+  },
+  {
+    "id": "pib-mexico-2025-balance-desaceleracion",
+    "title": "PIB de México 2025: cuarto año de desaceleración y un ingreso por habitante estancado",
+    "category": "datos",
+    "description": "Balance del crecimiento económico de México en 2025: avance real de 0.8% según las cifras revisadas del INEGI, cuarto año consecutivo de desaceleración, heterogeneidad sectorial, estancamiento del PIB per cápita en niveles de 2017, factores de la desaceleración y marco macroeconómico de inflación, política monetaria y empleo formal.",
+    "keyPoints": ["Crecimiento real de 0.8% en 2025 frente a la estimación oportuna de 0.7%, el menor avance desde 2020", "Trayectoria descendente: 6.3% en 2021, 3.7% en 2022, 3.1% en 2023, 1.1% en 2024 y 0.8% en 2025", "Heterogeneidad sectorial: primarias +4.0%, terciarias +1.5% y secundarias -1.1% en el acumulado anual", "PIB per cápita en niveles de 2017 con crecimiento promedio anual de 0.1% entre 2017 y 2025", "Factores: volatilidad arancelaria de EE.UU., reglas de origen del T-MEC, caída de la inversión fija bruta y política fiscal y monetaria restrictiva", "Inflación de 3.69% al cierre de 2025, dentro del rango de Banxico por primera vez desde 2020, y tasa de referencia en 7.0%", "Creacion neta de 278,697 puestos formales del IMSS (+1.3%) y contraste de pronosticos OCDE, FMI, Banxico, Banco Mundial y SHCP"],
+    "dataSources": ["INEGI", "Banco de México", "IMSS", "FMI", "OCDE", "Banco Mundial", "SHCP", "México ¿Cómo Vamos?"],
+    "covered": true,
+    "publishedDate": "2026-05-25",
+    "publishedSlug": "pib-mexico-2025-desaceleracion-ingreso-per-capita"
   }
 ]
