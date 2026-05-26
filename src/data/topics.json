@@ -350,5 +350,16 @@
     "covered": true,
     "publishedDate": "2026-05-25",
     "publishedSlug": "pib-mexico-2025-desaceleracion-ingreso-per-capita"
+  },
+  {
+    "id": "vacaciones-dignas-balance-tres-anos-2026",
+    "title": "Vacaciones dignas: balance a tres años de la reforma laboral",
+    "category": "laboral",
+    "description": "Balance a tres años de la reforma a los artículos 76 y 78 de la LFT que duplicó el mínimo de vacaciones de 6 a 12 días: avance normativo, comparativo OCDE y Convenio 132 de la OIT, y los límites de cobertura impuestos por la informalidad y el disfrute efectivo.",
+    "keyPoints": ["Decreto DOF 27-dic-2022 y entrada en vigor el 1 de enero de 2023", "Nuevo esquema del artículo 76: piso de 12 días y 20 días al quinto año", "Prima vacacional del 25% del artículo 80 con base ampliada", "Rezago frente al Convenio 132 de la OIT (18 días) no ratificado y a la OCDE", "Informalidad de 55.0% de la población ocupada en el 4T 2025 según el INEGI", "Brecha entre el derecho y su disfrute efectivo según la encuesta OCC de julio de 2025", "Programa Sectorial de Trabajo 2025-2030 y agenda de inspección y formalización"],
+    "dataSources": ["DOF", "INEGI", "ENOE", "IMCO", "OIT", "STPS", "PROFEDET", "OCC"],
+    "covered": true,
+    "publishedDate": "2026-05-26",
+    "publishedSlug": "vacaciones-dignas-balance-tres-anos-mexico-2026"
   }
 ]
