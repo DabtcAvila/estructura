@@ -361,5 +361,16 @@
     "covered": true,
     "publishedDate": "2026-05-26",
     "publishedSlug": "vacaciones-dignas-balance-tres-anos-mexico-2026"
+  },
+  {
+    "id": "modalidad-40-imss-continuacion-voluntaria-ley-73",
+    "title": "Modalidad 40 del IMSS: la continuación voluntaria como estrategia de pensión bajo la Ley 73",
+    "category": "pensiones",
+    "description": "Análisis de la continuación voluntaria en el régimen obligatorio (Modalidad 40) como palanca para elevar la pensión de la Ley 73: marco del artículo 218 de la LSS, aritmética del beneficio definido, encarecimiento de la cuota en 2026 y sesgo regresivo del esquema.",
+    "keyPoints": ["Marco legal de los artículos 218 a 221 de la LSS y requisito de 52 semanas en los últimos cinco años", "Aritmética de la Ley 73: salario promedio de las últimas 250 semanas topado a 25 UMA y factor de edad", "Cuota de 14.438% en 2026 y trayectoria hacia 18.8% en 2030 por la reforma de 2020", "UMA 2026 en 117.31 pesos diarios y tope de cotización en 25 UMA", "Perfil de beneficiarios y sesgo regresivo del esquema", "Reglas operativas de pago y naturaleza transitoria de la Ley 73"],
+    "dataSources": ["IMSS", "CONSAR", "INEGI", "DOF", "CONASAMI"],
+    "covered": true,
+    "publishedDate": "2026-05-27",
+    "publishedSlug": "modalidad-40-imss-continuacion-voluntaria-ley-73-2026"
   }
 ]
