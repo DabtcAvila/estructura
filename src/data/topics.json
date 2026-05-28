@@ -372,5 +372,16 @@
     "covered": true,
     "publishedDate": "2026-05-27",
     "publishedSlug": "modalidad-40-imss-continuacion-voluntaria-ley-73-2026"
+  },
+  {
+    "id": "teletrabajo-nom-037-balance-tres-anos-2026",
+    "title": "Teletrabajo en México: balance de la NOM-037 a tres años de la reforma laboral",
+    "category": "laboral",
+    "description": "Análisis a tres años de la NOM-037-STPS-2023 y cinco de la reforma al capítulo XII Bis de la LFT: arquitectura legal del teletrabajo, magnitud del fenómeno, régimen de inspección y universalización del derecho a la desconexión digital aprobada por Diputados en marzo de 2026.",
+    "keyPoints": ["Reforma al artículo 311 LFT y adición del capítulo XII Bis (DOF 11-ene-2021)", "NOM-037-STPS-2023 publicada el 8 de junio y vigente desde el 5 de diciembre de 2023", "Umbral de 40% de la jornada y obligaciones del artículo 330-E sobre equipo, internet y electricidad", "Retroceso del fenómeno: 9% de teletrabajo pleno y 71% presencial según OCC 2024", "Comparativo con la UE: 22% en 2023 y Países Bajos en 52%", "Programa Anual de Inspección STPS: 32 mil en 2024 y meta de 43 mil en 2025", "Dictamen de Diputados del 3 de marzo de 2026 que universaliza el derecho a la desconexión digital"],
+    "dataSources": ["DOF", "STPS", "INEGI", "ENOE", "OCDE", "OCC", "IMCO", "Cámara de Diputados"],
+    "covered": true,
+    "publishedDate": "2026-05-28",
+    "publishedSlug": "teletrabajo-mexico-balance-nom-037-tres-anos-2026"
   }
 ]
