@@ -383,5 +383,16 @@
     "covered": true,
     "publishedDate": "2026-05-28",
     "publishedSlug": "teletrabajo-mexico-balance-nom-037-tres-anos-2026"
+  },
+  {
+    "id": "balanza-comercial-abril-2026-record-tmec",
+    "title": "Comercio exterior de abril 2026: récord exportador y la antesala de la revisión del T-MEC",
+    "category": "datos",
+    "description": "Análisis del comunicado del INEGI del 26 de mayo de 2026 sobre la Balanza Comercial de Mercancías: récord histórico de exportaciones por 72,042 millones de dólares, superávit de 4,520 millones, concentración del 83.6% en Estados Unidos y el marco arancelario de la Sección 232 en vísperas de la revisión formal del T-MEC.",
+    "keyPoints": ["Exportaciones por 72,042 mdd en abril, máximo histórico con +32.6% anual", "Superávit acumulado enero-abril por 3,508 mdd frente a déficit de 314 mdd en 2025", "Concentración del 83.6% de exportaciones a Estados Unidos en abril y 82.3% en enero", "Recuperación parcial automotriz: 286,317 unidades exportadas (+11.43%) tras tres meses de caídas", "Aranceles vigentes de la Sección 232 sobre acero (hasta 50%) y aluminio", "Calendario de la revisión del T-MEC: tres rondas (CDMX, Washington 16-17 junio, México 20 julio) con plazo al 1 de julio de 2026", "Reglas de origen del 75% de valor de contenido regional automotriz y debate sobre su endurecimiento", "Estancamiento de la diversificación pese a crecimientos del 17.3% hacia Canadá y 9.1% hacia Asia en 2025"],
+    "dataSources": ["INEGI", "Banco de México", "Secretaría de Economía", "USTR", "México ¿Cómo Vamos?"],
+    "covered": true,
+    "publishedDate": "2026-05-29",
+    "publishedSlug": "balanza-comercial-mexico-abril-2026-record-tmec"
   }
 ]
