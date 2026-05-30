@@ -394,5 +394,16 @@
     "covered": true,
     "publishedDate": "2026-05-29",
     "publishedSlug": "balanza-comercial-mexico-abril-2026-record-tmec"
+  },
+  {
+    "id": "pension-mujeres-bienestar-cobertura-genero-2026",
+    "title": "Pensión Mujeres Bienestar: arquitectura, cobertura y lectura de género del nuevo programa no contributivo",
+    "category": "pensiones",
+    "description": "Análisis a un año de operación plena del programa Pensión Mujeres Bienestar: marco normativo de los Lineamientos DOF 31-ene-2025, cobertura escalonada para mujeres de 60 a 64 años, monto bimestral de 3,100 pesos en 2026, padrón superior a 3.4 millones de beneficiarias, inversión social anunciada de más de 56 mil millones de pesos y su lugar en el Anexo 13 del PEF 2026.",
+    "keyPoints": ["Lineamientos de Operación publicados en DOF el 31 de enero de 2025", "Cobertura 60-64 años en localidades indígenas/afromexicanas y 63-64 años en el resto del país", "Monto bimestral de 3,100 pesos en 2026 y 6,400 pesos para la PBAM a los 65 años", "Padrón proyectado superior a 3.4 millones de beneficiarias con inversión social de más de 56 mil mdp", "Anexo 13 del PEF 2026 por 599,145.4 mdp con 55.5% concentrado en Ramo 20 Bienestar", "Brecha estructural: 8.5 millones de cuentas AFORE menos en mujeres y saldo promedio 24% menor", "Densidad de cotización de 46.1% en mujeres frente a 53.7% en hombres según CONSAR", "Programa no constitucionalizado y debate sobre cobertura puente vs derecho universal"],
+    "dataSources": ["DOF", "Secretaría de Bienestar", "CIEP", "SHCP", "INEGI", "ENIF", "CONSAR", "México ¿Cómo Vamos?", "Banco de México"],
+    "covered": true,
+    "publishedDate": "2026-05-30",
+    "publishedSlug": "pension-mujeres-bienestar-cobertura-genero-2026"
   }
 ]
