@@ -405,5 +405,16 @@
     "covered": true,
     "publishedDate": "2026-05-30",
     "publishedSlug": "pension-mujeres-bienestar-cobertura-genero-2026"
+  },
+  {
+    "id": "productividad-laboral-mexico-2025-rezago-estructural",
+    "title": "Productividad laboral en México: el rezago estructural a la luz del IGPLE 2025",
+    "category": "laboral",
+    "description": "Lectura del IGPLE 2025 del INEGI y del Employment Outlook 2025 de la OCDE: trayectoria trimestral en 96.5 puntos, acumulado enero-septiembre de 0.49%, comparativo internacional, raíces del estancamiento y brecha frente a la meta de 4.8% del Plan México.",
+    "keyPoints": ["IGPLE 4T 2025 en 96.5 puntos con +0.5% trimestral y +0.9% anual según comunicado INEGI del 6 de marzo de 2026", "Acumulado enero-septiembre 2025 de 0.49%, menor en tres años frente a 1.49% en 2024", "Lectura sectorial: manufactura +1.4% trimestral, servicios y comercio +0.4%, primarias -1.1%", "OCDE Employment Outlook 2025: México segundo país menos productivo del bloque y caída anual de productividad de 0.6%", "Proyección de crecimiento del PIB per cápita 2024-2060 de 0.05% anual sin reformas adicionales", "Informalidad por encima de 55% al cierre de 2025 según ENOE y baja participación laboral femenina cercana a 46%", "Plan México y Programa Sectorial de Trabajo 2025-2030 frente a meta de 4.8% del semáforo de México ¿Cómo Vamos?"],
+    "dataSources": ["INEGI", "ENOE", "OCDE", "México ¿Cómo Vamos?", "STPS", "Banco de México", "Plan México"],
+    "covered": true,
+    "publishedDate": "2026-05-31",
+    "publishedSlug": "productividad-laboral-mexico-2025-rezago-estructural"
   }
 ]
