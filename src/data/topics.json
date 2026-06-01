@@ -416,5 +416,16 @@
     "covered": true,
     "publishedDate": "2026-05-31",
     "publishedSlug": "productividad-laboral-mexico-2025-rezago-estructural"
+  },
+  {
+    "id": "ley-silla-arquitectura-regulatoria-balance-2026",
+    "title": "Ley Silla en México: arquitectura regulatoria y primer balance a un año de la reforma sobre bipedestación",
+    "category": "laboral",
+    "description": "Análisis del decreto del 19 de diciembre de 2024, las disposiciones secundarias del 17 de julio de 2025 y la incorporación de la Ley Silla al Programa Anual de Inspección 2026 de la STPS.",
+    "keyPoints": ["Decreto DOF 19-dic-2024 que reforma artículos 132, 133, 422 y 423 de la LFT", "Entrada en vigor el 17 de junio de 2025 y vigencia plena del RIT ajustado el 14 de diciembre de 2025", "Disposiciones STPS del 17 de julio de 2025 con tipologías de bipedestación estática, dinámica y prolongada", "Sanciones de 250 a 2,500 UMA por centro de trabajo, equivalentes a 29,328-293,275 pesos en 2026", "Cobertura: 38.3 millones de personas ocupadas en servicios y comercio según ENOE 3T 2025", "Programa Anual de Inspección 2026 incorpora la verificación de la Ley Silla", "Comparativo internacional: Argentina 1907, España 1912, Chile 1914", "Tensiones con COPARMEX y cámaras locales sobre parámetros técnicos y costos para mipymes"],
+    "dataSources": ["DOF", "STPS", "INEGI", "ENOE", "Senado", "COPARMEX", "OIT"],
+    "covered": true,
+    "publishedDate": "2026-06-01",
+    "publishedSlug": "ley-silla-mexico-arquitectura-regulatoria-balance-2026"
   }
 ]
