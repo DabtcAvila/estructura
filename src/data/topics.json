@@ -427,5 +427,25 @@
     "covered": true,
     "publishedDate": "2026-06-01",
     "publishedSlug": "ley-silla-mexico-arquitectura-regulatoria-balance-2026"
+  },
+  {
+    "id": "ied-mexico-2025-record-calidad-flujos-2026",
+    "title": "Inversión Extranjera Directa 2025: récord histórico, dominio de la reinversión y debate sobre la calidad de los flujos",
+    "category": "datos",
+    "description": "Lectura del récord de 40,871 mdd de IED en 2025, la composición dominada por la reinversión, la caída de las nuevas inversiones en el 1T 2026 y los cuellos de botella estructurales en vísperas de la revisión del T-MEC.",
+    "keyPoints": [
+      "Récord anual de 40,871 mdd en 2025 (+10.8%) reportado por la Secretaría de Economía el 25-feb-2026",
+      "Reinversión de utilidades en 67.7% del agregado 2025 y 94.2% del flujo del 1T 2026",
+      "Nuevas inversiones por 7,378 mdd en 2025 (+132.9%) pero solo 7.2% del flujo en 1T 2026",
+      "Récord trimestral de 23,591 mdd en el 1T 2026 (+10.4% anual)",
+      "Estados Unidos y Canadá aportan 46.9% del agregado 2025; CDMX concentra 54.8%",
+      "IED equivalente al 9.9% de la Formación Bruta de Capital Fijo según IMCO",
+      "Cuellos de botella en energía, agua, infraestructura logística y certidumbre regulatoria",
+      "Lectura crítica de CEPAL, IMCO y México ¿Cómo Vamos? sobre la calidad de los flujos"
+    ],
+    "dataSources": ["Secretaría de Economía", "Banco de México", "INEGI", "IMCO", "CEPAL", "México ¿Cómo Vamos?", "EGADE"],
+    "covered": true,
+    "publishedDate": "2026-06-02",
+    "publishedSlug": "inversion-extranjera-directa-mexico-2025-record-calidad-flujos"
   }
 ]
