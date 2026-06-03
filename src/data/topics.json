@@ -447,5 +447,25 @@
     "covered": true,
     "publishedDate": "2026-06-02",
     "publishedSlug": "inversion-extranjera-directa-mexico-2025-record-calidad-flujos"
+  },
+  {
+    "id": "rentas-vitalicias-retiros-programados-desacumulacion-sar-2026",
+    "title": "Rentas vitalicias y retiros programados: la fase de desacumulación del SAR en 2026",
+    "category": "pensiones",
+    "description": "Arquitectura legal, operativa y de mercado de la fase de desacumulación del SAR en México: modalidades del artículo 157 LSS, mercado de aseguradoras, Sistema Integral de Ofertas y rol del Fondo de Pensiones para el Bienestar.",
+    "keyPoints": [
+      "Marco legal de los artículos 157 y 159 de la Ley del Seguro Social",
+      "Sistema Integral de Ofertas (SISO) y Documento de Oferta de renta vitalicia de CONSAR",
+      "Mercado de aseguradoras especializadas: cuatro instituciones con convenio IMSS y concentración del 26.1% en Pensiones BBVA Bancomer según CNSF 2T 2025",
+      "Portafolio de cerca de 600 mil mdp en reservas técnicas y 500 mil pensionados",
+      "Unidad de Renta Vitalicia (URV) y sensibilidad al ciclo de tasas reales (Udibonos, Bondes M)",
+      "Retiro programado bajo Siefore Básica de Pensiones y traslado del riesgo de longevidad al titular",
+      "Articulación con el Fondo de Pensiones para el Bienestar (DOF 30-abr-2024) y tope de 17,364 pesos",
+      "Pico de jubilaciones del Décimo Transitorio del ISSSTE 2030-2040 y maduración de la Generación Afore"
+    ],
+    "dataSources": ["CONSAR", "CNSF", "DOF", "IMSS", "AMAFORE", "SHCP", "Banco de México"],
+    "covered": true,
+    "publishedDate": "2026-06-03",
+    "publishedSlug": "rentas-vitalicias-retiros-programados-desacumulacion-sar-2026"
   }
 ]
