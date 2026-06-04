@@ -467,5 +467,25 @@
     "covered": true,
     "publishedDate": "2026-06-03",
     "publishedSlug": "rentas-vitalicias-retiros-programados-desacumulacion-sar-2026"
+  },
+  {
+    "id": "violencia-acoso-laboral-convenio-190-marco-2026",
+    "title": "Violencia y acoso laboral en México: marco normativo y agenda 2026 tras el Convenio 190 de la OIT",
+    "category": "laboral",
+    "description": "Balance del marco mexicano contra la violencia y el acoso laboral a tres años de la entrada en vigor del Convenio 190 de la OIT: artículo 132 fracción XXXI de la LFT, NOM-035-STPS-2018, reforma del Senado de marzo de 2026 a la LGAMVLV, evidencia ENDIREH y límites de la inspección.",
+    "keyPoints": [
+      "Ratificación del Convenio 190 OIT el 6 de julio de 2022 y entrada en vigor el 6 de julio de 2023",
+      "Artículo 132 fracción XXXI LFT (DOF 1-may-2019) y multas de 250 a 5,000 UMA (29,328-586,550 pesos en 2026)",
+      "NOM-035-STPS-2018 y régimen escalonado por tamaño de centro de trabajo",
+      "Reforma del Senado del 28 de marzo de 2026 al artículo 38 de la LGAMVLV",
+      "ENDIREH 2021: 27.9% de mujeres con experiencia laboral han enfrentado violencia en el trabajo",
+      "Encuesta global OIT-Lloyd's Register-Gallup 2022 con prevalencia mundial cercana a 23%",
+      "Informalidad del 55.0% al cierre del 4T 2025 (ENOE) como límite estructural de la inspección",
+      "Jurisprudencia 1a. CCL/2014, CCLI/2014 y CCLII/2014 de la Primera Sala de la SCJN"
+    ],
+    "dataSources": ["OIT", "DOF", "STPS", "INEGI", "ENDIREH", "ENOE", "SCJN", "Senado", "Cámara de Diputados", "PROFEDET"],
+    "covered": true,
+    "publishedDate": "2026-06-04",
+    "publishedSlug": "violencia-acoso-laboral-mexico-marco-convenio-190-2026"
   }
 ]
