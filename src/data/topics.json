@@ -487,5 +487,26 @@
     "covered": true,
     "publishedDate": "2026-06-04",
     "publishedSlug": "violencia-acoso-laboral-mexico-marco-convenio-190-2026"
+  },
+  {
+    "id": "densidad-cotizacion-sar-determinante-pensiones-2026",
+    "title": "Densidad de cotización en el SAR: el determinante silencioso de las pensiones futuras",
+    "category": "pensiones",
+    "description": "Análisis estructural de la densidad de cotización en el SAR mexicano: concepto, medición, evidencia empírica de la Generación Afore, brecha de género, drivers en informalidad y rotación, aritmética de la tasa de reemplazo y comparativo OCDE.",
+    "keyPoints": [
+      "Definición de densidad de cotización y métricas operadas por CONSAR",
+      "Rango observado de 40 a 47 por ciento en la Generación Afore",
+      "Asimetría distributiva: mayoría por debajo de 50 por ciento",
+      "Informalidad de 55.0 por ciento en 4T 2025 según ENOE como barrera estructural",
+      "Brecha de género en densidad y saldos del SAR",
+      "Aritmética del 15 por ciento de aportación a 2030 frente a densidad observada",
+      "Tasa de reemplazo bruta proyectada por OCDE cercana a 30 por ciento",
+      "PBAM, Pensión Mujeres Bienestar y Fondo de Pensiones para el Bienestar como corrección ex post",
+      "Reformas de formalización: plataformas digitales, trabajo del hogar y REPSE"
+    ],
+    "dataSources": ["CONSAR", "INEGI", "ENOE", "IMSS", "OCDE", "CIEP", "AMAFORE", "Banco Mundial", "DOF"],
+    "covered": true,
+    "publishedDate": "2026-06-05",
+    "publishedSlug": "densidad-cotizacion-sar-determinante-pensiones-2026"
   }
 ]
