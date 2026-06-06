@@ -508,5 +508,25 @@
     "covered": true,
     "publishedDate": "2026-06-05",
     "publishedSlug": "densidad-cotizacion-sar-determinante-pensiones-2026"
+  },
+  {
+    "id": "brecha-digital-mexico-endutih-2024-medicion-post-ift",
+    "title": "Brecha digital en México: lectura de la ENDUTIH 2024 y la incertidumbre de la medición tras la extinción del IFT",
+    "category": "datos",
+    "description": "Análisis de la ENDUTIH 2024 del INEGI: 100.2 millones de internautas, brecha rural-urbana de 18.4 puntos, asimetría en usos transformadores y los efectos de la extinción del IFT sobre la continuidad de la serie.",
+    "keyPoints": [
+      "Comunicado de Prensa 57/25 del INEGI publicado el 6 de mayo de 2025",
+      "100.2 millones de internautas y 83.1% de la población de 6+ años en 2024",
+      "Brecha rural-urbana de 18.4 pp (86.9% urbano vs 68.5% rural) y reducción de 6.7 pp desde 2021",
+      "10.3 millones de hogares sin conexión: 55.3% por falta de recursos económicos y 4.8% por ausencia de infraestructura",
+      "Asimetría entre usos comunicacionales (93.0% mensajería, 90.4% redes) y usos transformadores (banca 39.2%, compras 35.8%)",
+      "Comparativo OCDE: crecimiento decenal de banda ancha fija de 89.3% y móvil de 215.2%",
+      "Ley Federal de Telecomunicaciones y Radiodifusión DOF 16-jul-2025 que extingue el IFT y crea ATDT y CRT",
+      "Incertidumbre sobre el cofinanciamiento y la periodicidad anual de la ENDUTIH"
+    ],
+    "dataSources": ["INEGI", "ENDUTIH", "SNIEG", "OCDE", "DOF", "The CIU", "BBVA Research"],
+    "covered": true,
+    "publishedDate": "2026-06-06",
+    "publishedSlug": "brecha-digital-mexico-endutih-2024-medicion-post-ift"
   }
 ]
