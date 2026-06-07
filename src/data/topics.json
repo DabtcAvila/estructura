@@ -528,5 +528,25 @@
     "covered": true,
     "publishedDate": "2026-06-06",
     "publishedSlug": "brecha-digital-mexico-endutih-2024-medicion-post-ift"
+  },
+  {
+    "id": "pension-garantizada-sar-arquitectura-reforma-2020",
+    "title": "Pensión Garantizada del SAR: arquitectura del nuevo régimen tras la reforma de 2020",
+    "category": "pensiones",
+    "description": "Análisis a cinco años de la reforma al artículo 170 de la LSS: nueva tabla por edad, semanas y SBC, montos vigentes en 2026, cuota social redistribuida, articulación con el Fondo de Pensiones para el Bienestar y costo fiscal proyectado a 2030.",
+    "keyPoints": [
+      "Decreto DOF 16-dic-2020 y reescritura del artículo 170 de la LSS",
+      "Trayectoria de semanas: 750 en 2021, 875 en 2026 y 1,000 a partir de 2031",
+      "Tabla por edad, semanas y SBC actualizada por INPC con rango 2026 aproximado de 3,500 a 10,600 pesos mensuales",
+      "Aumento de la aportación obrero-patronal de cesantía y vejez de 6.5% a 15% del SBC entre 2023 y 2030",
+      "Redistribución de la cuota social hacia asegurados con SBC de hasta 4 UMA en 2026",
+      "Cobertura proyectada de la Generación Afore: de 17% a 82% con derecho a pensión contributiva por encima de la PG",
+      "Proyección CIEP: gasto público en pensiones podría alcanzar 7.1% del PIB en 2030",
+      "Articulación con el Fondo de Pensiones para el Bienestar (DOF 30-abr-2024) y referencia OCDE Pensions at a Glance 2025"
+    ],
+    "dataSources": ["DOF", "IMSS", "CONSAR", "AMAFORE", "CIEP", "Banco de México", "OCDE", "AMCP", "Cámara de Diputados"],
+    "covered": true,
+    "publishedDate": "2026-06-07",
+    "publishedSlug": "pension-garantizada-sar-arquitectura-reforma-2020"
   }
 ]
