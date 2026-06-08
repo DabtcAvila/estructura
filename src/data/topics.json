@@ -548,5 +548,26 @@
     "covered": true,
     "publishedDate": "2026-06-07",
     "publishedSlug": "pension-garantizada-sar-arquitectura-reforma-2020"
+  },
+  {
+    "id": "permiso-paternidad-mexico-rezago-ocde-agenda-2026",
+    "title": "Permiso de paternidad en México: cinco días, una reforma estancada y la agenda 2026",
+    "category": "laboral",
+    "description": "Análisis del marco legal del permiso de paternidad en México, la minuta de 20 días detenida en el Senado, la jurisprudencia de la SCJN sobre isonomía parental y el rezago frente a la OCDE y los Convenios 156 y 183 de la OIT.",
+    "keyPoints": [
+      "Artículo 132, fracción XXVII Bis de la LFT (DOF 30-nov-2012) con cinco días laborables a cargo del patrón",
+      "Asimetría con la licencia de maternidad de 84 días subsidiada por el IMSS (arts. 170 LFT, 101-102 LSS)",
+      "Minuta de 20 días laborables aprobada por Diputados con 409 votos y avalada en comisiones del Senado en marzo de 2024, sin paso al Pleno",
+      "Iniciativa del PAN en la Gaceta Parlamentaria 6916-II-2 (11-nov-2025) para equiparar a 12 semanas con subsidio del IMSS",
+      "Acción de Inconstitucionalidad 181/2023 resuelta por el Pleno el 12 de mayo de 2025 sobre BCS",
+      "Amparo en Revisión 590/2023 de la Segunda Sala (28-feb-2024) que extiende licencias de cuidado más allá del cáncer",
+      "México sin ratificación de los Convenios 156 (1981) y 183 (2000) de la OIT",
+      "ENOE 4T 2025: 35.3 millones de hombres ocupados con 55.0% de informalidad como límite estructural",
+      "ENR 2024 del INEGI: 1,672,227 nacimientos registrados (-8.16% anual)"
+    ],
+    "dataSources": ["DOF", "Cámara de Diputados", "Senado", "SCJN", "OCDE", "OIT", "INEGI", "ENOE", "IMCO"],
+    "covered": true,
+    "publishedDate": "2026-06-08",
+    "publishedSlug": "permiso-paternidad-mexico-rezago-ocde-agenda-2026"
   }
 ]
