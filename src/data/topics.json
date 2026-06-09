@@ -569,5 +569,26 @@
     "covered": true,
     "publishedDate": "2026-06-08",
     "publishedSlug": "permiso-paternidad-mexico-rezago-ocde-agenda-2026"
+  },
+  {
+    "id": "reforma-infonavit-2025-subcuenta-vivienda-sar",
+    "title": "Reforma del INFONAVIT 2024-2025: subcuenta de vivienda, construcción directa y la frontera con el SAR",
+    "category": "pensiones",
+    "description": "Análisis de la reforma constitucional del 2 de diciembre de 2024 y de la Ley del INFONAVIT publicada el 21 de febrero de 2025: arquitectura previa de la subcuenta de vivienda, nueva facultad constructora y de arrendamiento, gobernanza tripartita reformulada, articulación con el SAR vía artículo 190 de la LSS y tensiones identificadas en cartera vencida y patrimonio.",
+    "keyPoints": [
+      "Reforma constitucional DOF 2-dic-2024 al artículo 123, fracción XII, apartado A",
+      "Reforma a la Ley del INFONAVIT y LFT DOF 21-feb-2025 con creación de INFONAVIT Constructora S.A. de C.V.",
+      "Elevación del umbral del artículo 40 de 50 a 60 años para retiro sin relación laboral",
+      "Gobernanza tripartita reformulada: Asamblea de 30, Consejo 3-3-3 y Comisión de Vigilancia de 9",
+      "Saldo de aportaciones a favor de trabajadores de 2.245 billones de pesos al 30-sep-2025",
+      "Rendimiento nominal SCV 2025 de 5.00% equivalente a 95,499 mdp",
+      "PEF INFONAVIT 2026 por 29,335 mdp y meta sexenal de 1.2 millones de viviendas",
+      "Cartera Etapa 3 en 21.2% al cierre de 2025 y crítica de IMCO y CEEY sobre patrimonio institucional",
+      "Articulación con el SAR por artículo 190 LSS y con el Fondo de Pensiones para el Bienestar"
+    ],
+    "dataSources": ["DOF", "INFONAVIT", "IMSS", "CONSAR", "IMCO", "CEEY", "Gobierno de México"],
+    "covered": true,
+    "publishedDate": "2026-06-09",
+    "publishedSlug": "reforma-infonavit-2025-subcuenta-vivienda-sar"
   }
 ]
