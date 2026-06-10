@@ -590,5 +590,26 @@
     "covered": true,
     "publishedDate": "2026-06-09",
     "publishedSlug": "reforma-infonavit-2025-subcuenta-vivienda-sar"
+  },
+  {
+    "id": "discriminacion-laboral-mexico-enadis-arquitectura-garantias-2026",
+    "title": "Discriminación en el mercado laboral mexicano: lectura de la ENADIS 2022 y la arquitectura de garantías",
+    "category": "laboral",
+    "description": "Lectura de la ENADIS 2022 del INEGI y del marco mexicano contra la discriminación laboral: magnitud poblacional del fenómeno, dimensiones laborales (entrada, salario, promoción), arquitectura legal de la LFPED, LFT y NOM-035 y los límites operativos de la inspección y la queja administrativa.",
+    "keyPoints": [
+      "ENADIS 2022 levantada por INEGI con CONAPRED, UNAM-IIJ, CNDH y CONACYT (hoy SECIHTI)",
+      "Prevalencia de cerca de uno de cada cinco adultos con experiencia de discriminación en doce meses",
+      "Tres canales laborales: barreras de entrada, brechas salariales y obstáculos a la promoción",
+      "LFPED DOF 11-jun-2003 reformada el 20-mar-2014 y reforma constitucional al artículo 1 (DOF 10-jun-2011)",
+      "Artículos 3, 56 y 133 fracción I de la LFT y NOM-035-STPS-2018",
+      "Sub-reporte estructural ante CONAPRED y PROFEDET frente a la magnitud poblacional captada por la ENADIS",
+      "Multas del artículo 994 fracción VI de la LFT de hasta 5,000 UMA (586,550 pesos en 2026)",
+      "Convenios 111 (ratificado 1961) y 190 (depositado 6-jul-2022, entrada en vigor 2023) de la OIT",
+      "Comparativo OCDE Society at a Glance 2024 sobre prevalencia declarada"
+    ],
+    "dataSources": ["INEGI", "ENADIS", "CONAPRED", "DOF", "STPS", "PROFEDET", "OIT", "OCDE", "IMCO", "México ¿Cómo Vamos?"],
+    "covered": true,
+    "publishedDate": "2026-06-10",
+    "publishedSlug": "discriminacion-laboral-mexico-enadis-arquitectura-garantias"
   }
 ]
