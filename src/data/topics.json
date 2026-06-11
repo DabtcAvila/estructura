@@ -611,5 +611,25 @@
     "covered": true,
     "publishedDate": "2026-06-10",
     "publishedSlug": "discriminacion-laboral-mexico-enadis-arquitectura-garantias"
+  },
+  {
+    "id": "inflacion-subyacente-mexico-persistencia-servicios-banxico-2026",
+    "title": "Inflación subyacente en México: la persistencia de los servicios y la convergencia al rango de Banxico",
+    "category": "datos",
+    "description": "Análisis del INPC y de la inflación subyacente en México: dinámica de mercancías y servicios, política monetaria de Banxico y convergencia al rango objetivo.",
+    "keyPoints": [
+      "INPC publicado por el INEGI desde el 15 de julio de 2011 bajo la Ley del SNIEG (DOF 16-abr-2008)",
+      "Meta puntual de 3% y rango de variabilidad de ±1 pp del Banco de México",
+      "Base segunda quincena de julio de 2018 y estructura del INPC en subyacente y no subyacente",
+      "Trayectoria: pico de 8.7% en septiembre de 2022, cierre 2025 en 3.69% dentro del rango",
+      "Asimetría entre mercancías (convergencia rápida) y servicios (persistencia inercial y salarial)",
+      "Tasa de referencia: pico de 11.25% en marzo de 2023 y cierre 2025 en 7.0%",
+      "Expectativas medianas cercanas a 3% para 2026 con dispersión intercuartílica relevante",
+      "Comparativo OCDE: persistencia global de servicios y ancla mexicana de expectativas"
+    ],
+    "dataSources": ["INEGI", "Banco de México", "DOF", "OCDE", "BBVA Research", "CIEP"],
+    "covered": true,
+    "publishedDate": "2026-06-11",
+    "publishedSlug": "inflacion-subyacente-mexico-persistencia-servicios-banxico-2026"
   }
 ]
