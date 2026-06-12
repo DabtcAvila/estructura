@@ -631,5 +631,25 @@
     "covered": true,
     "publishedDate": "2026-06-11",
     "publishedSlug": "inflacion-subyacente-mexico-persistencia-servicios-banxico-2026"
+  },
+  {
+    "id": "aguinaldo-mexico-articulo-87-lft-cobertura-efectiva-2026",
+    "title": "Aguinaldo en México: el artículo 87 de la LFT, la exención fiscal y la brecha de cobertura efectiva",
+    "category": "laboral",
+    "description": "Análisis del aguinaldo a 56 años de la LFT de 1970: arquitectura legal del artículo 87, exención de 30 UMA del artículo 93 LISR, contraste con los 40 días del artículo 42 Bis de la LFTSE, cobertura efectiva en la ENOE 3T y 4T 2025, e iniciativas legislativas para elevar el piso a 30 días.",
+    "keyPoints": [
+      "Artículo 87 de la LFT de 1970 con piso de 15 días sin reforma sustantiva en 56 años",
+      "Cálculo y reglas de proporcionalidad, integración al SBC y sanciones del artículo 1002 LFT",
+      "Régimen fiscal del artículo 93 fracción XIV LISR con exención de 30 UMA tras la reforma de desindexación de 2016",
+      "UMA 2026 en 117.31 pesos diarios y monto exento de 3,519.30 pesos frente a salario mínimo de 315.04 pesos",
+      "Cobertura efectiva: 13.7 millones de subordinados remunerados sin aguinaldo, vacaciones ni PTU en el 3T 2025",
+      "Informalidad laboral de 55.0% en el 4T 2025 según boletín INEGI 97/26",
+      "Asimetría con el sector público: artículo 42 Bis LFTSE con piso de 40 días",
+      "Iniciativas del PVEM y de MC en el Congreso para elevar el aguinaldo a 30 días"
+    ],
+    "dataSources": ["DOF", "Cámara de Diputados", "INEGI", "ENOE", "CONASAMI", "STPS", "PROFEDET", "IMSS", "SAT"],
+    "covered": true,
+    "publishedDate": "2026-06-12",
+    "publishedSlug": "aguinaldo-mexico-articulo-87-lft-cobertura-efectiva-2026"
   }
 ]
