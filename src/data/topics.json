@@ -651,5 +651,26 @@
     "covered": true,
     "publishedDate": "2026-06-12",
     "publishedSlug": "aguinaldo-mexico-articulo-87-lft-cobertura-efectiva-2026"
+  },
+  {
+    "id": "pension-viudez-imss-scjn-concubinato-articulo-130-2026",
+    "title": "Pensión por viudez del IMSS: la sentencia de la SCJN sobre el concubinato y la arquitectura del artículo 130",
+    "category": "pensiones",
+    "description": "Análisis del Amparo en Revisión 408/2025 del Pleno de la SCJN (4 de junio de 2026) que declaró inconstitucional el plazo fijo de cinco años de concubinato del artículo 130 de la LSS, en el marco del régimen contributivo del Seguro de Invalidez y Vida del IMSS.",
+    "keyPoints": [
+      "Amparo en Revisión 408/2025 resuelto por el Pleno el 4 de junio de 2026 con 7 votos a favor y 2 en contra",
+      "Inconstitucionalidad del requisito de cinco años de convivencia en concubinato del artículo 130 LSS",
+      "Reforma DOF 20-ene-2023 que incorporó cónyuges del mismo sexo al catálogo de beneficiarios",
+      "Cálculo del 90% del artículo 165 LSS bajo Ley 73 y Ley 97 con seguro de sobrevivencia",
+      "Secuencia jurisprudencial: AR 470/2023 (Loretta Ortiz) sobre los 6 meses de matrimonio y AR 402/2024",
+      "Padrón IMSS de más de 4.8 millones de pensionados a octubre de 2024",
+      "ENADID 2023: 19.1% de la población en unión libre y 15.4% en condición de divorciado, separado o viudo",
+      "EDR 2024: 818,437 defunciones registradas en México con 55.9% hombres y 44.0% mujeres",
+      "Complementariedad con la Pensión para el Bienestar de las Personas Adultas Mayores de 6,400 pesos bimestrales en 2026"
+    ],
+    "dataSources": ["SCJN", "DOF", "Cámara de Diputados", "IMSS", "INEGI", "ENADID", "CIEP", "Secretaría de Bienestar"],
+    "covered": true,
+    "publishedDate": "2026-06-13",
+    "publishedSlug": "pension-viudez-imss-scjn-concubinato-articulo-130-2026"
   }
 ]
