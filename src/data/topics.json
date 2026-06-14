@@ -672,5 +672,25 @@
     "covered": true,
     "publishedDate": "2026-06-13",
     "publishedSlug": "pension-viudez-imss-scjn-concubinato-articulo-130-2026"
+  },
+  {
+    "id": "ptu-2026-tope-tres-meses-cobertura-informalidad",
+    "title": "Participación de los Trabajadores en las Utilidades 2026: el tope de tres meses, la cobertura efectiva y la frontera de la informalidad",
+    "category": "laboral",
+    "description": "Análisis del régimen de la PTU a cinco años de la reforma de subcontratación: tope del artículo 127 fracción VIII, sentencia de la Segunda Sala de la SCJN en el AR 633/2023, exención fiscal de 15 UMA, cláusula de neutralidad del artículo 9 LISR y cobertura efectiva acotada por la informalidad.",
+    "keyPoints": [
+      "Marco constitucional del artículo 123 apartado A fracción IX y artículos 117 a 131 de la LFT",
+      "10% de la renta gravable fijado por la Quinta Comisión Nacional en 1985",
+      "Tope de tres meses o promedio trianual del artículo 127 fracción VIII (DOF 23-abr-2021)",
+      "Amparo en Revisión 633/2023 de la Segunda Sala de la SCJN, sentencia del 3 de abril de 2024",
+      "Exención de 15 UMA del artículo 93 fracción XIV LISR (1,759.65 pesos en 2026) y no deducibilidad del artículo 28 fracción XXVI",
+      "Cláusula de neutralidad del artículo 9 LISR y traslado del costo al ejercicio siguiente",
+      "Calendario 2026: 30 de mayo personas morales y 29 de junio personas físicas",
+      "Cobertura efectiva acotada por informalidad de 55.0% en el 4T 2025 (Boletín 97/26 INEGI) y exclusión del artículo 126 para empresas con ingreso anual menor a 300 mil pesos"
+    ],
+    "dataSources": ["DOF", "Cámara de Diputados", "SCJN", "INEGI", "ENOE", "STPS", "PROFEDET", "IMCO"],
+    "covered": true,
+    "publishedDate": "2026-06-14",
+    "publishedSlug": "ptu-2026-tope-tres-meses-cobertura-informalidad"
   }
 ]
