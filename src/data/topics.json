@@ -692,5 +692,25 @@
     "covered": true,
     "publishedDate": "2026-06-14",
     "publishedSlug": "ptu-2026-tope-tres-meses-cobertura-informalidad"
+  },
+  {
+    "id": "remesas-mexico-2025-fin-once-anos-crecimiento",
+    "title": "Remesas a México 2025-2026: el fin de once años de crecimiento y la nueva arquitectura del envío",
+    "category": "datos",
+    "description": "Análisis de la caída de 4.56% en remesas a México en 2025, primera contracción anual desde 2013, la entrada en vigor del impuesto del 1% del One Big Beautiful Bill y la recuperación moderada del 1.4% en el primer trimestre de 2026.",
+    "keyPoints": [
+      "Caída anual de 4.56% en 2025 e ingresos por 61,791 mdd, primera contracción desde 2013",
+      "Ajuste dominado por volumen: -5.5% en operaciones y +1.0% en envío promedio",
+      "Ocho meses consecutivos a la baja entre abril y noviembre de 2025 con caída promedio de 7.0%",
+      "Impuesto del 1% sobre remesas físicas del One Big Beautiful Bill vigente desde 1-ene-2026",
+      "Guanajuato como principal receptor en 2025 con 5,515 mdd y Guerrero-Chiapas con 13.9% del PIB estatal",
+      "Repunte de 1.4% en el 1T 2026 (14,457 mdd) y +2.6% en el acumulado enero-abril (19,676 mdd)",
+      "Proyección BBVA Research de crecimiento cercano a 2% en 2026",
+      "99.1% del flujo canalizado por transferencias electrónicas en 2025"
+    ],
+    "dataSources": ["Banco de México", "BBVA Research", "CEMLA", "Congreso de Estados Unidos"],
+    "covered": true,
+    "publishedDate": "2026-06-15",
+    "publishedSlug": "remesas-mexico-2025-fin-once-anos-crecimiento"
   }
 ]
