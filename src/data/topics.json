@@ -712,5 +712,25 @@
     "covered": true,
     "publishedDate": "2026-06-15",
     "publishedSlug": "remesas-mexico-2025-fin-once-anos-crecimiento"
+  },
+  {
+    "id": "pension-invalidez-imss-seguro-iv-articulacion-sar-2026",
+    "title": "Pensión por invalidez del IMSS: arquitectura del Seguro de Invalidez y Vida y articulación con el SAR a 2026",
+    "category": "pensiones",
+    "description": "Análisis del Seguro de Invalidez y Vida del IMSS en 2026: marco legal del ramo III, elegibilidad y umbral del artículo 122 LSS, cuantía bajo Ley 73 y Ley 97, financiamiento tripartito del artículo 147 y articulación con el SAR y el Fondo de Pensiones para el Bienestar.",
+    "keyPoints": [
+      "Capítulo V del Título Segundo de la LSS (arts. 112-151) y separación analítica con el Seguro de Riesgos de Trabajo",
+      "Definición de invalidez del artículo 119 LSS (incapacidad de remuneración superior al 50%)",
+      "Umbral del artículo 122 LSS: 250 semanas, o 150 si la invalidez es ≥75%",
+      "Cuantía del artículo 167: 35% del SBC promedio de las últimas 500 semanas y actualización por INPC",
+      "Ley 97: suma asegurada, cuenta individual y seguro de sobrevivencia",
+      "Cuotas del SIV en el artículo 147 LSS: 1.75% patronal y 0.625% del trabajador, más 7.143% del Estado sobre la cuota patronal",
+      "Informe IMSS al Ejecutivo Federal 2024-2025 (julio 2025): SIV y SRT con resultados superavitarios y horizonte de reservas hasta 2036",
+      "41 mil pensiones por invalidez otorgadas en 2023 según el Capítulo IV del Informe IMSS 2023-2024"
+    ],
+    "dataSources": ["DOF", "IMSS", "CONSAR", "AMAFORE", "La Jornada", "El Universal"],
+    "covered": true,
+    "publishedDate": "2026-06-16",
+    "publishedSlug": "pension-invalidez-imss-seguro-iv-articulacion-sar-2026"
   }
 ]
