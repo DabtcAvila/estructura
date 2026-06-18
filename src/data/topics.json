@@ -754,5 +754,25 @@
     "covered": true,
     "publishedDate": "2026-06-17",
     "publishedSlug": "igae-mexico-1t-2026-contraccion-industrial-desaceleracion"
+  },
+  {
+    "id": "subocupacion-condiciones-criticas-enoe-mexico-2026",
+    "title": "Subocupación y condiciones críticas de ocupación: la otra cara del mercado laboral mexicano",
+    "category": "laboral",
+    "description": "Diagnóstico de los indicadores de calidad del empleo de la ENOE en 2025-2026: subocupación, Tasa de Condiciones Críticas de Ocupación e informalidad laboral más allá de la tasa de desocupación abierta.",
+    "keyPoints": [
+      "Tasa de desocupación de 2.5% en el 4T 2025 como mínimo histórico de la serie ENOE",
+      "Marco metodológico de la ENOE: panel rotatorio en cinco visitas y muestra de 120 mil viviendas",
+      "Tasa de Subocupación como medida de subutilización del factor trabajo",
+      "Tasa de Condiciones Críticas de Ocupación: jornadas insuficientes e ingresos por debajo del umbral",
+      "Informalidad de 55.0% en el 4T 2025 y su papel como amortiguador",
+      "Brecha de género en participación y heterogeneidad estatal entre norte y sur",
+      "Comparativo OCDE y Panorama Laboral de la OIT para América Latina",
+      "Implicaciones para el Programa Sectorial de Trabajo 2025-2030"
+    ],
+    "dataSources": ["INEGI", "ENOE", "STPS", "OCDE", "OIT", "CEPAL", "IMCO", "CONEVAL"],
+    "covered": true,
+    "publishedDate": "2026-06-18",
+    "publishedSlug": "subocupacion-condiciones-criticas-mexico-2026"
   }
 ]
