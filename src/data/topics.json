@@ -774,5 +774,26 @@
     "covered": true,
     "publishedDate": "2026-06-18",
     "publishedSlug": "subocupacion-condiciones-criticas-mexico-2026"
+  },
+  {
+    "id": "trabajo-infantil-mexico-mti-2022-reforma-constitucional-2026",
+    "title": "Trabajo infantil en México: lectura del MTI 2022 del INEGI y la arquitectura constitucional desde la reforma de 2014",
+    "category": "laboral",
+    "description": "Análisis del Módulo de Trabajo Infantil 2022 del INEGI y del marco constitucional desde la reforma de 2014: magnitud, sectores, brechas y agenda 2026.",
+    "keyPoints": [
+      "Reforma constitucional DOF 17-jun-2014 al artículo 123 apartado A fracción III que elevó la edad mínima a 15 años",
+      "Ratificación del Convenio 138 de la OIT el 10 de junio de 2015 y del Convenio 182 el 30 de junio de 2000",
+      "Reforma a la LFT DOF 12-jun-2015 y arquitectura del capítulo XI del título quinto (artículos 173 a 180)",
+      "MTI 2022 publicado en mayo de 2023: 3.7 millones de NNA de 5 a 17 años en alguna ocupación (12.5%) y cerca de 2.1 millones en trabajo no permitido",
+      "Distribución sectorial concentrada en agricultura, comercio y servicios y predominio del trabajo no asalariado",
+      "Brecha de género ambigua: mayor incidencia masculina en trabajo económico y femenina en quehaceres domésticos no adecuados",
+      "Brecha rural-urbana cercana al doble y concentración en Chiapas, Guerrero, Oaxaca, Puebla, Hidalgo y Michoacán",
+      "Régimen sancionatorio del artículo 995 Bis LFT con multas de 250 a 5,000 UMA",
+      "PRONAPETI 2025-2030 en proceso de actualización y agenda de articulación con política educativa"
+    ],
+    "dataSources": ["INEGI", "MTI", "ENOE", "DOF", "OIT", "UNICEF", "STPS", "PROFEDET", "CITI"],
+    "covered": true,
+    "publishedDate": "2026-06-19",
+    "publishedSlug": "trabajo-infantil-mexico-mti-2022-reforma-constitucional-2026"
   }
 ]
