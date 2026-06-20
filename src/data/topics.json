@@ -795,5 +795,25 @@
     "covered": true,
     "publishedDate": "2026-06-19",
     "publishedSlug": "trabajo-infantil-mexico-mti-2022-reforma-constitucional-2026"
+  },
+  {
+    "id": "cesantia-vejez-imss-rcv-edad-retiro-2026",
+    "title": "Cesantía y vejez en el IMSS: arquitectura del seguro RCV y la decisión de la edad de retiro en 2026",
+    "category": "pensiones",
+    "description": "Análisis del ramo RCV del IMSS en 2026: arquitectura legal del Capítulo VI del Título Segundo de la LSS, trayectoria 2021-2031 de la reforma de 2020, cálculo bajo Ley 73 y Ley 97, padrón de pensionados con 85.2% por cesantía y articulación con Pensión Garantizada y Fondo de Pensiones para el Bienestar.",
+    "keyPoints": [
+      "Capítulo VI del Título Segundo de la LSS (arts. 152-200) y dualidad cesantía/vejez",
+      "Factor de edad del artículo 171: 75% a 60 años, escalonado a 100% a 65 años",
+      "Trayectoria 2021-2031: piso Ley 97 de 750 a 1,000 semanas y umbral 2026 de 875 semanas",
+      "Cuota CEAV reformada: trabajador 1.125% y patrón escalonado por SBC, meta RCV total de 15% en 2030",
+      "Padrón IMSS 2024: 85.2% (77,585) pensiones por cesantía y 13.7% (12,485) por vejez",
+      "Ley 73: descuento vitalicio cercano a 25% por anticipar el retiro a los 60 años",
+      "Ley 97: efecto combinado de aportación adicional, rendimiento compuesto y horizonte de desacumulación",
+      "Articulación con la Pensión Garantizada (art. 170 LSS) y el Fondo de Pensiones para el Bienestar"
+    ],
+    "dataSources": ["DOF", "IMSS", "CONSAR", "AMAFORE", "CNSF", "OCDE", "CONAPO"],
+    "covered": true,
+    "publishedDate": "2026-06-20",
+    "publishedSlug": "cesantia-vejez-imss-rcv-edad-retiro-2026"
   }
 ]
