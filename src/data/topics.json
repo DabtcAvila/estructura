@@ -815,5 +815,25 @@
     "covered": true,
     "publishedDate": "2026-06-20",
     "publishedSlug": "cesantia-vejez-imss-rcv-edad-retiro-2026"
+  },
+  {
+    "id": "inpp-mexico-trayectoria-pass-through-inflacion-2026",
+    "title": "Índice Nacional de Precios al Productor: arquitectura, trayectoria 2025-2026 y su papel como anticipador de la inflación al consumidor",
+    "category": "datos",
+    "description": "Análisis del INPP mexicano: metodología base julio 2019 con actualización 2025, descenso del pico 2025 al rango bajo de 2026 y traspaso al INPC.",
+    "keyPoints": [
+      "Base julio 2019 = 100 con actualización 2025: 570 productos y 170 ramas SCIAN 2018",
+      "Cobertura: 64 productos primarios, 399 secundarios y 107 terciarios sobre 306 ramas posibles",
+      "Trayectoria: 7.86% anual en enero 2025, 2.06% en diciembre 2025, 1.14% en febrero 2026 y 2.56% en abril 2026",
+      "Boletín 278/26 INEGI: primarias -12.08% anual, secundarias +3.14% y terciarias +3.41% en abril 2026",
+      "Cuadro CA78 del SIE de Banco de México con INPP de mercancías y servicios finales por destino",
+      "Elasticidad de traspaso al INPC cercana a 0.16 según Capistrán, Ibarra y Ramos (Banco de México, 2011)",
+      "Asimetría: traspaso más rápido y completo al alza que a la baja",
+      "Usos como deflactor de cuentas nacionales y referencia contractual en obra pública e industria"
+    ],
+    "dataSources": ["INEGI", "Banco de México", "DOF", "OCDE", "Capistrán et al."],
+    "covered": true,
+    "publishedDate": "2026-06-21",
+    "publishedSlug": "inpp-mexico-trayectoria-pass-through-inflacion-2026"
   }
 ]
