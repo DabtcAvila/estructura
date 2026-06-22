@@ -835,5 +835,26 @@
     "covered": true,
     "publishedDate": "2026-06-21",
     "publishedSlug": "inpp-mexico-trayectoria-pass-through-inflacion-2026"
+  },
+  {
+    "id": "uma-naturaleza-juridica-trayectoria-impacto-pensiones-2026",
+    "title": "Unidad de Medida y Actualización: naturaleza jurídica, trayectoria 2017-2026 e impacto en pensiones y prestaciones",
+    "category": "datos",
+    "description": "Análisis de la UMA a diez años de la reforma constitucional de desindexación del salario mínimo: marco legal, trayectoria 2017-2026, aplicaciones en seguridad social y tributación, y la controversia jurisprudencial vigente.",
+    "keyPoints": [
+      "Reforma constitucional DOF 27-ene-2016 al artículo 26 apartado B y prohibición del salario mínimo como índice referencial",
+      "Ley para Determinar el Valor de la UMA (DOF 30-dic-2016) y fórmula de actualización por INPC de diciembre",
+      "Calendario de publicación INEGI en los primeros diez días de enero y entrada en vigor el 1 de febrero",
+      "Trayectoria 2017-2026: de 75.49 a 117.31 pesos diarios con incremento acumulado de 55.4%",
+      "Brecha con el salario mínimo general 2026 (315.04 pesos) y Zona Libre de la Frontera Norte (470.45 pesos)",
+      "Tope de 25 UMA del artículo 28 LSS para el SBC del IMSS y del INFONAVIT en 2,932.75 pesos diarios",
+      "Contradicción de tesis 200/2020 de la Segunda Sala SCJN sobre tope de pensiones del Décimo Transitorio del ISSSTE",
+      "Asimetría jurisprudencial con la jurisprudencia 2a./J. 164/2019 sobre tope de 10 salarios mínimos en pensiones Ley 73 del IMSS",
+      "Exenciones LISR artículo 93 fracción XIV expresadas en UMA y efecto de bracket creep sobre asalariados"
+    ],
+    "dataSources": ["INEGI", "DOF", "SCJN", "CONASAMI", "IMSS", "INFONAVIT", "IMCO", "AMCP"],
+    "covered": true,
+    "publishedDate": "2026-06-22",
+    "publishedSlug": "uma-naturaleza-juridica-trayectoria-impacto-pensiones-2026"
   }
 ]
