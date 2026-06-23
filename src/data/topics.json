@@ -856,5 +856,25 @@
     "covered": true,
     "publishedDate": "2026-06-22",
     "publishedSlug": "uma-naturaleza-juridica-trayectoria-impacto-pensiones-2026"
+  },
+  {
+    "id": "srt-imss-arquitectura-prima-cobertura-2026",
+    "title": "Seguro de Riesgos de Trabajo del IMSS: arquitectura, prima por clase y la cobertura efectiva a 2026",
+    "category": "laboral",
+    "description": "Análisis del SRT del IMSS en 2026: marco legal de los artículos 41 a 79 de la LSS, prima por clase del artículo 73, siniestralidad observada en la Memoria Estadística 2024, reforma de las tablas de enfermedades y valuación de 2023 y articulación con el PASST.",
+    "keyPoints": [
+      "Capítulo III del Título Segundo de la LSS (arts. 41-79) y financiamiento exclusivamente patronal",
+      "Cinco clases de riesgo del artículo 73 con primas medias entre 0.54355% y 7.58875% del SBC",
+      "Fórmula del artículo 72: prima = siniestralidad × factor + 0.005, con piso de 0.5% y techo de 15%",
+      "Composición 2024: 69% accidentes en jornada, 28% accidentes de trayecto y 3% enfermedades de trabajo",
+      "Reforma DOF 4-dic-2023: tabla de enfermedades de 161 a 194 y tabla de valuación de 409 a 524 lesiones",
+      "Incorporación de trastornos mentales (ansiedad, estrés grave, depresión) como enfermedad de trabajo",
+      "PASST a junio de 2024: 3,911 empresas registradas y 1,376 con reconocimiento Empresa Segura",
+      "Informe IMSS 2023-2024: SRT como ramo superavitario y suficiencia institucional hasta 2036"
+    ],
+    "dataSources": ["DOF", "IMSS", "STPS", "Revista Médica IMSS"],
+    "covered": true,
+    "publishedDate": "2026-06-23",
+    "publishedSlug": "srt-imss-arquitectura-prima-cobertura-2026"
   }
 ]
