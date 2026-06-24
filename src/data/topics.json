@@ -876,5 +876,25 @@
     "covered": true,
     "publishedDate": "2026-06-23",
     "publishedSlug": "srt-imss-arquitectura-prima-cobertura-2026"
+  },
+  {
+    "id": "pemex-pasivo-laboral-jubilaciones-tope-constitucional-2026",
+    "title": "Régimen de Jubilaciones y Pensiones de Pemex: arquitectura del pasivo laboral y el tope constitucional de 2026",
+    "category": "pensiones",
+    "description": "Análisis del pasivo laboral de Pemex en 1.47 billones de pesos al cierre de 2025, la reforma 2015-2016 al RJP y el tope constitucional de pensiones doradas publicado en abril de 2026.",
+    "keyPoints": [
+      "Cláusula 134 del CCT Pemex-STPRM y dualidad sindicalizados/confianza",
+      "Vehículos fiduciarios FOLAPE (1997) y FICOLAVI (1989) y su subdotación frente al pasivo",
+      "Reforma 2015: migración de nuevos ingresos al SAR, edad mínima 60 años, antigüedad 30 años y actualización por INPC",
+      "SHCP comunicado 106-2016: asunción del pasivo laboral por 184.2 mil millones de pesos",
+      "Pasivo por beneficios a empleados de 1.470 billones de pesos al cierre de 2025 (+19.3% anual) y 35.6% de los pasivos totales",
+      "Padrón de confianza con 22,316 personas, 24,844 mdp anuales y 544 casos por encima del salario presidencial",
+      "Reforma al artículo 127 constitucional DOF 10-abr-2026 y tope original de 67,145 pesos",
+      "Acuerdo del 10 de junio de 2026 que elevó el tope efectivo en Pemex al salario presidencial neto íntegro (134,290 pesos)"
+    ],
+    "dataSources": ["DOF", "Pemex", "SHCP", "ASF", "STPRM", "Senado", "Cámara de Diputados", "IMCO"],
+    "covered": true,
+    "publishedDate": "2026-06-24",
+    "publishedSlug": "pemex-pasivo-laboral-jubilaciones-tope-constitucional-2026"
   }
 ]
