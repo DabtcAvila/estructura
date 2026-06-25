@@ -896,5 +896,25 @@
     "covered": true,
     "publishedDate": "2026-06-24",
     "publishedSlug": "pemex-pasivo-laboral-jubilaciones-tope-constitucional-2026"
+  },
+  {
+    "id": "inversion-fija-bruta-mexico-descenso-2024-2026",
+    "title": "Inversión Fija Bruta en México: el largo descenso 2024-2026 y la divergencia público-privada",
+    "category": "datos",
+    "description": "Diagnóstico del IMFBCF a marzo de 2026: 19 meses de contracción anual, divergencia entre inversión pública y privada y brecha con la meta del Plan México.",
+    "keyPoints": [
+      "Boletín 378/26 del INEGI (4 de junio de 2026) con IFB en 102.0 puntos, +0.4% mensual y -3.1% anual en marzo de 2026",
+      "Diecinueve meses consecutivos de contracciones anuales según el semáforo de México ¿Cómo Vamos?",
+      "Caída acumulada de 6.7% real en 2025 con divergencia público-privada: pública -18.9% y privada -4.4%",
+      "Reversión 2026: inversión pública +6.8% real y privada -4.8% en el acumulado enero-marzo",
+      "Maquinaria y equipo como componente más débil con caídas anuales superiores a 9% en febrero de 2026",
+      "Coeficiente inversión/PIB en 22.9% al cierre de 2025 frente a meta del Plan México de 25% en 2026",
+      "Banxico recorta tasa a 6.50% el 7 de mayo de 2026 y ajusta pronóstico 2026 a 1.1%",
+      "BBVA Research ajusta a 1.2% el crecimiento 2026 por debilidad de maquinaria y equipo"
+    ],
+    "dataSources": ["INEGI", "Banco de México", "México ¿Cómo Vamos?", "IMCO", "BBVA Research", "Presidencia de la República"],
+    "covered": true,
+    "publishedDate": "2026-06-25",
+    "publishedSlug": "inversion-fija-bruta-mexico-descenso-2024-2026"
   }
 ]
