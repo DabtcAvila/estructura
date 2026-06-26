@@ -916,5 +916,25 @@
     "covered": true,
     "publishedDate": "2026-06-25",
     "publishedSlug": "inversion-fija-bruta-mexico-descenso-2024-2026"
+  },
+  {
+    "id": "jovenes-construyendo-futuro-balance-constitucional-2026",
+    "title": "Jóvenes Construyendo el Futuro: balance del programa a siete años y la consolidación constitucional de 2025",
+    "category": "laboral",
+    "description": "Análisis del JCF en 2026: elevación a rango constitucional, monto de 9,582 pesos, padrón de 3.4 millones, auditorías de la ASF y persistencia del fenómeno NEET.",
+    "keyPoints": [
+      "Lineamientos DOF 10-ene-2019 y reforma constitucional al artículo 123 publicada en DOF el 1-abr-2025",
+      "Reglas de Operación 2026 publicadas en DOF el 31-dic-2025 con beca mensual de 9,582.47 pesos",
+      "Presupuesto S-280 del PEF 2026 por 25,173 mdp y meta de atención de 500 mil personas",
+      "Padrón histórico de 3,423,461 personas con 58% de mujeres e inversión acumulada de 158 mil mdp",
+      "Auditoría ASF 2022-0-14100-19-0359 con 5.11 mdp por aviadores y 175 mdp de irregularidades acumuladas en cuatro ciclos",
+      "Tasa NEET de 18.9% para jóvenes 15-29 al cierre de 2025 según INEGI, equivalente a 3.7 millones",
+      "OCDE Education at a Glance 2025: tasa NEET femenina de 25.7%, segunda más alta del bloque",
+      "Transición evaluadora de CONEVAL al INEGI tras la extinción del consejo en julio de 2025"
+    ],
+    "dataSources": ["DOF", "Cámara de Diputados", "STPS", "ASF", "CONEVAL", "INEGI", "OCDE", "Senado"],
+    "covered": true,
+    "publishedDate": "2026-06-26",
+    "publishedSlug": "jovenes-construyendo-futuro-balance-constitucional-2026"
   }
 ]
