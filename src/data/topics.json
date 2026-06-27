@@ -936,5 +936,27 @@
     "covered": true,
     "publishedDate": "2026-06-26",
     "publishedSlug": "jovenes-construyendo-futuro-balance-constitucional-2026"
+  },
+  {
+    "id": "cstnrh-2024-trabajo-no-remunerado-hogares-mexico",
+    "title": "Cuenta Satélite del Trabajo No Remunerado de los Hogares 2024: arquitectura, lectura de género y la agenda del cuidado en 2026",
+    "category": "datos",
+    "description": "Análisis de la CSTNRH 2024 del INEGI publicada el 25 de noviembre de 2025: valor económico equivalente a 23.9% del PIB (26.3% con cuidados emocionales), 8 billones de pesos, distribución 72.6%-27.4% entre mujeres y hombres, brecha de 21.5 horas semanales según ENUT 2024 y articulación con el Anexo Transversal 31 del PEF 2026 y la reforma pendiente al derecho al cuidado.",
+    "keyPoints": [
+      "CSTNRH 2024 publicada por el INEGI el 25 de noviembre de 2025 con valor de 8 billones de pesos equivalente a 23.9% del PIB",
+      "Cálculo extendido con cuidados emocionales equivalente a 26.3% del PIB",
+      "Mujeres aportan 72.6% del valor económico y hombres 27.4% (relación de 2.7 a 1)",
+      "Valor económico anual promedio de 60,379 pesos por persona, 82,339 para mujeres y 34,695 para hombres",
+      "ENUT 2024 (Reporte de Resultados 29/25, agosto de 2025): mujeres 39.7 horas semanales en TNRH, hombres 18.2, brecha de 21.5 horas",
+      "Composición funcional: cuidados y apoyo, limpieza y mantenimiento, alimentación, compras y administración, ayuda a otros hogares y voluntariado",
+      "Concentración geográfica en Estado de México (11.6%), CDMX (6.7%), Jalisco (6.6%), Veracruz (6.3%) y Nuevo León (5.6%)",
+      "Anexo Transversal 31 del PEF 2026 por 466,674 mdp (1.21% del PIB) y caída de 18.6% real en programas con objetivos directos de cuidado",
+      "Reforma constitucional a los artículos 4 y 73 pendiente en el Senado y rezago en la ratificación de los Convenios 156 y 183 de la OIT",
+      "Comparativo regional CEPAL-OIT: 15.9% a 27.6% del PIB en América Latina con 74% del esfuerzo realizado por mujeres"
+    ],
+    "dataSources": ["INEGI", "ENUT", "ENOE", "CEPAL", "OIT", "CIEP", "Senado", "DOF"],
+    "covered": true,
+    "publishedDate": "2026-06-27",
+    "publishedSlug": "cstnrh-2024-trabajo-no-remunerado-hogares-mexico"
   }
 ]
