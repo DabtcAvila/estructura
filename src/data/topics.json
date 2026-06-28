@@ -958,5 +958,25 @@
     "covered": true,
     "publishedDate": "2026-06-27",
     "publishedSlug": "cstnrh-2024-trabajo-no-remunerado-hogares-mexico"
+  },
+  {
+    "id": "cuota-social-sar-arquitectura-redistributiva-aportacion-estado-2026",
+    "title": "Cuota social del SAR: arquitectura redistributiva y aporte del Estado a la cuenta individual a 2026",
+    "category": "pensiones",
+    "description": "Análisis de la cuota social del SAR mexicano: instrumento redistributivo de la cuenta individual, escalonamiento por SBC tras la reforma de 2020 y aporte estatal.",
+    "keyPoints": [
+      "Artículo 168 fracción IV de la LSS y diseño original de 1997 con monto fijo actualizado por INPC",
+      "Reforma DOF 16-dic-2020 que escalonó la cuota social por tramos de UMA y la anuló por encima de 4 UMA",
+      "Trayectoria 2023-2030 de la tasa total CEAV de 6.5% a 15% del SBC con incremento absorbido por la cuota patronal escalonada",
+      "UMA 2026 en 117.31 pesos diarios y umbral superior de la cuota social en 469.24 pesos diarios de SBC",
+      "Operación a través del IMSS, SUA y abono en la subcuenta de la cuenta individual administrada por la Afore",
+      "Articulación con la Pensión Mínima Garantizada del artículo 170 LSS, la PBAM constitucional y el Fondo de Pensiones para el Bienestar (DOF 30-abr-2024)",
+      "Densidad de cotización observada de 40 a 47 por ciento en la Generación Afore como límite estructural del beneficio",
+      "Informalidad ENOE de 55.0 por ciento en el 4T 2025 como barrera al aprovechamiento del instrumento"
+    ],
+    "dataSources": ["DOF", "CONSAR", "IMSS", "SHCP", "CIEP", "AMAFORE", "OCDE", "INEGI", "ENOE"],
+    "covered": true,
+    "publishedDate": "2026-06-28",
+    "publishedSlug": "cuota-social-sar-arquitectura-redistributiva-aportacion-estado-2026"
   }
 ]
