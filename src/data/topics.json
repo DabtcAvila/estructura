@@ -978,5 +978,25 @@
     "covered": true,
     "publishedDate": "2026-06-28",
     "publishedSlug": "cuota-social-sar-arquitectura-redistributiva-aportacion-estado-2026"
+  },
+  {
+    "id": "prima-antiguedad-mexico-articulo-162-lft-tope-uma-2026",
+    "title": "Prima de antigüedad en México: arquitectura del artículo 162 de la LFT, tope de dos UMA y cobertura efectiva a 2026",
+    "category": "laboral",
+    "description": "Análisis de la prima de antigüedad de la LFT: arquitectura del artículo 162, jurisprudencia de la Segunda Sala SCJN sobre el tope de dos UMA tras la desindexación constitucional de 2016, articulación con la indemnización del artículo 50, salarios caídos topados del 48 y exención fiscal del 93 LISR, con cobertura efectiva acotada por la informalidad reportada en la ENOE 4T 2025.",
+    "keyPoints": [
+      "Origen del artículo 162 LFT en la codificación de 1970 sin antecedente en la LFT de 1931",
+      "Hechos generadores: separación voluntaria con 15 años, separación con causa, despido, rescisión y fallecimiento",
+      "Cuantía: doce días de salario por año con tope salarial por aplicación de los artículos 485 y 486",
+      "Jurisprudencia de la Segunda Sala SCJN sobre el tope de dos UMA tras la desindexación constitucional de 2016",
+      "Aritmética 2026: UMA 117.31 y tope de 234.62 pesos diarios por debajo del salario mínimo general 315.04 y de la ZLFN 470.45",
+      "Articulación con la indemnización del artículo 50 LFT, los salarios caídos topados del 48 y la exención fiscal del 93 LISR a 90 UMA por año",
+      "Cobertura efectiva acotada por la informalidad de 55.0% en el 4T 2025 (Boletín 97/26 INEGI)",
+      "México sin ratificación del Convenio 158 de la OIT sobre la terminación de la relación de trabajo"
+    ],
+    "dataSources": ["DOF", "SCJN", "INEGI", "ENOE", "CONASAMI", "STPS", "PROFEDET", "OIT", "SAT"],
+    "covered": true,
+    "publishedDate": "2026-06-29",
+    "publishedSlug": "prima-antiguedad-mexico-articulo-162-lft-tope-uma-2026"
   }
 ]
