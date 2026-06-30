@@ -998,5 +998,26 @@
     "covered": true,
     "publishedDate": "2026-06-29",
     "publishedSlug": "prima-antiguedad-mexico-articulo-162-lft-tope-uma-2026"
+  },
+  {
+    "id": "enif-2024-pnif-2025-2030-inclusion-financiera-mexico",
+    "title": "ENIF 2024 y la Política Nacional de Inclusión Financiera 2025-2030: línea base y arquitectura para una década decisiva",
+    "category": "datos",
+    "description": "Análisis del quinto levantamiento de la ENIF (INEGI-CNBV, marzo de 2025) y de la PNIF 2025-2030 presentada por el CONAIF el 26 de noviembre de 2025: tenencia agregada de 76.5%, brechas de género y regionales, digitalización del canal y arquitectura de las 125 líneas de acción de la nueva política.",
+    "keyPoints": [
+      "Reporte de Resultados 7/25 de la ENIF 2024 publicado por INEGI y CNBV el 13 de marzo de 2025",
+      "Tenencia de producto financiero en 76.5% de la población de 18 a 70 años (+8.1 pp vs 2015)",
+      "Brecha de género nacional de 8.1 pp y brecha regional noreste-sur de 17.2 pp",
+      "Cuenta de ahorro formal en 63.0%, crédito en 37.3%, seguros en 22.9% y afore en 42.2%",
+      "Uso de aplicación móvil pasa de 54.3% a 69.1% entre 2021 y 2024",
+      "Conocimiento de CoDi en 38.0% y de DiMo en 18.5%",
+      "PNIF 2025-2030 presentada por CONAIF el 26-nov-2025 mediante comunicado No. 027 de la CNBV",
+      "24 indicadores, 26 estrategias y 125 líneas de acción; metas a 83% de adultos y 50% de empresas con financiamiento",
+      "Comparativo con Global Findex 2025 (Banco Mundial) y referencia a la ENEF 2025-2030"
+    ],
+    "dataSources": ["INEGI", "CNBV", "CONAIF", "SHCP", "Banco Mundial", "BBVA Research", "ENIF", "ENAFIN"],
+    "covered": true,
+    "publishedDate": "2026-06-30",
+    "publishedSlug": "enif-2024-pnif-2025-2030-inclusion-financiera-mexico"
   }
 ]
