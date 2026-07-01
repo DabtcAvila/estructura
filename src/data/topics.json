@@ -1019,5 +1019,27 @@
     "covered": true,
     "publishedDate": "2026-06-30",
     "publishedSlug": "enif-2024-pnif-2025-2030-inclusion-financiera-mexico"
+  },
+  {
+    "id": "apartado-b-articulo-123-servidores-publicos-lftse-reforma-2025",
+    "title": "Apartado B del artículo 123 y LFTSE: arquitectura del régimen burocrático mexicano y balance tras las reformas de 2024-2025",
+    "category": "laboral",
+    "description": "Análisis del régimen laboral burocrático en México: apartado B constitucional, LFTSE, TFCA, reforma constitucional de simplificación orgánica del 20 de diciembre de 2024 y reforma a la LFTSE del 15 de diciembre de 2025 sobre libertad sindical, en contraste con la reforma laboral de 2019 del Apartado A y el Convenio 151 de la OIT.",
+    "keyPoints": [
+      "Adición del Apartado B al artículo 123 constitucional por reforma DOF 5-dic-1960 y LFTSE reglamentaria DOF 28-dic-1963",
+      "Distinción entre trabajadores de base y de confianza (artículo 5 LFTSE) y estabilidad relativa vs plena",
+      "Condiciones Generales de Trabajo (arts. 87 y 88 LFTSE) con fijación unilateral y revisión trienal",
+      "Sindicato único por dependencia (art. 68 LFTSE) y prohibición de reelección inmediata; huelga acotada",
+      "Aguinaldo de 40 días del art. 42 Bis LFTSE frente a 15 días del art. 87 LFT",
+      "TFCA como órgano administrativo tripartita y asimetría con los tribunales laborales del PJF creados por reforma DOF 24-feb-2017 y ley reglamentaria DOF 1-may-2019",
+      "Reforma constitucional DOF 20-dic-2024 de simplificación orgánica: modifica art. 123 Apartado B fracc. XII y canaliza economías al Fondo de Pensiones para el Bienestar",
+      "Reforma LFTSE DOF 15-dic-2025 introduce el art. 69 Bis con prohibición de intervención de funcionarios en la vida sindical",
+      "1,574,971 servidores públicos federales al cierre de 2022 según CNGF 2023 del INEGI",
+      "México ha ratificado el Convenio 87 pero no el Convenio 151 de la OIT sobre relaciones de trabajo en la administración pública"
+    ],
+    "dataSources": ["DOF", "Cámara de Diputados", "TFCA", "INEGI", "CNGF", "OIT", "CNDH", "STPS", "SCJN"],
+    "covered": true,
+    "publishedDate": "2026-07-01",
+    "publishedSlug": "apartado-b-articulo-123-servidores-publicos-lftse-reforma-2025"
   }
 ]
