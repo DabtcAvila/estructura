@@ -1041,5 +1041,27 @@
     "covered": true,
     "publishedDate": "2026-07-01",
     "publishedSlug": "apartado-b-articulo-123-servidores-publicos-lftse-reforma-2025"
+  },
+  {
+    "id": "traspasos-afores-regimen-dispersion-irn-2026",
+    "title": "Traspasos entre AFOREs: régimen regulatorio, comportamiento del ahorrador y dispersión del IRN en 2026",
+    "category": "pensiones",
+    "description": "Análisis del régimen de traspasos del SAR mexicano en 2026: marco del artículo 74 de la Ley SAR, Expediente Electrónico Único, récord de 2025 y dispersión del IRN.",
+    "keyPoints": [
+      "Artículo 74 de la Ley SAR: permanencia mínima anual y tres excepciones (régimen de inversión, comisiones y fusión/disolución)",
+      "Ventana semestral por mayor IRN y plazo operativo de hasta 20 días hábiles",
+      "Expediente Electrónico Único vigente desde 2 de marzo de 2015 y biométrico desde mayo de 2016",
+      "78,001,195 cuentas totales al cierre de 2025 y 8.3 billones de pesos administrados (23.8% del PIB)",
+      "Plusvalías récord de 1.14 billones de pesos en 2025 según AMAFORE",
+      "Récord de 1,924,761 traspasos acumulados entre enero y noviembre de 2025 (+15.7% vs total 2024)",
+      "IRN a abril de 2026: Profuturo lidera 9 de 10 SIEFOREs generacionales, Coppel en Básica de Pensiones",
+      "Comisiones 2026 autorizadas por la Junta de Gobierno CONSAR del 21 de noviembre de 2025: 0.54% en nueve AFOREs y 0.52% en PENSIONISSSTE",
+      "Ahorro estimado de 6,900 mdp en 2026 y 214 mil mdp acumulados a 2031 por la trayectoria descendente de comisiones",
+      "Tasa efectiva de rotación anual entre 2.7% y 3.0% y persistencia de la gestoría irregular"
+    ],
+    "dataSources": ["Cámara de Diputados", "CONSAR", "AMAFORE", "DOF", "OCDE", "La Jornada"],
+    "covered": true,
+    "publishedDate": "2026-07-02",
+    "publishedSlug": "traspasos-afores-regimen-dispersion-irn-2026"
   }
 ]
