@@ -1083,5 +1083,27 @@
     "covered": true,
     "publishedDate": "2026-07-03",
     "publishedSlug": "confianza-consumidor-mexico-icc-2024-2026-desaceleracion"
+  },
+  {
+    "id": "fovissste-arquitectura-regimen-vivienda-issste-programa-credito-2026",
+    "title": "FOVISSSTE: arquitectura del régimen de vivienda del ISSSTE, Programa de Crédito 2026 y la nueva facultad constructora",
+    "category": "pensiones",
+    "description": "Análisis del FOVISSSTE en 2026: marco legal desde 1972, subcuenta de vivienda del SAR, Programa de Crédito 2026 y la reforma a la Ley de Vivienda que habilita la edificación directa.",
+    "keyPoints": [
+      "Decreto de creación en el DOF del 28 de diciembre de 1972 y reforma constitucional del 10 de noviembre de 1972 al Apartado B, fracción XI del artículo 123",
+      "Reforma a la Ley del ISSSTE (DOF 31-mar-2007): régimen de cuentas individuales, subcuenta de vivienda dentro del SAR y sustitución del sorteo por el Sistema de Puntaje del artículo 179",
+      "Aportación patronal del 5% del SBC bimestral, carácter patrimonial e inalienable de la subcuenta y descuento operativo del 30% del salario base en el Crédito Tradicional",
+      "Programa de Crédito 2026 aprobado por la Junta Directiva del ISSSTE y publicado en el DOF el 5 de enero de 2026: 42,768 financiamientos y 35,497 mdp",
+      "FOVISSSTE Mujeres: 9,400 mdp con tasa preferencial de 2% a 3.5% y monto promedio colocado en 2026 de 1,156,533 pesos",
+      "Ejercicio 2025: 17,000 créditos por 18,768 mdp (51% de la meta), caída de 14% en volumen y 9.3% real en financiamiento total",
+      "Morosidad TFOVICB 15U en 16.4% al cierre de diciembre de 2025 (vs 14.0% en diciembre de 2024) según reporte HR Ratings del 20 de enero de 2026",
+      "Reforma a la Ley de Vivienda (DOF 29-abr-2026) que habilita edificación, rehabilitación y arrendamiento directo, con salvaguarda del patrimonio individual",
+      "Contraste con INFONAVIT: FOVISSSTE cayó de 20.9 mil a 16.5 mil créditos entre 2024 y 2025 frente a estabilidad en 530 mil créditos del INFONAVIT",
+      "Reservas del IMCO por ausencia de proyección de impacto financiero y operativo previa a la aprobación de la reforma"
+    ],
+    "dataSources": ["DOF", "ISSSTE", "FOVISSSTE", "CNBV", "HR Ratings", "Banco de México", "IMCO", "Expansión"],
+    "covered": true,
+    "publishedDate": "2026-07-04",
+    "publishedSlug": "fovissste-arquitectura-regimen-vivienda-issste-2026"
   }
 ]
