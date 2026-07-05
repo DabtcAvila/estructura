@@ -1105,5 +1105,27 @@
     "covered": true,
     "publishedDate": "2026-07-04",
     "publishedSlug": "fovissste-arquitectura-regimen-vivienda-issste-2026"
+  },
+  {
+    "id": "nom-035-riesgos-psicosociales-balance-seis-anos-2026",
+    "title": "NOM-035-STPS-2018 a seis años: arquitectura de los riesgos psicosociales, implementación por fases y agenda 2026",
+    "category": "laboral",
+    "description": "Balance a seis años de la NOM-035-STPS-2018: fundamento en la LFT y el RFSST, aplicación por fases y por tamaño de centro de trabajo, guías de referencia, régimen de inspección STPS y articulación con el SRT del IMSS y el Convenio 190 de la OIT.",
+    "keyPoints": [
+      "Publicación de la NOM-035-STPS-2018 en el DOF el 23 de octubre de 2018",
+      "Fase 1 exigible desde el 23 de octubre de 2019 y Fase 2 desde el 23 de octubre de 2020",
+      "Escalonamiento tripartito por tamaño: hasta 15, 16-50 y más de 50 personas trabajadoras",
+      "Cinco Guías de Referencia (I a V) como instrumento técnico de identificación y evaluación",
+      "Fundamento en artículos 132 y 994 fracción V de la LFT y en el RFSST del 13 de noviembre de 2014",
+      "Multas de 250 a 5,000 UMA por trabajador afectado (29,327.50 a 586,550 pesos con UMA 2026 de 117.31)",
+      "Reforma DOF 4-dic-2023 a las tablas del artículo 513 LFT: 194 padecimientos e incorporación de trastornos mentales",
+      "Ratificación del Convenio 190 de la OIT (depósito 6-jul-2022, vigencia 6-jul-2023) y directrices OMS-OIT de septiembre de 2022",
+      "Universo de 5.47 millones de unidades económicas (Censos Económicos 2024) con 95.4% de microempresas",
+      "Comparativos con la Ley 31/1995 de España, la Ley 21.643 (Karin) de Chile y la Directiva 89/391/CEE"
+    ],
+    "dataSources": ["DOF", "STPS", "Cámara de Diputados", "IMSS", "OIT", "OMS", "INEGI", "OCDE"],
+    "covered": true,
+    "publishedDate": "2026-07-05",
+    "publishedSlug": "nom-035-riesgos-psicosociales-balance-seis-anos-2026"
   }
 ]
