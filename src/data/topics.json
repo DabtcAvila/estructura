@@ -1127,5 +1127,26 @@
     "covered": true,
     "publishedDate": "2026-07-05",
     "publishedSlug": "nom-035-riesgos-psicosociales-balance-seis-anos-2026"
+  },
+  {
+    "id": "salario-base-cotizacion-imss-articulo-27-tope-uma-2026",
+    "title": "Salario Base de Cotización del IMSS: arquitectura del artículo 27, tope de 25 UMA y controversias jurisprudenciales a 2026",
+    "category": "pensiones",
+    "description": "Análisis del SBC del IMSS: integración del artículo 27 LSS, exclusiones tasadas, tope de 25 UMA en 2026, radiografía del padrón cotizante y jurisprudencia de la SCJN sobre el tope pensionario de la Ley 73.",
+    "keyPoints": [
+      "Artículo 27 de la LSS: regla general amplia y siete exclusiones tasadas",
+      "Tope superior de 25 UMA del artículo 28 equivalente a 2,932.75 pesos diarios en 2026",
+      "UMA 2026 fijada por el INEGI en 117.31 pesos diarios (DOF 9-ene-2026)",
+      "Padrón IMSS abril 2025: 22.4 millones de puestos afiliados y SBC promedio de 621.9 pesos diarios",
+      "Criterio Normativo 02/2023 sobre premios de asistencia y puntualidad (DOF 7-jul-2023)",
+      "Criterio Normativo 01/2024 sobre prestaciones en materia de teletrabajo (DOF 22-mar-2024)",
+      "Escalamiento del CEAV hacia 15% del SBC en 2030 por reforma DOF 16-dic-2020",
+      "Jurisprudencia 2a./J. 85/2010 y 2a./J. 164/2019 de la SCJN sobre tope de 10 salarios mínimos en pensiones Ley 73",
+      "Régimen sancionatorio del artículo 304 LSS con multas de 40% a 100% de conceptos omitidos"
+    ],
+    "dataSources": ["Cámara de Diputados", "DOF", "IMSS", "INEGI", "SCJN", "CONASAMI", "CONSAR"],
+    "covered": true,
+    "publishedDate": "2026-07-06",
+    "publishedSlug": "salario-base-cotizacion-imss-articulo-27-tope-uma-2026"
   }
 ]
