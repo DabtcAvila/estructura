@@ -1168,5 +1168,25 @@
     "covered": true,
     "publishedDate": "2026-07-07",
     "publishedSlug": "sistema-indicadores-ciclicos-inegi-coincidente-adelantado-2026"
+  },
+  {
+    "id": "rotacion-laboral-imss-densidad-empleo-formal-mexico-2026",
+    "title": "Rotación laboral y densidad del empleo formal en el IMSS: la fricción del mercado laboral mexicano a 2026",
+    "category": "laboral",
+    "description": "Análisis de la rotación laboral en el empleo formal IMSS, sus determinantes estructurales y su efecto sobre la densidad de cotización del SAR a mediados de 2026.",
+    "keyPoints": [
+      "Distinción entre saldo neto y flujo bruto de altas y bajas en el padrón IMSS",
+      "Padrón de 22.7 millones de puestos afiliados al cierre de abril de 2026",
+      "Panel rotatorio de la ENOE y matrices de transición entre formalidad, informalidad y desocupación",
+      "Concentración de la rotación en comercio, servicios y construcción; menor rotación en manufactura de exportación",
+      "Determinantes: contratos de duración determinada, estacionalidad, ciclo y transiciones hacia la informalidad",
+      "Vínculo con la densidad de cotización promedio de 40-47% documentada por CONSAR",
+      "Efecto sobre la tasa de reemplazo pese al escalamiento CEAV a 15% del SBC en 2030",
+      "Agenda 2026: Programa Sectorial de Trabajo 2025-2030, reformas de plataformas y trabajo del hogar, revisión T-MEC"
+    ],
+    "dataSources": ["IMSS", "INEGI", "ENOE", "STPS", "CONSAR", "OCDE", "CIEP", "Banco de México", "DOF"],
+    "covered": true,
+    "publishedDate": "2026-07-08",
+    "publishedSlug": "rotacion-laboral-imss-densidad-empleo-formal-mexico-2026"
   }
 ]
