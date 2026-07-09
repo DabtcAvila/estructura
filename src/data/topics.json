@@ -1188,5 +1188,26 @@
     "covered": true,
     "publishedDate": "2026-07-08",
     "publishedSlug": "rotacion-laboral-imss-densidad-empleo-formal-mexico-2026"
+  },
+  {
+    "id": "seguro-desempleo-mexico-cdmx-rezago-federal-2026",
+    "title": "Seguro de desempleo en México: el modelo de la CDMX, el rezago federal y la agenda 2026",
+    "category": "laboral",
+    "description": "Análisis del seguro de desempleo en México: modelo local de la CDMX desde 2008, ausencia de esquema federal, retiros parciales del SAR como sustituto imperfecto, no ratificación del Convenio 168 de la OIT y agenda legislativa 2026.",
+    "keyPoints": [
+      "Ley de Protección y Fomento al Empleo para el DF publicada en la GODF el 8 de octubre de 2008",
+      "Prestación equivalente a 30 días de salario mínimo por hasta 6 meses, una vez cada dos años",
+      "México ratificó el Convenio 102 de la OIT en 1961 sin aceptar la Parte IV sobre desempleo y no ha depositado el Convenio 168 de 1988",
+      "Retiros parciales por desempleo del SAR (art. 191 LSS): récord 2025 de 39,118 mdp y 1.94 millones de operaciones según CONSAR",
+      "Descuento de semanas de cotización del art. 198 LSS y su efecto sobre la Pensión Garantizada",
+      "Referentes latinoamericanos: Chile (Ley 19.728, 2001), Uruguay (Ley 15.180, 1981), Argentina (Ley 24.013, 1991), Brasil (Ley 7.998, 1990 y FGTS 1966)",
+      "Iniciativa federal de 2013 aprobada en Diputados sin dictamen en el Senado y propuestas de las LXV y LXVI Legislaturas",
+      "Reforma al artículo 191 LSS aprobada por unanimidad en Diputados el 23 de junio de 2025",
+      "Informalidad de 55.0% en 4T 2025 según Boletín 97/26 del INEGI como límite estructural de la protección"
+    ],
+    "dataSources": ["DOF", "GODF", "GOCDMX", "OIT", "CONSAR", "INEGI", "ENOE", "OCDE", "CEPAL", "Cámara de Diputados"],
+    "covered": true,
+    "publishedDate": "2026-07-09",
+    "publishedSlug": "seguro-desempleo-mexico-cdmx-rezago-federal-2026"
   }
 ]
