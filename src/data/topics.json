@@ -1209,5 +1209,26 @@
     "covered": true,
     "publishedDate": "2026-07-09",
     "publishedSlug": "seguro-desempleo-mexico-cdmx-rezago-federal-2026"
+  },
+  {
+    "id": "planes-personales-retiro-ppr-pilar-complementario-2026",
+    "title": "Planes Personales de Retiro en México: régimen fiscal, mercado y pilar complementario del SAR a 2026",
+    "category": "pensiones",
+    "description": "Diagnóstico de los Planes Personales de Retiro (PPR) en México: régimen fiscal del artículo 151 fracción V LISR, topes UMA 2026, mercado asegurador y comparativo con planes ocupacionales SIREPP.",
+    "keyPoints": [
+      "Artículo 151 fracción V LISR: definición del PPR y tope de 10% del ingreso o 5 UMA anuales",
+      "Valor UMA 2026 en 117.31 pesos diarios y 42,794.64 anuales según INEGI (DOF 9-ene-2026)",
+      "Tope de deducción compartido con aportaciones voluntarias en AFORE por 213,973.20 pesos",
+      "Retención del 20% por retiro anticipado y exención de 90 UMA anuales (art. 171 Reglamento LISR)",
+      "Requisitos SAT: institución autorizada, CFDI y aportaciones en el ejercicio fiscal",
+      "Mercado dominado por aseguradoras (Allianz, AXA, GNP, MetLife, Principal, Skandia, Seguros Monterrey NYL)",
+      "SIREPP CONSAR octubre 2025: 3,222 planes ocupacionales inscritos por 2,938 empresas patrocinadoras",
+      "ENIF 2024: 45% de adultos <60 con cuenta de ahorro para retiro y brecha de género de 17 pp",
+      "Concentración del beneficio fiscal en deciles superiores y agenda de actualización del tope UMA"
+    ],
+    "dataSources": ["Cámara de Diputados", "SAT", "INEGI", "DOF", "CONSAR", "CNBV", "OCDE", "CNSF", "ENIF"],
+    "covered": true,
+    "publishedDate": "2026-07-10",
+    "publishedSlug": "planes-personales-retiro-mexico-pilar-complementario-sar-2026"
   }
 ]
