@@ -1209,5 +1209,26 @@
     "covered": true,
     "publishedDate": "2026-07-09",
     "publishedSlug": "seguro-desempleo-mexico-cdmx-rezago-federal-2026"
+  },
+  {
+    "id": "ahorro-solidario-issste-articulo-100-arquitectura-2026",
+    "title": "Ahorro solidario del ISSSTE: arquitectura del artículo 100 y la palanca 3.25×1 en 2026",
+    "category": "pensiones",
+    "description": "Análisis del artículo 100 de la Ley del ISSSTE: elegibilidad, aportación 3.25×1 de la dependencia, tope de 6.5% del sueldo básico, régimen fiscal y cobertura efectiva en 2026.",
+    "keyPoints": [
+      "Artículo 100 de la Ley del ISSSTE (DOF 31-mar-2007) exclusivo del régimen de cuentas individuales",
+      "Aportación del trabajador de 1% o 2% del sueldo básico del tabulador regional",
+      "Aportación de la dependencia de 3.25 pesos por cada peso del trabajador con tope de 6.5% del sueldo básico",
+      "Flujo agregado máximo de 8.5% del sueldo básico y subcuenta específica dentro de la cuenta individual",
+      "Liquidez tasada: renta vitalicia, retiro programado o retiro del remanente por encima del 30% de la Pensión Garantizada",
+      "Deducibilidad bajo el artículo 151, fracción V, de la Ley del Impuesto sobre la Renta y comunicado SAT 020/2022",
+      "PENSIONISSSTE con comisión de 0.52% en 2026 y Remanente de Operación 2025 por 1,125 mdp a 1,063,275 cuentahabientes",
+      "Padrón ISSSTE 2024: 13.9 millones de derechohabientes, 3.2 millones de trabajadores activos y 1.3 millones de pensionados",
+      "Iniciativa de 2023 en la Cámara de Diputados para elevar el tope de aportación del trabajador a 4%"
+    ],
+    "dataSources": ["DOF", "Cámara de Diputados", "CONSAR", "PENSIONISSSTE", "ISSSTE", "SAT", "CIEP", "OCDE"],
+    "covered": true,
+    "publishedDate": "2026-07-11",
+    "publishedSlug": "ahorro-solidario-issste-articulo-100-arquitectura-2026"
   }
 ]
