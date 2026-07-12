@@ -1230,5 +1230,26 @@
     "covered": true,
     "publishedDate": "2026-07-11",
     "publishedSlug": "ahorro-solidario-issste-articulo-100-arquitectura-2026"
+  },
+  {
+    "id": "csssm-2024-sector-salud-arquitectura-brecha-ocde-2026",
+    "title": "Cuenta Satélite del Sector Salud de México 2024: arquitectura, 5.2% del PIB y la brecha estructural frente a la OCDE",
+    "category": "datos",
+    "description": "Lectura estructural de la CSSSM 2024 del INEGI: arquitectura metodológica alineada con SHA 2011, PIB del sector salud en 5.2%, aportación pública de 2.2%, gasto de bolsillo dominante en 800,733 mdp y brecha comparada con el Panorama de la Salud 2025 de la OCDE.",
+    "keyPoints": [
+      "Comunicado INEGI del 8 de diciembre de 2025 con resultados de la CSSSM 2024",
+      "PIB del sector salud de 1,750,925 mdp equivalente a 5.2% del PIB total y +1.6% real anual",
+      "Composición del PIB: 2.2% público, 2.0% privado y 0.9% Trabajo No Remunerado en Cuidados de Salud",
+      "Actividades: servicios hospitalarios 25.8%, consultorios 18.8%, conexos 17.7% y TNRS 18.2%",
+      "Aportación total de hogares por 1.12 billones y gasto directo por 800,733 mdp, +7% nominal",
+      "Estructura del gasto de bolsillo: medicamentos 45.4%, bienes de apoyo 18.3%, consultas 15.3% y hospitalarios 14.9%",
+      "2,191,339 puestos remunerados equivalentes a 5.4% del empleo total",
+      "OCDE Health at a Glance 2025: gasto total 5.9% PIB (México) vs 9.3% OCDE y gasto público de 2.8% del PIB, el más bajo del bloque",
+      "PEF 2026: IMSS-Bienestar por 172,492 mdp y presupuesto agregado sin seguridad social de 307 mmdp (-0.5% real)"
+    ],
+    "dataSources": ["INEGI", "CSSSM", "OCDE", "SHA 2011", "DOF", "CIEP", "México Evalúa", "IMSS-Bienestar", "Cámara de Diputados"],
+    "covered": true,
+    "publishedDate": "2026-07-12",
+    "publishedSlug": "cuenta-satelite-sector-salud-mexico-2024-arquitectura-brecha-ocde"
   }
 ]
