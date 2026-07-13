@@ -1251,5 +1251,25 @@
     "covered": true,
     "publishedDate": "2026-07-12",
     "publishedSlug": "cuenta-satelite-sector-salud-mexico-2024-arquitectura-brecha-ocde"
+  },
+  {
+    "id": "infonacot-arquitectura-credito-consumo-laboral-balance-2026",
+    "title": "INFONACOT: arquitectura del crédito al consumo laboral, obligación patronal y balance del récord 2025-2026",
+    "category": "laboral",
+    "description": "Análisis del Instituto FONACOT como organismo descentralizado del ámbito laboral: marco legal vigente, obligación patronal de afiliación, tope del 20% de descuento y récord de colocación 2025-2026.",
+    "keyPoints": [
+      "Ley del Instituto FONACOT DOF 24-abr-2006: transformación de fideicomiso 1974 a organismo público descentralizado sectorizado a STPS",
+      "LFT artículo 132 fracción XXVI Bis (DOF 30-nov-2012) que obliga a la afiliación patronal gratuita",
+      "Reforma DOF 4-abr-2024 al artículo 994 fracción III: multa de 50 a 1,500 UMA (aprox. 5,866 a 175,965 pesos en 2026)",
+      "Topes de descuento vía nómina: 20% del salario (art. 110 LFT) y 10% para salario mínimo (art. 97 LFT)",
+      "Récord 2025: 2.1 millones de financiamientos por más de 65 mil mdp con 66% de acreditados en el rango de 1-2 salarios mínimos",
+      "Padrón patronal de 406,145 centros de trabajo a febrero de 2026 tras sumar 48,537 en 2025",
+      "Crédito Efectivo 2026 con tasa nominal 12.53-16.17% y CAT hasta 27.9% frente a CAT superior a 60% de la banca comercial",
+      "Crédito Mujer Efectivo con participación creciente de 38% a 41% en 2025 y tasa preferencial 8.90-16.27%"
+    ],
+    "dataSources": ["DOF", "STPS", "Instituto FONACOT", "INEGI", "CNBV", "ENIF", "Cámara de Diputados", "datos.gob.mx"],
+    "covered": true,
+    "publishedDate": "2026-07-13",
+    "publishedSlug": "infonacot-arquitectura-credito-consumo-laboral-balance-2026"
   }
 ]
