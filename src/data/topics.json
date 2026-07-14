@@ -1271,5 +1271,25 @@
     "covered": true,
     "publishedDate": "2026-07-13",
     "publishedSlug": "infonacot-arquitectura-credito-consumo-laboral-balance-2026"
+  },
+  {
+    "id": "salarios-caidos-articulo-48-lft-reforma-2012-justicia-laboral-2026",
+    "title": "Salarios caídos en México: la reforma de 2012 al artículo 48 de la LFT y su reconfiguración bajo la nueva justicia laboral",
+    "category": "laboral",
+    "description": "Análisis del artículo 48 de la LFT tras la reforma DOF 30-nov-2012: tope de 12 meses, intereses del 2% mensual sobre 15 meses de salario y su articulación con la reforma laboral de 2019.",
+    "keyPoints": [
+      "Reforma DOF 30-nov-2012 al segundo párrafo del artículo 48 LFT y entrada en vigor el 1 de diciembre de 2012",
+      "Tope de 12 meses de salarios caídos íntegros y sustitución del excedente por intereses del 2% mensual capitalizable sobre 15 meses de salario",
+      "Jurisprudencia 2a./J. 28/2016 (10a.) de la Segunda Sala de la SCJN, Contradicción de tesis 291/2015, que declara la constitucionalidad de la reforma",
+      "Contradicción de tesis 270/2019 y precisiones sobre causación y capitalización de intereses",
+      "Articulación con la reforma laboral de 2019 (DOF 1-may-2019) y las tres etapas de implementación (2020, 2021 y 2022)",
+      "Conciliación prejudicial obligatoria ante el CFCRL con plazo máximo de 45 días naturales",
+      "CFCRL: más de 60 mil conflictos federales atendidos en 2025 con índice de conciliación cercano al 75%",
+      "Comparativo con el Convenio 158 de la OIT (no ratificado por México) y sistemas iberoamericanos"
+    ],
+    "dataSources": ["DOF", "Cámara de Diputados", "SCJN", "STPS", "CFCRL", "OIT", "INEGI"],
+    "covered": true,
+    "publishedDate": "2026-07-14",
+    "publishedSlug": "salarios-caidos-articulo-48-lft-reforma-2012-justicia-laboral-2026"
   }
 ]
