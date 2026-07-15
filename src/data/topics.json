@@ -1291,5 +1291,25 @@
     "covered": true,
     "publishedDate": "2026-07-14",
     "publishedSlug": "salarios-caidos-articulo-48-lft-reforma-2012-justicia-laboral-2026"
+  },
+  {
+    "id": "retiro-matrimonio-articulo-165-lss-30-uma-2026",
+    "title": "Retiro por matrimonio del artículo 165 de la LSS: la ayuda de 30 UMA como beneficio residual del SAR en 2026",
+    "category": "pensiones",
+    "description": "Análisis del retiro por matrimonio del SAR: arquitectura legal del artículo 165 LSS, tránsito de salario mínimo a UMA tras la desindexación constitucional de 2016, monto de 3,519.30 pesos en 2026, evidencia estadística CONSAR 2023-2026 y contexto demográfico con la Estadística de Matrimonios 2024 del INEGI.",
+    "keyPoints": [
+      "Artículos 165 y 166 de la LSS y financiamiento con cargo a la cuota social del artículo 168, fracción IV",
+      "Requisitos operativos: 150 semanas de cotización en RCV, ejercicio por una sola vez y no registro previo de otro cónyuge beneficiario",
+      "Acuerdo ACDO.AS2.HCT.260623/161.P.DPES del H. Consejo Técnico del IMSS y trámite IMSS-01-009",
+      "Reforma constitucional de desindexación DOF 27-ene-2016 y tránsito de SMG a UMA desde 2017",
+      "UMA 2026 en 117.31 pesos diarios (Comunicado 1/26 INEGI) y beneficio equivalente a 3,519.30 pesos",
+      "Estadística CONSAR: 238 mdp y 79 mil operaciones en 2024, -5.5% en enero-septiembre 2025 y +5.9% anual en enero 2026",
+      "Concentración por AFORE con Coppel, Banamex y Sura como principales pagadoras",
+      "Estadística de Matrimonios 2024 INEGI: 486,645 matrimonios y 33.3 divorcios por cada 100 uniones"
+    ],
+    "dataSources": ["DOF", "Cámara de Diputados", "CONSAR", "IMSS", "INEGI", "PROFEDET"],
+    "covered": true,
+    "publishedDate": "2026-07-15",
+    "publishedSlug": "retiro-matrimonio-articulo-165-lss-30-uma-2026"
   }
 ]
