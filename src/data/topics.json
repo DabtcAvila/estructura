@@ -1311,5 +1311,25 @@
     "covered": true,
     "publishedDate": "2026-07-15",
     "publishedSlug": "retiro-matrimonio-articulo-165-lss-30-uma-2026"
+  },
+  {
+    "id": "snieg-inegi-arquitectura-institucional-agenda-2025-2030",
+    "title": "El SNIEG a 17 años de su Ley: arquitectura institucional del INEGI y la agenda estadística 2025-2030",
+    "category": "datos",
+    "description": "Análisis del Sistema Nacional de Información Estadística y Geográfica a 17 años de la Ley del SNIEG: autonomía constitucional del INEGI, secuencia PESNIEG-PNEG-PAEG, absorción del CONEVAL tras la reforma de simplificación orgánica y agenda estadística 2025-2030.",
+    "keyPoints": [
+      "Reforma constitucional al artículo 26 apartado B de 2006 y Ley del SNIEG DOF 16-abr-2008",
+      "Cuatro Subsistemas Nacionales de Información y Red Nacional con 1,816 registros en 2025",
+      "Junta de Gobierno del INEGI: cinco integrantes, presidencia sexenal desacoplada del ciclo presidencial y vicepresidencias escalonadas cada dos años",
+      "Instrumentos programáticos: PESNIEG 2022-2046 (DOF 23-dic-2022), PNEG 2025-2030 y PAEG anual",
+      "Reforma de simplificación orgánica DOF 20-dic-2024 y extinción de siete órganos autónomos",
+      "Leyes secundarias DOF 16-jul-2025 en vigor el 17 de julio: reformas a la LGDS, LFPRH y LGCG que traspasan al INEGI la medición de pobreza y la evaluación de la política social",
+      "Primera medición del INEGI: Pobreza Multidimensional 2024 con reducción de 46.8 a 38.5 millones de personas entre 2022 y 2024",
+      "PEF 2026: reducción de ~438 mdp al ramo INEGI y variación real cercana a -8% en la antesala del Censo de Población y Vivienda 2030 y de los Censos Económicos 2029"
+    ],
+    "dataSources": ["DOF", "INEGI", "SNIEG", "Cámara de Diputados", "Senado", "OCDE", "ENIGH"],
+    "covered": true,
+    "publishedDate": "2026-07-16",
+    "publishedSlug": "snieg-inegi-arquitectura-institucional-agenda-2025-2030"
   }
 ]
