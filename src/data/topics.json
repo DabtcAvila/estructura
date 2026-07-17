@@ -1331,5 +1331,28 @@
     "covered": true,
     "publishedDate": "2026-07-16",
     "publishedSlug": "snieg-inegi-arquitectura-institucional-agenda-2025-2030"
+  },
+  {
+    "id": "servicio-nacional-empleo-mexico-pae-balance-intermediador-2026",
+    "title": "Servicio Nacional de Empleo: arquitectura institucional, Programa de Apoyo al Empleo 2026 y balance del intermediador laboral público a 47 años de su creación",
+    "category": "laboral",
+    "description": "Análisis del SNE a 47 años de su creación: marco legal del Capítulo IV del Título Once de la LFT, red de 168 oficinas, Programa de Apoyo al Empleo 2026 publicado en DOF el 31 de diciembre de 2025, canales digitales (Portal del Empleo, OLA, SNETel) y balance 2018-2025 a la luz del Programa Sectorial de Trabajo 2025-2030.",
+    "keyPoints": [
+      "SNE creado en 1978 a partir de las reformas al Título Once, Capítulo IV, de la LFT (arts. 537 a 539-F)",
+      "Convenio 88 de la OIT sobre el servicio del empleo (1948) como marco internacional ratificado por México",
+      "Red operativa de 168 Oficinas del Servicio Nacional de Empleo distribuidas en las 32 entidades federativas",
+      "Reglas de Operación 2026 del Programa de Apoyo al Empleo publicadas en el DOF el 31 de diciembre de 2025",
+      "Subprograma de Intermediación Laboral (Consejería, Ferias, Concertación Empresarial y Mecanismo Movilidad Laboral) y Subprograma de Movilidad Laboral de Jornaleros Agrícolas",
+      "Portal del Empleo con motor basado en IA y promedio cercano a 200 mil vacantes diarias",
+      "SNETel operado en el 800 841 2020 y Observatorio Laboral (OLA) con indicadores por carrera",
+      "Colocación acumulada de más de 2.4 millones de personas entre diciembre de 2018 y marzo de 2025",
+      "Más de 500 mil colocaciones y más de 400 ferias con más de 100 mil vacantes en el ejercicio 2025",
+      "PTAT México-Canadá con más de 25 mil personas mexicanas participantes en la temporada 2025",
+      "Programa Sectorial de Trabajo y Previsión Social 2025-2030 publicado en DOF el 27 de noviembre de 2025"
+    ],
+    "dataSources": ["DOF", "STPS", "Cámara de Diputados", "OIT", "SRE", "INEGI", "ENOE", "IMSS"],
+    "covered": true,
+    "publishedDate": "2026-07-17",
+    "publishedSlug": "servicio-nacional-empleo-mexico-pae-balance-intermediador-2026"
   }
 ]
