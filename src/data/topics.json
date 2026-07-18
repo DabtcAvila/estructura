@@ -1354,5 +1354,25 @@
     "covered": true,
     "publishedDate": "2026-07-17",
     "publishedSlug": "servicio-nacional-empleo-mexico-pae-balance-intermediador-2026"
+  },
+  {
+    "id": "imcp-consumo-privado-mexico-2026-quince-meses-expansion",
+    "title": "Indicador Mensual del Consumo Privado en México: quince meses de expansión moderada y la resiliencia del gasto de los hogares en 2026",
+    "category": "datos",
+    "description": "Análisis del IMCP del INEGI a julio de 2026: arquitectura metodológica base 2018, trayectoria 2025-2026, estimación IOCP para mayo-junio y factores de resiliencia frente a la desaceleración productiva.",
+    "keyPoints": [
+      "IMCP base 2018 con insumos EMIM, EMEC, EMS y COU 2018 bajo clasificación SCIAN 2018",
+      "IMCP abril 2026 en 113.7 puntos SA con +0.1% mensual y +2.1% anual (Boletín 275/26)",
+      "IOCP publicado el 15 de julio de 2026 (Boletín 220/26) proyecta 114.2 puntos en mayo y 114.3 en junio",
+      "Quince meses consecutivos de expansión anual del consumo pese a contracción de 0.6% trimestral del PIB en 1T 2026",
+      "Divergencia con ventas ANTAD junio 2026 (-1.6% nominal, -4.8% real anual)",
+      "Determinantes: 22.7 millones de puestos IMSS a abril, desocupación de 2.5% en 4T 2025, remesas +2.6% enero-abril 2026, tasa Banxico en 6.50% desde el 7 de mayo de 2026",
+      "Pronósticos privados: consumo cercano a 2.0% en 2026 (Banamex) y moderación en H2 2026 (Valmex)",
+      "Agenda estadística: transición del SCNM a base 2023 bajo el PNEG 2025-2030"
+    ],
+    "dataSources": ["INEGI", "IMCP", "IOCP", "Banco de México", "IMSS", "ENOE", "ANTAD", "OCDE", "El Financiero"],
+    "covered": true,
+    "publishedDate": "2026-07-18",
+    "publishedSlug": "imcp-consumo-privado-mexico-2026-quince-meses-expansion"
   }
 ]
