@@ -1374,5 +1374,24 @@
     "covered": true,
     "publishedDate": "2026-07-18",
     "publishedSlug": "imcp-consumo-privado-mexico-2026-quince-meses-expansion"
+  },
+  {
+    "id": "issfam-fuerzas-armadas-regimen-pensionario-tope-2026",
+    "title": "ISSFAM y el régimen pensionario de las Fuerzas Armadas: arquitectura, exclusión del tope constitucional de 2026 y agenda de portabilidad",
+    "category": "pensiones",
+    "description": "Análisis del régimen pensionario militar mexicano: arquitectura del ISSFAM, fórmula del haber de retiro del artículo 31 de la LISSFAM, financiamiento federal por el artículo 221, exclusión de la reforma constitucional del 10 de abril de 2026 al artículo 127 de la CPEUM e iniciativa de portabilidad con IMSS, ISSSTE, Infonavit y Fovissste.",
+    "keyPoints": [
+      "LISSFAM DOF 9-jul-2003 con última reforma DOF 14-nov-2025 y reforma reglamentaria DOF 20-mar-2026",
+      "Artículo 31: tabla de haber de retiro de 50% a los 20 años y hasta 90% a los 45 o más años de servicio",
+      "Adicional del 80% del haber del grado más primas de perseverancia y asignaciones técnicas en la base ampliada",
+      "Artículo 221: aportación federal anual equivalente al 15% de haberes, haberes de retiro y pensiones desde 2011",
+      "Exclusión expresa de las Fuerzas Armadas del tope al artículo 127 CPEUM (DOF 10-abr-2026, vigente 11-abr-2026)",
+      "Gasto por pensionado en ISSFAM 1.9 veces mayor que en IMSS según CIEP",
+      "Iniciativa asunto SIL 4970601 de noviembre de 2025 para convenio de portabilidad ISSFAM-IMSS-ISSSTE-Infonavit-Fovissste"
+    ],
+    "dataSources": ["DOF", "ISSFAM", "SEDENA", "SEMAR", "SHCP", "CIEP", "Cámara de Diputados", "Senado"],
+    "covered": true,
+    "publishedDate": "2026-07-19",
+    "publishedSlug": "issfam-fuerzas-armadas-regimen-pensionario-tope-2026"
   }
 ]
