@@ -1393,5 +1393,26 @@
     "covered": true,
     "publishedDate": "2026-07-19",
     "publishedSlug": "issfam-fuerzas-armadas-regimen-pensionario-tope-2026"
+  },
+  {
+    "id": "impuesto-sobre-nominas-mexico-arquitectura-estatal-dispersion-2026",
+    "title": "Impuesto Sobre Nóminas en México: arquitectura estatal, dispersión de tasas y balance del ejercicio 2026",
+    "category": "laboral",
+    "description": "Diagnóstico del ISN a mitad de 2026: reserva estatal del artículo 43 de la LCF, 32 versiones locales, dispersión de tasas entre 2% y 4.25%, aportación cercana al 70% de los impuestos propios estatales, cambios aprobados en 2026 y debate sobre el efecto en el empleo formal.",
+    "keyPoints": [
+      "Reserva estatal del ISN en el artículo 43 de la Ley de Coordinación Fiscal (DOF 27-dic-1978)",
+      "Dispersión 2026: Coahuila 2%, la mayoría en 3%, Yucatán 3.75%, CDMX/Chihuahua/Quintana Roo 4%, Sonora hasta 4% para grandes empleadores y Baja California 4.25%",
+      "Alzas 2026 en Baja California Sur, Chiapas, Chihuahua, Colima, Veracruz y Yucatán",
+      "Nuevo León: propuesta de subir de 3% a 4% con destino a seguridad, retirada por el Ejecutivo tras oposición empresarial",
+      "Baja California: 1.80% base + 1.20% educación superior + 1.25% seguridad = 4.25% efectivo",
+      "Aportación cercana al 70% de los impuestos propios estatales según CIEP e IMCO",
+      "Recaudación subnacional mexicana en torno al 0.9% del PIB frente a 8.7% del promedio OCDE",
+      "EFIPEM del INEGI (segunda actualización noviembre 2025) como fuente pública de referencia",
+      "Efectos sobre mipymes y frontera con la reforma de subcontratación de 2021 y el REPSE"
+    ],
+    "dataSources": ["DOF", "INEGI", "EFIPEM", "CIEP", "IMCO", "OCDE", "EY México", "Coparmex", "Gobierno de la Ciudad de México", "Gobierno del Estado de Nuevo León", "Gobierno del Estado de Baja California"],
+    "covered": true,
+    "publishedDate": "2026-07-20",
+    "publishedSlug": "impuesto-sobre-nominas-mexico-arquitectura-estatal-dispersion-2026"
   }
 ]
