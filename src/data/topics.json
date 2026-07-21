@@ -1414,5 +1414,26 @@
     "covered": true,
     "publishedDate": "2026-07-20",
     "publishedSlug": "impuesto-sobre-nominas-mexico-arquitectura-estatal-dispersion-2026"
+  },
+  {
+    "id": "envejecimiento-demografico-mexico-conapo-inegi-2026",
+    "title": "Envejecimiento demográfico en México: proyecciones CONAPO 2020-2070, estadísticas vitales 2024 del INEGI y presión estructural sobre el sistema de pensiones",
+    "category": "datos",
+    "description": "Análisis de la transición demográfica mexicana con datos de CONAPO 2020-2070, ENR y EDR 2024 del INEGI, esperanza de vida y su impacto sobre pensiones.",
+    "keyPoints": [
+      "Conciliación Demográfica 1950-2019 y Proyecciones 2020-2070 de CONAPO (publicación 2023)",
+      "Población de México en 2025: 133.4 millones según CONAPO (68.1 millones de mujeres y 65.2 millones de hombres)",
+      "ENR 2024 (Comunicado 129/25 INEGI): 1,672,227 nacimientos con caída anual de 8.16% y tasa de 47.7 por mil mujeres en edad fértil",
+      "EDR 2024 (Comunicado 142/25 INEGI): 819,672 defunciones, +2.5% anual y concentración de 57.9% en el grupo de 65 años y más",
+      "Esperanza de vida al nacer 2024 en 75.5 años totales y 78.9 años para mujeres",
+      "Cierre proyectado del bono demográfico entre 2030 y 2040 y entrada a la etapa avanzada de envejecimiento en 2044 con 21.1% de 60+",
+      "Razón de dependencia por vejez de 25.7% en 2050 y proporción de 60+ de 34.2% en 2070",
+      "OCDE Pensions at a Glance 2025: tasa de reemplazo neta de 132% en ingresos bajos y 80% en ingresos promedio tras la incorporación del Fondo de Pensiones para el Bienestar",
+      "Proyección CIEP: gasto en pensiones superior al 6% del PIB en 2026, cerca del 40% de los ingresos tributarios federales"
+    ],
+    "dataSources": ["CONAPO", "INEGI", "ENR", "EDR", "OCDE", "CIEP", "SEGOB", "SNIEG"],
+    "covered": true,
+    "publishedDate": "2026-07-21",
+    "publishedSlug": "envejecimiento-demografico-mexico-conapo-inegi-2026"
   }
 ]
