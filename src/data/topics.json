@@ -1435,5 +1435,26 @@
     "covered": true,
     "publishedDate": "2026-07-21",
     "publishedSlug": "envejecimiento-demografico-mexico-conapo-inegi-2026"
+  },
+  {
+    "id": "pbam-arquitectura-constitucional-fiscal-2026",
+    "title": "Pensión para el Bienestar de las Personas Adultas Mayores: arquitectura constitucional, cobertura universal y peso fiscal en 2026",
+    "category": "pensiones",
+    "description": "Análisis del pilar no contributivo del sistema pensionario mexicano: reforma constitucional del 2 de diciembre de 2024, Reglas de Operación DOF 12-feb-2026, monto bimestral de 6,400 pesos, padrón superior a 13.4 millones de derechohabientes y 526.5 mil mdp en el PEF 2026.",
+    "keyPoints": [
+      "Reforma constitucional DOF 8-may-2020 al artículo 4o que elevó a rango constitucional la pensión no contributiva",
+      "Reforma constitucional DOF 2-dic-2024 a los artículos 4o y 27 que fijó la edad universal en 65 años y cláusula de progresividad y no regresión",
+      "Reglas de Operación PBAM 2026 publicadas en DOF el 12 de febrero de 2026",
+      "Monto bimestral 2026 de 6,400 pesos frente a 6,200 pesos en 2025 y 2,620 pesos en 2019",
+      "Padrón superior a 13.4 millones de derechohabientes con meta anual por encima de 14 millones",
+      "PBAM en 526.5 mil mdp del PEF 2026, 5.2% del gasto neto total y principal partida del Ramo 20 Bienestar",
+      "Crecimiento del gasto en PBAM de 879% en términos reales entre 2018 y 2024 según CIEP",
+      "Proyección CIEP de gasto en pensiones entre 7.1% y 7.8% del PIB en 2030",
+      "Articulación con la Pensión Mujeres Bienestar 60-64 años y con el Fondo de Pensiones para el Bienestar (DOF 1-may-2024) con tope 2026 de 17,885 pesos"
+    ],
+    "dataSources": ["DOF", "Secretaría de Bienestar", "SHCP", "CIEP", "México ¿Cómo Vamos?", "CONAPO"],
+    "covered": true,
+    "publishedDate": "2026-07-22",
+    "publishedSlug": "pbam-arquitectura-constitucional-fiscal-2026"
   }
 ]
