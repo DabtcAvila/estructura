@@ -1478,5 +1478,26 @@
     "covered": true,
     "publishedDate": "2026-07-23",
     "publishedSlug": "conasami-arquitectura-politica-salarial-mexico-2019-2026"
+  },
+  {
+    "id": "tabla-enfermedades-trabajo-reforma-2023-balance-2026",
+    "title": "Tabla de Enfermedades de Trabajo en México: balance de la reforma de diciembre de 2023 y del Catálogo de Cédulas de la STPS a dos años de su entrada en vigor",
+    "category": "laboral",
+    "description": "Análisis del decreto DOF del 4 de diciembre de 2023 que reformó los artículos 513, 514 y 515 de la LFT, del Catálogo de Cédulas publicado por la STPS en abril de 2024 y de la siniestralidad reportada por el IMSS en 2024.",
+    "keyPoints": [
+      "Decreto DOF 4-dic-2023 en vigor desde el 5-dic-2023 que reforma los artículos 513, 514 y 515 de la LFT",
+      "Nueva Tabla con 194 enfermedades de trabajo frente a 161 de la versión de 1970 y 88 padecimientos incorporados",
+      "Ampliación en trastornos mentales, enfermedades infecciosas incluyendo COVID-19, 30 tipos de cáncer profesional y padecimientos específicos de mujeres",
+      "Tabla de Valuación de Incapacidades Permanentes ampliada de 409 a 524 lesiones y eliminación de rangos porcentuales bajos",
+      "Catálogo de Cédulas publicado por STPS el 30-abr-2024, en vigor desde el 1-may-2024 y fuera del plazo legal del 8-feb-2024",
+      "Memoria Estadística IMSS 2024: 69% accidentes de trabajo, 28% de trayecto y 3% enfermedades ocupacionales, con dorsopatías como padecimiento dominante",
+      "Comparativo con la Lista de enfermedades profesionales de la OIT revisada en 2010 y con el Convenio 190 ratificado por México en julio de 2022",
+      "Regla de actualización al menos cada cinco años y próxima revisión obligatoria en 2028",
+      "Interacción con la Prima del Seguro de Riesgos de Trabajo del IMSS y con la NOM-035-STPS-2018 sobre factores de riesgo psicosocial"
+    ],
+    "dataSources": ["DOF", "STPS", "IMSS", "Cámara de Diputados", "Senado", "OIT", "INEGI", "ENOE"],
+    "covered": true,
+    "publishedDate": "2026-07-24",
+    "publishedSlug": "tabla-enfermedades-trabajo-mexico-reforma-2023-balance-2026"
   }
 ]
