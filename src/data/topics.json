@@ -1499,5 +1499,27 @@
     "covered": true,
     "publishedDate": "2026-07-24",
     "publishedSlug": "tabla-enfermedades-trabajo-mexico-reforma-2023-balance-2026"
+  },
+  {
+    "id": "denue-05-2026-registro-negocios-mexico-inegi-arquitectura",
+    "title": "DENUE 05/2026: arquitectura del Registro Estadístico de Negocios de México y la vigésima quinta edición del directorio empresarial del INEGI",
+    "category": "datos",
+    "description": "Análisis del Comunicado de Prensa 27/26 del INEGI: 6 138 075 unidades económicas, marco legal en la LSNIEG, arquitectura RENEM-DENUE, CLEE, actualización semestral y relación con los Censos Económicos 2024.",
+    "keyPoints": [
+      "Comunicado de Prensa 27/26 del INEGI publicado el 20 de mayo de 2026 con la vigésima quinta edición del DENUE",
+      "6 138 075 unidades económicas en 32 entidades y 2 478 municipios con año de referencia 2025",
+      "1 089 068 visitas al DENUE en 2025 y promedio mensual de 92 641 entre enero de 2025 y abril de 2026",
+      "Fundamento en los artículos 3, 4, 5, 23, 94 y 95 de la LSNIEG y en la Norma Técnica del RENEM (DOF 27-ago-2019)",
+      "Arquitectura RENEM como registro maestro y DENUE como su segmento público con CLEE de 17 dígitos vigente desde la edición 05/2021",
+      "Cobertura SCIAN 2023 desde 05/2025 con exclusión de agropecuarias, taxis, sedes diplomáticas, hogares con empleados y organizaciones políticas",
+      "Estrategia de actualización anual, parcial, continua y quinquenal, con incorporación de 100 758 y desincorporación de 60 358 unidades en 05/2026",
+      "Traslado de 51 223 cajeros automáticos a la aplicación UbiCajeros del Banco de México",
+      "Trayectoria de 4 331 202 unidades en julio de 2010 a 6 138 075 en mayo de 2026",
+      "Complementariedad con los Censos Económicos 2024 (7 093 631 establecimientos y 5 468 180 unidades económicas según el Reporte de Resultados 22/25)"
+    ],
+    "dataSources": ["INEGI", "DOF", "SNIEG", "RENEM", "Banco de México", "Censos Económicos", "SCIAN"],
+    "covered": true,
+    "publishedDate": "2026-07-25",
+    "publishedSlug": "denue-05-2026-registro-negocios-mexico-inegi-arquitectura"
   }
 ]
