@@ -1521,5 +1521,25 @@
     "covered": true,
     "publishedDate": "2026-07-25",
     "publishedSlug": "denue-05-2026-registro-negocios-mexico-inegi-arquitectura"
+  },
+  {
+    "id": "regimen-fiscal-pensiones-retiro-mexico-15-uma-2026",
+    "title": "Régimen fiscal de las pensiones y el retiro en México: exención de 15 UMA, retención mensual del ISR y aritmética del retiro en una sola exhibición en 2026",
+    "category": "pensiones",
+    "description": "Arquitectura fiscal del retiro en México: exención de 15 UMA para pensiones IMSS-ISSSTE, retención mensual del ISR bajo el artículo 96 y aritmética del retiro en una sola exhibición del SAR conforme a la fracción XIII del artículo 93 de la LISR y al artículo 171 de su Reglamento.",
+    "keyPoints": [
+      "Reforma constitucional de desindexación DOF 27-ene-2016 y migración de referencias fiscales del salario mínimo a la UMA",
+      "UMA 2026 en 117.31 pesos diarios (3,566.22 mensual y 42,794.64 anual) fijada por el INEGI",
+      "Fracción IV del artículo 93 LISR: exención de pensiones periódicas hasta 15 UMA diarias (53,493.30 pesos mensuales en 2026)",
+      "Retención mensual del ISR por IMSS, ISSSTE, aseguradora o Afore sobre el excedente conforme al artículo 96 LISR",
+      "Fracción XIII del artículo 93 LISR: exención de 90 UMA por año de servicio para pagos únicos (10,557.90 pesos por año en 2026)",
+      "Artículo 171 del Reglamento LISR y reglas 3.11.2, 3.11.3 y 3.11.7 de la RMF 2026 para retenciones de la Afore",
+      "Controversia UMA vs 10 SM en el tope de la pensión Ley 73 tras la jurisprudencia 2a./J. 164/2019 de la SCJN",
+      "Diferimiento fiscal del ahorro voluntario y PPR bajo el artículo 151 fracción V LISR con tope de 5 UMA anuales (213,973.20 pesos)"
+    ],
+    "dataSources": ["Cámara de Diputados", "DOF", "SAT", "INEGI", "SCJN", "CONSAR", "IMSS", "CNSF"],
+    "covered": true,
+    "publishedDate": "2026-07-26",
+    "publishedSlug": "regimen-fiscal-pensiones-retiro-mexico-15-uma-2026"
   }
 ]
