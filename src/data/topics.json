@@ -1541,5 +1541,27 @@
     "covered": true,
     "publishedDate": "2026-07-26",
     "publishedSlug": "regimen-fiscal-pensiones-retiro-mexico-15-uma-2026"
+  },
+  {
+    "id": "guarderias-imss-cobertura-subrogacion-ceci-2026",
+    "title": "Guarderías del IMSS: cobertura, subrogación y el rediseño hacia los CECI en 2026",
+    "category": "laboral",
+    "description": "Arquitectura del Seguro de Guarderías y Prestaciones Sociales del IMSS: modalidades de prestación directa e indirecta, evolución 2018-2024 de la capacidad instalada, actualización del convenio de subrogación en abril de 2025 y abril de 2026, y transición al modelo de Centros de Educación y Cuidado Infantil (CECI) hacia 2030.",
+    "keyPoints": [
+      "Marco legal del Seguro de Guarderías y Prestaciones Sociales en los artículos 201 a 211 de la Ley del Seguro Social",
+      "Prima de 1% del salario base de cotización íntegramente patronal y tope del 20% para el ramo de Prestaciones Sociales",
+      "Capacidad instalada de 235,708 lugares al cierre de 2024 frente a 250,404 en 2018 y máximo de 254,339 en 2019",
+      "195,451 niñas y niños atendidos, 82.9% de ocupación y 34,064 solicitudes pendientes según el Informe IMSS 2024-2025",
+      "1,276 unidades activas en SIAG Web con 130 guarderías propias y 1,146 subrogadas",
+      "Actualización del convenio de subrogación por acuerdo ACDO.AS2.HCT.260226/35.P.DPES (DOF 14-abr-2026) que sustituye al del 21 de abril de 2025",
+      "Nuevo modelo CECI aprobado por el Consejo Técnico el 15 de enero de 2025 con enfoque de prestación directa",
+      "Meta 2025-2030: 1,000 CECI y 500,000 lugares en 507 municipios frente a proyección actuarial de 230 CECI y 53,300 lugares",
+      "Prima de equilibrio calculada en 1.01% y primer déficit proyectado en 2042 según el Informe al Ejecutivo Federal y al Congreso de la Unión",
+      "Brecha frente al universo elegible: 37.7% de cobertura en infantes 0-5 años y carga de cuidados 2.5 veces mayor en mujeres según IMCO 2026"
+    ],
+    "dataSources": ["IMSS", "DOF", "Ley del Seguro Social", "Presidencia de la República", "IMCO", "INEGI", "ENOE"],
+    "covered": true,
+    "publishedDate": "2026-07-27",
+    "publishedSlug": "guarderias-imss-cobertura-subrogacion-ceci-mexico-2026"
   }
 ]
