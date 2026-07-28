@@ -1563,5 +1563,25 @@
     "covered": true,
     "publishedDate": "2026-07-27",
     "publishedSlug": "guarderias-imss-cobertura-subrogacion-ceci-mexico-2026"
+  },
+  {
+    "id": "eness-inegi-cobertura-seguridad-social-2026",
+    "title": "ENESS del INEGI: el instrumento de medición de la cobertura de seguridad social y su papel en la política pensionaria",
+    "category": "datos",
+    "description": "Análisis de la Encuesta Nacional de Empleo y Seguridad Social del INEGI: arquitectura como módulo suplementario de la ENOE, trayectoria de las ediciones, temario, función en la política pensionaria mexicana y agenda estadística 2025-2030.",
+    "keyPoints": [
+      "ENESS como módulo del SNIEG levantado por el INEGI en suplemento de la ENOE",
+      "Trayectoria intermitente de ediciones desde los años noventa (2000, 2004, 2009, 2013, 2017 y ediciones posteriores)",
+      "Estructura temática: servicios médicos, pensiones y jubilaciones, cuentas AFORE, guarderías, prestaciones sociales y capacitación",
+      "Uso por CONEVAL, CONSAR, IMSS, OCDE y OIT para diagnóstico de cobertura previsional",
+      "Papel en la medición de la brecha estructural frente a informalidad laboral superior a 55% al cierre de 2025",
+      "Triangulación con registros administrativos del IMSS, ISSSTE y CONSAR para reconstruir cobertura efectiva",
+      "Encaje con la Pensión para el Bienestar de las Personas Adultas Mayores, la Pensión Mujeres Bienestar y el Fondo de Pensiones para el Bienestar",
+      "Agenda 2025-2030: nueva edición bajo marco ENOE actualizado y articulación con la medición multidimensional de la pobreza a cargo del INEGI"
+    ],
+    "dataSources": ["INEGI", "ENOE", "SNIEG", "CONEVAL", "CONSAR", "IMSS", "OCDE", "OIT", "DOF"],
+    "covered": true,
+    "publishedDate": "2026-07-28",
+    "publishedSlug": "eness-inegi-cobertura-seguridad-social-mexico-2026"
   }
 ]
