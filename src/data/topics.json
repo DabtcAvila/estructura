@@ -1583,5 +1583,26 @@
     "covered": true,
     "publishedDate": "2026-07-28",
     "publishedSlug": "eness-inegi-cobertura-seguridad-social-mexico-2026"
+  },
+  {
+    "id": "ley-73-97-imss-coexistencia-regimenes-pensionarios-2026",
+    "title": "Ley 73 y Ley 97 del IMSS: la coexistencia de dos regímenes pensionarios a tres décadas del cambio de sistema",
+    "category": "pensiones",
+    "description": "Análisis de la coexistencia de la Ley del Seguro Social de 1973 y la de 1997 en el IMSS: arquitectura, derecho de opción del decreto de 21 de diciembre de 1995, aritmética comparada tras la reforma pensionaria de 2020 y horizonte de extinción del régimen dual.",
+    "keyPoints": [
+      "Ley del Seguro Social de 1973 publicada en DOF el 12 de marzo de 1973 y Ley de 1997 publicada en DOF el 21 de diciembre de 1995",
+      "Derecho de opción en las disposiciones transitorias del decreto de 21-dic-1995 para asegurados inscritos antes del 1 de julio de 1997",
+      "Ley 73: beneficio definido con base en el promedio del SBC de las últimas 250 semanas, 500 semanas mínimas y factor de edad 75%-100%",
+      "Ley 97: cuentas individuales administradas por AFORE con requisito 2026 de 875 semanas y trayectoria a 1,000 en 2031",
+      "Reforma DOF 16-dic-2020: reducción del piso de semanas y escalamiento del CEAV hasta 15% del SBC en 2030",
+      "Jurisprudencia SCJN 2a./J. 85/2010 y 2a./J. 164/2019 sobre tope de pensiones Ley 73 a 25 UMA",
+      "Composición del padrón de nuevas pensiones directas del RCV con dominio del régimen de 1973 según el Informe IMSS 2024-2025",
+      "Horizonte de extinción efectiva hacia la segunda mitad del siglo por la vida útil larga del derecho de opción",
+      "Articulación con la Pensión Mínima Garantizada, la PBAM y el Fondo de Pensiones para el Bienestar del DOF 30-abr-2024"
+    ],
+    "dataSources": ["DOF", "Cámara de Diputados", "IMSS", "CONSAR", "SCJN", "CIEP", "OCDE"],
+    "covered": true,
+    "publishedDate": "2026-07-29",
+    "publishedSlug": "ley-73-97-imss-coexistencia-regimenes-pensionarios-2026"
   }
 ]
