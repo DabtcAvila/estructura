@@ -1604,5 +1604,26 @@
     "covered": true,
     "publishedDate": "2026-07-29",
     "publishedSlug": "ley-73-97-imss-coexistencia-regimenes-pensionarios-2026"
+  },
+  {
+    "id": "contratos-tiempo-determinado-lft-arts-35-39f-arquitectura-2026",
+    "title": "Contratos por tiempo determinado, obra y periodo de prueba: arquitectura de los artículos 35 a 39-F de la LFT y evidencia estructural en 2026",
+    "category": "laboral",
+    "description": "Análisis del régimen de contratos individuales atípicos de la LFT: presunción de indefinición del artículo 35, obra determinada, tiempo determinado, y modalidades de periodo de prueba, capacitación inicial y temporada incorporadas por la reforma DOF 30-nov-2012.",
+    "keyPoints": [
+      "Presunción de indefinición del artículo 35 LFT como regla de imputación probatoria",
+      "Modalidades ordinarias de los artículos 36 a 39: obra determinada, tiempo determinado, régimen minero y supervivencia",
+      "Reforma DOF 30-nov-2012 e incorporación de los artículos 39-A a 39-F: periodo de prueba, capacitación inicial y trabajo por temporada",
+      "Cláusula anti-fraude del artículo 39-D sobre no prórroga ni sucesión de periodos de prueba",
+      "Contradicción de Tesis 170/2016 de la Segunda Sala de la SCJN sobre carga probatoria del patrón",
+      "Informalidad de 55.0 por ciento en el cuarto trimestre de 2025 según ENOE del INEGI",
+      "Comparativo OCDE Employment Outlook 2025: baja penetración del empleo temporal en México y brecha de participación de género de 30.1 pp",
+      "No ratificación del Convenio 158 de la OIT sobre terminación de la relación de trabajo",
+      "Programa Sectorial de Trabajo 2025-2030 y Programa Anual de Inspección 2025 de la STPS"
+    ],
+    "dataSources": ["Cámara de Diputados", "DOF", "INEGI", "ENOE", "OCDE", "SCJN", "OIT", "STPS", "CFCRL"],
+    "covered": true,
+    "publishedDate": "2026-07-30",
+    "publishedSlug": "contratos-tiempo-determinado-lft-35-39-mexico-2026"
   }
 ]
