@@ -1625,5 +1625,27 @@
     "covered": true,
     "publishedDate": "2026-07-30",
     "publishedSlug": "contratos-tiempo-determinado-lft-35-39-mexico-2026"
+  },
+  {
+    "id": "cstm-2024-turismo-mexico-arquitectura-8-7-pib",
+    "title": "Cuenta Satélite del Turismo de México 2024: arquitectura, 8.7% del PIB y la relectura del sector tras la actualización",
+    "category": "datos",
+    "description": "Lectura estructural de la CSTM 2024 del INEGI publicada el 18 de diciembre de 2025: PIB turístico de 2,713,120 mdp equivalente a 8.7% del PIB total, 2.9 millones de puestos remunerados, dominio del turismo interno, articulación con la balanza de viajeros de Banxico y con el Programa Sectorial de Turismo 2025-2030.",
+    "keyPoints": [
+      "PIB turístico 2024 de 2,713,120 mdp, 8.7% del PIB total y crecimiento real de 2.5% frente a 1.3% del PIB agregado",
+      "Composición sectorial: transporte de pasajeros 571,816 mdp, alojamiento 568,815 mdp y restaurantes, bares y centros nocturnos 413,762 mdp",
+      "Ocupación remunerada de 2.9 millones de puestos con crecimiento de 3.5% respecto de la CSTM 2023",
+      "Estructura del empleo: restaurantes, bares y centros nocturnos 23.2%, transporte de pasajeros 22.9% y alojamiento 14.0%",
+      "Dominio del consumo interno (~84%) sobre el receptivo (~16%) y consumo interior de 95% del total",
+      "Ingresos por visitantes internacionales 2024 de 32,956.3 mdd y saldo neto de 21,631.8 mdd según Banxico",
+      "México en sexto lugar mundial por llegadas de turistas internacionales en 2024 según ONU Turismo",
+      "ITAT 3T 2025: PIB turístico +0.8% anual y desalineamiento entre consumo interno (+1.7%) y receptivo (-6.8%)",
+      "Programa Sectorial de Turismo 2025-2030 publicado en el DOF el 15 de septiembre de 2025",
+      "Marco metodológico: SCNM base 2018 y Recomendaciones sobre el Marco Conceptual 2008 de ONU, OMT, OCDE y Eurostat"
+    ],
+    "dataSources": ["INEGI", "Banco de México", "SECTUR", "DOF", "ONU Turismo", "OCDE", "CEPAL", "DATATUR"],
+    "covered": true,
+    "publishedDate": "2026-07-31",
+    "publishedSlug": "cstm-2024-turismo-mexico-arquitectura-8-7-pib"
   }
 ]
