@@ -1647,5 +1647,27 @@
     "covered": true,
     "publishedDate": "2026-07-31",
     "publishedSlug": "cstm-2024-turismo-mexico-arquitectura-8-7-pib"
+  },
+  {
+    "id": "portabilidad-derechos-imss-issste-convenio-2009-balance-2026",
+    "title": "Convenio de Portabilidad IMSS-ISSSTE: arquitectura del artículo 148 de la Ley del ISSSTE y balance a más de quince años de su firma",
+    "category": "pensiones",
+    "description": "Análisis del Convenio de Portabilidad de Derechos Pensionarios entre el IMSS y el ISSSTE firmado el 17 de febrero de 2009: marco legal, exclusiones del Régimen del Décimo Transitorio, evidencia operativa al cierre de 2026 y agenda 2025-2030 tras el diagnóstico de la ASF.",
+    "keyPoints": [
+      "Convenio de Portabilidad firmado el 17 de febrero de 2009 entre IMSS e ISSSTE con la CONSAR como testigo institucional",
+      "Habilitación normativa en los artículos 141 a 148 de la Ley del ISSSTE publicada en el DOF el 31 de marzo de 2007 y el artículo 170 de la Ley del Seguro Social",
+      "Ámbito subjetivo acotado: solo trabajadores del Régimen de Cuentas Individuales del ISSSTE con cotizaciones al IMSS bajo Ley 73 o Ley 97",
+      "Exclusión estructural del Régimen del Décimo Transitorio como techo material del instrumento",
+      "Requisitos combinados en 2026: 875 semanas del IMSS bajo Ley 97, 500 semanas bajo Ley 73 y 25 años en el RCI del ISSSTE, con edad mínima de 60 años",
+      "Auditoría 0057 de la ASF sobre la Cuenta Pública 2018 y recomendaciones sobre matriz de derechos y traslado de reservas",
+      "Grupo interinstitucional IMSS-ISSSTE-SHCP-CONSAR-INFONAVIT constituido en 2021 con avance de 99% en anexos 1 y 2 al cierre de 2022",
+      "556 dictámenes de pensión con traspaso de derechos ISSSTE-IMSS reportados por el IMSS al 10 de febrero de 2023",
+      "Articulación pendiente con la Pensión para el Bienestar de las Personas Adultas Mayores, la Pensión Mujeres Bienestar y el Fondo de Pensiones para el Bienestar del DOF 30-abr-2024",
+      "Agenda 2025-2030: publicación de estadísticas periódicas de portabilidad, actualización de matriz de derechos y homologación con nuevas modalidades laborales"
+    ],
+    "dataSources": ["DOF", "IMSS", "ISSSTE", "CONSAR", "PENSIONISSSTE", "SHCP", "ASF", "Cámara de Diputados"],
+    "covered": true,
+    "publishedDate": "2026-08-01",
+    "publishedSlug": "portabilidad-derechos-imss-issste-convenio-2009-balance-2026"
   }
 ]
