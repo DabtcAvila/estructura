@@ -1669,5 +1669,26 @@
     "covered": true,
     "publishedDate": "2026-08-01",
     "publishedSlug": "portabilidad-derechos-imss-issste-convenio-2009-balance-2026"
+  },
+  {
+    "id": "enec-inegi-arquitectura-radiografia-construccion-2024-2026",
+    "title": "Encuesta Nacional de Empresas Constructoras (ENEC): arquitectura, cobertura y radiografía del sector construcción mexicano 2024-2026",
+    "category": "datos",
+    "description": "Análisis metodológico de la ENEC del INEGI y lectura de la contracción 2024-2025 en obra civil y empleo, en el umbral del Plan de Inversión en Infraestructura 2026-2030.",
+    "keyPoints": [
+      "ENEC continua desde 1983 y serie vigente con año base 2018=100",
+      "Marco muestral RENEM con 4,160 empresas y cobertura nacional y por 32 entidades",
+      "Subsectores SCIAN 2018: 236 Edificación, 237 Obras de ingeniería civil y 238 Trabajos especializados",
+      "Contracción 2024-2025 con caídas anuales de hasta -11.5% en personal ocupado (mayo 2025) y desplome cercano a 27% del valor de producción del subsector 237",
+      "PIB del sector construcción de -1.0% en 2025 con impacto concentrado en Campeche, Tabasco y Quintana Roo",
+      "Destrucción de más de 300,000 empleos formales del IMSS acumulada entre 2024 y 2025 tras la conclusión del Tren Maya y la Refinería Olmeca",
+      "Boletín 401/26 de julio de 2026: primera lectura mensual positiva con +2.7% mensual y +7.5% anual en valor de producción a mayo de 2026",
+      "Plan de Inversión en Infraestructura 2026-2030 por 5.6 billones de pesos y meta de inversión productiva del 28% del PIB",
+      "EAEC 2024 con valor de producción de 696,000 mdp en 2023 (+33.3% anual) y 581,000 personas ocupadas"
+    ],
+    "dataSources": ["INEGI", "IMSS", "SHCP", "CMIC", "BBVA Research", "Gobierno de México"],
+    "covered": true,
+    "publishedDate": "2026-08-02",
+    "publishedSlug": "enec-inegi-arquitectura-radiografia-construccion-2024-2026"
   }
 ]
