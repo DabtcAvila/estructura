@@ -1690,5 +1690,25 @@
     "covered": true,
     "publishedDate": "2026-08-02",
     "publishedSlug": "enec-inegi-arquitectura-radiografia-construccion-2024-2026"
+  },
+  {
+    "id": "orfandad-ascendientes-imss-ramo-vida-arquitectura-2026",
+    "title": "Pensiones de orfandad y ascendientes en el IMSS: arquitectura del Ramo de Vida y agenda pendiente en 2026",
+    "category": "pensiones",
+    "description": "Análisis del Ramo de Vida del Seguro de Invalidez y Vida del IMSS: aritmética de las pensiones de orfandad y ascendientes, cobertura observada y jurisprudencia de la SCJN en 2025-2026.",
+    "keyPoints": [
+      "Marco legal de los artículos 127 a 137 de la LSS y requisito de 150 semanas de cotización del artículo 128",
+      "Pensión de orfandad: 20% para huérfanos de un progenitor y 30% para huérfanos de padre y madre, calculada sobre la pensión de invalidez del artículo 141",
+      "Pensión a ascendientes del artículo 137 con carácter supletorio y cuantía del 20%",
+      "Tope agregado del artículo 143: la suma de pensiones no puede exceder la pensión base",
+      "Financiamiento tripartita del SIV: 1.75% patrón, 0.625% trabajador y 0.125% Gobierno Federal (art. 106)",
+      "Amparo Directo en Revisión 4551/2025 de la Segunda Sala sobre reconocimiento retroactivo de semanas",
+      "Jurisprudencia sobre eliminación del plazo mínimo de matrimonio o concubinato para acceso a viudez bajo Ley 73",
+      "Interacción con la Generación Afore vía renta vitalicia de sobrevivencia (art. 165 LSAR) y el Fondo de Pensiones para el Bienestar"
+    ],
+    "dataSources": ["DOF", "IMSS", "SCJN", "CONSAR", "CIEP", "INEGI"],
+    "covered": true,
+    "publishedDate": "2026-08-03",
+    "publishedSlug": "orfandad-ascendientes-imss-ramo-vida-arquitectura-2026"
   }
 ]
