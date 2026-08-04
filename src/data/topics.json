@@ -1710,5 +1710,28 @@
     "covered": true,
     "publishedDate": "2026-08-03",
     "publishedSlug": "orfandad-ascendientes-imss-ramo-vida-arquitectura-2026"
+  },
+  {
+    "id": "licencia-maternidad-lactancia-articulo-170-lft-imss-2026",
+    "title": "Licencia de maternidad y periodo de lactancia en México: el artículo 170 de la LFT y su articulación con el IMSS en 2026",
+    "category": "laboral",
+    "description": "Análisis del régimen vigente de la licencia de maternidad y del periodo de lactancia en México: 84 días bajo el artículo 170 de la LFT, subsidio del 100% del SBC por el IMSS, jurisprudencia constitucional reciente y rezago frente al Convenio 183 de la OIT y el promedio OCDE.",
+    "keyPoints": [
+      "Artículo 170 LFT: 84 días naturales (6 semanas antes y 6 después del parto)",
+      "Fracción II: transferencia de hasta 4 semanas prenatales al postparto por la reforma DOF 30-nov-2012",
+      "Prórroga hasta 8 semanas adicionales por prematurez o discapacidad del recién nacido",
+      "Fracción II bis: 6 semanas por adopción con goce de sueldo",
+      "Fracción IV: dos reposos de 30 minutos por lactancia hasta seis meses",
+      "Artículos 101-103 LSS: subsidio equivalente al 100% del SBC con requisito de 30 semanas cotizadas en 12 meses previos",
+      "LFTSE artículo 28: 3 meses de licencia para servidoras públicas federales",
+      "Convenio 183 OIT no ratificado por México y promedio OCDE de 18.9 semanas",
+      "Informalidad femenina de 55.9% al 4T 2025 (ENOE) y cobertura efectiva limitada",
+      "Acción de Inconstitucionalidad 181/2023 (SCJN, mayo 2025) y Amparo en Revisión 406/2024",
+      "Iniciativa de 18 semanas registrada en el SIL el 10 de septiembre de 2025"
+    ],
+    "dataSources": ["Cámara de Diputados", "DOF", "SCJN", "OCDE", "OIT", "INEGI", "IMSS", "SEGOB", "GIRE"],
+    "covered": true,
+    "publishedDate": "2026-08-04",
+    "publishedSlug": "licencia-maternidad-lactancia-articulo-170-lft-imss-2026"
   }
 ]
