@@ -1733,5 +1733,26 @@
     "covered": true,
     "publishedDate": "2026-08-04",
     "publishedSlug": "licencia-maternidad-lactancia-articulo-170-lft-imss-2026"
+  },
+  {
+    "id": "prima-dominical-articulo-71-lft-cobertura-mexico-2026",
+    "title": "Prima dominical en México: el artículo 71 de la LFT, la exención fiscal y la brecha de cobertura efectiva en 2026",
+    "category": "laboral",
+    "description": "Análisis del régimen vigente de la prima dominical del artículo 71 de la LFT: aritmética del 25% adicional, exención del artículo 93 fracción XIV LISR, cobertura efectiva en la ENOE, régimen sancionatorio y agenda legislativa 2026.",
+    "keyPoints": [
+      "Artículo 71 LFT: 25% de prima adicional sobre el salario ordinario por trabajo en día domingo",
+      "Articulación con los artículos 69 y 74 de la LFT y la fracción IV del apartado A del artículo 123 constitucional",
+      "Exención fiscal del artículo 93 fracción XIV LISR de una UMA por domingo laborado tras la reforma de desindexación de 2016",
+      "UMA 2026 en 117.31 pesos diarios como tope de exención por domingo",
+      "Cobertura sectorial concentrada en comercio, hotelería, restauración, esparcimiento y plataformas digitales",
+      "Informalidad de 55.0% en el 4T 2025 según ENOE (boletín 97/26) como límite estructural",
+      "Multas del artículo 1002 LFT: 50 a 5,000 UMA, equivalentes en 2026 a 5,865.50-586,550 pesos",
+      "Convenio 106 OIT (1957) sobre descanso semanal en el comercio y las oficinas, ratificado por México en 1959",
+      "Iniciativas de la LXVI Legislatura para elevar la prima dominical y ampliar la exención fiscal"
+    ],
+    "dataSources": ["DOF", "Cámara de Diputados", "INEGI", "ENOE", "STPS", "PROFEDET", "OIT", "OCDE", "SAT"],
+    "covered": true,
+    "publishedDate": "2026-08-05",
+    "publishedSlug": "prima-dominical-articulo-71-lft-cobertura-mexico-2026"
   }
 ]
