@@ -1754,5 +1754,26 @@
     "covered": true,
     "publishedDate": "2026-08-05",
     "publishedSlug": "prima-dominical-articulo-71-lft-cobertura-mexico-2026"
+  },
+  {
+    "id": "indicadores-confianza-empresarial-ice-mexico-2024-2026",
+    "title": "Indicadores de Confianza Empresarial (ICE) en México: arquitectura de la EMOE y trayectoria negativa 2024-2026",
+    "category": "datos",
+    "description": "Análisis del ICE del INEGI a julio de 2026: metodología de la EMOE, cinco componentes, IGOEC en 48.2 puntos con 17 meses bajo el umbral, lectura sectorial y articulación con el IPM.",
+    "keyPoints": [
+      "EMOE origen 1977, ampliación 2008 a 7 dominios manufactureros, 2011 incorporación de Comercio y Construcción, 2018 Servicios Privados No Financieros e inicio de indicadores globales",
+      "Unidad de observación: empresas con 101 o más personas ocupadas; marco poblacional RENEM",
+      "Cinco componentes del ICE: presente y futuro del país, presente y futuro de la empresa, momento adecuado para invertir",
+      "IGOEC julio 2026 en 48.2 puntos, +0.1 mensual, -0.7 anual, 17 meses bajo 50 y 27 caídas anuales consecutivas",
+      "ICE Manufacturas julio 2026: 48.03 puntos, -1.35 anual, 26 reducciones anuales seguidas",
+      "ICE Construcción julio 2026: 47.2 puntos, +0.9 mensual, mayor avance mensual del mes",
+      "IPM julio 2026 en 50.0 puntos con caída mensual de 0.1 puntos y avance anual de 0.24 puntos tras cinco meses negativos",
+      "Volumen esperado de pedidos con caída anual de 5.81 puntos en julio de 2026",
+      "Cobertura acotada frente al universo de 5.47 millones de unidades económicas de los Censos Económicos 2024"
+    ],
+    "dataSources": ["INEGI", "Banco de México", "EMOE", "IGAE", "IPM", "México ¿Cómo Vamos?", "SNIEG"],
+    "covered": true,
+    "publishedDate": "2026-08-06",
+    "publishedSlug": "indicadores-confianza-empresarial-ice-mexico-2024-2026"
   }
 ]
