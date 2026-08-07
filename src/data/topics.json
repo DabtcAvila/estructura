@@ -1775,5 +1775,26 @@
     "covered": true,
     "publishedDate": "2026-08-06",
     "publishedSlug": "indicadores-confianza-empresarial-ice-mexico-2024-2026"
+  },
+  {
+    "id": "trabajadores-confianza-apartado-a-articulo-9-lft-2026",
+    "title": "Trabajadores de confianza del apartado A: el artículo 9 de la LFT, la exclusión del recuento sindical y la asimetría de protecciones en el sector privado a 2026",
+    "category": "laboral",
+    "description": "Análisis de la categoría de trabajador de confianza en el apartado A: artículo 9, exclusión sindical y del recuento, PTU acotada al 20%, artículo 49 fracción III y OIT.",
+    "keyPoints": [
+      "Artículo 9 LFT: criterio funcional de dirección, inspección, vigilancia y fiscalización de carácter general y trabajos personales del patrón",
+      "Artículos 182 a 186 LFT: proporcionalidad, exclusión sindical, extensión subsidiaria del contrato colectivo y causal ampliada de rescisión por pérdida razonable de la confianza",
+      "Artículo 49 fracción III LFT: exención del deber de reinstalación salvo despido por ejercicio de derechos colectivos",
+      "Artículo 127 LFT: tope de PTU al salario del sindicalizado más alto más 20% y exclusión total de directores, administradores y gerentes generales",
+      "Reforma laboral DOF 1-mayo-2019: refuerzo de la exclusión del recuento en consultas de titularidad y legitimación",
+      "SCJN, Segunda Sala, ADR 3458/2013, 2899/2014 y 1491/2014: carga probatoria en el patrón",
+      "ENOE 4T 2025: alrededor de 1.9 millones de personas en funcionarios, directivos y jefes (~1.9% de la población ocupada)",
+      "Convenios 87 y 98 de la OIT ratificados por México (1950 y 23-noviembre-2018)",
+      "CFCRL: más de 1.29 millones de personas trabajadoras atendidas en conciliación individual al cierre de 2025"
+    ],
+    "dataSources": ["DOF", "Cámara de Diputados", "SCJN", "INEGI", "ENOE", "CFCRL", "STPS", "OIT"],
+    "covered": true,
+    "publishedDate": "2026-08-07",
+    "publishedSlug": "trabajadores-confianza-apartado-a-articulo-9-lft-2026"
   }
 ]
