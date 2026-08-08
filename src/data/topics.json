@@ -1796,5 +1796,26 @@
     "covered": true,
     "publishedDate": "2026-08-07",
     "publishedSlug": "trabajadores-confianza-apartado-a-articulo-9-lft-2026"
+  },
+  {
+    "id": "cuenta-concentradora-sar-asignacion-licitacion-2026",
+    "title": "Cuenta Concentradora y asignación de cuentas en el SAR: arquitectura, licitación 2026 y 118 mil millones sin dueño identificado",
+    "category": "pensiones",
+    "description": "Análisis de la Cuenta Concentradora de Banxico y del procedimiento de asignación del artículo 76 de la Ley SAR: 9.3 millones de cuentas pendientes o inactivas, licitación del Prestador de Servicios en 2026 y comisiones autorizadas para el ejercicio.",
+    "keyPoints": [
+      "Cuenta Concentradora operada por Banco de México como depósito de aportaciones RCV pendientes de individualizar y de recursos de trabajadores sin AFORE elegida",
+      "Artículo 76 de la Ley SAR: asignación por CONSAR tras seis bimestres cotizados sin elección de administradora, con criterio del Indicador de Rendimiento Neto",
+      "9,315,584 cuentas pendientes de asignar e inactivas al 31 de mayo de 2026 con recursos por 118,958 millones de pesos (saldo promedio ~12,770 pesos)",
+      "Licitación 2026 del Prestador de Servicios del SAR: vigencia de 72 meses con extensión de hasta 12 adicionales; adjudicación por menor comisión",
+      "Afore Azteca como Prestador desde 2018 y adjudicataria en 2022; antes XXI Banorte",
+      "Comisiones aprobadas por la Junta de Gobierno de la CONSAR el 21 de noviembre de 2025: 0.54% para nueve AFORE y 0.52% para PENSIONISSSTE, promedio de 0.538%",
+      "Reforma del 4 de septiembre de 2020: nuevo procedimiento para construir el IRN en Unidades de Pensión por tercil",
+      "Asignación de 2024: 378,716 cuentas y 9,939 millones de pesos distribuidos entre seis AFORE (Inbursa, PENSIONISSSTE, Principal, Profuturo, Sura y XXI Banorte)",
+      "Reasignación bienal para incentivar la localización efectiva de titulares"
+    ],
+    "dataSources": ["CONSAR", "Banco de México", "DOF", "Cámara de Diputados"],
+    "covered": true,
+    "publishedDate": "2026-08-08",
+    "publishedSlug": "cuenta-concentradora-sar-asignacion-licitacion-2026"
   }
 ]
