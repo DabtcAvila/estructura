@@ -1817,5 +1817,26 @@
     "covered": true,
     "publishedDate": "2026-08-08",
     "publishedSlug": "cuenta-concentradora-sar-asignacion-licitacion-2026"
+  },
+  {
+    "id": "contrato-ley-mexico-articulo-404-lft-2026",
+    "title": "Contrato Ley en México: la excepción del apartado A y su vigencia en 2026",
+    "category": "laboral",
+    "description": "Análisis del contrato ley en México: artículos 404-421 de la LFT, ramas industriales vigentes en 2026 (azucarera, hulera, radio y televisión y textil), efectos de la reforma laboral de 2019 y agenda de convenciones revisoras.",
+    "keyPoints": [
+      "Marco legal en los artículos 404-421 LFT (Título Séptimo, Capítulo IV)",
+      "Diferencia con el contrato colectivo: eficacia erga omnes en la rama industrial",
+      "Contratos ley federales vigentes en 2026: azucarera, hulera, radio y televisión y cuatro ramos textiles",
+      "Revisión integral 2024 de la industria azucarera y publicación DOF 25-ago-2025 con 5.25% de incremento salarial directo",
+      "Contrato Ley de la Radio y Televisión: revisión enero 2024 con 4.4% de aumento salarial y 40,000 personas trabajadoras cubiertas",
+      "Ramos textiles: lana, seda y fibras sintéticas, listones y géneros de punto con ciclo bienal 2025-2027",
+      "Reforma laboral DOF 1-may-2019: CFCRL, legitimación al 1-may-2023 y voto personal, libre y secreto",
+      "Ampliación salarial de 6.7 a 7.1 puntos porcentuales entre empresas con y sin legitimación",
+      "Agenda 2026: convenciones revisoras en radio y televisión, azucarera y textiles; interacción con la revisión del T-MEC"
+    ],
+    "dataSources": ["DOF", "Cámara de Diputados", "STPS", "CFCRL", "INEGI", "ENOE", "SNIEG"],
+    "covered": true,
+    "publishedDate": "2026-08-09",
+    "publishedSlug": "contrato-ley-mexico-articulo-404-lft-2026"
   }
 ]
