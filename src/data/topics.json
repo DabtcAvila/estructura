@@ -1838,5 +1838,26 @@
     "covered": true,
     "publishedDate": "2026-08-09",
     "publishedSlug": "contrato-ley-mexico-articulo-404-lft-2026"
+  },
+  {
+    "id": "nacimientos-registrados-mexico-2024-transicion-demografica",
+    "title": "Nacimientos registrados en México 2024: mínimos históricos, transición demográfica y presión sobre la seguridad social",
+    "category": "datos",
+    "description": "Análisis de la Estadística de Nacimientos Registrados 2024 del INEGI (Comunicado 129/25, 25-sep-2025): 1,672,227 nacimientos, tasa nacional de 47.7 por mil mujeres en edad fértil, heterogeneidad estatal, lectura conjunta con la ENADID 2023 y las Proyecciones CONAPO 2020-2070, y sus implicaciones para el sistema pensionario mexicano.",
+    "keyPoints": [
+      "ENR 2024 con 1,672,227 nacimientos y tasa nacional de 47.7 por mil mujeres en edad fértil (comunicado INEGI 129/25, 25-sep-2025)",
+      "Segundo volumen más bajo desde 1994; contracción del 42.43% respecto al pico histórico de 2,904,389 nacimientos",
+      "Serie 2020-2024: rebote técnico de 2021 (+17.4%) seguido de caídas de 1.1%, 3.7% y 8.16%",
+      "Heterogeneidad estatal: Chiapas 86.7 vs CDMX 32.8 por mil; Estado de México, Chiapas y Jalisco concentran el mayor volumen absoluto",
+      "Fecundidad adolescente: 89,527 nacimientos en madres de 10-17 años y tasa nacional de 10.1 por mil",
+      "ENADID 2023: TGF nacional de 1.60 hijas/hijos por mujer (vs 2.07 en 2018), rural 2.13 y urbana 1.44; CDMX en 0.96",
+      "Proyecciones CONAPO 2020-2070: población de 60 años y más pasará de 12.8% en 2025 a 24.1% en 2050 y 34.2% en 2070",
+      "Presión estructural sobre el SAR, la PBAM, la Pensión Mujeres Bienestar y el Fondo de Pensiones para el Bienestar por longevidad y estrechamiento de la base laboral",
+      "Comparativo OCDE: promedio TGF de 1.5 en Society at a Glance 2024, con México en el promedio del bloque"
+    ],
+    "dataSources": ["INEGI", "ENR", "ENADID", "CONAPO", "SNIEG", "OCDE", "IMSS"],
+    "covered": true,
+    "publishedDate": "2026-08-10",
+    "publishedSlug": "nacimientos-registrados-mexico-2024-transicion-demografica"
   }
 ]
