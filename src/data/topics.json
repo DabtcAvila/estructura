@@ -1859,5 +1859,24 @@
     "covered": true,
     "publishedDate": "2026-08-10",
     "publishedSlug": "nacimientos-registrados-mexico-2024-transicion-demografica"
+  },
+  {
+    "id": "convenios-internacionales-seguridad-social-mexico-portabilidad-2026",
+    "title": "Convenios internacionales de seguridad social de México: arquitectura de la portabilidad transfronteriza y la asignatura pendiente con Estados Unidos",
+    "category": "pensiones",
+    "description": "Panorámica de los convenios bilaterales de seguridad social suscritos por México con España, Canadá, Italia y Estados Unidos, y el estatus del Convenio Multilateral Iberoamericano en 2026.",
+    "keyPoints": [
+      "Convenio bilateral con España firmado el 25-abr-1994 (BOE-A-1995-6753) y Convenio Complementario en vigor desde el 1-abr-2004",
+      "Convenio con Canadá firmado el 27-abr-1995 en Ottawa y promulgado en el DOF el 25-sep-1998",
+      "Convenio Americano-Mexicano suscrito el 29-jun-2004 en Guadalajara, sin ratificación del Congreso de EE.UU. y con la H.RES. 18 (110th Congress) de desaprobación en 2007",
+      "Acuerdo parcial con Italia de 1977 sobre transferibilidad de pensiones e iniciativa parlamentaria italiana de 2023 (senadora La Marca) para negociar un convenio integral",
+      "Convenio Multilateral Iberoamericano OISS en vigor desde el 1-may-2011, con 14 países ratificantes al inicio de 2026 (incluida Colombia desde el 1-ago-2023); México firmó pero no ha depositado ratificación ni Acuerdo de Aplicación",
+      "Convenio doméstico de Portabilidad IMSS-ISSSTE del 17-feb-2009 como base articuladora con los convenios internacionales",
+      "Diáspora mexicana superior a 12 millones de personas con 97% en EE.UU., informalidad de 55% de la ENOE y opciones alternativas como la continuación voluntaria del artículo 218 LSS (Modalidad 40)"
+    ],
+    "dataSources": ["DOF", "BOE (España)", "IMSS", "SSA (EE.UU.)", "GAO", "OISS", "CONAPO", "STPS", "IMCP"],
+    "covered": true,
+    "publishedDate": "2026-08-11",
+    "publishedSlug": "convenios-internacionales-seguridad-social-mexico-portabilidad-2026"
   }
 ]
