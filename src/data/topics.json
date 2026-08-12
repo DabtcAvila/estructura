@@ -1878,5 +1878,24 @@
     "covered": true,
     "publishedDate": "2026-08-11",
     "publishedSlug": "convenios-internacionales-seguridad-social-mexico-portabilidad-2026"
+  },
+  {
+    "id": "regimen-inversion-siefores-consar-arquitectura-2019-2026",
+    "title": "Régimen de inversión de las SIEFORES: arquitectura CONSAR y su ciclo de reformas 2019-2026",
+    "category": "pensiones",
+    "description": "Arquitectura del régimen de inversión de las SIEFORES generacionales, límites por clase de activo y las reformas de octubre de 2024 y julio de 2025 al marco financiero del SAR.",
+    "keyPoints": [
+      "SAR con 8.67 billones de pesos administrados en 69.9 millones de cuentas al 1T-2026 y 8.95 billones al cierre de junio de 2026 (CONSAR)",
+      "Diez SIEFORES generacionales vigentes desde diciembre de 2019, agrupadas en cohortes quinquenales por año de nacimiento (Básica Inicial a Básica de Pensiones)",
+      "Reforma DOF del 29 de octubre de 2024: instrumentos estructurados de 20% a 30%, FIBRAs de 10% a 12.5%, divisas hasta 35% y figura de Emisora Simplificada",
+      "Resolución DOF del 21 de julio de 2025: instrumentos estructurados nacionales con al menos 80% de inversión comprometida a proyectos en México y 50% del capital efectivo tras cinco años; subcomité especializado con experiencia legal y de inversiones",
+      "Valores extranjeros: 15.12% de la cartera consolidada al cierre de 2024 (1.025 billones de pesos), frente a un tope agregado de 20% por SIEFORE",
+      "Inversión conjunta en infraestructura de 1,026,664 millones de pesos en 2026: 662,526 mmp en CKDs y CERPIs, 258,944 mmp en FIBRAs, 110,337 mmp en carreteras",
+      "Plusvalías anuales del sistema por 1.14 billones de pesos en 2025 y rendimiento real histórico de aproximadamente 5.02% anual descontando inflación (CONSAR)"
+    ],
+    "dataSources": ["CONSAR", "DOF", "Amafore", "LSAR", "OCDE", "Banxico"],
+    "covered": true,
+    "publishedDate": "2026-08-12",
+    "publishedSlug": "regimen-inversion-siefores-consar-arquitectura-2019-2026"
   }
 ]
