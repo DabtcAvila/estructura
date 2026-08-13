@@ -1897,5 +1897,27 @@
     "covered": true,
     "publishedDate": "2026-08-12",
     "publishedSlug": "regimen-inversion-siefores-consar-arquitectura-2019-2026"
+  },
+  {
+    "id": "trabajadores-campo-jornaleros-lft-scjn-2026",
+    "title": "Trabajadores del campo y jornaleros agrícolas: la reforma laboral de 2024 y el aval constitucional de la SCJN en 2026",
+    "category": "laboral",
+    "description": "Análisis del régimen especial de los artículos 279 a 284 de la LFT tras la reforma DOF 24-ene-2024, la sentencia plenaria de la SCJN del 5 de agosto de 2026 en los amparos 587/2025, 199/2026 y 230/2026 sobre la constitucionalidad de los artículos 283 y 284, y la articulación con la Modalidad 13 del IMSS, el decreto de beneficios fiscales y la agenda de inspección 2025-2026.",
+    "keyPoints": [
+      "Capítulo VIII del Título Sexto LFT: arts. 279 a 284 y categorías de trabajador permanente, eventual y jornalero agrícola",
+      "Reforma DOF 30-nov-2012: incorporación de los arts. 279 Bis y 279 Ter con presunción de trabajador permanente a partir de 27 semanas continuas",
+      "Reforma DOF 24-ene-2024 a la LFT y a la LSS con obligación de acceso a la seguridad social para trabajadores permanentes y temporales del campo",
+      "Ampliación de las obligaciones patronales del art. 283: vivienda digna, alimentos, agua potable, servicios médicos, educación, guardería y capacitación",
+      "Pleno de la SCJN, 5-ago-2026, amparos en revisión 587/2025, 199/2026 y 230/2026: constitucionalidad de los arts. 283 y 284 LFT por unanimidad",
+      "Modalidad 13 del IMSS y decreto de beneficios fiscales DOF 24-jul-2007, modificado el 17-dic-2025 y vigente hasta el 31-dic-2026",
+      "ENOE del INEGI: 6.14 millones de personas ocupadas en el sector primario en el 1T 2025 (10.4%) y 6.37 millones al cierre de 2025 (10.6%)",
+      "Tasa de informalidad laboral de 54.8% al 2T 2025 y 22.79 millones de puestos IMSS al cierre de octubre de 2025 (13.2% eventuales)",
+      "Programa de Inspección Federal del Trabajo 2025 con 43,000 inspecciones, SIDIL y Certificado Laboral de Agroexportación",
+      "Convenio 184 de la OIT sobre seguridad y salud en la agricultura no ratificado por México como asignatura pendiente"
+    ],
+    "dataSources": ["DOF", "Cámara de Diputados", "SCJN", "IMSS", "STPS", "INEGI", "ENOE", "OIT"],
+    "covered": true,
+    "publishedDate": "2026-08-13",
+    "publishedSlug": "trabajadores-campo-jornaleros-lft-scjn-2026"
   }
 ]
