@@ -1919,5 +1919,26 @@
     "covered": true,
     "publishedDate": "2026-08-13",
     "publishedSlug": "trabajadores-campo-jornaleros-lft-scjn-2026"
+  },
+  {
+    "id": "aseguramiento-voluntario-articulo-13-lss-modalidad-10-2026",
+    "title": "Aseguramiento voluntario del artículo 13 de la LSS: arquitectura de la Modalidad 10 tras la reforma de 2023 y balance operativo en 2026",
+    "category": "pensiones",
+    "description": "Radiografía del aseguramiento voluntario al régimen obligatorio del IMSS: fracciones del artículo 13 LSS, reforma DOF 1-dic-2023, Reglas Generales 2024 y cobertura efectiva de la Modalidad 10 en 2026.",
+    "keyPoints": [
+      "Artículo 13 LSS: cinco fracciones de sujetos con capacidad de incorporación voluntaria",
+      "Reforma DOF 1-dic-2023 que elevó a permanente el piloto de 2021 y garantizó los cinco seguros",
+      "Acuerdo ACDO.AS2.HCT.300424/82.P.DIR publicado en DOF el 28-may-2024 con vigor el 29-may-2024",
+      "Incorporación de aportaciones a la subcuenta de vivienda del INFONAVIT en 2024",
+      "Modalidades 10, 42, 43 y 44 del IMSS como despliegue operativo del artículo 13",
+      "Diferencia estructural con la Modalidad 40 de continuación voluntaria (artículos 218-221)",
+      "Cuota anual de referencia cercana a 20,538 pesos en 2026 y 18,870.41 pesos en 2025",
+      "Trabajo por cuenta propia en 21.5% de la ocupación y tasa de informalidad de 55.2% en abril de 2026",
+      "Articulación con el Fondo de Pensiones para el Bienestar y la PBAM"
+    ],
+    "dataSources": ["DOF", "Cámara de Diputados", "IMSS", "INEGI", "ENOE", "OCDE", "IMCP", "Deloitte"],
+    "covered": true,
+    "publishedDate": "2026-08-14",
+    "publishedSlug": "aseguramiento-voluntario-articulo-13-lss-modalidad-10-2026"
   }
 ]
