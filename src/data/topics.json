@@ -1940,5 +1940,25 @@
     "covered": true,
     "publishedDate": "2026-08-14",
     "publishedSlug": "aseguramiento-voluntario-articulo-13-lss-modalidad-10-2026"
+  },
+  {
+    "id": "ensu-2t-2026-percepcion-inseguridad-minimo-sexenio",
+    "title": "ENSU 2T 2026: la percepción de inseguridad en su mínimo del sexenio y la lectura estadística del indicador coyuntural del INEGI",
+    "category": "datos",
+    "description": "Lectura del comunicado 40/26 del INEGI: la percepción de inseguridad urbana baja a 59.8% en junio de 2026, mínimo del sexenio, y arquitectura metodológica de la ENSU.",
+    "keyPoints": [
+      "Comunicado 40/26 del INEGI publicado el 24 de julio de 2026 con datos de junio",
+      "59.8% de percepción de inseguridad en 91 áreas urbanas, mínimo del sexenio y a 1.2 pp del mínimo histórico de septiembre de 2024 (58.6%)",
+      "Descensos estadísticamente significativos frente a 61.5% en marzo de 2026 y 63.2% en junio de 2025",
+      "Diseño probabilístico trietápico con muestra objetivo cercana a 300 viviendas por área urbana, confianza de 90% y error relativo máximo de 15%",
+      "Ampliación de cobertura: 51 ciudades en 2016, 75 en 2022, 91 áreas urbanas actualmente",
+      "Brecha de género estructural de 13 puntos porcentuales (65.6% mujeres vs 52.6% hombres) en el 2T 2026",
+      "Heterogeneidad territorial: 18 de 91 ciudades con cambios significativos, 12 a la baja y 6 al alza",
+      "Complementariedad con ENVIPE como información de interés nacional desde diciembre de 2011"
+    ],
+    "dataSources": ["INEGI", "ENSU", "ENVIPE", "SNIEG", "Presidencia de la República", "La Jornada"],
+    "covered": true,
+    "publishedDate": "2026-08-15",
+    "publishedSlug": "ensu-2t-2026-percepcion-inseguridad-minimo-sexenio-inegi"
   }
 ]
