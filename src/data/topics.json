@@ -1960,5 +1960,25 @@
     "covered": true,
     "publishedDate": "2026-08-15",
     "publishedSlug": "ensu-2t-2026-percepcion-inseguridad-minimo-sexenio-inegi"
+  },
+  {
+    "id": "capacitacion-competencias-lft-conocer-agenda-2025-2030",
+    "title": "Capacitación y competencias laborales en México: arquitectura del artículo 153 LFT, sistema CONOCER y la agenda 2025-2030",
+    "category": "laboral",
+    "description": "Diagnóstico del sistema mexicano de capacitación laboral: obligaciones del capítulo III Bis de la LFT, CONOCER, DC-3, educación dual y la nueva agenda 2025-2030.",
+    "keyPoints": [
+      "Capítulo III Bis LFT (arts. 153-A a 153-X) y reforma DOF 30-nov-2012 que introdujo el concepto de productividad y el Comité Nacional de Productividad",
+      "Comisiones Mixtas de Capacitación, Adiestramiento y Productividad obligatorias en centros con más de 50 personas trabajadoras (art. 153-E)",
+      "Formatos DC-3 y DC-5 estandarizados por acuerdo DOF 14-jun-2013 y régimen de inspección con base en el Reglamento DOF 17-jun-2014",
+      "CONOCER como fideicomiso público desde el 29-abr-2005 sectorizado en la SEP, con antecedente en el acuerdo DOF 2-ago-1995",
+      "Sistema Nacional de Competencias: 1,485 estándares RENEC, 553 ECE, 140 Organismos Certificadores y 443 Comités de Gestión al 1T 2025",
+      "Modelo Mexicano de Formación Dual: 4,191 estudiantes y 834 empresas en la Encuesta 2022-2023 y más de 9,000 estudiantes de EMS en octubre de 2023",
+      "Programa Institucional CONOCER 2025-2030 publicado en DOF el 7-ene-2026 con cinco líneas prioritarias",
+      "Informalidad laboral de 55.2% en abril y 55.0% en mayo de 2026 según ENOE del INEGI como techo de cobertura"
+    ],
+    "dataSources": ["DOF", "STPS", "Cámara de Diputados", "CONOCER", "SEP", "OIT/Cinterfor", "INEGI", "ENOE", "OCDE"],
+    "covered": true,
+    "publishedDate": "2026-08-16",
+    "publishedSlug": "capacitacion-competencias-mexico-lft-conocer-2026"
   }
 ]
