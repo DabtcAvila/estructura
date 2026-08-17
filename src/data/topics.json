@@ -1980,5 +1980,25 @@
     "covered": true,
     "publishedDate": "2026-08-16",
     "publishedSlug": "capacitacion-competencias-mexico-lft-conocer-2026"
+  },
+  {
+    "id": "pibe-itaee-inegi-arquitectura-concentracion-regional-2026",
+    "title": "PIBE e ITAEE: arquitectura estadística del PIB estatal y concentración regional del crecimiento en México",
+    "category": "datos",
+    "description": "Análisis del PIBE 2024 y del ITAEE del primer trimestre de 2026: arquitectura estadística del PIB estatal, concentración territorial y sectorial, y lectura de la coyuntura regional.",
+    "keyPoints": [
+      "SCNM base 2018 y actualización DOF 29-ago-2023: VAB de referencia +2.8% respecto a la base 2013, con revisión de 18.3% en Industrias manufactureras",
+      "PIBE 2024 (Reporte de Resultados 54/25, 5-dic-2025): PIB nacional a precios de mercado por 33,506,847 mdp corrientes y variación real anual de 1.4%",
+      "Once entidades concentran 66.7% del PIB nacional: CDMX 15.0%, EdoMex 9.1%, Nuevo León 8.1%, Jalisco 7.5%, Guanajuato 4.5%, Veracruz 4.3%, BC 3.9%, Chihuahua 3.8%, Coahuila 3.7%, Puebla 3.5% y Sonora 3.3%",
+      "Composición sectorial VAB 2024: primarias 1,296,530 mdp, secundarias 10,383,262 mdp y terciarias 19,651,440 mdp",
+      "ITAEE 1T 2026 (Boletín 437/26, 29-jul-2026): variación anual real de 0.3% nacional, con crecimiento en 12 entidades y contracción en 20",
+      "Líderes trimestrales desestacionalizados: Colima 3.0%, Michoacán 1.7%, BCS 1.6%, Durango 1.2% y Tlaxcala 1.0%; caídas destacadas en Sinaloa (-4.5%), Oaxaca (-3.1%) y CDMX (-2.9%)",
+      "Sectorial anual 1T 2026: primarias +0.4%, secundarias -1.2% y terciarias +1.0%, con contracción industrial concentrada en el corredor norte manufacturero",
+      "ITAEE se publica ~120 días después del trimestre bajo el SCNM base 2018 y SCIAN 2018, con ajuste estacional X-13ARIMA-SEATS"
+    ],
+    "dataSources": ["INEGI", "SCNM", "PIBE", "ITAEE", "BBVA Research", "México ¿Cómo Vamos?", "CEPAL"],
+    "covered": true,
+    "publishedDate": "2026-08-17",
+    "publishedSlug": "pibe-itaee-inegi-arquitectura-concentracion-regional-2026"
   }
 ]
