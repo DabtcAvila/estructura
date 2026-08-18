@@ -2000,5 +2000,25 @@
     "covered": true,
     "publishedDate": "2026-08-17",
     "publishedSlug": "pibe-itaee-inegi-arquitectura-concentracion-regional-2026"
+  },
+  {
+    "id": "beneficiarios-cuenta-individual-sar-articulo-193-jurisprudencia-2026",
+    "title": "Beneficiarios de la cuenta individual del SAR: arquitectura del artículo 193 de la LSS y el giro jurisprudencial de la SCJN en 2026",
+    "category": "pensiones",
+    "description": "Análisis del régimen sucesorio del SAR: beneficiarios legales y sustitutos del artículo 193 de la LSS, ruta operativa ante Afores e institutos, y la jurisprudencia P./J. 8/2025 del Pleno de la SCJN derivada de la Contradicción de Criterios 187/2025.",
+    "keyPoints": [
+      "Doble catálogo del artículo 193 de la LSS: beneficiarios legales por reenvío al artículo 84 fracciones III-IX y beneficiarios sustitutos designados ante la Afore",
+      "Reenvío al artículo 501 de la LFT como norma supletoria del orden de prelación",
+      "Ruta operativa: resolución del IMSS/ISSSTE o sentencia laboral y trámite de Disposición de Recursos ante la Afore",
+      "Régimen procedimental más ágil de la subcuenta de aportaciones voluntarias con designación expresa",
+      "Contradicción de Criterios 187/2025 y Tesis P./J. 8/2025 (12a.) del Pleno de la SCJN publicada el 2 de enero y obligatoria desde el 5 de enero de 2026",
+      "Alcance: descendientes mayores de edad no requieren acreditar dependencia económica cuando no exista un beneficiario con mejor derecho",
+      "Contexto sistémico: activos netos por 8.0 billones de pesos (22.9% del PIB) y 77.2 millones de cuentas al 3T 2025 según CONSAR",
+      "Interacción con el Fondo de Pensiones para el Bienestar creado por decreto DOF 30-abr-2024 y 2.55 millones de cuentas resguardadas al 3T 2025"
+    ],
+    "dataSources": ["CONSAR", "SCJN", "DOF", "LSS", "LFT", "Ley del ISSSTE", "AMAFORE", "PROFEDET"],
+    "covered": true,
+    "publishedDate": "2026-08-18",
+    "publishedSlug": "beneficiarios-cuenta-individual-sar-scjn-articulo-193-2026"
   }
 ]
