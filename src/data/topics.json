@@ -2020,5 +2020,26 @@
     "covered": true,
     "publishedDate": "2026-08-18",
     "publishedSlug": "beneficiarios-cuenta-individual-sar-scjn-articulo-193-2026"
+  },
+  {
+    "id": "reglamento-interior-trabajo-lft-422-425-cfcrl-2026",
+    "title": "Reglamento Interior de Trabajo: arquitectura de los artículos 422 a 425 de la LFT y depósito ante el CFCRL en la era postreforma",
+    "category": "laboral",
+    "description": "Régimen del Reglamento Interior de Trabajo en México: contenido mínimo, comisión mixta, depósito ante el CFCRL y ajustes por Ley Silla, teletrabajo y vacaciones dignas.",
+    "keyPoints": [
+      "Arquitectura del Capítulo V del Título Séptimo de la LFT (arts. 422 a 425) y ámbito material del RIT",
+      "Contenido mínimo tasado del artículo 423, ampliado por la Ley Silla (DOF 19-dic-2024)",
+      "Procedimiento del artículo 424: comisión mixta, depósito en ocho días y nulidad de disposiciones contrarias",
+      "Eficacia y publicidad del artículo 425: depósito, impresión y fijación visible",
+      "Traslado del registro de las Juntas al CFCRL con la reforma laboral del 1-may-2019 y su Ley Orgánica (DOF 6-ene-2020)",
+      "Depósito en línea a través de registro.centrolaboral.gob.mx",
+      "Reformas convergentes: vacaciones dignas (DOF 27-dic-2022), NOM-037-STPS-2023 teletrabajo (DOF 8-jun-2023) y Ley Silla",
+      "Régimen sancionatorio del artículo 992 LFT: 50 a 500 UMA (5,865.50 a 58,655.00 pesos con UMA 2026 de 117.31)",
+      "Programa Anual de Inspección STPS 2026 con verificación explícita del RIT en el marco de la Ley Silla"
+    ],
+    "dataSources": ["DOF", "STPS", "CFCRL", "INEGI", "Cámara de Diputados"],
+    "covered": true,
+    "publishedDate": "2026-08-19",
+    "publishedSlug": "reglamento-interior-trabajo-lft-422-425-cfcrl-2026"
   }
 ]
