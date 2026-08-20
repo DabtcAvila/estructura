@@ -2041,5 +2041,24 @@
     "covered": true,
     "publishedDate": "2026-08-19",
     "publishedSlug": "reglamento-interior-trabajo-lft-422-425-cfcrl-2026"
+  },
+  {
+    "id": "gasto-pensiones-presion-fiscal-2026",
+    "title": "El gasto en pensiones y la presión fiscal en México 2026",
+    "category": "pensiones",
+    "description": "Análisis del gasto público en pensiones en México en 2026: su peso en el presupuesto federal, la trayectoria fiscal, el desplazamiento del ISR y las proyecciones del CIEP al 2030.",
+    "keyPoints": [
+      "Gasto en pensiones 2026: ~2.3 billones de pesos, cerca de 6% del PIB y 22.7% del gasto neto",
+      "Composición contributiva (~1.7 billones, 4.5% del PIB) frente a no contributiva (~620 mmdp, 1.5% del PIB) en el PPEF 2026",
+      "Gasto ejercido en el primer semestre de 2026: 1.13 billones equivalentes a 71.9% del ISR recaudado",
+      "Rigidez presupuestal por el rango constitucional de 2020 y desplazamiento de la inversión física (-7.9% real)",
+      "Transición demográfica CONAPO: población de 65 años y más de 4.8 millones (2000) a 24.9 millones proyectados (2050)",
+      "Proyecciones del CIEP: entre 7.1% y 7.8% del PIB hacia 2030 y aportaciones netas a la baja desde ese año",
+      "Comparativo internacional: promedio OCDE de 8.3% del PIB en 2021 y posición de México por debajo de la media"
+    ],
+    "dataSources": ["CIEP", "SHCP", "México Cómo Vamos", "México Evalúa", "OCDE", "CONAPO"],
+    "covered": true,
+    "publishedDate": "2026-08-20",
+    "publishedSlug": "gasto-pensiones-presion-finanzas-publicas-mexico-2026"
   }
 ]
