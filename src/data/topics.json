@@ -2060,5 +2060,25 @@
     "covered": true,
     "publishedDate": "2026-08-20",
     "publishedSlug": "gasto-pensiones-presion-finanzas-publicas-mexico-2026"
+  },
+  {
+    "id": "reservas-internacionales-banxico-arquitectura-record-2026",
+    "title": "Reservas internacionales del Banco de México: arquitectura del activo externo y el récord de 2025-2026",
+    "category": "datos",
+    "description": "Análisis de la reserva internacional de Banxico en 2026: marco legal de los artículos 18, 19, 34 y 46 de la Ley del Banco de México, composición, trayectoria 2018-2026 en máximos históricos, adecuación y comparativo regional.",
+    "keyPoints": [
+      "Saldo de 257,417 mdd al 14 de agosto de 2026 y acumulación de 5,542 mdd en el año",
+      "Cierre récord de 251,875 mdd al 31 de diciembre de 2025 con incremento anual de 22,885 mdd",
+      "Marco legal de los artículos 18, 19, 34 y 46 de la Ley del Banco de México (DOF 23-dic-1993)",
+      "Componente aurífero de cerca de 3.86 millones de onzas troy valuadas en 16,183 mdd al cierre de 2025",
+      "81.5% del incremento acumulado en 2024 explicado por efecto valuación",
+      "Cobertura cercana a 5 meses de importaciones y ratio de más de 300% sobre deuda externa de corto plazo",
+      "Línea de Crédito Flexible con el FMI vigente desde noviembre de 2009 como colchón complementario",
+      "Comparativo regional: Brasil 357,827 mdd, México segundo lugar y Perú 73,967 mdd hacia mediados de 2025"
+    ],
+    "dataSources": ["Banco de México", "DOF", "FMI", "CEFP", "CEPAL", "ASF", "México ¿Cómo Vamos?"],
+    "covered": true,
+    "publishedDate": "2026-08-21",
+    "publishedSlug": "reservas-internacionales-banxico-arquitectura-record-2026"
   }
 ]
