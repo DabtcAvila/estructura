@@ -2080,5 +2080,26 @@
     "covered": true,
     "publishedDate": "2026-08-21",
     "publishedSlug": "reservas-internacionales-banxico-arquitectura-record-2026"
+  },
+  {
+    "id": "huelga-mexico-arquitectura-articulo-920-lft-cfcrl-2026",
+    "title": "Huelga en México: arquitectura del artículo 920 de la LFT y balance del régimen colectivo bajo el CFCRL",
+    "category": "laboral",
+    "description": "Análisis del régimen de huelga en México: marco constitucional del apartado A fracción XVII, procedimiento del Título Catorce de la LFT, competencia del CFCRL y trayectoria de emplazamientos y huelgas estalladas 2021-2025.",
+    "keyPoints": [
+      "Artículo 123 apartado A fracción XVII de la Constitución y Título Octavo de la LFT (arts. 440-471)",
+      "Procedimiento del artículo 920: plazos de seis y diez días de prehuelga, notificación al patrón en 48 horas y anexión de la Constancia de Representatividad para contrato-ley",
+      "Traslado de la conciliación federal y del registro sindical al CFCRL desde el 3 de noviembre de 2021",
+      "Trayectoria de huelgas estalladas federales: 0 en 2021 y 2022, 6 en 2023, 8 en 2024 y 14 en 2025; 28 acumuladas en el sexenio con +55% frente a periodos previos",
+      "Emplazamientos anuales: 1,080 en el primer semestre de 2024, 1,190 al cierre de junio de 2025 y 1,474 estimados en 2025, con 68% por revisión salarial",
+      "Legitimación de contratos colectivos cerrada el 1 de mayo de 2023 con 27,336 instrumentos ratificados",
+      "Verificación del CFCRL: 1,077 solicitudes en 2021 y 14,409 en 2024",
+      "MLRR del T-MEC: más de 40 solicitudes desde el 12 de mayo de 2021 y caso GM Silao como precedente",
+      "Tasa de sindicalización en 22.3%-22.5% de la población asalariada según ENOE y techo estructural de la informalidad en 55% al cierre del 4T 2025"
+    ],
+    "dataSources": ["DOF", "STPS", "CFCRL", "INEGI", "ENOE", "OIT", "Secretaría de Economía", "Cámara de Diputados"],
+    "covered": true,
+    "publishedDate": "2026-08-22",
+    "publishedSlug": "huelga-mexico-arquitectura-articulo-920-lft-cfcrl-2026"
   }
 ]
