@@ -2101,5 +2101,26 @@
     "covered": true,
     "publishedDate": "2026-08-22",
     "publishedSlug": "huelga-mexico-arquitectura-articulo-920-lft-cfcrl-2026"
+  },
+  {
+    "id": "envipe-2025-arquitectura-victimizacion-cifra-negra-mexico",
+    "title": "ENVIPE 2025: arquitectura de la medición de la victimización y la cifra negra en México",
+    "category": "datos",
+    "description": "Lectura de la ENVIPE 2025 del INEGI publicada el 18 de septiembre de 2025: 33.5 millones de delitos en 2024, tasa de 34,918 por 100 mil habitantes, 24,135 víctimas por 100 mil, cifra negra de 93.2% y jerarquía de percepción y confianza institucional.",
+    "keyPoints": [
+      "Comunicado 127/25 del INEGI del 18 de septiembre de 2025 y decimoquinta edición de la serie declarada Información de Interés Nacional en diciembre de 2011",
+      "33.5 millones de delitos en 2024 con tasa de 34,918 por cada 100,000 habitantes frente a 33,267 en 2023",
+      "23.1 millones de personas de 18+ víctimas y 24,135 víctimas por cada 100,000 habitantes",
+      "11.4 millones de hogares (29.0% del total) con al menos una persona víctima de delito",
+      "Fraude 7,574 por 100,000 como delito más frecuente, seguido de robo o asalto callejero 6,003 y extorsión 5,971",
+      "Cifra negra de 93.2% del total; secuestro 98.1% y extorsión 97.0%",
+      "Costo económico del delito estimado en 269.6 mil millones de pesos (~1.0% del PIB) según COPARMEX",
+      "Percepción de inseguridad y confianza superior en Marina, Fuerza Aérea y Ejército, con brecha frente a policías civiles",
+      "Concentración territorial en Estado de México, CDMX, Querétaro, Puebla, Quintana Roo, Morelos y otras entidades"
+    ],
+    "dataSources": ["INEGI", "SNIEG", "ENSU", "COPARMEX", "MCCI", "SESNSP"],
+    "covered": true,
+    "publishedDate": "2026-08-23",
+    "publishedSlug": "envipe-2025-arquitectura-victimizacion-cifra-negra-mexico"
   }
 ]
