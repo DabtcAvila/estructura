@@ -2122,5 +2122,27 @@
     "covered": true,
     "publishedDate": "2026-08-23",
     "publishedSlug": "envipe-2025-arquitectura-victimizacion-cifra-negra-mexico"
+  },
+  {
+    "id": "consar-arquitectura-institucional-regulador-sar-2026",
+    "title": "CONSAR: arquitectura institucional del regulador del SAR y agenda de supervisión 2025-2030",
+    "category": "pensiones",
+    "description": "Análisis institucional de la CONSAR en 2026: órgano desconcentrado de la SHCP bajo la LSAR de 1996, Junta de Gobierno tripartita, atribuciones regulatorias, balance 2023-2026 y agenda de la fase de desacumulación.",
+    "keyPoints": [
+      "Órgano desconcentrado de la SHCP con autonomía técnica bajo el artículo 2 de la LSAR (DOF 23-may-1996)",
+      "Junta de Gobierno de diecisiete miembros presidida por el Secretario de Hacienda (artículo 7 LSAR)",
+      "Comité Consultivo y de Vigilancia tripartito con diecinueve integrantes (artículo 15 LSAR)",
+      "Julio César Cervantes Parra al frente de la Presidencia desde el 1 de mayo de 2023",
+      "8.67 billones de pesos administrados y 69.9 millones de cuentas al 1T 2026 (Informe Trimestral CONSAR)",
+      "Comisiones 2026 aprobadas el 21 de noviembre de 2025: 9 Afore al 0.54%, PENSIONISSSTE al 0.52% y promedio 0.538%",
+      "Reformas al régimen de inversión DOF 29-oct-2024 y DOF 21-jul-2025 con nuevos límites por clase de activo",
+      "Cuenta Concentradora con 9,315,584 cuentas pendientes o inactivas y 118,958 mdp al 31-may-2026",
+      "Meta CONSAR: 34% del PIB en activos administrados hacia 2030",
+      "Agenda 2025-2030: desacumulación, cobertura, supervisión reforzada y coordinación con el Fondo de Pensiones para el Bienestar"
+    ],
+    "dataSources": ["CONSAR", "DOF", "SHCP", "Banco de México", "AMAFORE", "ASF"],
+    "covered": true,
+    "publishedDate": "2026-08-24",
+    "publishedSlug": "consar-arquitectura-institucional-regulador-sar-2026"
   }
 ]
