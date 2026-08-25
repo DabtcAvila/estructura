@@ -2144,5 +2144,25 @@
     "covered": true,
     "publishedDate": "2026-08-24",
     "publishedSlug": "consar-arquitectura-institucional-regulador-sar-2026"
+  },
+  {
+    "id": "trabajadores-universitarios-lft-capitulo-xvii-autonomia-2026",
+    "title": "Trabajadores universitarios en la LFT: el capítulo XVII y el régimen especial de la autonomía en 2026",
+    "category": "laboral",
+    "description": "Análisis del régimen laboral especial de las universidades e instituciones de educación superior autónomas por ley: capítulo XVII de la LFT (arts. 353-J a 353-U), su articulación con el artículo 3 fracción VII constitucional, la contratación colectiva vigente y la agenda 2026.",
+    "keyPoints": [
+      "Adición del capítulo XVII al Título Sexto de la LFT por decreto DOF 20-oct-1980",
+      "Doce artículos (353-J a 353-U) que traducen la fracción VII del artículo 3 constitucional al régimen laboral",
+      "Definición binaria de trabajador académico y administrativo en el artículo 353-K",
+      "Régimen de definitividad académica del artículo 353-L y su interacción con los concursos de oposición",
+      "Ley General de Educación Superior (DOF 20-abr-2021, 77 artículos) como sucesora de la Ley de Coordinación de 1978",
+      "Contratos colectivos vigentes: UNAM-STUNAM 2024-2026 y UACh-STAUACh 2025-2027",
+      "SNII bajo SECIHTI como reconocimiento federal complementario y su impacto sobre pensiones",
+      "Agenda 2026: implementación de la LGES, T-MEC y libertad sindical, personal por asignatura y articulación con Fondo de Pensiones para el Bienestar"
+    ],
+    "dataSources": ["DOF", "LFT", "Constitución", "ANUIES", "SECIHTI", "STPS", "UNAM", "UACh", "OIT"],
+    "covered": true,
+    "publishedDate": "2026-08-25",
+    "publishedSlug": "trabajadores-universitarios-lft-capitulo-xvii-autonomia-2026"
   }
 ]
