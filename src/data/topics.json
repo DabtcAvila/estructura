@@ -2164,5 +2164,25 @@
     "covered": true,
     "publishedDate": "2026-08-25",
     "publishedSlug": "trabajadores-universitarios-lft-capitulo-xvii-autonomia-2026"
+  },
+  {
+    "id": "cscm-2024-cultura-mexico-arquitectura-brecha-presupuesto",
+    "title": "Cuenta Satélite de la Cultura de México 2024: arquitectura estadística, dinámica sectorial y la brecha con la política presupuestal",
+    "category": "datos",
+    "description": "Lectura de la CSCM 2024 publicada por el INEGI el 19 de noviembre de 2025: PIB cultural de 865,682 mdp, participación de 2.8% del PIB nacional, 1,430,528 puestos de trabajo, recomposición por área funcional y contraste con la trayectoria del Ramo 48 y el Programa Sectorial de Cultura 2025-2030.",
+    "keyPoints": [
+      "Comunicado de Prensa 144/25 y Reporte de Resultados 46/25 del INEGI, 19 de noviembre de 2025",
+      "PIB cultural 2024 por 865,682 mdp, equivalente a 2.8% del PIB total, con crecimiento real de 1.2%",
+      "Composición contable: mercado 2.21%, hogares 0.38% y gestión pública 0.17% del PIB total",
+      "Concentración funcional: artesanías (18.4%), contenidos digitales (18.1%), medios audiovisuales (17.2%) y diseño y servicios creativos (14.5%)",
+      "1,430,528 puestos de trabajo (3.5% de la economía), -0.2% anual y 30.2% concentrados en artesanías",
+      "Nueve entidades por encima del promedio nacional (CDMX, Guerrero, Michoacán, Morelos, Oaxaca, Puebla, Quintana Roo, Tlaxcala y Yucatán)",
+      "Programa Sectorial de Cultura 2025-2030 (DOF 15-sep-2025) y PEF 2026 del Ramo 48 aprobado por 15,081.5 mdp",
+      "Contraste con la contracción real de 30.8% del Ramo 48 en el PEF 2025"
+    ],
+    "dataSources": ["INEGI", "SCNM", "UNESCO", "Convenio Andrés Bello", "DOF", "Cámara de Diputados", "Fundar", "FONART"],
+    "covered": true,
+    "publishedDate": "2026-08-26",
+    "publishedSlug": "cscm-2024-cultura-mexico-arquitectura-brecha-presupuesto-2026"
   }
 ]
