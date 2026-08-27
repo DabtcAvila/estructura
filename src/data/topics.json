@@ -2184,5 +2184,25 @@
     "covered": true,
     "publishedDate": "2026-08-26",
     "publishedSlug": "cscm-2024-cultura-mexico-arquitectura-brecha-presupuesto-2026"
+  },
+  {
+    "id": "inpc-arquitectura-estadistica-referencia-legal-2026",
+    "title": "INPC: arquitectura estadística del índice nacional de precios y su papel como referencia legal en 2026",
+    "category": "datos",
+    "description": "Diagnóstico del INPC en 2026: marco constitucional y del artículo 20-Bis del CFF, actualización 2024 de canasta y ponderadores con la ENIGH Estacional 2022 y la CCIF 2018, transición a índices encadenados, cierre de 3.69% en diciembre de 2025 dentro del rango objetivo de Banxico y transmisión a la UMA 2026 fijada en 117.31 pesos diarios.",
+    "keyPoints": [
+      "Traslado del cálculo del INPC del Banco de México al INEGI en julio de 2011 tras la Ley del SNIEG (DOF 16-abr-2008)",
+      "Reglas mínimas del artículo 20-Bis del CFF: 30 ciudades, 20 entidades, 1,000 productos y 250 conceptos con fórmula de Laspeyres",
+      "Base segunda quincena de julio de 2018 = 100 con 55 ciudades en 32 entidades federativas",
+      "Actualización 2024: canasta de 292 genéricos, ENIGH Estacional 2022, adopción de la CCIF 2018 e índices encadenados desde la 1Q de agosto de 2024",
+      "Ajuste de ponderadores por objeto de gasto con reponderación al alza de salud y educación",
+      "Cierre de inflación anual de 3.69% en diciembre de 2025 y INPC en 143.042 unidades (Boletín 6/26 del INEGI)",
+      "UMA 2026 en 117.31 pesos diarios, 3,566.22 mensuales y 42,794.64 anuales (comunicado 1/26 del INEGI, DOF 9-ene-2026)",
+      "Ratificación del objetivo de 3% con intervalo de variabilidad de ±1 pp en el Programa Monetario 2026 de Banxico"
+    ],
+    "dataSources": ["INEGI", "Banco de México", "DOF", "Cámara de Diputados", "SNIEG", "México ¿Cómo Vamos?", "SAT"],
+    "covered": true,
+    "publishedDate": "2026-08-27",
+    "publishedSlug": "inpc-arquitectura-estadistica-referencia-legal-2026"
   }
 ]
