@@ -2204,5 +2204,25 @@
     "covered": true,
     "publishedDate": "2026-08-27",
     "publishedSlug": "inpc-arquitectura-estadistica-referencia-legal-2026"
+  },
+  {
+    "id": "planes-privados-pensiones-registro-electronico-mexico-2026",
+    "title": "Planes Privados de Pensiones Ocupacionales en México: arquitectura del Registro Electrónico y agenda regulatoria 2026",
+    "category": "pensiones",
+    "description": "Diagnóstico del régimen de planes privados de pensiones ocupacionales (PPO) en México: marco normativo LSAR-LSS-LISR, radiografía del SIREPP 2025 con 3,222 planes y 1.9 millones de trabajadores activos, simplificación del trámite ante CONSAR publicada en el DOF el 23 de abril de 2026, convenio CONSAR-STPS del 28 de julio de 2026 y fiscalización coordinada con el IMSS.",
+    "keyPoints": [
+      "Fundamento en la Ley del SAR (DOF 23-may-1996), Circular Única de CONSAR y art. 27 fracción VIII de la LSS para exclusión del SBC",
+      "Tratamiento fiscal: art. 25 fracción X y art. 29 fracción II LISR con estudio actuarial obligatorio, y régimen distinto de los PPR bajo art. 151 fracción V con tope de 5 UMA anuales (213,973.20 pesos en 2026)",
+      "SIREPP 2025 (publicado 24-oct-2025): 3,222 planes, 2,938 empresas patrocinadoras, 1,913,445 trabajadores activos, 34,591 con derechos adquiridos y 86,322 pensionados",
+      "Composición: 36% beneficio definido con 788,864 trabajadores, 15% contribución definida, 15% híbridos y 34% mixtos; 51.4% de planes BD con fondos externalizados",
+      "Cobertura efectiva por debajo del 10% de la formalidad y de 22.3% entre trabajadores con salario superior a 20 UMA; concentración en servicios (49%), industria (38%) y CDMX-Nuevo León-Estado de México",
+      "Acuerdo SHCP DOF 23-abr-2026: renombramiento a Planes de pensiones de Registro Electrónico, resolución inmediata y FF-CONSAR-01-018 para actuarios con requisitos reforzados",
+      "Convenio CONSAR-STPS del 28-jul-2026 e implementación de las Disposiciones publicadas el 13-nov-2025",
+      "Fiscalización IMSS 2025: 11 actos concluidos, 8.7 mdp recaudados, 1,571 personas restituidas y 174 revisiones en proceso para 2026 con base en el Criterio 01/2023/NV/SBC-LSS-27-VIII"
+    ],
+    "dataSources": ["CONSAR", "SIREPP", "DOF", "STPS", "IMSS", "SAT", "SHCP", "LISR", "LSS"],
+    "covered": true,
+    "publishedDate": "2026-08-28",
+    "publishedSlug": "planes-privados-pensiones-registro-electronico-mexico-2026"
   }
 ]
