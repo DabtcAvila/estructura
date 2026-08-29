@@ -2224,5 +2224,25 @@
     "covered": true,
     "publishedDate": "2026-08-28",
     "publishedSlug": "planes-privados-pensiones-registro-electronico-mexico-2026"
+  },
+  {
+    "id": "trabajadores-mexicanos-extranjero-articulo-28-lft-2026",
+    "title": "Trabajadores mexicanos en el extranjero: el artículo 28 de la LFT y la arquitectura de la movilidad laboral autorizada en 2026",
+    "category": "laboral",
+    "description": "Análisis del artículo 28 de la LFT y sus incisos A y B, la aprobación de contratos por el CFCRL tras la reforma de 2019, el PTAT México-Canadá, las visas H-2A y H-2B en Estados Unidos y el Mecanismo de Movilidad Laboral no agrícola con Canadá, Estados Unidos y Alemania.",
+    "keyPoints": [
+      "Artículo 28 LFT: gastos de transporte y repatriación, vivienda decorosa, atención médica y fianza o depósito a cargo del patrón",
+      "Fracción III: aprobación del contrato por el Centro Federal de Conciliación y Registro Laboral tras la reforma del 1-may-2019",
+      "Artículo 28-A y responsabilidad solidaria de agencias de colocación autorizadas por STPS",
+      "Reglamento de Agencias de Colocación de Trabajadores DOF 3-mar-2006 y Registro Central con más de 300 agencias vigentes",
+      "PTAT México-Canadá: más de 25 mil personas mexicanas en 2025, 97.5% hombres, concentración en Ontario, Quebec y Columbia Británica",
+      "Visas H-2A: 285,800 recipientes mexicanos en FY2024 (90.6% del total mundial) e índice de aceptación de 96.1%",
+      "Visas H-2B: tope estatutario de 66,000 con aumento suplementario de hasta 64,716 para FY2024 autorizado por el DHS",
+      "Mecanismo de Movilidad Laboral no agrícola: 1,113 personas mexicanas a marzo de 2025 en Canadá, Estados Unidos y Alemania (enfermería, gastronomía y construcción)"
+    ],
+    "dataSources": ["DOF", "Cámara de Diputados", "STPS", "CFCRL", "SRE", "U.S. Department of State", "U.S. Department of Labor", "U.S. Department of Homeland Security", "OIT"],
+    "covered": true,
+    "publishedDate": "2026-08-29",
+    "publishedSlug": "trabajadores-mexicanos-extranjero-articulo-28-lft-2026"
   }
 ]
