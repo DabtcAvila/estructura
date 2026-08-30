@@ -2244,5 +2244,26 @@
     "covered": true,
     "publishedDate": "2026-08-29",
     "publishedSlug": "trabajadores-mexicanos-extranjero-articulo-28-lft-2026"
+  },
+  {
+    "id": "dias-descanso-obligatorio-articulo-74-lft-mexico-2026",
+    "title": "Días de descanso obligatorio en México: arquitectura del artículo 74 de la LFT, aritmética del pago y cobertura efectiva en 2026",
+    "category": "laboral",
+    "description": "Análisis del catálogo del artículo 74 de la LFT en 2026, las reformas de 2006 y 2024, la aritmética del pago triple del artículo 75 y la brecha entre la norma y su disfrute efectivo en un mercado laboral con 55% de informalidad.",
+    "keyPoints": [
+      "Siete días fijos y móviles del catálogo del artículo 74 y calendario 2026 (jueves 1-ene, lunes 2-feb, lunes 16-mar, viernes 1-may, miércoles 16-sep, lunes 16-nov y viernes 25-dic)",
+      "Fracción VII vigente por reforma DOF 30-sep-2024: 1 de octubre cada seis años por transmisión del Poder Ejecutivo Federal, próxima aplicación 2030",
+      "Fracción IX activada por leyes electorales federales y locales; sin activación en 2026",
+      "Reforma DOF 17-ene-2006 que instauró los lunes móviles de febrero, marzo y noviembre",
+      "Aritmética del artículo 75: salario del descanso más doble por el servicio prestado, con pago triple resultante",
+      "Cobertura formal universal pero disfrute efectivo limitado por informalidad de 55% al cierre de 2025 según ENOE",
+      "OCC Termómetro Laboral 2024: 29% de trabajadores con derecho respetado siempre y 71% que ha laborado en día feriado",
+      "México con 2,193 horas trabajadas por persona ocupada en 2024 según OCDE, casi 600 horas más que el promedio del bloque",
+      "Iniciativas de ampliación de Cámara de Diputados (2024-2025) para llevar el catálogo a 15 días y crear tres puentes largos"
+    ],
+    "dataSources": ["DOF", "Cámara de Diputados", "STPS", "PROFEDET", "INEGI", "ENOE", "OCDE", "IMCO", "OCC"],
+    "covered": true,
+    "publishedDate": "2026-08-30",
+    "publishedSlug": "dias-descanso-obligatorio-articulo-74-lft-mexico-2026"
   }
 ]
