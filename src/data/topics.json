@@ -2265,5 +2265,26 @@
     "covered": true,
     "publishedDate": "2026-08-30",
     "publishedSlug": "dias-descanso-obligatorio-articulo-74-lft-mexico-2026"
+  },
+  {
+    "id": "defunciones-registradas-2024-inegi-mortalidad-post-covid",
+    "title": "Estadísticas de Defunciones Registradas 2024: 819,672 muertes, tasa cruda de 630 por cada cien mil y la mortalidad mexicana en la fase posterior a la pandemia",
+    "category": "datos",
+    "description": "Análisis de la EDR 2024 del INEGI: 819,672 defunciones, alza de 2.5 por ciento anual, recomposición por causas y la lectura post-COVID de la mortalidad en México.",
+    "keyPoints": [
+      "Comunicado de Prensa 142/25 del 10 de noviembre de 2025 con cifras definitivas",
+      "819,672 defunciones registradas en 2024 (+2.5% vs 2023) y tasa cruda de 630 por 100 mil habitantes",
+      "797,566 defunciones ocurridas efectivamente en 2024 (97.3% del total registrado)",
+      "89.6% por enfermedades y problemas de salud; 10.4% por causas externas",
+      "Enfermedades del corazón 192,563, diabetes mellitus 112,641 y tumores malignos 95,237 concentran el 48.8% del total",
+      "Reporte de Resultados 24/25: 33,241 presuntos homicidios preliminares y tasa de 25.6 por 100 mil habitantes",
+      "Distribución por sexo 44.0% mujeres y 55.9% hombres; enero (9.7%) y mayo (9.3%) como meses con mayor mortalidad",
+      "Articulación con SNIEG, CONAPO (esperanza de vida 75.5 años en 2024) y el Panorama Epidemiológico de la Secretaría de Salud",
+      "Catálogo 1140 del Registro Nacional de Metadatos con desagregación nacional, estatal, municipal y de localidad"
+    ],
+    "dataSources": ["INEGI", "EDR", "SNIEG", "CONAPO", "Secretaría de Salud", "Registro Civil"],
+    "covered": true,
+    "publishedDate": "2026-08-31",
+    "publishedSlug": "defunciones-registradas-2024-inegi-mortalidad-post-covid"
   }
 ]
