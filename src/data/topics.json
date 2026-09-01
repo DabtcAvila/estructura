@@ -2286,5 +2286,25 @@
     "covered": true,
     "publishedDate": "2026-08-31",
     "publishedSlug": "defunciones-registradas-2024-inegi-mortalidad-post-covid"
+  },
+  {
+    "id": "envipe-2025-victimizacion-cifra-negra-costo-inegi",
+    "title": "ENVIPE 2025: victimización delictiva al alza, cifra negra persistente y costo equivalente al 1.07% del PIB",
+    "category": "datos",
+    "description": "Lectura del comunicado 127/25 del INEGI: 33.5 millones de delitos en 2024, prevalencia de 24,135 víctimas por 100 mil habitantes, cifra negra de 93.2% y costo de 269.6 mil mdp.",
+    "keyPoints": [
+      "Comunicado 127/25 y Reporte de Resultados 33/25 del INEGI publicados el 18 de septiembre de 2025",
+      "33.5 millones de delitos en 2024 e incidencia de 34,918 delitos por 100 mil habitantes",
+      "Prevalencia de 24,135 víctimas por 100 mil habitantes de 18+ años y 29.0% de hogares con víctima",
+      "Cifra negra de 93.2% del total de delitos y desconfianza en la autoridad como 14.0% de la razón de no denuncia",
+      "Costo total del delito por 269.6 mil mdp equivalente a 1.07% del PIB y 6,226 pesos por víctima",
+      "Percepción de inseguridad estatal de 75.6% y contraste con el mínimo del sexenio de 59.8% que reportó la ENSU en junio de 2026",
+      "Concentración estatal en CDMX (54,473), Estado de México (48,426) y Querétaro (45,107)",
+      "Continuidad de la serie desde 2011 y su lugar en el Programa Nacional de Estadística y Geografía 2025-2030"
+    ],
+    "dataSources": ["INEGI", "ENVIPE", "SNIEG", "ENSU", "MCCI", "COPARMEX"],
+    "covered": true,
+    "publishedDate": "2026-09-01",
+    "publishedSlug": "envipe-2025-victimizacion-cifra-negra-costo-mexico-inegi"
   }
 ]
