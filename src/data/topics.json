@@ -2306,5 +2306,27 @@
     "covered": true,
     "publishedDate": "2026-09-01",
     "publishedSlug": "envipe-2025-victimizacion-cifra-negra-costo-mexico-inegi"
+  },
+  {
+    "id": "tope-pensiones-publicas-articulo-127-reforma-2026",
+    "title": "Tope constitucional a las pensiones públicas: alcance, controversia y saldo a cinco meses de la reforma al artículo 127",
+    "category": "pensiones",
+    "description": "Análisis de la reforma al artículo 127 constitucional publicada en el DOF el 10 de abril de 2026: alcance, universo afectado, litigio ante la SCJN y comparativo con la OCDE.",
+    "keyPoints": [
+      "Decreto DOF 10-abr-2026 y entrada en vigor el 11-abr-2026",
+      "Tope de la mitad de la remuneración presidencial: 67,145 pesos con base en el sueldo neto de 134,290 pesos del PEF 2026",
+      "Aprobación en Diputados el 25-mar-2026 por unanimidad de 458 votos",
+      "Excepciones: Fuerzas Armadas, aportaciones voluntarias del SAR, esquemas complementarios sindicales y pensión no contributiva del artículo 4o.",
+      "Antecedente: Ley Federal de Remuneraciones DOF 5-nov-2018 y su versión reglamentaria de 2021",
+      "Antecedente: Acuerdo del Director General del ISSSTE DOF 8-nov-2024 con tope de 10 UMA (33,571 pesos)",
+      "Litigio SCJN: Acuerdo General 3/2026 (6-abr-2026, en vigor 15-abr-2026), amparos en revisión 599/2025 al 604/2025 y 141/2026 al 144/2026 y reasunciones de competencia 128/2025 y 11/2026",
+      "Universo cercano a 93 mil exservidores potencialmente comprendidos, con casos en LFC en liquidación, Pemex, CFE y Banobras",
+      "Falla interpretativa reconocida en julio de 2026 sobre percepciones integrantes de la remuneración presidencial",
+      "Comparativo OCDE: bases máximas contributivas de 1 a 2 salarios medios y ausencia de tope en Finlandia, Portugal e Italia"
+    ],
+    "dataSources": ["DOF", "SCJN", "ISSSTE", "SHCP", "Cámara de Diputados", "OCDE", "CIEP", "IMSS"],
+    "covered": true,
+    "publishedDate": "2026-09-02",
+    "publishedSlug": "tope-pensiones-publicas-articulo-127-reforma-2026-balance"
   }
 ]
