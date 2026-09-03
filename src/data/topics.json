@@ -2328,5 +2328,27 @@
     "covered": true,
     "publishedDate": "2026-09-02",
     "publishedSlug": "tope-pensiones-publicas-articulo-127-reforma-2026-balance"
+  },
+  {
+    "id": "residentes-medicos-lft-nom-001-ssa-2023-balance-2026",
+    "title": "Régimen laboral de los médicos residentes: alcance del capítulo XVI de la LFT y balance de la NOM-001-SSA-2023 a dos años de su publicación",
+    "category": "laboral",
+    "description": "Análisis del régimen especial de trabajo de los médicos residentes en México: capítulo XVI de la LFT, NOM-001-SSA-2023, jornadas de hasta 80 horas semanales y jurisprudencia de la SCJN.",
+    "keyPoints": [
+      "Capítulo XVI del título sexto de la LFT (artículos 353-A a 353-I) y definición del vínculo residente-unidad médica receptora",
+      "Artículo 353-E de la LFT: guardias de máximo 12 horas continuas, tres veces por semana y con al menos dos días de intervalo",
+      "NOM-001-SSA-2023 publicada en el DOF el 19 de marzo de 2024, sustitutiva de la NOM-001-SSA3-2012 y con entrada en vigor a los 180 días naturales",
+      "Tope explícito de 80 horas semanales, dos guardias semanales y modelo rotatorio ABCD",
+      "Contradicción de Tesis 308/2016 de la Segunda Sala de la SCJN, resuelta el 7 de diciembre de 2016, sobre la naturaleza laboral de la relación",
+      "IMSS: más de 26 mil residentes en formación en 71 programas y cerca de 400 unidades médicas en 2024",
+      "ENARM 2025: cerca de 66 mil aspirantes por 18,515 plazas; ENARM 2024 con 6,106 vacantes no cubiertas",
+      "Comparativo internacional: ACGME 80 horas, Directiva UE 2003/88/CE 48 horas, países nórdicos 42-48 horas",
+      "Beca institucional cercana al triple del salario mínimo con complemento reportado de 15,000 pesos en el ciclo 2024-2025",
+      "Agenda pendiente: iniciativas para reducir el tope a 60 horas semanales y actualizar la beca"
+    ],
+    "dataSources": ["DOF", "Cámara de Diputados", "SCJN", "CIFRHS", "IMSS", "ISSSTE", "ACGME", "Unión Europea"],
+    "covered": true,
+    "publishedDate": "2026-09-03",
+    "publishedSlug": "residentes-medicos-lft-nom-001-ssa-2023-balance-2026"
   }
 ]
