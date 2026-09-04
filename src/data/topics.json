@@ -2350,5 +2350,27 @@
     "covered": true,
     "publishedDate": "2026-09-03",
     "publishedSlug": "residentes-medicos-lft-nom-001-ssa-2023-balance-2026"
+  },
+  {
+    "id": "trabajadores-confianza-apartado-b-lftse-jurisprudencia-2026",
+    "title": "Trabajadores de confianza al servicio del Estado: exclusión de la LFTSE, jurisprudencia constitucional y frontera con el Apartado A",
+    "category": "laboral",
+    "description": "Análisis del régimen de los trabajadores de confianza en el Apartado B: fracción XIV constitucional, catálogo del artículo 5 de la LFTSE, exclusión del régimen ordinario y doctrina jurisprudencial de la SCJN sobre ausencia de estabilidad y reinstalación, con contraste frente al Apartado A y la agenda del Convenio 151 de la OIT.",
+    "keyPoints": [
+      "Fracción XIV del Apartado B del artículo 123 y protección restringida a salario y seguridad social",
+      "Enumeración del artículo 5 de la LFTSE por dependencia y por naturaleza de las funciones",
+      "Criterio material sobre criterio formal en la jurisprudencia de la Segunda Sala",
+      "Regla de exclusión del artículo 8 de la LFTSE y sus consecuencias procesales",
+      "Doctrina P./J. 205/2007 sobre ausencia de estabilidad e imposibilidad de reinstalación",
+      "Erosiones jurisprudenciales por vía de derechos fundamentales y seguridad social",
+      "Frontera con el Apartado A: artículos 9, 11, 49 fracción III y 183 de la LFT",
+      "Reforma constitucional del 20 de diciembre de 2024 y reforma a la LFTSE del 15 de diciembre de 2025",
+      "Ratificación pendiente del Convenio 151 de la OIT sobre relaciones de trabajo en la administración pública",
+      "Agenda 2026-2030: acotación del catálogo, interpretación del nuevo artículo 69 Bis y alineación con estándares internacionales"
+    ],
+    "dataSources": ["Constitución Política de los Estados Unidos Mexicanos", "DOF", "Cámara de Diputados", "SCJN", "OIT", "TFCA", "Instituto de Investigaciones Jurídicas de la UNAM"],
+    "covered": true,
+    "publishedDate": "2026-09-04",
+    "publishedSlug": "trabajadores-confianza-apartado-b-lftse-jurisprudencia-2026"
   }
 ]
