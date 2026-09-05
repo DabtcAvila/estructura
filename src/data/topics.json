@@ -2372,5 +2372,25 @@
     "covered": true,
     "publishedDate": "2026-09-04",
     "publishedSlug": "trabajadores-confianza-apartado-b-lftse-jurisprudencia-2026"
+  },
+  {
+    "id": "matrimonios-divorcios-2024-inegi-vinculo-conyugal-mexico",
+    "title": "Estadística de Matrimonios y Divorcios 2024: dinámica del vínculo conyugal en México y consolidación del divorcio incausado",
+    "category": "datos",
+    "description": "Lectura de EMAT y EDIV 2024 del INEGI (publicadas en septiembre de 2025): 486,645 matrimonios, 161,932 divorcios, razón de 33.3 por cada 100 uniones, consolidación del divorcio incausado tras la jurisprudencia 1a./J. 28/2015 de la SCJN y contraste con ENADID 2023 y Censo 2020.",
+    "keyPoints": [
+      "486,645 matrimonios y 161,932 divorcios registrados en 2024 según INEGI",
+      "Razón de 33.3 divorcios por cada 100 matrimonios, once puntos más alta que en 2015",
+      "Cobertura censal a partir de registros administrativos del Registro Civil y de la judicatura familiar",
+      "Caída de la nupcialidad entre 15 y 29 años: de 20.9% en 2005 a 7.6% en 2025",
+      "Consolidación del divorcio incausado tras la reforma del DF de 2008 y la jurisprudencia 1a./J. 28/2015 de la Primera Sala de la SCJN",
+      "Heterogeneidad estatal con Nuevo León, Chihuahua, Baja California y CDMX en el extremo alto",
+      "Contraste con ENADID 2023 y Censo 2020 sobre el peso creciente de la unión libre",
+      "Agenda 2025-2030 del INEGI para consolidar el uso primario de registros administrativos en estadísticas vitales"
+    ],
+    "dataSources": ["INEGI", "EMAT", "EDIV", "ENADID", "Censo 2020", "SCJN", "DOF", "CONAPO"],
+    "covered": true,
+    "publishedDate": "2026-09-05",
+    "publishedSlug": "matrimonios-divorcios-2024-inegi-vinculo-conyugal-mexico"
   }
 ]
