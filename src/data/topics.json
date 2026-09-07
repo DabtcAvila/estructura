@@ -2412,5 +2412,25 @@
     "covered": true,
     "publishedDate": "2026-09-06",
     "publishedSlug": "regimen-jubilaciones-pensiones-imss-pasivo-laboral-2024"
+  },
+  {
+    "id": "profedet-defensa-trabajador-nuevo-modelo-justicia-laboral-2026",
+    "title": "PROFEDET: la defensa gratuita del trabajador y su reconfiguración bajo el nuevo modelo de justicia laboral",
+    "category": "laboral",
+    "description": "Balance de la Procuraduría Federal de la Defensa del Trabajo tras el Reglamento del 31 de agosto de 2022: tránsito de la conciliación a la mediación, articulación con el CFCRL y los tribunales laborales, cobertura efectiva y su lugar en el Programa Sectorial de Trabajo y Previsión Social 2025-2030.",
+    "keyPoints": [
+      "Fundamento constitucional en la fracción XX del Apartado A del artículo 123 y legal en los artículos 530 a 536 de la LFT y 40 fracción XII de la LOAPF",
+      "Nuevo Reglamento de la PROFEDET publicado en el DOF el 31 de agosto de 2022",
+      "Tránsito de la conciliación con efectos vinculantes a una función de mediación, con traslado de la etapa prejudicial al CFCRL en el ámbito federal",
+      "Cobertura de 302,606 servicios en 2024 equivalentes al 11.7% de los 2.5 millones de trabajadores formales del IMSS en actividades federales",
+      "Composición de asuntos con 24% por despido, 20% por prestaciones y 10% por designación de beneficiarios",
+      "CFCRL con recuperación acumulada de 113 mil mdp para trabajadores en seis años y tasa de convenio de 72 de cada 100 solicitudes individuales",
+      "Traslado de las oficinas centrales de la PROFEDET a las instalaciones de la extinta Junta Federal de Conciliación y Arbitraje en enero de 2026",
+      "Inserción en los seis objetivos prioritarios del Programa Sectorial de Trabajo y Previsión Social 2025-2030 publicado en el DOF el 27 de noviembre de 2025"
+    ],
+    "dataSources": ["DOF", "STPS", "PROFEDET", "CFCRL", "Cámara de Diputados", "SHCP", "INEGI", "ENOE"],
+    "covered": true,
+    "publishedDate": "2026-09-07",
+    "publishedSlug": "profedet-defensa-trabajador-nuevo-modelo-justicia-laboral-2026"
   }
 ]
