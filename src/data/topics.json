@@ -2432,5 +2432,27 @@
     "covered": true,
     "publishedDate": "2026-09-07",
     "publishedSlug": "profedet-defensa-trabajador-nuevo-modelo-justicia-laboral-2026"
+  },
+  {
+    "id": "cuentas-economicas-ecologicas-mexico-ceem-2024-pine",
+    "title": "Cuentas Económicas y Ecológicas de México 2024: 1.38 billones de pesos de costos ambientales y el PINE en 76.6% del PIB",
+    "category": "datos",
+    "description": "Lectura del CEEM 2024 del INEGI (Comunicado 150/25, 1 de diciembre de 2025): 1.38 billones de pesos de costos por agotamiento y degradación (4.1% del PIB), Producto Interno Neto Ecológico en 25.7 billones equivalente a 76.6% del PIB, 0.7% del PIB en gasto de protección ambiental y articulación con las Cuentas de los Ecosistemas de México bajo el marco SEEA de Naciones Unidas.",
+    "keyPoints": [
+      "Comunicado de prensa 150/25 del INEGI publicado el 1 de diciembre de 2025 con cifras preliminares y año base 2018",
+      "CTADA 2024 por 1.38 billones de pesos corrientes, equivalente a 4.1% del PIB, con 3.7 puntos de degradación y 0.4 de agotamiento",
+      "Emisiones al aire como componente dominante con 2.5% del PIB y degradación del suelo con 0.6%",
+      "Residuos sólidos urbanos por 124,438 mdp (0.4% del PIB) y aguas residuales no tratadas por 68,609 mdp (0.2% del PIB)",
+      "PINE 2024 en 25.7 billones de pesos, equivalente a 76.6% del PIB a precios de mercado, prácticamente estable frente a 76.7% en 2023",
+      "Sectores de Comercio, Otros servicios y Manufacturas como principales aportantes del PINE",
+      "Gastos en protección ambiental por 232,882 mdp (0.7% del PIB) con 32.2% para aire y clima y 20.8% para recursos hídricos",
+      "Trayectoria del CTADA desde 6.0% del PIB en 2003 hasta 4.1% en 2024, con crecimiento absoluto en pesos corrientes",
+      "Articulación con las Cuentas de los Ecosistemas de México 2024 (Comunicado 190/25) bajo el marco SEEA Ecosystem Accounting",
+      "Origen técnico en el proyecto NCAVES (INEGI, SEMARNAT, UNSD, PNUMA) y agenda 2030 del Marco Mundial de la Biodiversidad Kunming-Montreal"
+    ],
+    "dataSources": ["INEGI", "SEMARNAT", "CONAGUA", "SNIEG", "UNSD", "PNUMA", "CIEP", "IMCO"],
+    "covered": true,
+    "publishedDate": "2026-09-08",
+    "publishedSlug": "cuentas-economicas-ecologicas-mexico-ceem-2024-pine"
   }
 ]
