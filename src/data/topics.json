@@ -2454,5 +2454,26 @@
     "covered": true,
     "publishedDate": "2026-09-08",
     "publishedSlug": "cuentas-economicas-ecologicas-mexico-ceem-2024-pine"
+  },
+  {
+    "id": "tiempo-extraordinario-articulos-66-68-lft-jurisprudencia-2026",
+    "title": "Tiempo extraordinario en México: régimen de los artículos 66 a 68 de la LFT, aritmética del pago y jurisprudencia frente a la reforma de 40 horas",
+    "category": "laboral",
+    "description": "Arquitectura del régimen de horas extras en México: tope de nueve horas semanales, pago doble y triple, carga procesal del patrón, doctrina de la inverosimilitud de la Segunda Sala de la SCJN, Programa Anual de Inspección STPS 2026 y tensión con la reducción gradual de la jornada a 40 horas 2026-2030.",
+    "keyPoints": [
+      "Artículo 66 LFT: tope máximo de tres horas diarias y tres veces por semana, con nueve horas como techo semanal",
+      "Artículo 67 LFT: pago doble (100% adicional) para las primeras nueve horas extraordinarias",
+      "Artículo 68 LFT: pago triple (200% adicional) para las horas que excedan el tope semanal",
+      "Artículos 784 fracción VIII y 804 LFT: carga procesal del patrón y obligación de conservar controles de asistencia",
+      "Jurisprudencia 2a./J. 7/2006 de la Segunda Sala SCJN sobre la doctrina de la inverosimilitud",
+      "Nuevo modelo de inspección STPS 2026 con 43 mil visitas y verificación cruzada con nómina timbrada e IMSS",
+      "México con cerca de 2,128 horas anuales trabajadas por persona ocupada, el máximo de la OCDE",
+      "Reforma constitucional al 123: transición gradual de 48 a 40 horas semanales entre 2026 y 2030",
+      "Restricciones especiales para menores de 16 años y mujeres embarazadas (artículos 166 y 178 LFT)"
+    ],
+    "dataSources": ["DOF", "STPS", "SCJN", "INEGI", "ENOE", "OCDE", "PROFEDET", "IMCO", "Banco de México"],
+    "covered": true,
+    "publishedDate": "2026-09-09",
+    "publishedSlug": "tiempo-extraordinario-articulos-66-68-lft-jurisprudencia-2026"
   }
 ]
