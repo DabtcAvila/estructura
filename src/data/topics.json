@@ -2475,5 +2475,25 @@
     "covered": true,
     "publishedDate": "2026-09-09",
     "publishedSlug": "tiempo-extraordinario-articulos-66-68-lft-jurisprudencia-2026"
+  },
+  {
+    "id": "itlp-tendencia-laboral-pobreza-transicion-inegi-2026",
+    "title": "Índice de la Tendencia Laboral de la Pobreza (ITLP): del CONEVAL al INEGI y la lectura del poder adquisitivo del salario en 2026",
+    "category": "datos",
+    "description": "Análisis del ITLP tras la extinción del CONEVAL: metodología, transferencia al INEGI en julio de 2025 y lectura del poder adquisitivo del ingreso laboral entre 2020 y 2026.",
+    "keyPoints": [
+      "Diseño metodológico: ingreso laboral corriente per cápita de la ENOE frente a la Línea de Pobreza Extrema por Ingresos (canasta alimentaria)",
+      "Extinción del CONEVAL por reforma constitucional DOF 20-dic-2024 y transferencia al INEGI por leyes secundarias DOF 17-jul-2025",
+      "Continuidad metodológica del índice y su articulación con la primera medición de pobreza multidimensional del INEGI (2024)",
+      "Trayectoria 2020-2026: choque pandémico, recuperación 2021-2023 y estabilización 2024-2026",
+      "Interacción con la política salarial de la CONASAMI 2019-2026 y la Zona Libre de la Frontera Norte",
+      "Sensibilidad a la inflación de alimentos y ruptura de la serie ENOE-ENOEN 2020-2022",
+      "Brecha estructural urbana-rural y patrón estatal con Chiapas, Guerrero y Oaxaca en niveles elevados",
+      "Agenda 2026-2030: continuidad, nota metodológica actualizada y complementariedad con ENIGH"
+    ],
+    "dataSources": ["CONEVAL", "INEGI", "ENOE", "Banco de México", "CONASAMI", "DOF", "SNIEG", "CEPAL", "México ¿Cómo Vamos?"],
+    "covered": true,
+    "publishedDate": "2026-09-10",
+    "publishedSlug": "itlp-tendencia-laboral-pobreza-transicion-inegi-2026"
   }
 ]
