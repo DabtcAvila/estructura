@@ -2495,5 +2495,26 @@
     "covered": true,
     "publishedDate": "2026-09-10",
     "publishedSlug": "itlp-tendencia-laboral-pobreza-transicion-inegi-2026"
+  },
+  {
+    "id": "pasivo-laboral-cfe-suterm-convenio-2016-balance-2026",
+    "title": "Pasivo laboral de la CFE: convenio SUTERM de 2016, asunción federal y el rebote de 2026",
+    "category": "pensiones",
+    "description": "Análisis del pasivo laboral de la CFE: régimen contractual con el SUTERM, reforma de la cláusula 69 en 2016, asunción federal de 161,080 mdp por SHCP, trayectoria 2020-2026 y efecto de la reforma al artículo 127 constitucional.",
+    "keyPoints": [
+      "Origen contractual del régimen: cláusula 69 del CCT CFE-SUTERM y beneficios definidos vinculados a salarios integrados",
+      "Reforma energética DOF 20-dic-2013 y transición a Empresa Productiva del Estado con la Ley de la CFE (11-ago-2014)",
+      "Convenio CFE-SUTERM del 19 de mayo de 2016: nuevos requisitos de 30 años de servicio y 65 años de edad",
+      "Reducción de aproximadamente 160 mmdp del pasivo actuarial y asunción federal de 161,080 mdp anunciada por SHCP el 28 de diciembre de 2016",
+      "Trayectoria 2023-2026: estabilidad en torno a 425 mmdp y salto a 554.2 mmdp al 2T 2026 (+25.3% anual)",
+      "Nómina de más de 54 mil pensionados con pensión promedio cercana a 66 mil pesos mensuales según CEEY",
+      "Ratio de 1.8 trabajadores activos por pensionado en 2025 frente a un promedio de 4 en IMSS-ISSSTE",
+      "Leyes secundarias energéticas de marzo de 2025 y regreso a Empresa Pública del Estado",
+      "Reforma al artículo 127 constitucional (DOF 10-abr-2026) con tope aproximado de 67,145 pesos netos mensuales"
+    ],
+    "dataSources": ["CFE", "SUTERM", "SHCP", "IMCO", "DOF", "ASF", "Banco de México", "Espinosa Yglesias"],
+    "covered": true,
+    "publishedDate": "2026-09-11",
+    "publishedSlug": "pasivo-laboral-cfe-suterm-convenio-2016-balance-2026"
   }
 ]
