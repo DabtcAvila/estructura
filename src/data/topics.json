@@ -2516,5 +2516,25 @@
     "covered": true,
     "publishedDate": "2026-09-11",
     "publishedSlug": "pasivo-laboral-cfe-suterm-convenio-2016-balance-2026"
+  },
+  {
+    "id": "rescision-sin-responsabilidad-articulos-47-51-lft-2026",
+    "title": "Rescisión sin responsabilidad en la LFT: artículos 47 y 51, aviso de rescisión y el nuevo modelo de justicia laboral",
+    "category": "laboral",
+    "description": "Análisis de los artículos 47 y 51 de la LFT: catálogo de causales, régimen del aviso de rescisión tras la reforma de 2019, jurisprudencia reciente y operación en el nuevo modelo de justicia laboral.",
+    "keyPoints": [
+      "Catálogo de quince causales del artículo 47 y régimen simétrico del artículo 51",
+      "Reforma DOF 30-nov-2012 al aviso de rescisión y tope de doce meses a los salarios vencidos del artículo 48",
+      "Reforma DOF 1-may-2019 y sustitución de la Junta por el Tribunal laboral competente en la ruta del aviso",
+      "Presunción de despido injustificado por omisión del aviso y admisión de prueba en contrario en la jurisprudencia reciente de la SCJN",
+      "Filtro prejudicial obligatorio del CFCRL con cerca de 800 mil solicitudes acumuladas y 113 mil mdp recuperados a mayo de 2026",
+      "Prescripción de un mes del artículo 517 para las acciones de rescisión de patrones y trabajadores",
+      "Contexto de informalidad de 55 por ciento en el 4T 2025 según la ENOE como límite estructural",
+      "No ratificación del Convenio 158 de la OIT sobre terminación de la relación de trabajo"
+    ],
+    "dataSources": ["DOF", "Cámara de Diputados", "SCJN", "CFCRL", "STPS", "INEGI", "ENOE", "OIT", "PROFEDET"],
+    "covered": true,
+    "publishedDate": "2026-09-12",
+    "publishedSlug": "rescision-sin-responsabilidad-articulos-47-51-lft-2026"
   }
 ]
