@@ -2556,5 +2556,22 @@
     "covered": true,
     "publishedDate": "2026-09-13",
     "publishedSlug": "subsidio-empleo-arquitectura-uma-balance-2026"
+  },
+  {
+    "id": "biare-bienestar-subjetivo-inegi",
+    "title": "BIARE: la medición del bienestar subjetivo en México, arquitectura y trayectoria 2013-2026",
+    "category": "datos",
+    "description": "Análisis del Módulo de Bienestar Autoreportado del INEGI: origen internacional, arquitectura metodológica, hallazgos 2013-2026 y agenda pendiente.",
+    "keyPoints": [
+      "Origen: comisión Stiglitz-Sen-Fitoussi 2009 y guías OCDE 2013",
+      "Arquitectura: BIARE Básico trimestral con ENCO y BIARE Ampliado bienal",
+      "Serie 2013-2026: satisfacción con la vida en tramo alto, seguridad y país en tramo bajo",
+      "Comparativo internacional: paradoja de satisfacción alta con dimensiones objetivas adversas",
+      "Agenda: cobertura rural, series subnacionales y uso en Sistema de Evaluación del Desempeño"
+    ],
+    "dataSources": ["INEGI", "OCDE", "SDSN", "Eurostat", "SNIEG"],
+    "covered": true,
+    "publishedDate": "2026-09-14",
+    "publishedSlug": "biare-bienestar-subjetivo-inegi-2013-2026"
   }
 ]
