@@ -2573,5 +2573,22 @@
     "covered": true,
     "publishedDate": "2026-09-14",
     "publishedSlug": "biare-bienestar-subjetivo-inegi-2013-2026"
+  },
+  {
+    "id": "pension-bienestar-discapacidad-permanente",
+    "title": "Pensión para el Bienestar de las Personas con Discapacidad Permanente: arquitectura, cobertura y balance en 2026",
+    "category": "pensiones",
+    "description": "Análisis del programa federal de pensión no contributiva para personas con discapacidad permanente: rango de edad, monto 2026, padrón, marco constitucional y brechas de cobertura.",
+    "keyPoints": [
+      "Reforma al artículo 4° constitucional del 8 de mayo de 2020 y elevación a derecho universal",
+      "Monto de 3,300 pesos bimestrales en 2026 y transición al programa de personas adultas mayores a los 65 años",
+      "Padrón de 1.6 millones de personas y presupuesto de 36 mil millones de pesos en el Ramo 20",
+      "Cobertura efectiva de 38% de la población elegible según CONEVAL",
+      "Comparación regional con Chile y Uruguay y ubicación baja en el rango latinoamericano de suficiencia"
+    ],
+    "dataSources": ["DOF", "Secretaría de Bienestar", "INEGI", "CONEVAL", "SHCP", "CEFP", "CEPAL", "OCDE"],
+    "covered": true,
+    "publishedDate": "2026-09-15",
+    "publishedSlug": "pension-bienestar-discapacidad-permanente-2026"
   }
 ]
