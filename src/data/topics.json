@@ -4,8 +4,16 @@
     "title": "Rendimientos reales de las AFORES: análisis comparativo 2020-2024",
     "category": "pensiones",
     "description": "Evaluación de rendimientos netos de comisiones de las principales AFORES, comparando desempeño por tipo de SIEFORE y horizonte de inversión.",
-    "keyPoints": ["Rendimientos por SIEFORE generacional", "Comparativo entre administradoras", "Impacto de comisiones en rendimiento neto", "Rendimiento real vs inflación"],
-    "dataSources": ["CONSAR", "Banxico"],
+    "keyPoints": [
+      "Rendimientos por SIEFORE generacional",
+      "Comparativo entre administradoras",
+      "Impacto de comisiones en rendimiento neto",
+      "Rendimiento real vs inflación"
+    ],
+    "dataSources": [
+      "CONSAR",
+      "Banxico"
+    ],
     "covered": true,
     "publishedDate": "2026-04-29",
     "publishedSlug": "rendimientos-reales-afores-2020-2024"
@@ -15,8 +23,16 @@
     "title": "La brecha de cobertura pensionaria en México",
     "category": "pensiones",
     "description": "Análisis de la población sin acceso al sistema de ahorro para el retiro, factores demográficos y geográficos que determinan la exclusión.",
-    "keyPoints": ["Porcentaje de PEA sin cuenta AFORE activa", "Distribución por estado y sector", "Género y brecha pensionaria", "Proyecciones de cobertura"],
-    "dataSources": ["CONSAR", "INEGI"],
+    "keyPoints": [
+      "Porcentaje de PEA sin cuenta AFORE activa",
+      "Distribución por estado y sector",
+      "Género y brecha pensionaria",
+      "Proyecciones de cobertura"
+    ],
+    "dataSources": [
+      "CONSAR",
+      "INEGI"
+    ],
     "covered": true,
     "publishedDate": "2026-04-20",
     "publishedSlug": "brecha-cobertura-pensionaria-mexico-2026"
@@ -26,8 +42,16 @@
     "title": "Reforma de pensiones 2020: impacto a 5 años",
     "category": "pensiones",
     "description": "Evaluación del impacto de la reforma que incrementó aportaciones patronales y redujo semanas de cotización mínimas para acceder a pensión.",
-    "keyPoints": ["Incremento gradual de aportaciones", "Efecto en tasas de reemplazo", "Reducción de semanas de cotización", "Impacto fiscal"],
-    "dataSources": ["CONSAR", "SHCP"],
+    "keyPoints": [
+      "Incremento gradual de aportaciones",
+      "Efecto en tasas de reemplazo",
+      "Reducción de semanas de cotización",
+      "Impacto fiscal"
+    ],
+    "dataSources": [
+      "CONSAR",
+      "SHCP"
+    ],
     "covered": true,
     "publishedDate": "2026-04-25",
     "publishedSlug": "reforma-pensiones-2020-impacto-cinco-anos"
@@ -37,8 +61,15 @@
     "title": "Evolución de comisiones en el SAR: de 2008 a la fecha",
     "category": "pensiones",
     "description": "Trayectoria de las comisiones cobradas por las AFORES, efecto regulatorio y comparación internacional.",
-    "keyPoints": ["Tendencia histórica de comisiones", "Marco regulatorio CONSAR", "Comparativo internacional", "Impacto en saldo final del trabajador"],
-    "dataSources": ["CONSAR"],
+    "keyPoints": [
+      "Tendencia histórica de comisiones",
+      "Marco regulatorio CONSAR",
+      "Comparativo internacional",
+      "Impacto en saldo final del trabajador"
+    ],
+    "dataSources": [
+      "CONSAR"
+    ],
     "covered": true,
     "publishedDate": "2026-04-30",
     "publishedSlug": "comisiones-afore-trayectoria-2008-2026"
@@ -48,8 +79,17 @@
     "title": "Pensión del Bienestar y SAR: complementariedad o sustitución",
     "category": "pensiones",
     "description": "Análisis de la interacción entre la pensión universal no contributiva y el sistema contributivo de ahorro para el retiro.",
-    "keyPoints": ["Cobertura de pensión no contributiva", "Desincentivos al ahorro formal", "Costo fiscal proyectado", "Modelos internacionales de pilares"],
-    "dataSources": ["CONSAR", "SHCP", "DOF"],
+    "keyPoints": [
+      "Cobertura de pensión no contributiva",
+      "Desincentivos al ahorro formal",
+      "Costo fiscal proyectado",
+      "Modelos internacionales de pilares"
+    ],
+    "dataSources": [
+      "CONSAR",
+      "SHCP",
+      "DOF"
+    ],
     "covered": true,
     "publishedDate": "2026-05-03",
     "publishedSlug": "pension-bienestar-sar-complementariedad-sustitucion-2026"
@@ -59,8 +99,16 @@
     "title": "Informalidad laboral en México: diagnóstico estructural",
     "category": "laboral",
     "description": "Radiografía de la informalidad laboral mexicana: magnitud, distribución sectorial, geográfica y sus implicaciones para la seguridad social.",
-    "keyPoints": ["Tasa de informalidad por estado", "Sectores con mayor informalidad", "Perfil demográfico del trabajador informal", "Relación con cobertura de seguridad social"],
-    "dataSources": ["INEGI", "ENOE"],
+    "keyPoints": [
+      "Tasa de informalidad por estado",
+      "Sectores con mayor informalidad",
+      "Perfil demográfico del trabajador informal",
+      "Relación con cobertura de seguridad social"
+    ],
+    "dataSources": [
+      "INEGI",
+      "ENOE"
+    ],
     "covered": true,
     "publishedDate": "2026-04-20",
     "publishedSlug": "informalidad-laboral-mexico-diagnostico-estructural-2026"
@@ -70,8 +118,17 @@
     "title": "Brecha salarial de género en el mercado laboral mexicano",
     "category": "laboral",
     "description": "Cuantificación y descomposición de la brecha salarial entre hombres y mujeres, controlando por sector, educación y experiencia.",
-    "keyPoints": ["Brecha bruta vs ajustada", "Variación por sector y nivel educativo", "Evolución temporal", "Comparativo con OCDE"],
-    "dataSources": ["INEGI", "ENOE", "IMSS"],
+    "keyPoints": [
+      "Brecha bruta vs ajustada",
+      "Variación por sector y nivel educativo",
+      "Evolución temporal",
+      "Comparativo con OCDE"
+    ],
+    "dataSources": [
+      "INEGI",
+      "ENOE",
+      "IMSS"
+    ],
     "covered": true,
     "publishedDate": "2026-04-20",
     "publishedSlug": "brecha-salarial-genero-mexico-2026"
@@ -81,8 +138,17 @@
     "title": "Empleo juvenil y el fenómeno NiNi en México",
     "category": "laboral",
     "description": "Análisis de la situación laboral de jóvenes de 15 a 29 años que no estudian ni trabajan, factores determinantes y políticas públicas.",
-    "keyPoints": ["Magnitud del fenómeno NiNi", "Distribución por género y región", "Causas estructurales", "Políticas de inserción laboral"],
-    "dataSources": ["INEGI", "ENOE", "SEP"],
+    "keyPoints": [
+      "Magnitud del fenómeno NiNi",
+      "Distribución por género y región",
+      "Causas estructurales",
+      "Políticas de inserción laboral"
+    ],
+    "dataSources": [
+      "INEGI",
+      "ENOE",
+      "SEP"
+    ],
     "covered": true,
     "publishedDate": "2026-04-27",
     "publishedSlug": "empleo-juvenil-fenomeno-nini-mexico-2026"
@@ -92,8 +158,16 @@
     "title": "Automatización y futuro del empleo en México",
     "category": "laboral",
     "description": "Estimación de empleos en riesgo de automatización por sector y ocupación, con enfoque en la estructura productiva mexicana.",
-    "keyPoints": ["Ocupaciones con mayor riesgo", "Sectores más vulnerables", "Comparación con economías similares", "Habilidades requeridas para transición"],
-    "dataSources": ["INEGI", "OCDE"],
+    "keyPoints": [
+      "Ocupaciones con mayor riesgo",
+      "Sectores más vulnerables",
+      "Comparación con economías similares",
+      "Habilidades requeridas para transición"
+    ],
+    "dataSources": [
+      "INEGI",
+      "OCDE"
+    ],
     "covered": true,
     "publishedDate": "2026-05-01",
     "publishedSlug": "automatizacion-empleo-mexico-2026"
@@ -103,8 +177,17 @@
     "title": "Efectos de los incrementos al salario mínimo 2019-2025",
     "category": "laboral",
     "description": "Evaluación del impacto de la política de recuperación del salario mínimo en empleo formal, informalidad y distribución del ingreso.",
-    "keyPoints": ["Evolución real del salario mínimo", "Efecto en empleo formal e informal", "Impacto en distribución del ingreso", "Zona Libre de la Frontera Norte"],
-    "dataSources": ["CONASAMI", "INEGI", "IMSS"],
+    "keyPoints": [
+      "Evolución real del salario mínimo",
+      "Efecto en empleo formal e informal",
+      "Impacto en distribución del ingreso",
+      "Zona Libre de la Frontera Norte"
+    ],
+    "dataSources": [
+      "CONASAMI",
+      "INEGI",
+      "IMSS"
+    ],
     "covered": true,
     "publishedDate": "2026-05-04",
     "publishedSlug": "salario-minimo-mexico-recuperacion-balance-2019-2026"
@@ -114,8 +197,17 @@
     "title": "Migración y mercado laboral: flujos, remesas e impacto",
     "category": "laboral",
     "description": "Análisis del impacto de los flujos migratorios en el mercado laboral mexicano, incluyendo remesas y su efecto en comunidades de origen.",
-    "keyPoints": ["Flujos migratorios recientes", "Remesas como porcentaje del PIB", "Impacto en mercados laborales locales", "Migración de retorno"],
-    "dataSources": ["Banxico", "INEGI", "CONAPO"],
+    "keyPoints": [
+      "Flujos migratorios recientes",
+      "Remesas como porcentaje del PIB",
+      "Impacto en mercados laborales locales",
+      "Migración de retorno"
+    ],
+    "dataSources": [
+      "Banxico",
+      "INEGI",
+      "CONAPO"
+    ],
     "covered": true,
     "publishedDate": "2026-05-07",
     "publishedSlug": "migracion-mercado-laboral-mexico-flujos-remesas-2026"
@@ -125,8 +217,16 @@
     "title": "Estado de los datos abiertos gubernamentales en México",
     "category": "datos",
     "description": "Evaluación de la calidad, accesibilidad y uso de los datos abiertos publicados por instituciones del gobierno mexicano.",
-    "keyPoints": ["Portales de datos abiertos", "Calidad y actualización", "Estándares de publicación", "Comparativo internacional"],
-    "dataSources": ["INAI", "datos.gob.mx"],
+    "keyPoints": [
+      "Portales de datos abiertos",
+      "Calidad y actualización",
+      "Estándares de publicación",
+      "Comparativo internacional"
+    ],
+    "dataSources": [
+      "INAI",
+      "datos.gob.mx"
+    ],
     "covered": true,
     "publishedDate": "2026-04-20",
     "publishedSlug": "datos-abiertos-mexico-nuevo-marco-retos-2026"
@@ -136,8 +236,15 @@
     "title": "La infraestructura estadística de INEGI: fortalezas y retos",
     "category": "datos",
     "description": "Análisis de las capacidades del sistema estadístico nacional, sus encuestas clave y áreas de oportunidad en la era digital.",
-    "keyPoints": ["Encuestas y censos principales", "Frecuencia y cobertura", "Modernización digital", "Autonomía institucional"],
-    "dataSources": ["INEGI"],
+    "keyPoints": [
+      "Encuestas y censos principales",
+      "Frecuencia y cobertura",
+      "Modernización digital",
+      "Autonomía institucional"
+    ],
+    "dataSources": [
+      "INEGI"
+    ],
     "covered": true,
     "publishedDate": "2026-04-28",
     "publishedSlug": "inegi-infraestructura-estadistica-2026"
@@ -147,8 +254,16 @@
     "title": "Pipelines de datos para el sector público: mejores prácticas",
     "category": "datos",
     "description": "Guía de arquitectura y mejores prácticas para construir pipelines de datos robustos en instituciones gubernamentales mexicanas.",
-    "keyPoints": ["Arquitectura de datos moderna", "ETL vs ELT", "Gobernanza de datos", "Casos de uso en gobierno"],
-    "dataSources": ["OCDE", "BID"],
+    "keyPoints": [
+      "Arquitectura de datos moderna",
+      "ETL vs ELT",
+      "Gobernanza de datos",
+      "Casos de uso en gobierno"
+    ],
+    "dataSources": [
+      "OCDE",
+      "BID"
+    ],
     "covered": true,
     "publishedDate": "2026-05-09",
     "publishedSlug": "pipelines-datos-sector-publico-mexico-2026"
@@ -158,8 +273,17 @@
     "title": "Más allá del PIB: indicadores alternativos de bienestar en México",
     "category": "datos",
     "description": "Exploración de métricas alternativas al PIB para medir el bienestar de la población mexicana, incluyendo índices multidimensionales.",
-    "keyPoints": ["Índice de Desarrollo Humano México", "Medición multidimensional de pobreza", "Bienestar subjetivo", "Indicadores de sostenibilidad"],
-    "dataSources": ["CONEVAL", "INEGI", "PNUD"],
+    "keyPoints": [
+      "Índice de Desarrollo Humano México",
+      "Medición multidimensional de pobreza",
+      "Bienestar subjetivo",
+      "Indicadores de sostenibilidad"
+    ],
+    "dataSources": [
+      "CONEVAL",
+      "INEGI",
+      "PNUD"
+    ],
     "covered": true,
     "publishedDate": "2026-05-02",
     "publishedSlug": "indicadores-bienestar-mexico-mas-alla-pib-2026"
@@ -169,8 +293,15 @@
     "title": "Guía práctica: trabajar con microdatos de INEGI",
     "category": "datos",
     "description": "Tutorial técnico sobre cómo acceder, procesar y analizar microdatos de las principales encuestas de INEGI.",
-    "keyPoints": ["Acceso a microdatos", "Formatos y estructuras", "Factores de expansión", "Herramientas de análisis"],
-    "dataSources": ["INEGI"],
+    "keyPoints": [
+      "Acceso a microdatos",
+      "Formatos y estructuras",
+      "Factores de expansión",
+      "Herramientas de análisis"
+    ],
+    "dataSources": [
+      "INEGI"
+    ],
     "covered": true,
     "publishedDate": "2026-05-08",
     "publishedSlug": "microdatos-inegi-arquitectura-acceso-2026"
@@ -180,8 +311,17 @@
     "title": "Fintech e inclusión financiera en México",
     "category": "datos",
     "description": "Análisis del ecosistema fintech mexicano y su contribución a la inclusión financiera, con datos de la CNBV y Banxico.",
-    "keyPoints": ["Ecosistema fintech en México", "Regulación (Ley Fintech)", "Inclusión financiera digital", "CoDi y pagos digitales"],
-    "dataSources": ["CNBV", "Banxico", "INEGI"],
+    "keyPoints": [
+      "Ecosistema fintech en México",
+      "Regulación (Ley Fintech)",
+      "Inclusión financiera digital",
+      "CoDi y pagos digitales"
+    ],
+    "dataSources": [
+      "CNBV",
+      "Banxico",
+      "INEGI"
+    ],
     "covered": true,
     "publishedDate": "2026-05-05",
     "publishedSlug": "fintech-inclusion-financiera-mexico-2026"
@@ -191,8 +331,23 @@
     "title": "Ahorro voluntario en el SAR: trayectoria, barreras y agenda regulatoria",
     "category": "pensiones",
     "description": "Diagnóstico del ahorro voluntario en el Sistema de Ahorro para el Retiro: penetración, marco fiscal, canales digitales y los retos para complementar las pensiones obligatorias.",
-    "keyPoints": ["Saldo y crecimiento del ahorro voluntario", "Penetración entre titulares de cuenta", "Régimen fiscal y deducibilidad", "Canales digitales y minoristas", "Política Nacional de Inclusión Financiera 2025-2030"],
-    "dataSources": ["CONSAR", "INEGI", "ENIF", "CIEP", "SAT", "OCDE", "AMAFORE", "CNBV"],
+    "keyPoints": [
+      "Saldo y crecimiento del ahorro voluntario",
+      "Penetración entre titulares de cuenta",
+      "Régimen fiscal y deducibilidad",
+      "Canales digitales y minoristas",
+      "Política Nacional de Inclusión Financiera 2025-2030"
+    ],
+    "dataSources": [
+      "CONSAR",
+      "INEGI",
+      "ENIF",
+      "CIEP",
+      "SAT",
+      "OCDE",
+      "AMAFORE",
+      "CNBV"
+    ],
     "covered": true,
     "publishedDate": "2026-05-10",
     "publishedSlug": "ahorro-voluntario-sar-mexico-2026"
@@ -202,8 +357,23 @@
     "title": "Reforma de la jornada laboral a 40 horas en México: la transición 2026-2030",
     "category": "laboral",
     "description": "Análisis de la reforma constitucional al artículo 123 que reduce la jornada semanal de 48 a 40 horas, su calendario, costos sectoriales y el comparativo con Chile.",
-    "keyPoints": ["Cronología legislativa y publicación en DOF", "Calendario gradual 2026-2030", "Rezago en horas trabajadas vs OCDE", "Impacto sectorial y costos para empresas", "Riesgo de informalidad y registro electrónico de jornada", "Referencia chilena Ley N° 21.561"],
-    "dataSources": ["DOF", "STPS", "INEGI", "OCDE", "Senado", "Cámara de Diputados", "Deloitte"],
+    "keyPoints": [
+      "Cronología legislativa y publicación en DOF",
+      "Calendario gradual 2026-2030",
+      "Rezago en horas trabajadas vs OCDE",
+      "Impacto sectorial y costos para empresas",
+      "Riesgo de informalidad y registro electrónico de jornada",
+      "Referencia chilena Ley N° 21.561"
+    ],
+    "dataSources": [
+      "DOF",
+      "STPS",
+      "INEGI",
+      "OCDE",
+      "Senado",
+      "Cámara de Diputados",
+      "Deloitte"
+    ],
     "covered": true,
     "publishedDate": "2026-05-11",
     "publishedSlug": "jornada-laboral-40-horas-mexico-transicion-2026-2030"
@@ -213,8 +383,22 @@
     "title": "ENIGH 2024: ingreso, gasto y desigualdad en los hogares mexicanos",
     "category": "datos",
     "description": "Lectura analítica de la ENIGH 2024 publicada por el INEGI en julio de 2025: crecimiento del ingreso de los hogares, mínimo histórico del coeficiente de Gini, recomposición de las transferencias y persistencia de la brecha rural-urbana, en el contexto de la nueva atribución del INEGI para medir la pobreza multidimensional.",
-    "keyPoints": ["Diseño muestral y cobertura del levantamiento 2024", "Crecimiento del ingreso laboral y de las transferencias", "Coeficiente de Gini en 0.391 y rol redistributivo de transferencias", "Brecha rural-urbana y heterogeneidad estatal", "Estructura del gasto por deciles", "Transferencia de la medición de pobreza al INEGI"],
-    "dataSources": ["INEGI", "CONEVAL", "IMCO", "México ¿Cómo Vamos?", "CIEP", "SNIEG"],
+    "keyPoints": [
+      "Diseño muestral y cobertura del levantamiento 2024",
+      "Crecimiento del ingreso laboral y de las transferencias",
+      "Coeficiente de Gini en 0.391 y rol redistributivo de transferencias",
+      "Brecha rural-urbana y heterogeneidad estatal",
+      "Estructura del gasto por deciles",
+      "Transferencia de la medición de pobreza al INEGI"
+    ],
+    "dataSources": [
+      "INEGI",
+      "CONEVAL",
+      "IMCO",
+      "México ¿Cómo Vamos?",
+      "CIEP",
+      "SNIEG"
+    ],
     "covered": true,
     "publishedDate": "2026-05-12",
     "publishedSlug": "enigh-2024-ingreso-gasto-desigualdad-hogares-mexico"
@@ -224,8 +408,23 @@
     "title": "Reforma de plataformas digitales: balance de la prueba piloto del IMSS",
     "category": "laboral",
     "description": "Análisis de la reforma a la LFT en materia de plataformas digitales publicada en diciembre de 2024, la prueba piloto del IMSS de julio a diciembre de 2025 y las tensiones del esquema binario de cobertura.",
-    "keyPoints": ["Capítulo IX Bis de la LFT y umbral de ingreso", "Reglas Generales del Consejo Técnico del IMSS", "Padrón acumulado y cobertura plena en el piloto", "Efecto del salario mínimo 2026 sobre el umbral", "Composición sectorial: movilidad vs reparto", "Agenda 2026: inspecciones STPS e iniciativa pendiente"],
-    "dataSources": ["DOF", "IMSS", "STPS", "Cámara de Diputados", "OIT", "CEPAL", "INEGI"],
+    "keyPoints": [
+      "Capítulo IX Bis de la LFT y umbral de ingreso",
+      "Reglas Generales del Consejo Técnico del IMSS",
+      "Padrón acumulado y cobertura plena en el piloto",
+      "Efecto del salario mínimo 2026 sobre el umbral",
+      "Composición sectorial: movilidad vs reparto",
+      "Agenda 2026: inspecciones STPS e iniciativa pendiente"
+    ],
+    "dataSources": [
+      "DOF",
+      "IMSS",
+      "STPS",
+      "Cámara de Diputados",
+      "OIT",
+      "CEPAL",
+      "INEGI"
+    ],
     "covered": true,
     "publishedDate": "2026-05-13",
     "publishedSlug": "reforma-plataformas-digitales-balance-prueba-piloto-imss-2026"
@@ -235,8 +434,22 @@
     "title": "SIEFOREs generacionales: balance del modelo de ciclo de vida a seis años",
     "category": "pensiones",
     "description": "Análisis del modelo target date adoptado por el SAR mexicano en diciembre de 2019: diseño del glide path, actualización del régimen de inversión de 2024, desempeño medido por el IRN y retos pendientes.",
-    "keyPoints": ["Transición de 5 SIEFOREs Básicas a 10 Generacionales", "Cohortes quinquenales por año de nacimiento y glide path", "Actualización del régimen de inversión del 25 de octubre de 2024", "Cartera observada vs límites regulatorios", "IRN y dispersión de rendimientos entre Afores en 2026", "Comparativos con Estados Unidos y Chile, tensiones de cobertura y desacumulación"],
-    "dataSources": ["CONSAR", "AMAFORE", "DOF", "Superintendencia de Pensiones de Chile", "OCDE", "Condusef"],
+    "keyPoints": [
+      "Transición de 5 SIEFOREs Básicas a 10 Generacionales",
+      "Cohortes quinquenales por año de nacimiento y glide path",
+      "Actualización del régimen de inversión del 25 de octubre de 2024",
+      "Cartera observada vs límites regulatorios",
+      "IRN y dispersión de rendimientos entre Afores en 2026",
+      "Comparativos con Estados Unidos y Chile, tensiones de cobertura y desacumulación"
+    ],
+    "dataSources": [
+      "CONSAR",
+      "AMAFORE",
+      "DOF",
+      "Superintendencia de Pensiones de Chile",
+      "OCDE",
+      "Condusef"
+    ],
     "covered": true,
     "publishedDate": "2026-05-14",
     "publishedSlug": "siefores-generacionales-balance-ciclo-vida-2026"
@@ -246,8 +459,23 @@
     "title": "Reforma a la subcontratación: balance estructural a cinco años de su entrada en vigor",
     "category": "laboral",
     "description": "Balance a cinco años del decreto del 23 de abril de 2021 que reformó la LFT en materia de subcontratación: arquitectura del REPSE, migración al patrón real, evidencia censal de los Censos Económicos 2024, jurisprudencia del tope a la PTU y agenda 2026-2030.",
-    "keyPoints": ["Decreto DOF 23-abr-2021 y modificaciones a LFT, LSS, INFONAVIT y régimen fiscal", "Migración de 2.745 millones de trabajadores al patrón real reportada por el IMSS", "Caída de 89.4% del personal subcontratado entre 2018 y 2023 según los Censos Económicos 2024", "Consolidación del REPSE, ICSOE y SISUB como instrumentos de control", "Sentencia SCJN AR 633/2023 sobre la constitucionalidad del tope a la PTU", "Renovación trienal del REPSE y agenda de inspección 2025-2030"],
-    "dataSources": ["DOF", "IMSS", "STPS", "INEGI", "SCJN", "IMCO", "CEPAL/OIT"],
+    "keyPoints": [
+      "Decreto DOF 23-abr-2021 y modificaciones a LFT, LSS, INFONAVIT y régimen fiscal",
+      "Migración de 2.745 millones de trabajadores al patrón real reportada por el IMSS",
+      "Caída de 89.4% del personal subcontratado entre 2018 y 2023 según los Censos Económicos 2024",
+      "Consolidación del REPSE, ICSOE y SISUB como instrumentos de control",
+      "Sentencia SCJN AR 633/2023 sobre la constitucionalidad del tope a la PTU",
+      "Renovación trienal del REPSE y agenda de inspección 2025-2030"
+    ],
+    "dataSources": [
+      "DOF",
+      "IMSS",
+      "STPS",
+      "INEGI",
+      "SCJN",
+      "IMCO",
+      "CEPAL/OIT"
+    ],
     "covered": true,
     "publishedDate": "2026-05-15",
     "publishedSlug": "reforma-subcontratacion-balance-cinco-anos-mexico-2026"
@@ -257,8 +485,25 @@
     "title": "Pobreza multidimensional 2024: la primera medición del INEGI tras la extinción del CONEVAL",
     "category": "datos",
     "description": "Análisis del primer ejercicio de medición de la pobreza multidimensional realizado por el INEGI con base en la ENIGH 2024, tras la reforma constitucional del 20 de diciembre de 2024 y la entrada en vigor de las leyes secundarias el 17 de julio de 2025 que extinguieron el CONEVAL.",
-    "keyPoints": ["Reforma constitucional DOF 20-dic-2024 y leyes secundarias 17-jul-2025", "Continuidad metodológica con la serie CONEVAL 2016-2022", "Caída de la pobreza multidimensional de 36.3% a 29.6% entre 2022 y 2024", "Pobreza extrema en 5.3% y descenso a 7.0 millones de personas", "Reducción de las seis carencias sociales con especial caída en servicios de salud", "Crecimiento de la población vulnerable por carencias sociales a 32.2%", "Patrón estatal con Chiapas, Guerrero y Oaxaca en el extremo alto", "Papel de las transferencias monetarias y de las líneas de pobreza por ingresos"],
-    "dataSources": ["INEGI", "CONEVAL", "DOF", "ENIGH", "SNIEG", "BBVA Research", "México ¿Cómo Vamos?"],
+    "keyPoints": [
+      "Reforma constitucional DOF 20-dic-2024 y leyes secundarias 17-jul-2025",
+      "Continuidad metodológica con la serie CONEVAL 2016-2022",
+      "Caída de la pobreza multidimensional de 36.3% a 29.6% entre 2022 y 2024",
+      "Pobreza extrema en 5.3% y descenso a 7.0 millones de personas",
+      "Reducción de las seis carencias sociales con especial caída en servicios de salud",
+      "Crecimiento de la población vulnerable por carencias sociales a 32.2%",
+      "Patrón estatal con Chiapas, Guerrero y Oaxaca en el extremo alto",
+      "Papel de las transferencias monetarias y de las líneas de pobreza por ingresos"
+    ],
+    "dataSources": [
+      "INEGI",
+      "CONEVAL",
+      "DOF",
+      "ENIGH",
+      "SNIEG",
+      "BBVA Research",
+      "México ¿Cómo Vamos?"
+    ],
     "covered": true,
     "publishedDate": "2026-05-16",
     "publishedSlug": "pobreza-multidimensional-2024-primera-medicion-inegi"
@@ -268,8 +513,27 @@
     "title": "Fondo de Pensiones para el Bienestar: balance de la operación a dos años de su creación",
     "category": "pensiones",
     "description": "Análisis del FPB a dos años de su entrada en vigor: arquitectura fiduciaria como fideicomiso público de SHCP-Banxico, fuentes de financiamiento, dos ciclos de transferencias del SAR, brecha entre complementos pagados y devoluciones, y litigio constitucional pendiente ante la SCJN.",
-    "keyPoints": ["Decreto DOF 30-abr-2024 y entrada en vigor el 1 de mayo de 2024", "Estructura de fideicomiso público con SHCP fideicomitente y Banxico fiduciario", "Aportaciones 2024 por 44,833 mdp (70% de lo proyectado) y segunda transferencia 2025 por 5,061 mdp", "Patrimonio del fondo de 47,426 mdp al 30 de mayo de 2025", "Composición de egresos: ~96% devoluciones y <4% complementos en 2024", "Crecimiento del padrón de 268 a 3,236 beneficiarios entre julio de 2024 y abril de 2025", "Estimación CEFP de 35.4 mil mdp en fuentes alternas y riesgo CIEP de agotamiento antes de 2038", "Acción de inconstitucionalidad 116/2024 y amparos del Poder Judicial Federal"],
-    "dataSources": ["DOF", "CONSAR", "Banco de México", "CIEP", "IMCO", "CEFP", "IMSS", "SCJN", "AMAFORE"],
+    "keyPoints": [
+      "Decreto DOF 30-abr-2024 y entrada en vigor el 1 de mayo de 2024",
+      "Estructura de fideicomiso público con SHCP fideicomitente y Banxico fiduciario",
+      "Aportaciones 2024 por 44,833 mdp (70% de lo proyectado) y segunda transferencia 2025 por 5,061 mdp",
+      "Patrimonio del fondo de 47,426 mdp al 30 de mayo de 2025",
+      "Composición de egresos: ~96% devoluciones y <4% complementos en 2024",
+      "Crecimiento del padrón de 268 a 3,236 beneficiarios entre julio de 2024 y abril de 2025",
+      "Estimación CEFP de 35.4 mil mdp en fuentes alternas y riesgo CIEP de agotamiento antes de 2038",
+      "Acción de inconstitucionalidad 116/2024 y amparos del Poder Judicial Federal"
+    ],
+    "dataSources": [
+      "DOF",
+      "CONSAR",
+      "Banco de México",
+      "CIEP",
+      "IMCO",
+      "CEFP",
+      "IMSS",
+      "SCJN",
+      "AMAFORE"
+    ],
     "covered": true,
     "publishedDate": "2026-05-17",
     "publishedSlug": "fondo-pensiones-bienestar-balance-dos-anos-creacion-2026"
@@ -279,8 +543,25 @@
     "title": "Participación laboral femenina en México: estancamiento estructural y arquitectura de cuidados en 2026",
     "category": "laboral",
     "description": "Diagnóstico del estancamiento de la participación laboral femenina con base en ENOE 2025-2026, ENUT 2024, la Cuenta Satélite del Trabajo No Remunerado de los Hogares y el Anexo Transversal 31 del PEF 2026, en contraste con las referencias OCDE y América Latina.",
-    "keyPoints": ["TPL femenina cercana a 46% y brecha de 28.6 puntos porcentuales frente a hombres", "Comparativo con OCDE (67.1%) y América Latina (52.1%) en el Employment Outlook 2025", "ENUT 2024: 21.5 horas semanales de diferencia en trabajo no remunerado entre mujeres y hombres", "Cuenta Satélite: valor del trabajo no remunerado equivalente al 23.9% del PIB", "Penalización por maternidad mayor en niveles educativos altos e informalidad del 55.9% en mujeres ocupadas", "Anexo Transversal 31 del PEF 2026 por 466 mil mdp y caída de 18.6% en programas con objetivos directos de cuidado"],
-    "dataSources": ["INEGI", "ENOE", "ENUT", "OCDE", "IMCO", "CIEP", "SHCP", "Banco Mundial", "SOMEDE"],
+    "keyPoints": [
+      "TPL femenina cercana a 46% y brecha de 28.6 puntos porcentuales frente a hombres",
+      "Comparativo con OCDE (67.1%) y América Latina (52.1%) en el Employment Outlook 2025",
+      "ENUT 2024: 21.5 horas semanales de diferencia en trabajo no remunerado entre mujeres y hombres",
+      "Cuenta Satélite: valor del trabajo no remunerado equivalente al 23.9% del PIB",
+      "Penalización por maternidad mayor en niveles educativos altos e informalidad del 55.9% en mujeres ocupadas",
+      "Anexo Transversal 31 del PEF 2026 por 466 mil mdp y caída de 18.6% en programas con objetivos directos de cuidado"
+    ],
+    "dataSources": [
+      "INEGI",
+      "ENOE",
+      "ENUT",
+      "OCDE",
+      "IMCO",
+      "CIEP",
+      "SHCP",
+      "Banco Mundial",
+      "SOMEDE"
+    ],
     "covered": true,
     "publishedDate": "2026-05-18",
     "publishedSlug": "participacion-laboral-femenina-mexico-arquitectura-cuidados-2026"
@@ -290,8 +571,25 @@
     "title": "ISSSTE y PENSIONISSSTE: balance del régimen de cuentas individuales a 19 años de la reforma de 2007",
     "category": "pensiones",
     "description": "Diagnóstico del régimen contributivo del ISSSTE y de PENSIONISSSTE a 19 años de la reforma de 2007: dualidad con el Décimo Transitorio, comisión de 0.52% en 2026, Remanente de Operación, peso del Apoyo a Pensiones del ISSSTE en el PEF 2026 y articulación con el Fondo de Pensiones para el Bienestar.",
-    "keyPoints": ["Ley del ISSSTE DOF 31-mar-2007 y división entre Régimen de Cuentas Individuales y Décimo Transitorio", "Bono de Pensión calculado al 31 de diciembre de 2007 y administrado en PENSIONISSSTE o Afore privada", "Padrón ISSSTE 2024: 13.9 millones de derechohabientes, 3.2 millones de trabajadores activos y 1.3 millones de pensionados", "PENSIONISSSTE: comisión 0.52% en 2026 y promedio del sistema en 0.538%", "Remanente de Operación 2025 por 1,125 mdp a 1.06 millones de cuentahabientes", "Apoyos a Pensiones del ISSSTE en PEF 2026 por 390 mil mdp (1.0% del PIB) con contracción real estimada de 2.3% por CIEP", "Interacción con el Fondo de Pensiones para el Bienestar (DOF 1-may-2024) y tope referido al salario promedio IMSS de 17,364 pesos", "Pico proyectado de jubilaciones del Décimo Transitorio entre 2030 y 2040"],
-    "dataSources": ["DOF", "CONSAR", "ISSSTE", "PENSIONISSSTE", "SHCP", "CIEP", "OCDE"],
+    "keyPoints": [
+      "Ley del ISSSTE DOF 31-mar-2007 y división entre Régimen de Cuentas Individuales y Décimo Transitorio",
+      "Bono de Pensión calculado al 31 de diciembre de 2007 y administrado en PENSIONISSSTE o Afore privada",
+      "Padrón ISSSTE 2024: 13.9 millones de derechohabientes, 3.2 millones de trabajadores activos y 1.3 millones de pensionados",
+      "PENSIONISSSTE: comisión 0.52% en 2026 y promedio del sistema en 0.538%",
+      "Remanente de Operación 2025 por 1,125 mdp a 1.06 millones de cuentahabientes",
+      "Apoyos a Pensiones del ISSSTE en PEF 2026 por 390 mil mdp (1.0% del PIB) con contracción real estimada de 2.3% por CIEP",
+      "Interacción con el Fondo de Pensiones para el Bienestar (DOF 1-may-2024) y tope referido al salario promedio IMSS de 17,364 pesos",
+      "Pico proyectado de jubilaciones del Décimo Transitorio entre 2030 y 2040"
+    ],
+    "dataSources": [
+      "DOF",
+      "CONSAR",
+      "ISSSTE",
+      "PENSIONISSSTE",
+      "SHCP",
+      "CIEP",
+      "OCDE"
+    ],
     "covered": true,
     "publishedDate": "2026-05-19",
     "publishedSlug": "issste-pensionissste-cuentas-individuales-balance-2026"
@@ -301,8 +599,25 @@
     "title": "Reforma laboral de 2019: balance de la democracia sindical y la nueva justicia laboral a siete años",
     "category": "laboral",
     "description": "Diagnóstico a siete años del decreto del 1 de mayo de 2019: legitimación de contratos colectivos, transición a tribunales laborales, operación del CFCRL, evolución del Mecanismo Laboral de Respuesta Rápida del T-MEC y comportamiento de la sindicalización.",
-    "keyPoints": ["Decreto DOF 1-may-2019 que reformó LFT, Ley Orgánica del PJF, Ley Federal de Defensoría Pública, INFONAVIT y Ley del Seguro Social", "Tres etapas de implementación: 18-nov-2020, 1-oct-2021 y 3-oct-2022 con tribunales laborales y centros de conciliación", "Cierre del plazo de legitimación de contratos colectivos el 1-may-2023 con 27,336 legitimados, 596 terminados y 6.4 millones de personas trabajadoras participantes", "CFCRL: más de 513 mil conciliaciones federales acumuladas a 2025, 91 mil mdp recuperados y 75% de índice de conciliación", "MLRR del T-MEC: 38 invocaciones acumuladas a julio de 2025, concentración en cadenas de exportación y caso GM Silao 2022 como precedente", "Estabilidad de la tasa de sindicalización entre 22.33% (1T 2019) y 22.42% (1T 2024) según ENOE", "Saturación operativa documentada en 2024-2025 y agenda hacia la revisión del T-MEC 2026"],
-    "dataSources": ["DOF", "STPS", "CFCRL", "INEGI", "ENOE", "DOL", "OIT", "Banco de México"],
+    "keyPoints": [
+      "Decreto DOF 1-may-2019 que reformó LFT, Ley Orgánica del PJF, Ley Federal de Defensoría Pública, INFONAVIT y Ley del Seguro Social",
+      "Tres etapas de implementación: 18-nov-2020, 1-oct-2021 y 3-oct-2022 con tribunales laborales y centros de conciliación",
+      "Cierre del plazo de legitimación de contratos colectivos el 1-may-2023 con 27,336 legitimados, 596 terminados y 6.4 millones de personas trabajadoras participantes",
+      "CFCRL: más de 513 mil conciliaciones federales acumuladas a 2025, 91 mil mdp recuperados y 75% de índice de conciliación",
+      "MLRR del T-MEC: 38 invocaciones acumuladas a julio de 2025, concentración en cadenas de exportación y caso GM Silao 2022 como precedente",
+      "Estabilidad de la tasa de sindicalización entre 22.33% (1T 2019) y 22.42% (1T 2024) según ENOE",
+      "Saturación operativa documentada en 2024-2025 y agenda hacia la revisión del T-MEC 2026"
+    ],
+    "dataSources": [
+      "DOF",
+      "STPS",
+      "CFCRL",
+      "INEGI",
+      "ENOE",
+      "DOL",
+      "OIT",
+      "Banco de México"
+    ],
     "covered": true,
     "publishedDate": "2026-05-21",
     "publishedSlug": "reforma-laboral-2019-democracia-sindical-balance-2026"
@@ -312,8 +627,22 @@
     "title": "Censos Económicos 2024: la nueva radiografía de la estructura productiva mexicana",
     "category": "datos",
     "description": "Análisis de los resultados definitivos de los Censos Económicos 2024 del INEGI publicados el 24 de julio de 2025: tamaño y composición del aparato productivo, recomposición sectorial 2018-2023, concentración geográfica, avance de la informalidad y novedades metodológicas.",
-    "keyPoints": ["Levantamiento febrero-agosto 2024 y publicación de resultados oportunos en enero 2025 y definitivos en julio 2025 (comunicado 79/25)", "5.47 millones de unidades económicas y 27.97 millones de personas ocupadas en sector privado y paraestatal con año de referencia 2023", "Valor Agregado Censal Bruto de 15.67 billones de pesos, +21.9% real respecto a 2018", "95.4% microempresas concentran 41.4% del personal y solo 16.1% del VACB; grandes empresas generan 54.3% del VACB", "Recomposición sectorial: manufactura sube de 32.0% a 34.3% del VACB y comercio de 21.4% a 23.5%", "Concentración geográfica: CDMX, Nuevo León, Estado de México, Jalisco y Guanajuato suman cerca de 50% del VACB", "Unidades informales pasan de 62.6% a 64.3% del total entre 2018 y 2023", "Inclusión del módulo de discapacidad con cerca de 101 mil unidades económicas identificadas"],
-    "dataSources": ["INEGI", "SNIEG", "SAIC", "México ¿Cómo Vamos?"],
+    "keyPoints": [
+      "Levantamiento febrero-agosto 2024 y publicación de resultados oportunos en enero 2025 y definitivos en julio 2025 (comunicado 79/25)",
+      "5.47 millones de unidades económicas y 27.97 millones de personas ocupadas en sector privado y paraestatal con año de referencia 2023",
+      "Valor Agregado Censal Bruto de 15.67 billones de pesos, +21.9% real respecto a 2018",
+      "95.4% microempresas concentran 41.4% del personal y solo 16.1% del VACB; grandes empresas generan 54.3% del VACB",
+      "Recomposición sectorial: manufactura sube de 32.0% a 34.3% del VACB y comercio de 21.4% a 23.5%",
+      "Concentración geográfica: CDMX, Nuevo León, Estado de México, Jalisco y Guanajuato suman cerca de 50% del VACB",
+      "Unidades informales pasan de 62.6% a 64.3% del total entre 2018 y 2023",
+      "Inclusión del módulo de discapacidad con cerca de 101 mil unidades económicas identificadas"
+    ],
+    "dataSources": [
+      "INEGI",
+      "SNIEG",
+      "SAIC",
+      "México ¿Cómo Vamos?"
+    ],
     "covered": true,
     "publishedDate": "2026-05-22",
     "publishedSlug": "censos-economicos-2024-radiografia-estructura-productiva-mexico"
@@ -323,8 +652,24 @@
     "title": "Retiros por desempleo del SAR: el récord de 2025 y su costo pensionario",
     "category": "pensiones",
     "description": "Análisis del máximo histórico de retiros parciales por desempleo de las Afores en 2025, su origen en la gestoría irregular pese al desempleo en mínimos, el descuento de semanas de cotización y la reforma al artículo 191 de la Ley del Seguro Social.",
-    "keyPoints": ["Récord de 39,118 millones de pesos retirados por desempleo en 2025 según CONSAR, +26% anual", "1,944,402 operaciones en 2025, segundo año más alto en número tras el récord de 2021 que reporta AMAFORE", "Marco legal del artículo 191 de la LSS: modalidades A y B, requisito de 46 días y tope de 10 UMA", "Paradoja de récord de retiros con desocupación de 2.5% en el cuarto trimestre de 2025 según la ENOE", "CONSAR estima que 68.8% del monto se origina en falsos gestores que simulan altas con salario inflado", "Descuento de semanas de cotización del artículo 198 frente al umbral que escala de 825 en 2024 a 1,000 en 2031", "Concentración por administradora: Coppel y Azteca con los mayores saldos al cierre de 2024", "Reforma al artículo 191 aprobada por unanimidad en Diputados el 23 de junio de 2025 y pendiente en el Senado"],
-    "dataSources": ["CONSAR", "AMAFORE", "Cámara de Diputados", "DOF", "INEGI", "ENOE"],
+    "keyPoints": [
+      "Récord de 39,118 millones de pesos retirados por desempleo en 2025 según CONSAR, +26% anual",
+      "1,944,402 operaciones en 2025, segundo año más alto en número tras el récord de 2021 que reporta AMAFORE",
+      "Marco legal del artículo 191 de la LSS: modalidades A y B, requisito de 46 días y tope de 10 UMA",
+      "Paradoja de récord de retiros con desocupación de 2.5% en el cuarto trimestre de 2025 según la ENOE",
+      "CONSAR estima que 68.8% del monto se origina en falsos gestores que simulan altas con salario inflado",
+      "Descuento de semanas de cotización del artículo 198 frente al umbral que escala de 825 en 2024 a 1,000 en 2031",
+      "Concentración por administradora: Coppel y Azteca con los mayores saldos al cierre de 2024",
+      "Reforma al artículo 191 aprobada por unanimidad en Diputados el 23 de junio de 2025 y pendiente en el Senado"
+    ],
+    "dataSources": [
+      "CONSAR",
+      "AMAFORE",
+      "Cámara de Diputados",
+      "DOF",
+      "INEGI",
+      "ENOE"
+    ],
     "covered": true,
     "publishedDate": "2026-05-23",
     "publishedSlug": "retiros-desempleo-afore-sar-record-2025"
@@ -334,8 +679,25 @@
     "title": "Trabajo del hogar remunerado en México: la formalización pendiente",
     "category": "laboral",
     "description": "Diagnóstico de la formalización del trabajo del hogar remunerado: construcción del marco de derechos entre 2018 y 2022, magnitud del universo según la ENOE, estancamiento de la afiliación al esquema del IMSS, obstáculos operativos y comparativo regional.",
-    "keyPoints": ["Amparo Directo 9/2018 de la SCJN y programa piloto del IMSS de 2019", "Reforma a la LFT (DOF 2-jul-2019) y ratificación del Convenio 189 de la OIT en 2020", "Afiliación obligatoria con el Capítulo XI de la LSS (DOF 16-nov-2022) y sus tres modalidades", "Universo de 2.5 millones de personas con 95% de informalidad según la ENOE 3T 2023", "Estancamiento de la afiliación en torno a 59 mil titulares vigentes según el IMSS en marzo de 2026", "Barreras operativas: multiplicidad de empleadores, rotación, ingresos bajos e inviolabilidad del domicilio", "Comparativo regional con el caso de Uruguay y el panorama de la OIT en América Latina"],
-    "dataSources": ["INEGI", "ENOE", "IMSS", "SCJN", "DOF", "OIT", "IMCO", "STPS"],
+    "keyPoints": [
+      "Amparo Directo 9/2018 de la SCJN y programa piloto del IMSS de 2019",
+      "Reforma a la LFT (DOF 2-jul-2019) y ratificación del Convenio 189 de la OIT en 2020",
+      "Afiliación obligatoria con el Capítulo XI de la LSS (DOF 16-nov-2022) y sus tres modalidades",
+      "Universo de 2.5 millones de personas con 95% de informalidad según la ENOE 3T 2023",
+      "Estancamiento de la afiliación en torno a 59 mil titulares vigentes según el IMSS en marzo de 2026",
+      "Barreras operativas: multiplicidad de empleadores, rotación, ingresos bajos e inviolabilidad del domicilio",
+      "Comparativo regional con el caso de Uruguay y el panorama de la OIT en América Latina"
+    ],
+    "dataSources": [
+      "INEGI",
+      "ENOE",
+      "IMSS",
+      "SCJN",
+      "DOF",
+      "OIT",
+      "IMCO",
+      "STPS"
+    ],
     "covered": true,
     "publishedDate": "2026-05-24",
     "publishedSlug": "trabajo-hogar-remunerado-mexico-formalizacion-imss-2026"
@@ -345,8 +707,25 @@
     "title": "PIB de México 2025: cuarto año de desaceleración y un ingreso por habitante estancado",
     "category": "datos",
     "description": "Balance del crecimiento económico de México en 2025: avance real de 0.8% según las cifras revisadas del INEGI, cuarto año consecutivo de desaceleración, heterogeneidad sectorial, estancamiento del PIB per cápita en niveles de 2017, factores de la desaceleración y marco macroeconómico de inflación, política monetaria y empleo formal.",
-    "keyPoints": ["Crecimiento real de 0.8% en 2025 frente a la estimación oportuna de 0.7%, el menor avance desde 2020", "Trayectoria descendente: 6.3% en 2021, 3.7% en 2022, 3.1% en 2023, 1.1% en 2024 y 0.8% en 2025", "Heterogeneidad sectorial: primarias +4.0%, terciarias +1.5% y secundarias -1.1% en el acumulado anual", "PIB per cápita en niveles de 2017 con crecimiento promedio anual de 0.1% entre 2017 y 2025", "Factores: volatilidad arancelaria de EE.UU., reglas de origen del T-MEC, caída de la inversión fija bruta y política fiscal y monetaria restrictiva", "Inflación de 3.69% al cierre de 2025, dentro del rango de Banxico por primera vez desde 2020, y tasa de referencia en 7.0%", "Creacion neta de 278,697 puestos formales del IMSS (+1.3%) y contraste de pronosticos OCDE, FMI, Banxico, Banco Mundial y SHCP"],
-    "dataSources": ["INEGI", "Banco de México", "IMSS", "FMI", "OCDE", "Banco Mundial", "SHCP", "México ¿Cómo Vamos?"],
+    "keyPoints": [
+      "Crecimiento real de 0.8% en 2025 frente a la estimación oportuna de 0.7%, el menor avance desde 2020",
+      "Trayectoria descendente: 6.3% en 2021, 3.7% en 2022, 3.1% en 2023, 1.1% en 2024 y 0.8% en 2025",
+      "Heterogeneidad sectorial: primarias +4.0%, terciarias +1.5% y secundarias -1.1% en el acumulado anual",
+      "PIB per cápita en niveles de 2017 con crecimiento promedio anual de 0.1% entre 2017 y 2025",
+      "Factores: volatilidad arancelaria de EE.UU., reglas de origen del T-MEC, caída de la inversión fija bruta y política fiscal y monetaria restrictiva",
+      "Inflación de 3.69% al cierre de 2025, dentro del rango de Banxico por primera vez desde 2020, y tasa de referencia en 7.0%",
+      "Creacion neta de 278,697 puestos formales del IMSS (+1.3%) y contraste de pronosticos OCDE, FMI, Banxico, Banco Mundial y SHCP"
+    ],
+    "dataSources": [
+      "INEGI",
+      "Banco de México",
+      "IMSS",
+      "FMI",
+      "OCDE",
+      "Banco Mundial",
+      "SHCP",
+      "México ¿Cómo Vamos?"
+    ],
     "covered": true,
     "publishedDate": "2026-05-25",
     "publishedSlug": "pib-mexico-2025-desaceleracion-ingreso-per-capita"
@@ -356,8 +735,25 @@
     "title": "Vacaciones dignas: balance a tres años de la reforma laboral",
     "category": "laboral",
     "description": "Balance a tres años de la reforma a los artículos 76 y 78 de la LFT que duplicó el mínimo de vacaciones de 6 a 12 días: avance normativo, comparativo OCDE y Convenio 132 de la OIT, y los límites de cobertura impuestos por la informalidad y el disfrute efectivo.",
-    "keyPoints": ["Decreto DOF 27-dic-2022 y entrada en vigor el 1 de enero de 2023", "Nuevo esquema del artículo 76: piso de 12 días y 20 días al quinto año", "Prima vacacional del 25% del artículo 80 con base ampliada", "Rezago frente al Convenio 132 de la OIT (18 días) no ratificado y a la OCDE", "Informalidad de 55.0% de la población ocupada en el 4T 2025 según el INEGI", "Brecha entre el derecho y su disfrute efectivo según la encuesta OCC de julio de 2025", "Programa Sectorial de Trabajo 2025-2030 y agenda de inspección y formalización"],
-    "dataSources": ["DOF", "INEGI", "ENOE", "IMCO", "OIT", "STPS", "PROFEDET", "OCC"],
+    "keyPoints": [
+      "Decreto DOF 27-dic-2022 y entrada en vigor el 1 de enero de 2023",
+      "Nuevo esquema del artículo 76: piso de 12 días y 20 días al quinto año",
+      "Prima vacacional del 25% del artículo 80 con base ampliada",
+      "Rezago frente al Convenio 132 de la OIT (18 días) no ratificado y a la OCDE",
+      "Informalidad de 55.0% de la población ocupada en el 4T 2025 según el INEGI",
+      "Brecha entre el derecho y su disfrute efectivo según la encuesta OCC de julio de 2025",
+      "Programa Sectorial de Trabajo 2025-2030 y agenda de inspección y formalización"
+    ],
+    "dataSources": [
+      "DOF",
+      "INEGI",
+      "ENOE",
+      "IMCO",
+      "OIT",
+      "STPS",
+      "PROFEDET",
+      "OCC"
+    ],
     "covered": true,
     "publishedDate": "2026-05-26",
     "publishedSlug": "vacaciones-dignas-balance-tres-anos-mexico-2026"
@@ -367,8 +763,21 @@
     "title": "Modalidad 40 del IMSS: la continuación voluntaria como estrategia de pensión bajo la Ley 73",
     "category": "pensiones",
     "description": "Análisis de la continuación voluntaria en el régimen obligatorio (Modalidad 40) como palanca para elevar la pensión de la Ley 73: marco del artículo 218 de la LSS, aritmética del beneficio definido, encarecimiento de la cuota en 2026 y sesgo regresivo del esquema.",
-    "keyPoints": ["Marco legal de los artículos 218 a 221 de la LSS y requisito de 52 semanas en los últimos cinco años", "Aritmética de la Ley 73: salario promedio de las últimas 250 semanas topado a 25 UMA y factor de edad", "Cuota de 14.438% en 2026 y trayectoria hacia 18.8% en 2030 por la reforma de 2020", "UMA 2026 en 117.31 pesos diarios y tope de cotización en 25 UMA", "Perfil de beneficiarios y sesgo regresivo del esquema", "Reglas operativas de pago y naturaleza transitoria de la Ley 73"],
-    "dataSources": ["IMSS", "CONSAR", "INEGI", "DOF", "CONASAMI"],
+    "keyPoints": [
+      "Marco legal de los artículos 218 a 221 de la LSS y requisito de 52 semanas en los últimos cinco años",
+      "Aritmética de la Ley 73: salario promedio de las últimas 250 semanas topado a 25 UMA y factor de edad",
+      "Cuota de 14.438% en 2026 y trayectoria hacia 18.8% en 2030 por la reforma de 2020",
+      "UMA 2026 en 117.31 pesos diarios y tope de cotización en 25 UMA",
+      "Perfil de beneficiarios y sesgo regresivo del esquema",
+      "Reglas operativas de pago y naturaleza transitoria de la Ley 73"
+    ],
+    "dataSources": [
+      "IMSS",
+      "CONSAR",
+      "INEGI",
+      "DOF",
+      "CONASAMI"
+    ],
     "covered": true,
     "publishedDate": "2026-05-27",
     "publishedSlug": "modalidad-40-imss-continuacion-voluntaria-ley-73-2026"
@@ -378,8 +787,25 @@
     "title": "Teletrabajo en México: balance de la NOM-037 a tres años de la reforma laboral",
     "category": "laboral",
     "description": "Análisis a tres años de la NOM-037-STPS-2023 y cinco de la reforma al capítulo XII Bis de la LFT: arquitectura legal del teletrabajo, magnitud del fenómeno, régimen de inspección y universalización del derecho a la desconexión digital aprobada por Diputados en marzo de 2026.",
-    "keyPoints": ["Reforma al artículo 311 LFT y adición del capítulo XII Bis (DOF 11-ene-2021)", "NOM-037-STPS-2023 publicada el 8 de junio y vigente desde el 5 de diciembre de 2023", "Umbral de 40% de la jornada y obligaciones del artículo 330-E sobre equipo, internet y electricidad", "Retroceso del fenómeno: 9% de teletrabajo pleno y 71% presencial según OCC 2024", "Comparativo con la UE: 22% en 2023 y Países Bajos en 52%", "Programa Anual de Inspección STPS: 32 mil en 2024 y meta de 43 mil en 2025", "Dictamen de Diputados del 3 de marzo de 2026 que universaliza el derecho a la desconexión digital"],
-    "dataSources": ["DOF", "STPS", "INEGI", "ENOE", "OCDE", "OCC", "IMCO", "Cámara de Diputados"],
+    "keyPoints": [
+      "Reforma al artículo 311 LFT y adición del capítulo XII Bis (DOF 11-ene-2021)",
+      "NOM-037-STPS-2023 publicada el 8 de junio y vigente desde el 5 de diciembre de 2023",
+      "Umbral de 40% de la jornada y obligaciones del artículo 330-E sobre equipo, internet y electricidad",
+      "Retroceso del fenómeno: 9% de teletrabajo pleno y 71% presencial según OCC 2024",
+      "Comparativo con la UE: 22% en 2023 y Países Bajos en 52%",
+      "Programa Anual de Inspección STPS: 32 mil en 2024 y meta de 43 mil en 2025",
+      "Dictamen de Diputados del 3 de marzo de 2026 que universaliza el derecho a la desconexión digital"
+    ],
+    "dataSources": [
+      "DOF",
+      "STPS",
+      "INEGI",
+      "ENOE",
+      "OCDE",
+      "OCC",
+      "IMCO",
+      "Cámara de Diputados"
+    ],
     "covered": true,
     "publishedDate": "2026-05-28",
     "publishedSlug": "teletrabajo-mexico-balance-nom-037-tres-anos-2026"
@@ -389,8 +815,23 @@
     "title": "Comercio exterior de abril 2026: récord exportador y la antesala de la revisión del T-MEC",
     "category": "datos",
     "description": "Análisis del comunicado del INEGI del 26 de mayo de 2026 sobre la Balanza Comercial de Mercancías: récord histórico de exportaciones por 72,042 millones de dólares, superávit de 4,520 millones, concentración del 83.6% en Estados Unidos y el marco arancelario de la Sección 232 en vísperas de la revisión formal del T-MEC.",
-    "keyPoints": ["Exportaciones por 72,042 mdd en abril, máximo histórico con +32.6% anual", "Superávit acumulado enero-abril por 3,508 mdd frente a déficit de 314 mdd en 2025", "Concentración del 83.6% de exportaciones a Estados Unidos en abril y 82.3% en enero", "Recuperación parcial automotriz: 286,317 unidades exportadas (+11.43%) tras tres meses de caídas", "Aranceles vigentes de la Sección 232 sobre acero (hasta 50%) y aluminio", "Calendario de la revisión del T-MEC: tres rondas (CDMX, Washington 16-17 junio, México 20 julio) con plazo al 1 de julio de 2026", "Reglas de origen del 75% de valor de contenido regional automotriz y debate sobre su endurecimiento", "Estancamiento de la diversificación pese a crecimientos del 17.3% hacia Canadá y 9.1% hacia Asia en 2025"],
-    "dataSources": ["INEGI", "Banco de México", "Secretaría de Economía", "USTR", "México ¿Cómo Vamos?"],
+    "keyPoints": [
+      "Exportaciones por 72,042 mdd en abril, máximo histórico con +32.6% anual",
+      "Superávit acumulado enero-abril por 3,508 mdd frente a déficit de 314 mdd en 2025",
+      "Concentración del 83.6% de exportaciones a Estados Unidos en abril y 82.3% en enero",
+      "Recuperación parcial automotriz: 286,317 unidades exportadas (+11.43%) tras tres meses de caídas",
+      "Aranceles vigentes de la Sección 232 sobre acero (hasta 50%) y aluminio",
+      "Calendario de la revisión del T-MEC: tres rondas (CDMX, Washington 16-17 junio, México 20 julio) con plazo al 1 de julio de 2026",
+      "Reglas de origen del 75% de valor de contenido regional automotriz y debate sobre su endurecimiento",
+      "Estancamiento de la diversificación pese a crecimientos del 17.3% hacia Canadá y 9.1% hacia Asia en 2025"
+    ],
+    "dataSources": [
+      "INEGI",
+      "Banco de México",
+      "Secretaría de Economía",
+      "USTR",
+      "México ¿Cómo Vamos?"
+    ],
     "covered": true,
     "publishedDate": "2026-05-29",
     "publishedSlug": "balanza-comercial-mexico-abril-2026-record-tmec"
@@ -400,8 +841,27 @@
     "title": "Pensión Mujeres Bienestar: arquitectura, cobertura y lectura de género del nuevo programa no contributivo",
     "category": "pensiones",
     "description": "Análisis a un año de operación plena del programa Pensión Mujeres Bienestar: marco normativo de los Lineamientos DOF 31-ene-2025, cobertura escalonada para mujeres de 60 a 64 años, monto bimestral de 3,100 pesos en 2026, padrón superior a 3.4 millones de beneficiarias, inversión social anunciada de más de 56 mil millones de pesos y su lugar en el Anexo 13 del PEF 2026.",
-    "keyPoints": ["Lineamientos de Operación publicados en DOF el 31 de enero de 2025", "Cobertura 60-64 años en localidades indígenas/afromexicanas y 63-64 años en el resto del país", "Monto bimestral de 3,100 pesos en 2026 y 6,400 pesos para la PBAM a los 65 años", "Padrón proyectado superior a 3.4 millones de beneficiarias con inversión social de más de 56 mil mdp", "Anexo 13 del PEF 2026 por 599,145.4 mdp con 55.5% concentrado en Ramo 20 Bienestar", "Brecha estructural: 8.5 millones de cuentas AFORE menos en mujeres y saldo promedio 24% menor", "Densidad de cotización de 46.1% en mujeres frente a 53.7% en hombres según CONSAR", "Programa no constitucionalizado y debate sobre cobertura puente vs derecho universal"],
-    "dataSources": ["DOF", "Secretaría de Bienestar", "CIEP", "SHCP", "INEGI", "ENIF", "CONSAR", "México ¿Cómo Vamos?", "Banco de México"],
+    "keyPoints": [
+      "Lineamientos de Operación publicados en DOF el 31 de enero de 2025",
+      "Cobertura 60-64 años en localidades indígenas/afromexicanas y 63-64 años en el resto del país",
+      "Monto bimestral de 3,100 pesos en 2026 y 6,400 pesos para la PBAM a los 65 años",
+      "Padrón proyectado superior a 3.4 millones de beneficiarias con inversión social de más de 56 mil mdp",
+      "Anexo 13 del PEF 2026 por 599,145.4 mdp con 55.5% concentrado en Ramo 20 Bienestar",
+      "Brecha estructural: 8.5 millones de cuentas AFORE menos en mujeres y saldo promedio 24% menor",
+      "Densidad de cotización de 46.1% en mujeres frente a 53.7% en hombres según CONSAR",
+      "Programa no constitucionalizado y debate sobre cobertura puente vs derecho universal"
+    ],
+    "dataSources": [
+      "DOF",
+      "Secretaría de Bienestar",
+      "CIEP",
+      "SHCP",
+      "INEGI",
+      "ENIF",
+      "CONSAR",
+      "México ¿Cómo Vamos?",
+      "Banco de México"
+    ],
     "covered": true,
     "publishedDate": "2026-05-30",
     "publishedSlug": "pension-mujeres-bienestar-cobertura-genero-2026"
@@ -411,8 +871,24 @@
     "title": "Productividad laboral en México: el rezago estructural a la luz del IGPLE 2025",
     "category": "laboral",
     "description": "Lectura del IGPLE 2025 del INEGI y del Employment Outlook 2025 de la OCDE: trayectoria trimestral en 96.5 puntos, acumulado enero-septiembre de 0.49%, comparativo internacional, raíces del estancamiento y brecha frente a la meta de 4.8% del Plan México.",
-    "keyPoints": ["IGPLE 4T 2025 en 96.5 puntos con +0.5% trimestral y +0.9% anual según comunicado INEGI del 6 de marzo de 2026", "Acumulado enero-septiembre 2025 de 0.49%, menor en tres años frente a 1.49% en 2024", "Lectura sectorial: manufactura +1.4% trimestral, servicios y comercio +0.4%, primarias -1.1%", "OCDE Employment Outlook 2025: México segundo país menos productivo del bloque y caída anual de productividad de 0.6%", "Proyección de crecimiento del PIB per cápita 2024-2060 de 0.05% anual sin reformas adicionales", "Informalidad por encima de 55% al cierre de 2025 según ENOE y baja participación laboral femenina cercana a 46%", "Plan México y Programa Sectorial de Trabajo 2025-2030 frente a meta de 4.8% del semáforo de México ¿Cómo Vamos?"],
-    "dataSources": ["INEGI", "ENOE", "OCDE", "México ¿Cómo Vamos?", "STPS", "Banco de México", "Plan México"],
+    "keyPoints": [
+      "IGPLE 4T 2025 en 96.5 puntos con +0.5% trimestral y +0.9% anual según comunicado INEGI del 6 de marzo de 2026",
+      "Acumulado enero-septiembre 2025 de 0.49%, menor en tres años frente a 1.49% en 2024",
+      "Lectura sectorial: manufactura +1.4% trimestral, servicios y comercio +0.4%, primarias -1.1%",
+      "OCDE Employment Outlook 2025: México segundo país menos productivo del bloque y caída anual de productividad de 0.6%",
+      "Proyección de crecimiento del PIB per cápita 2024-2060 de 0.05% anual sin reformas adicionales",
+      "Informalidad por encima de 55% al cierre de 2025 según ENOE y baja participación laboral femenina cercana a 46%",
+      "Plan México y Programa Sectorial de Trabajo 2025-2030 frente a meta de 4.8% del semáforo de México ¿Cómo Vamos?"
+    ],
+    "dataSources": [
+      "INEGI",
+      "ENOE",
+      "OCDE",
+      "México ¿Cómo Vamos?",
+      "STPS",
+      "Banco de México",
+      "Plan México"
+    ],
     "covered": true,
     "publishedDate": "2026-05-31",
     "publishedSlug": "productividad-laboral-mexico-2025-rezago-estructural"
@@ -422,8 +898,25 @@
     "title": "Ley Silla en México: arquitectura regulatoria y primer balance a un año de la reforma sobre bipedestación",
     "category": "laboral",
     "description": "Análisis del decreto del 19 de diciembre de 2024, las disposiciones secundarias del 17 de julio de 2025 y la incorporación de la Ley Silla al Programa Anual de Inspección 2026 de la STPS.",
-    "keyPoints": ["Decreto DOF 19-dic-2024 que reforma artículos 132, 133, 422 y 423 de la LFT", "Entrada en vigor el 17 de junio de 2025 y vigencia plena del RIT ajustado el 14 de diciembre de 2025", "Disposiciones STPS del 17 de julio de 2025 con tipologías de bipedestación estática, dinámica y prolongada", "Sanciones de 250 a 2,500 UMA por centro de trabajo, equivalentes a 29,328-293,275 pesos en 2026", "Cobertura: 38.3 millones de personas ocupadas en servicios y comercio según ENOE 3T 2025", "Programa Anual de Inspección 2026 incorpora la verificación de la Ley Silla", "Comparativo internacional: Argentina 1907, España 1912, Chile 1914", "Tensiones con COPARMEX y cámaras locales sobre parámetros técnicos y costos para mipymes"],
-    "dataSources": ["DOF", "STPS", "INEGI", "ENOE", "Senado", "COPARMEX", "OIT"],
+    "keyPoints": [
+      "Decreto DOF 19-dic-2024 que reforma artículos 132, 133, 422 y 423 de la LFT",
+      "Entrada en vigor el 17 de junio de 2025 y vigencia plena del RIT ajustado el 14 de diciembre de 2025",
+      "Disposiciones STPS del 17 de julio de 2025 con tipologías de bipedestación estática, dinámica y prolongada",
+      "Sanciones de 250 a 2,500 UMA por centro de trabajo, equivalentes a 29,328-293,275 pesos en 2026",
+      "Cobertura: 38.3 millones de personas ocupadas en servicios y comercio según ENOE 3T 2025",
+      "Programa Anual de Inspección 2026 incorpora la verificación de la Ley Silla",
+      "Comparativo internacional: Argentina 1907, España 1912, Chile 1914",
+      "Tensiones con COPARMEX y cámaras locales sobre parámetros técnicos y costos para mipymes"
+    ],
+    "dataSources": [
+      "DOF",
+      "STPS",
+      "INEGI",
+      "ENOE",
+      "Senado",
+      "COPARMEX",
+      "OIT"
+    ],
     "covered": true,
     "publishedDate": "2026-06-01",
     "publishedSlug": "ley-silla-mexico-arquitectura-regulatoria-balance-2026"
@@ -443,7 +936,15 @@
       "Cuellos de botella en energía, agua, infraestructura logística y certidumbre regulatoria",
       "Lectura crítica de CEPAL, IMCO y México ¿Cómo Vamos? sobre la calidad de los flujos"
     ],
-    "dataSources": ["Secretaría de Economía", "Banco de México", "INEGI", "IMCO", "CEPAL", "México ¿Cómo Vamos?", "EGADE"],
+    "dataSources": [
+      "Secretaría de Economía",
+      "Banco de México",
+      "INEGI",
+      "IMCO",
+      "CEPAL",
+      "México ¿Cómo Vamos?",
+      "EGADE"
+    ],
     "covered": true,
     "publishedDate": "2026-06-02",
     "publishedSlug": "inversion-extranjera-directa-mexico-2025-record-calidad-flujos"
@@ -463,7 +964,15 @@
       "Articulación con el Fondo de Pensiones para el Bienestar (DOF 30-abr-2024) y tope de 17,364 pesos",
       "Pico de jubilaciones del Décimo Transitorio del ISSSTE 2030-2040 y maduración de la Generación Afore"
     ],
-    "dataSources": ["CONSAR", "CNSF", "DOF", "IMSS", "AMAFORE", "SHCP", "Banco de México"],
+    "dataSources": [
+      "CONSAR",
+      "CNSF",
+      "DOF",
+      "IMSS",
+      "AMAFORE",
+      "SHCP",
+      "Banco de México"
+    ],
     "covered": true,
     "publishedDate": "2026-06-03",
     "publishedSlug": "rentas-vitalicias-retiros-programados-desacumulacion-sar-2026"
@@ -483,7 +992,18 @@
       "Informalidad del 55.0% al cierre del 4T 2025 (ENOE) como límite estructural de la inspección",
       "Jurisprudencia 1a. CCL/2014, CCLI/2014 y CCLII/2014 de la Primera Sala de la SCJN"
     ],
-    "dataSources": ["OIT", "DOF", "STPS", "INEGI", "ENDIREH", "ENOE", "SCJN", "Senado", "Cámara de Diputados", "PROFEDET"],
+    "dataSources": [
+      "OIT",
+      "DOF",
+      "STPS",
+      "INEGI",
+      "ENDIREH",
+      "ENOE",
+      "SCJN",
+      "Senado",
+      "Cámara de Diputados",
+      "PROFEDET"
+    ],
     "covered": true,
     "publishedDate": "2026-06-04",
     "publishedSlug": "violencia-acoso-laboral-mexico-marco-convenio-190-2026"
@@ -504,7 +1024,17 @@
       "PBAM, Pensión Mujeres Bienestar y Fondo de Pensiones para el Bienestar como corrección ex post",
       "Reformas de formalización: plataformas digitales, trabajo del hogar y REPSE"
     ],
-    "dataSources": ["CONSAR", "INEGI", "ENOE", "IMSS", "OCDE", "CIEP", "AMAFORE", "Banco Mundial", "DOF"],
+    "dataSources": [
+      "CONSAR",
+      "INEGI",
+      "ENOE",
+      "IMSS",
+      "OCDE",
+      "CIEP",
+      "AMAFORE",
+      "Banco Mundial",
+      "DOF"
+    ],
     "covered": true,
     "publishedDate": "2026-06-05",
     "publishedSlug": "densidad-cotizacion-sar-determinante-pensiones-2026"
@@ -524,7 +1054,15 @@
       "Ley Federal de Telecomunicaciones y Radiodifusión DOF 16-jul-2025 que extingue el IFT y crea ATDT y CRT",
       "Incertidumbre sobre el cofinanciamiento y la periodicidad anual de la ENDUTIH"
     ],
-    "dataSources": ["INEGI", "ENDUTIH", "SNIEG", "OCDE", "DOF", "The CIU", "BBVA Research"],
+    "dataSources": [
+      "INEGI",
+      "ENDUTIH",
+      "SNIEG",
+      "OCDE",
+      "DOF",
+      "The CIU",
+      "BBVA Research"
+    ],
     "covered": true,
     "publishedDate": "2026-06-06",
     "publishedSlug": "brecha-digital-mexico-endutih-2024-medicion-post-ift"
@@ -544,7 +1082,17 @@
       "Proyección CIEP: gasto público en pensiones podría alcanzar 7.1% del PIB en 2030",
       "Articulación con el Fondo de Pensiones para el Bienestar (DOF 30-abr-2024) y referencia OCDE Pensions at a Glance 2025"
     ],
-    "dataSources": ["DOF", "IMSS", "CONSAR", "AMAFORE", "CIEP", "Banco de México", "OCDE", "AMCP", "Cámara de Diputados"],
+    "dataSources": [
+      "DOF",
+      "IMSS",
+      "CONSAR",
+      "AMAFORE",
+      "CIEP",
+      "Banco de México",
+      "OCDE",
+      "AMCP",
+      "Cámara de Diputados"
+    ],
     "covered": true,
     "publishedDate": "2026-06-07",
     "publishedSlug": "pension-garantizada-sar-arquitectura-reforma-2020"
@@ -565,7 +1113,17 @@
       "ENOE 4T 2025: 35.3 millones de hombres ocupados con 55.0% de informalidad como límite estructural",
       "ENR 2024 del INEGI: 1,672,227 nacimientos registrados (-8.16% anual)"
     ],
-    "dataSources": ["DOF", "Cámara de Diputados", "Senado", "SCJN", "OCDE", "OIT", "INEGI", "ENOE", "IMCO"],
+    "dataSources": [
+      "DOF",
+      "Cámara de Diputados",
+      "Senado",
+      "SCJN",
+      "OCDE",
+      "OIT",
+      "INEGI",
+      "ENOE",
+      "IMCO"
+    ],
     "covered": true,
     "publishedDate": "2026-06-08",
     "publishedSlug": "permiso-paternidad-mexico-rezago-ocde-agenda-2026"
@@ -586,7 +1144,15 @@
       "Cartera Etapa 3 en 21.2% al cierre de 2025 y crítica de IMCO y CEEY sobre patrimonio institucional",
       "Articulación con el SAR por artículo 190 LSS y con el Fondo de Pensiones para el Bienestar"
     ],
-    "dataSources": ["DOF", "INFONAVIT", "IMSS", "CONSAR", "IMCO", "CEEY", "Gobierno de México"],
+    "dataSources": [
+      "DOF",
+      "INFONAVIT",
+      "IMSS",
+      "CONSAR",
+      "IMCO",
+      "CEEY",
+      "Gobierno de México"
+    ],
     "covered": true,
     "publishedDate": "2026-06-09",
     "publishedSlug": "reforma-infonavit-2025-subcuenta-vivienda-sar"
@@ -607,7 +1173,18 @@
       "Convenios 111 (ratificado 1961) y 190 (depositado 6-jul-2022, entrada en vigor 2023) de la OIT",
       "Comparativo OCDE Society at a Glance 2024 sobre prevalencia declarada"
     ],
-    "dataSources": ["INEGI", "ENADIS", "CONAPRED", "DOF", "STPS", "PROFEDET", "OIT", "OCDE", "IMCO", "México ¿Cómo Vamos?"],
+    "dataSources": [
+      "INEGI",
+      "ENADIS",
+      "CONAPRED",
+      "DOF",
+      "STPS",
+      "PROFEDET",
+      "OIT",
+      "OCDE",
+      "IMCO",
+      "México ¿Cómo Vamos?"
+    ],
     "covered": true,
     "publishedDate": "2026-06-10",
     "publishedSlug": "discriminacion-laboral-mexico-enadis-arquitectura-garantias"
@@ -627,7 +1204,14 @@
       "Expectativas medianas cercanas a 3% para 2026 con dispersión intercuartílica relevante",
       "Comparativo OCDE: persistencia global de servicios y ancla mexicana de expectativas"
     ],
-    "dataSources": ["INEGI", "Banco de México", "DOF", "OCDE", "BBVA Research", "CIEP"],
+    "dataSources": [
+      "INEGI",
+      "Banco de México",
+      "DOF",
+      "OCDE",
+      "BBVA Research",
+      "CIEP"
+    ],
     "covered": true,
     "publishedDate": "2026-06-11",
     "publishedSlug": "inflacion-subyacente-mexico-persistencia-servicios-banxico-2026"
@@ -647,7 +1231,17 @@
       "Asimetría con el sector público: artículo 42 Bis LFTSE con piso de 40 días",
       "Iniciativas del PVEM y de MC en el Congreso para elevar el aguinaldo a 30 días"
     ],
-    "dataSources": ["DOF", "Cámara de Diputados", "INEGI", "ENOE", "CONASAMI", "STPS", "PROFEDET", "IMSS", "SAT"],
+    "dataSources": [
+      "DOF",
+      "Cámara de Diputados",
+      "INEGI",
+      "ENOE",
+      "CONASAMI",
+      "STPS",
+      "PROFEDET",
+      "IMSS",
+      "SAT"
+    ],
     "covered": true,
     "publishedDate": "2026-06-12",
     "publishedSlug": "aguinaldo-mexico-articulo-87-lft-cobertura-efectiva-2026"
@@ -668,7 +1262,16 @@
       "EDR 2024: 818,437 defunciones registradas en México con 55.9% hombres y 44.0% mujeres",
       "Complementariedad con la Pensión para el Bienestar de las Personas Adultas Mayores de 6,400 pesos bimestrales en 2026"
     ],
-    "dataSources": ["SCJN", "DOF", "Cámara de Diputados", "IMSS", "INEGI", "ENADID", "CIEP", "Secretaría de Bienestar"],
+    "dataSources": [
+      "SCJN",
+      "DOF",
+      "Cámara de Diputados",
+      "IMSS",
+      "INEGI",
+      "ENADID",
+      "CIEP",
+      "Secretaría de Bienestar"
+    ],
     "covered": true,
     "publishedDate": "2026-06-13",
     "publishedSlug": "pension-viudez-imss-scjn-concubinato-articulo-130-2026"
@@ -688,7 +1291,16 @@
       "Calendario 2026: 30 de mayo personas morales y 29 de junio personas físicas",
       "Cobertura efectiva acotada por informalidad de 55.0% en el 4T 2025 (Boletín 97/26 INEGI) y exclusión del artículo 126 para empresas con ingreso anual menor a 300 mil pesos"
     ],
-    "dataSources": ["DOF", "Cámara de Diputados", "SCJN", "INEGI", "ENOE", "STPS", "PROFEDET", "IMCO"],
+    "dataSources": [
+      "DOF",
+      "Cámara de Diputados",
+      "SCJN",
+      "INEGI",
+      "ENOE",
+      "STPS",
+      "PROFEDET",
+      "IMCO"
+    ],
     "covered": true,
     "publishedDate": "2026-06-14",
     "publishedSlug": "ptu-2026-tope-tres-meses-cobertura-informalidad"
@@ -708,7 +1320,12 @@
       "Proyección BBVA Research de crecimiento cercano a 2% en 2026",
       "99.1% del flujo canalizado por transferencias electrónicas en 2025"
     ],
-    "dataSources": ["Banco de México", "BBVA Research", "CEMLA", "Congreso de Estados Unidos"],
+    "dataSources": [
+      "Banco de México",
+      "BBVA Research",
+      "CEMLA",
+      "Congreso de Estados Unidos"
+    ],
     "covered": true,
     "publishedDate": "2026-06-15",
     "publishedSlug": "remesas-mexico-2025-fin-once-anos-crecimiento"
@@ -728,7 +1345,14 @@
       "Informe IMSS al Ejecutivo Federal 2024-2025 (julio 2025): SIV y SRT con resultados superavitarios y horizonte de reservas hasta 2036",
       "41 mil pensiones por invalidez otorgadas en 2023 según el Capítulo IV del Informe IMSS 2023-2024"
     ],
-    "dataSources": ["DOF", "IMSS", "CONSAR", "AMAFORE", "La Jornada", "El Universal"],
+    "dataSources": [
+      "DOF",
+      "IMSS",
+      "CONSAR",
+      "AMAFORE",
+      "La Jornada",
+      "El Universal"
+    ],
     "covered": true,
     "publishedDate": "2026-06-16",
     "publishedSlug": "pension-invalidez-imss-seguro-iv-articulacion-sar-2026"
@@ -750,7 +1374,14 @@
       "IMSS: 22.7 millones de puestos al cierre de abril de 2026 y pérdida de tracción en la generación mensual",
       "Pronósticos 2026 en rango de 1.3% (Banco Mundial) a 1.8% (BBVA Research)"
     ],
-    "dataSources": ["INEGI", "Banco de México", "IMSS", "BBVA Research", "México ¿Cómo Vamos?", "Banco Mundial"],
+    "dataSources": [
+      "INEGI",
+      "Banco de México",
+      "IMSS",
+      "BBVA Research",
+      "México ¿Cómo Vamos?",
+      "Banco Mundial"
+    ],
     "covered": true,
     "publishedDate": "2026-06-17",
     "publishedSlug": "igae-mexico-1t-2026-contraccion-industrial-desaceleracion"
@@ -770,7 +1401,16 @@
       "Comparativo OCDE y Panorama Laboral de la OIT para América Latina",
       "Implicaciones para el Programa Sectorial de Trabajo 2025-2030"
     ],
-    "dataSources": ["INEGI", "ENOE", "STPS", "OCDE", "OIT", "CEPAL", "IMCO", "CONEVAL"],
+    "dataSources": [
+      "INEGI",
+      "ENOE",
+      "STPS",
+      "OCDE",
+      "OIT",
+      "CEPAL",
+      "IMCO",
+      "CONEVAL"
+    ],
     "covered": true,
     "publishedDate": "2026-06-18",
     "publishedSlug": "subocupacion-condiciones-criticas-mexico-2026"
@@ -791,7 +1431,17 @@
       "Régimen sancionatorio del artículo 995 Bis LFT con multas de 250 a 5,000 UMA",
       "PRONAPETI 2025-2030 en proceso de actualización y agenda de articulación con política educativa"
     ],
-    "dataSources": ["INEGI", "MTI", "ENOE", "DOF", "OIT", "UNICEF", "STPS", "PROFEDET", "CITI"],
+    "dataSources": [
+      "INEGI",
+      "MTI",
+      "ENOE",
+      "DOF",
+      "OIT",
+      "UNICEF",
+      "STPS",
+      "PROFEDET",
+      "CITI"
+    ],
     "covered": true,
     "publishedDate": "2026-06-19",
     "publishedSlug": "trabajo-infantil-mexico-mti-2022-reforma-constitucional-2026"
@@ -811,7 +1461,15 @@
       "Ley 97: efecto combinado de aportación adicional, rendimiento compuesto y horizonte de desacumulación",
       "Articulación con la Pensión Garantizada (art. 170 LSS) y el Fondo de Pensiones para el Bienestar"
     ],
-    "dataSources": ["DOF", "IMSS", "CONSAR", "AMAFORE", "CNSF", "OCDE", "CONAPO"],
+    "dataSources": [
+      "DOF",
+      "IMSS",
+      "CONSAR",
+      "AMAFORE",
+      "CNSF",
+      "OCDE",
+      "CONAPO"
+    ],
     "covered": true,
     "publishedDate": "2026-06-20",
     "publishedSlug": "cesantia-vejez-imss-rcv-edad-retiro-2026"
@@ -831,7 +1489,13 @@
       "Asimetría: traspaso más rápido y completo al alza que a la baja",
       "Usos como deflactor de cuentas nacionales y referencia contractual en obra pública e industria"
     ],
-    "dataSources": ["INEGI", "Banco de México", "DOF", "OCDE", "Capistrán et al."],
+    "dataSources": [
+      "INEGI",
+      "Banco de México",
+      "DOF",
+      "OCDE",
+      "Capistrán et al."
+    ],
     "covered": true,
     "publishedDate": "2026-06-21",
     "publishedSlug": "inpp-mexico-trayectoria-pass-through-inflacion-2026"
@@ -852,7 +1516,16 @@
       "Asimetría jurisprudencial con la jurisprudencia 2a./J. 164/2019 sobre tope de 10 salarios mínimos en pensiones Ley 73 del IMSS",
       "Exenciones LISR artículo 93 fracción XIV expresadas en UMA y efecto de bracket creep sobre asalariados"
     ],
-    "dataSources": ["INEGI", "DOF", "SCJN", "CONASAMI", "IMSS", "INFONAVIT", "IMCO", "AMCP"],
+    "dataSources": [
+      "INEGI",
+      "DOF",
+      "SCJN",
+      "CONASAMI",
+      "IMSS",
+      "INFONAVIT",
+      "IMCO",
+      "AMCP"
+    ],
     "covered": true,
     "publishedDate": "2026-06-22",
     "publishedSlug": "uma-naturaleza-juridica-trayectoria-impacto-pensiones-2026"
@@ -872,7 +1545,12 @@
       "PASST a junio de 2024: 3,911 empresas registradas y 1,376 con reconocimiento Empresa Segura",
       "Informe IMSS 2023-2024: SRT como ramo superavitario y suficiencia institucional hasta 2036"
     ],
-    "dataSources": ["DOF", "IMSS", "STPS", "Revista Médica IMSS"],
+    "dataSources": [
+      "DOF",
+      "IMSS",
+      "STPS",
+      "Revista Médica IMSS"
+    ],
     "covered": true,
     "publishedDate": "2026-06-23",
     "publishedSlug": "srt-imss-arquitectura-prima-cobertura-2026"
@@ -892,7 +1570,16 @@
       "Reforma al artículo 127 constitucional DOF 10-abr-2026 y tope original de 67,145 pesos",
       "Acuerdo del 10 de junio de 2026 que elevó el tope efectivo en Pemex al salario presidencial neto íntegro (134,290 pesos)"
     ],
-    "dataSources": ["DOF", "Pemex", "SHCP", "ASF", "STPRM", "Senado", "Cámara de Diputados", "IMCO"],
+    "dataSources": [
+      "DOF",
+      "Pemex",
+      "SHCP",
+      "ASF",
+      "STPRM",
+      "Senado",
+      "Cámara de Diputados",
+      "IMCO"
+    ],
     "covered": true,
     "publishedDate": "2026-06-24",
     "publishedSlug": "pemex-pasivo-laboral-jubilaciones-tope-constitucional-2026"
@@ -912,7 +1599,14 @@
       "Banxico recorta tasa a 6.50% el 7 de mayo de 2026 y ajusta pronóstico 2026 a 1.1%",
       "BBVA Research ajusta a 1.2% el crecimiento 2026 por debilidad de maquinaria y equipo"
     ],
-    "dataSources": ["INEGI", "Banco de México", "México ¿Cómo Vamos?", "IMCO", "BBVA Research", "Presidencia de la República"],
+    "dataSources": [
+      "INEGI",
+      "Banco de México",
+      "México ¿Cómo Vamos?",
+      "IMCO",
+      "BBVA Research",
+      "Presidencia de la República"
+    ],
     "covered": true,
     "publishedDate": "2026-06-25",
     "publishedSlug": "inversion-fija-bruta-mexico-descenso-2024-2026"
@@ -932,7 +1626,16 @@
       "OCDE Education at a Glance 2025: tasa NEET femenina de 25.7%, segunda más alta del bloque",
       "Transición evaluadora de CONEVAL al INEGI tras la extinción del consejo en julio de 2025"
     ],
-    "dataSources": ["DOF", "Cámara de Diputados", "STPS", "ASF", "CONEVAL", "INEGI", "OCDE", "Senado"],
+    "dataSources": [
+      "DOF",
+      "Cámara de Diputados",
+      "STPS",
+      "ASF",
+      "CONEVAL",
+      "INEGI",
+      "OCDE",
+      "Senado"
+    ],
     "covered": true,
     "publishedDate": "2026-06-26",
     "publishedSlug": "jovenes-construyendo-futuro-balance-constitucional-2026"
@@ -954,7 +1657,16 @@
       "Reforma constitucional a los artículos 4 y 73 pendiente en el Senado y rezago en la ratificación de los Convenios 156 y 183 de la OIT",
       "Comparativo regional CEPAL-OIT: 15.9% a 27.6% del PIB en América Latina con 74% del esfuerzo realizado por mujeres"
     ],
-    "dataSources": ["INEGI", "ENUT", "ENOE", "CEPAL", "OIT", "CIEP", "Senado", "DOF"],
+    "dataSources": [
+      "INEGI",
+      "ENUT",
+      "ENOE",
+      "CEPAL",
+      "OIT",
+      "CIEP",
+      "Senado",
+      "DOF"
+    ],
     "covered": true,
     "publishedDate": "2026-06-27",
     "publishedSlug": "cstnrh-2024-trabajo-no-remunerado-hogares-mexico"
@@ -974,7 +1686,17 @@
       "Densidad de cotización observada de 40 a 47 por ciento en la Generación Afore como límite estructural del beneficio",
       "Informalidad ENOE de 55.0 por ciento en el 4T 2025 como barrera al aprovechamiento del instrumento"
     ],
-    "dataSources": ["DOF", "CONSAR", "IMSS", "SHCP", "CIEP", "AMAFORE", "OCDE", "INEGI", "ENOE"],
+    "dataSources": [
+      "DOF",
+      "CONSAR",
+      "IMSS",
+      "SHCP",
+      "CIEP",
+      "AMAFORE",
+      "OCDE",
+      "INEGI",
+      "ENOE"
+    ],
     "covered": true,
     "publishedDate": "2026-06-28",
     "publishedSlug": "cuota-social-sar-arquitectura-redistributiva-aportacion-estado-2026"
@@ -994,7 +1716,17 @@
       "Cobertura efectiva acotada por la informalidad de 55.0% en el 4T 2025 (Boletín 97/26 INEGI)",
       "México sin ratificación del Convenio 158 de la OIT sobre la terminación de la relación de trabajo"
     ],
-    "dataSources": ["DOF", "SCJN", "INEGI", "ENOE", "CONASAMI", "STPS", "PROFEDET", "OIT", "SAT"],
+    "dataSources": [
+      "DOF",
+      "SCJN",
+      "INEGI",
+      "ENOE",
+      "CONASAMI",
+      "STPS",
+      "PROFEDET",
+      "OIT",
+      "SAT"
+    ],
     "covered": true,
     "publishedDate": "2026-06-29",
     "publishedSlug": "prima-antiguedad-mexico-articulo-162-lft-tope-uma-2026"
@@ -1015,7 +1747,16 @@
       "24 indicadores, 26 estrategias y 125 líneas de acción; metas a 83% de adultos y 50% de empresas con financiamiento",
       "Comparativo con Global Findex 2025 (Banco Mundial) y referencia a la ENEF 2025-2030"
     ],
-    "dataSources": ["INEGI", "CNBV", "CONAIF", "SHCP", "Banco Mundial", "BBVA Research", "ENIF", "ENAFIN"],
+    "dataSources": [
+      "INEGI",
+      "CNBV",
+      "CONAIF",
+      "SHCP",
+      "Banco Mundial",
+      "BBVA Research",
+      "ENIF",
+      "ENAFIN"
+    ],
     "covered": true,
     "publishedDate": "2026-06-30",
     "publishedSlug": "enif-2024-pnif-2025-2030-inclusion-financiera-mexico"
@@ -1037,7 +1778,17 @@
       "1,574,971 servidores públicos federales al cierre de 2022 según CNGF 2023 del INEGI",
       "México ha ratificado el Convenio 87 pero no el Convenio 151 de la OIT sobre relaciones de trabajo en la administración pública"
     ],
-    "dataSources": ["DOF", "Cámara de Diputados", "TFCA", "INEGI", "CNGF", "OIT", "CNDH", "STPS", "SCJN"],
+    "dataSources": [
+      "DOF",
+      "Cámara de Diputados",
+      "TFCA",
+      "INEGI",
+      "CNGF",
+      "OIT",
+      "CNDH",
+      "STPS",
+      "SCJN"
+    ],
     "covered": true,
     "publishedDate": "2026-07-01",
     "publishedSlug": "apartado-b-articulo-123-servidores-publicos-lftse-reforma-2025"
@@ -1059,7 +1810,14 @@
       "Ahorro estimado de 6,900 mdp en 2026 y 214 mil mdp acumulados a 2031 por la trayectoria descendente de comisiones",
       "Tasa efectiva de rotación anual entre 2.7% y 3.0% y persistencia de la gestoría irregular"
     ],
-    "dataSources": ["Cámara de Diputados", "CONSAR", "AMAFORE", "DOF", "OCDE", "La Jornada"],
+    "dataSources": [
+      "Cámara de Diputados",
+      "CONSAR",
+      "AMAFORE",
+      "DOF",
+      "OCDE",
+      "La Jornada"
+    ],
     "covered": true,
     "publishedDate": "2026-07-02",
     "publishedSlug": "traspasos-afores-regimen-dispersion-irn-2026"
@@ -1079,7 +1837,12 @@
       "Correlato macro: PIB 1T 2026 -0.6% trimestral, IOCP +2.6% anual en mayo, IGOEC 48 puntos en junio con 16 meses bajo 50",
       "Tasa de referencia Banxico en 6.50% tras cierre del ciclo de recortes el 7 de mayo de 2026 e inflación subyacente en 4.19%"
     ],
-    "dataSources": ["INEGI", "Banco de México", "ENCO", "México ¿Cómo Vamos?"],
+    "dataSources": [
+      "INEGI",
+      "Banco de México",
+      "ENCO",
+      "México ¿Cómo Vamos?"
+    ],
     "covered": true,
     "publishedDate": "2026-07-03",
     "publishedSlug": "confianza-consumidor-mexico-icc-2024-2026-desaceleracion"
@@ -1101,7 +1864,16 @@
       "Contraste con INFONAVIT: FOVISSSTE cayó de 20.9 mil a 16.5 mil créditos entre 2024 y 2025 frente a estabilidad en 530 mil créditos del INFONAVIT",
       "Reservas del IMCO por ausencia de proyección de impacto financiero y operativo previa a la aprobación de la reforma"
     ],
-    "dataSources": ["DOF", "ISSSTE", "FOVISSSTE", "CNBV", "HR Ratings", "Banco de México", "IMCO", "Expansión"],
+    "dataSources": [
+      "DOF",
+      "ISSSTE",
+      "FOVISSSTE",
+      "CNBV",
+      "HR Ratings",
+      "Banco de México",
+      "IMCO",
+      "Expansión"
+    ],
     "covered": true,
     "publishedDate": "2026-07-04",
     "publishedSlug": "fovissste-arquitectura-regimen-vivienda-issste-2026"
@@ -1123,7 +1895,16 @@
       "Universo de 5.47 millones de unidades económicas (Censos Económicos 2024) con 95.4% de microempresas",
       "Comparativos con la Ley 31/1995 de España, la Ley 21.643 (Karin) de Chile y la Directiva 89/391/CEE"
     ],
-    "dataSources": ["DOF", "STPS", "Cámara de Diputados", "IMSS", "OIT", "OMS", "INEGI", "OCDE"],
+    "dataSources": [
+      "DOF",
+      "STPS",
+      "Cámara de Diputados",
+      "IMSS",
+      "OIT",
+      "OMS",
+      "INEGI",
+      "OCDE"
+    ],
     "covered": true,
     "publishedDate": "2026-07-05",
     "publishedSlug": "nom-035-riesgos-psicosociales-balance-seis-anos-2026"
@@ -1144,7 +1925,15 @@
       "Jurisprudencia 2a./J. 85/2010 y 2a./J. 164/2019 de la SCJN sobre tope de 10 salarios mínimos en pensiones Ley 73",
       "Régimen sancionatorio del artículo 304 LSS con multas de 40% a 100% de conceptos omitidos"
     ],
-    "dataSources": ["Cámara de Diputados", "DOF", "IMSS", "INEGI", "SCJN", "CONASAMI", "CONSAR"],
+    "dataSources": [
+      "Cámara de Diputados",
+      "DOF",
+      "IMSS",
+      "INEGI",
+      "SCJN",
+      "CONASAMI",
+      "CONSAR"
+    ],
     "covered": true,
     "publishedDate": "2026-07-06",
     "publishedSlug": "salario-base-cotizacion-imss-articulo-27-tope-uma-2026"
@@ -1164,7 +1953,13 @@
       "Pronósticos 2026 en rango de 1.1% (Banco Mundial, Banxico) a 1.8% (BBVA Research)",
       "Limitaciones: revisiones asociadas al filtro Hodrick-Prescott y variabilidad del rezago de anticipación del Adelantado"
     ],
-    "dataSources": ["INEGI", "OCDE", "Banco de México", "El Financiero", "BBVA Research"],
+    "dataSources": [
+      "INEGI",
+      "OCDE",
+      "Banco de México",
+      "El Financiero",
+      "BBVA Research"
+    ],
     "covered": true,
     "publishedDate": "2026-07-07",
     "publishedSlug": "sistema-indicadores-ciclicos-inegi-coincidente-adelantado-2026"
@@ -1184,7 +1979,17 @@
       "Efecto sobre la tasa de reemplazo pese al escalamiento CEAV a 15% del SBC en 2030",
       "Agenda 2026: Programa Sectorial de Trabajo 2025-2030, reformas de plataformas y trabajo del hogar, revisión T-MEC"
     ],
-    "dataSources": ["IMSS", "INEGI", "ENOE", "STPS", "CONSAR", "OCDE", "CIEP", "Banco de México", "DOF"],
+    "dataSources": [
+      "IMSS",
+      "INEGI",
+      "ENOE",
+      "STPS",
+      "CONSAR",
+      "OCDE",
+      "CIEP",
+      "Banco de México",
+      "DOF"
+    ],
     "covered": true,
     "publishedDate": "2026-07-08",
     "publishedSlug": "rotacion-laboral-imss-densidad-empleo-formal-mexico-2026"
@@ -1205,7 +2010,18 @@
       "Reforma al artículo 191 LSS aprobada por unanimidad en Diputados el 23 de junio de 2025",
       "Informalidad de 55.0% en 4T 2025 según Boletín 97/26 del INEGI como límite estructural de la protección"
     ],
-    "dataSources": ["DOF", "GODF", "GOCDMX", "OIT", "CONSAR", "INEGI", "ENOE", "OCDE", "CEPAL", "Cámara de Diputados"],
+    "dataSources": [
+      "DOF",
+      "GODF",
+      "GOCDMX",
+      "OIT",
+      "CONSAR",
+      "INEGI",
+      "ENOE",
+      "OCDE",
+      "CEPAL",
+      "Cámara de Diputados"
+    ],
     "covered": true,
     "publishedDate": "2026-07-09",
     "publishedSlug": "seguro-desempleo-mexico-cdmx-rezago-federal-2026"
@@ -1226,7 +2042,16 @@
       "Padrón ISSSTE 2024: 13.9 millones de derechohabientes, 3.2 millones de trabajadores activos y 1.3 millones de pensionados",
       "Iniciativa de 2023 en la Cámara de Diputados para elevar el tope de aportación del trabajador a 4%"
     ],
-    "dataSources": ["DOF", "Cámara de Diputados", "CONSAR", "PENSIONISSSTE", "ISSSTE", "SAT", "CIEP", "OCDE"],
+    "dataSources": [
+      "DOF",
+      "Cámara de Diputados",
+      "CONSAR",
+      "PENSIONISSSTE",
+      "ISSSTE",
+      "SAT",
+      "CIEP",
+      "OCDE"
+    ],
     "covered": true,
     "publishedDate": "2026-07-11",
     "publishedSlug": "ahorro-solidario-issste-articulo-100-arquitectura-2026"
@@ -1247,7 +2072,17 @@
       "OCDE Health at a Glance 2025: gasto total 5.9% PIB (México) vs 9.3% OCDE y gasto público de 2.8% del PIB, el más bajo del bloque",
       "PEF 2026: IMSS-Bienestar por 172,492 mdp y presupuesto agregado sin seguridad social de 307 mmdp (-0.5% real)"
     ],
-    "dataSources": ["INEGI", "CSSSM", "OCDE", "SHA 2011", "DOF", "CIEP", "México Evalúa", "IMSS-Bienestar", "Cámara de Diputados"],
+    "dataSources": [
+      "INEGI",
+      "CSSSM",
+      "OCDE",
+      "SHA 2011",
+      "DOF",
+      "CIEP",
+      "México Evalúa",
+      "IMSS-Bienestar",
+      "Cámara de Diputados"
+    ],
     "covered": true,
     "publishedDate": "2026-07-12",
     "publishedSlug": "cuenta-satelite-sector-salud-mexico-2024-arquitectura-brecha-ocde"
@@ -1267,7 +2102,16 @@
       "Crédito Efectivo 2026 con tasa nominal 12.53-16.17% y CAT hasta 27.9% frente a CAT superior a 60% de la banca comercial",
       "Crédito Mujer Efectivo con participación creciente de 38% a 41% en 2025 y tasa preferencial 8.90-16.27%"
     ],
-    "dataSources": ["DOF", "STPS", "Instituto FONACOT", "INEGI", "CNBV", "ENIF", "Cámara de Diputados", "datos.gob.mx"],
+    "dataSources": [
+      "DOF",
+      "STPS",
+      "Instituto FONACOT",
+      "INEGI",
+      "CNBV",
+      "ENIF",
+      "Cámara de Diputados",
+      "datos.gob.mx"
+    ],
     "covered": true,
     "publishedDate": "2026-07-13",
     "publishedSlug": "infonacot-arquitectura-credito-consumo-laboral-balance-2026"
@@ -1287,7 +2131,15 @@
       "CFCRL: más de 60 mil conflictos federales atendidos en 2025 con índice de conciliación cercano al 75%",
       "Comparativo con el Convenio 158 de la OIT (no ratificado por México) y sistemas iberoamericanos"
     ],
-    "dataSources": ["DOF", "Cámara de Diputados", "SCJN", "STPS", "CFCRL", "OIT", "INEGI"],
+    "dataSources": [
+      "DOF",
+      "Cámara de Diputados",
+      "SCJN",
+      "STPS",
+      "CFCRL",
+      "OIT",
+      "INEGI"
+    ],
     "covered": true,
     "publishedDate": "2026-07-14",
     "publishedSlug": "salarios-caidos-articulo-48-lft-reforma-2012-justicia-laboral-2026"
@@ -1307,7 +2159,14 @@
       "Concentración por AFORE con Coppel, Banamex y Sura como principales pagadoras",
       "Estadística de Matrimonios 2024 INEGI: 486,645 matrimonios y 33.3 divorcios por cada 100 uniones"
     ],
-    "dataSources": ["DOF", "Cámara de Diputados", "CONSAR", "IMSS", "INEGI", "PROFEDET"],
+    "dataSources": [
+      "DOF",
+      "Cámara de Diputados",
+      "CONSAR",
+      "IMSS",
+      "INEGI",
+      "PROFEDET"
+    ],
     "covered": true,
     "publishedDate": "2026-07-15",
     "publishedSlug": "retiro-matrimonio-articulo-165-lss-30-uma-2026"
@@ -1327,7 +2186,15 @@
       "Primera medición del INEGI: Pobreza Multidimensional 2024 con reducción de 46.8 a 38.5 millones de personas entre 2022 y 2024",
       "PEF 2026: reducción de ~438 mdp al ramo INEGI y variación real cercana a -8% en la antesala del Censo de Población y Vivienda 2030 y de los Censos Económicos 2029"
     ],
-    "dataSources": ["DOF", "INEGI", "SNIEG", "Cámara de Diputados", "Senado", "OCDE", "ENIGH"],
+    "dataSources": [
+      "DOF",
+      "INEGI",
+      "SNIEG",
+      "Cámara de Diputados",
+      "Senado",
+      "OCDE",
+      "ENIGH"
+    ],
     "covered": true,
     "publishedDate": "2026-07-16",
     "publishedSlug": "snieg-inegi-arquitectura-institucional-agenda-2025-2030"
@@ -1350,7 +2217,16 @@
       "PTAT México-Canadá con más de 25 mil personas mexicanas participantes en la temporada 2025",
       "Programa Sectorial de Trabajo y Previsión Social 2025-2030 publicado en DOF el 27 de noviembre de 2025"
     ],
-    "dataSources": ["DOF", "STPS", "Cámara de Diputados", "OIT", "SRE", "INEGI", "ENOE", "IMSS"],
+    "dataSources": [
+      "DOF",
+      "STPS",
+      "Cámara de Diputados",
+      "OIT",
+      "SRE",
+      "INEGI",
+      "ENOE",
+      "IMSS"
+    ],
     "covered": true,
     "publishedDate": "2026-07-17",
     "publishedSlug": "servicio-nacional-empleo-mexico-pae-balance-intermediador-2026"
@@ -1370,7 +2246,17 @@
       "Pronósticos privados: consumo cercano a 2.0% en 2026 (Banamex) y moderación en H2 2026 (Valmex)",
       "Agenda estadística: transición del SCNM a base 2023 bajo el PNEG 2025-2030"
     ],
-    "dataSources": ["INEGI", "IMCP", "IOCP", "Banco de México", "IMSS", "ENOE", "ANTAD", "OCDE", "El Financiero"],
+    "dataSources": [
+      "INEGI",
+      "IMCP",
+      "IOCP",
+      "Banco de México",
+      "IMSS",
+      "ENOE",
+      "ANTAD",
+      "OCDE",
+      "El Financiero"
+    ],
     "covered": true,
     "publishedDate": "2026-07-18",
     "publishedSlug": "imcp-consumo-privado-mexico-2026-quince-meses-expansion"
@@ -1389,7 +2275,16 @@
       "Gasto por pensionado en ISSFAM 1.9 veces mayor que en IMSS según CIEP",
       "Iniciativa asunto SIL 4970601 de noviembre de 2025 para convenio de portabilidad ISSFAM-IMSS-ISSSTE-Infonavit-Fovissste"
     ],
-    "dataSources": ["DOF", "ISSFAM", "SEDENA", "SEMAR", "SHCP", "CIEP", "Cámara de Diputados", "Senado"],
+    "dataSources": [
+      "DOF",
+      "ISSFAM",
+      "SEDENA",
+      "SEMAR",
+      "SHCP",
+      "CIEP",
+      "Cámara de Diputados",
+      "Senado"
+    ],
     "covered": true,
     "publishedDate": "2026-07-19",
     "publishedSlug": "issfam-fuerzas-armadas-regimen-pensionario-tope-2026"
@@ -1410,7 +2305,19 @@
       "EFIPEM del INEGI (segunda actualización noviembre 2025) como fuente pública de referencia",
       "Efectos sobre mipymes y frontera con la reforma de subcontratación de 2021 y el REPSE"
     ],
-    "dataSources": ["DOF", "INEGI", "EFIPEM", "CIEP", "IMCO", "OCDE", "EY México", "Coparmex", "Gobierno de la Ciudad de México", "Gobierno del Estado de Nuevo León", "Gobierno del Estado de Baja California"],
+    "dataSources": [
+      "DOF",
+      "INEGI",
+      "EFIPEM",
+      "CIEP",
+      "IMCO",
+      "OCDE",
+      "EY México",
+      "Coparmex",
+      "Gobierno de la Ciudad de México",
+      "Gobierno del Estado de Nuevo León",
+      "Gobierno del Estado de Baja California"
+    ],
     "covered": true,
     "publishedDate": "2026-07-20",
     "publishedSlug": "impuesto-sobre-nominas-mexico-arquitectura-estatal-dispersion-2026"
@@ -1431,7 +2338,16 @@
       "OCDE Pensions at a Glance 2025: tasa de reemplazo neta de 132% en ingresos bajos y 80% en ingresos promedio tras la incorporación del Fondo de Pensiones para el Bienestar",
       "Proyección CIEP: gasto en pensiones superior al 6% del PIB en 2026, cerca del 40% de los ingresos tributarios federales"
     ],
-    "dataSources": ["CONAPO", "INEGI", "ENR", "EDR", "OCDE", "CIEP", "SEGOB", "SNIEG"],
+    "dataSources": [
+      "CONAPO",
+      "INEGI",
+      "ENR",
+      "EDR",
+      "OCDE",
+      "CIEP",
+      "SEGOB",
+      "SNIEG"
+    ],
     "covered": true,
     "publishedDate": "2026-07-21",
     "publishedSlug": "envejecimiento-demografico-mexico-conapo-inegi-2026"
@@ -1452,7 +2368,14 @@
       "Proyección CIEP de gasto en pensiones entre 7.1% y 7.8% del PIB en 2030",
       "Articulación con la Pensión Mujeres Bienestar 60-64 años y con el Fondo de Pensiones para el Bienestar (DOF 1-may-2024) con tope 2026 de 17,885 pesos"
     ],
-    "dataSources": ["DOF", "Secretaría de Bienestar", "SHCP", "CIEP", "México ¿Cómo Vamos?", "CONAPO"],
+    "dataSources": [
+      "DOF",
+      "Secretaría de Bienestar",
+      "SHCP",
+      "CIEP",
+      "México ¿Cómo Vamos?",
+      "CONAPO"
+    ],
     "covered": true,
     "publishedDate": "2026-07-22",
     "publishedSlug": "pbam-arquitectura-constitucional-fiscal-2026"
@@ -1474,7 +2397,18 @@
       "Reforma constitucional al artículo 123 aprobada por Diputados en noviembre de 2025 y ratificada por el Senado, con piso de indexación a la inflación y remuneración mínima referida al IMSS para docentes, policías, Guardia Nacional, Fuerzas Armadas, médicos y personal de enfermería",
       "Meta oficial de que el SMG alcance el equivalente a 2.5 canastas básicas urbanas en 2030"
     ],
-    "dataSources": ["DOF", "CONASAMI", "STPS", "IMSS", "INEGI", "ENOE", "OCDE", "Cámara de Diputados", "Senado", "CIEP"],
+    "dataSources": [
+      "DOF",
+      "CONASAMI",
+      "STPS",
+      "IMSS",
+      "INEGI",
+      "ENOE",
+      "OCDE",
+      "Cámara de Diputados",
+      "Senado",
+      "CIEP"
+    ],
     "covered": true,
     "publishedDate": "2026-07-23",
     "publishedSlug": "conasami-arquitectura-politica-salarial-mexico-2019-2026"
@@ -1495,7 +2429,16 @@
       "Regla de actualización al menos cada cinco años y próxima revisión obligatoria en 2028",
       "Interacción con la Prima del Seguro de Riesgos de Trabajo del IMSS y con la NOM-035-STPS-2018 sobre factores de riesgo psicosocial"
     ],
-    "dataSources": ["DOF", "STPS", "IMSS", "Cámara de Diputados", "Senado", "OIT", "INEGI", "ENOE"],
+    "dataSources": [
+      "DOF",
+      "STPS",
+      "IMSS",
+      "Cámara de Diputados",
+      "Senado",
+      "OIT",
+      "INEGI",
+      "ENOE"
+    ],
     "covered": true,
     "publishedDate": "2026-07-24",
     "publishedSlug": "tabla-enfermedades-trabajo-mexico-reforma-2023-balance-2026"
@@ -1517,7 +2460,15 @@
       "Trayectoria de 4 331 202 unidades en julio de 2010 a 6 138 075 en mayo de 2026",
       "Complementariedad con los Censos Económicos 2024 (7 093 631 establecimientos y 5 468 180 unidades económicas según el Reporte de Resultados 22/25)"
     ],
-    "dataSources": ["INEGI", "DOF", "SNIEG", "RENEM", "Banco de México", "Censos Económicos", "SCIAN"],
+    "dataSources": [
+      "INEGI",
+      "DOF",
+      "SNIEG",
+      "RENEM",
+      "Banco de México",
+      "Censos Económicos",
+      "SCIAN"
+    ],
     "covered": true,
     "publishedDate": "2026-07-25",
     "publishedSlug": "denue-05-2026-registro-negocios-mexico-inegi-arquitectura"
@@ -1537,7 +2488,16 @@
       "Controversia UMA vs 10 SM en el tope de la pensión Ley 73 tras la jurisprudencia 2a./J. 164/2019 de la SCJN",
       "Diferimiento fiscal del ahorro voluntario y PPR bajo el artículo 151 fracción V LISR con tope de 5 UMA anuales (213,973.20 pesos)"
     ],
-    "dataSources": ["Cámara de Diputados", "DOF", "SAT", "INEGI", "SCJN", "CONSAR", "IMSS", "CNSF"],
+    "dataSources": [
+      "Cámara de Diputados",
+      "DOF",
+      "SAT",
+      "INEGI",
+      "SCJN",
+      "CONSAR",
+      "IMSS",
+      "CNSF"
+    ],
     "covered": true,
     "publishedDate": "2026-07-26",
     "publishedSlug": "regimen-fiscal-pensiones-retiro-mexico-15-uma-2026"
@@ -1559,7 +2519,15 @@
       "Prima de equilibrio calculada en 1.01% y primer déficit proyectado en 2042 según el Informe al Ejecutivo Federal y al Congreso de la Unión",
       "Brecha frente al universo elegible: 37.7% de cobertura en infantes 0-5 años y carga de cuidados 2.5 veces mayor en mujeres según IMCO 2026"
     ],
-    "dataSources": ["IMSS", "DOF", "Ley del Seguro Social", "Presidencia de la República", "IMCO", "INEGI", "ENOE"],
+    "dataSources": [
+      "IMSS",
+      "DOF",
+      "Ley del Seguro Social",
+      "Presidencia de la República",
+      "IMCO",
+      "INEGI",
+      "ENOE"
+    ],
     "covered": true,
     "publishedDate": "2026-07-27",
     "publishedSlug": "guarderias-imss-cobertura-subrogacion-ceci-mexico-2026"
@@ -1579,7 +2547,17 @@
       "Encaje con la Pensión para el Bienestar de las Personas Adultas Mayores, la Pensión Mujeres Bienestar y el Fondo de Pensiones para el Bienestar",
       "Agenda 2025-2030: nueva edición bajo marco ENOE actualizado y articulación con la medición multidimensional de la pobreza a cargo del INEGI"
     ],
-    "dataSources": ["INEGI", "ENOE", "SNIEG", "CONEVAL", "CONSAR", "IMSS", "OCDE", "OIT", "DOF"],
+    "dataSources": [
+      "INEGI",
+      "ENOE",
+      "SNIEG",
+      "CONEVAL",
+      "CONSAR",
+      "IMSS",
+      "OCDE",
+      "OIT",
+      "DOF"
+    ],
     "covered": true,
     "publishedDate": "2026-07-28",
     "publishedSlug": "eness-inegi-cobertura-seguridad-social-mexico-2026"
@@ -1600,7 +2578,15 @@
       "Horizonte de extinción efectiva hacia la segunda mitad del siglo por la vida útil larga del derecho de opción",
       "Articulación con la Pensión Mínima Garantizada, la PBAM y el Fondo de Pensiones para el Bienestar del DOF 30-abr-2024"
     ],
-    "dataSources": ["DOF", "Cámara de Diputados", "IMSS", "CONSAR", "SCJN", "CIEP", "OCDE"],
+    "dataSources": [
+      "DOF",
+      "Cámara de Diputados",
+      "IMSS",
+      "CONSAR",
+      "SCJN",
+      "CIEP",
+      "OCDE"
+    ],
     "covered": true,
     "publishedDate": "2026-07-29",
     "publishedSlug": "ley-73-97-imss-coexistencia-regimenes-pensionarios-2026"
@@ -1621,7 +2607,17 @@
       "No ratificación del Convenio 158 de la OIT sobre terminación de la relación de trabajo",
       "Programa Sectorial de Trabajo 2025-2030 y Programa Anual de Inspección 2025 de la STPS"
     ],
-    "dataSources": ["Cámara de Diputados", "DOF", "INEGI", "ENOE", "OCDE", "SCJN", "OIT", "STPS", "CFCRL"],
+    "dataSources": [
+      "Cámara de Diputados",
+      "DOF",
+      "INEGI",
+      "ENOE",
+      "OCDE",
+      "SCJN",
+      "OIT",
+      "STPS",
+      "CFCRL"
+    ],
     "covered": true,
     "publishedDate": "2026-07-30",
     "publishedSlug": "contratos-tiempo-determinado-lft-35-39-mexico-2026"
@@ -1643,7 +2639,16 @@
       "Programa Sectorial de Turismo 2025-2030 publicado en el DOF el 15 de septiembre de 2025",
       "Marco metodológico: SCNM base 2018 y Recomendaciones sobre el Marco Conceptual 2008 de ONU, OMT, OCDE y Eurostat"
     ],
-    "dataSources": ["INEGI", "Banco de México", "SECTUR", "DOF", "ONU Turismo", "OCDE", "CEPAL", "DATATUR"],
+    "dataSources": [
+      "INEGI",
+      "Banco de México",
+      "SECTUR",
+      "DOF",
+      "ONU Turismo",
+      "OCDE",
+      "CEPAL",
+      "DATATUR"
+    ],
     "covered": true,
     "publishedDate": "2026-07-31",
     "publishedSlug": "cstm-2024-turismo-mexico-arquitectura-8-7-pib"
@@ -1665,7 +2670,16 @@
       "Articulación pendiente con la Pensión para el Bienestar de las Personas Adultas Mayores, la Pensión Mujeres Bienestar y el Fondo de Pensiones para el Bienestar del DOF 30-abr-2024",
       "Agenda 2025-2030: publicación de estadísticas periódicas de portabilidad, actualización de matriz de derechos y homologación con nuevas modalidades laborales"
     ],
-    "dataSources": ["DOF", "IMSS", "ISSSTE", "CONSAR", "PENSIONISSSTE", "SHCP", "ASF", "Cámara de Diputados"],
+    "dataSources": [
+      "DOF",
+      "IMSS",
+      "ISSSTE",
+      "CONSAR",
+      "PENSIONISSSTE",
+      "SHCP",
+      "ASF",
+      "Cámara de Diputados"
+    ],
     "covered": true,
     "publishedDate": "2026-08-01",
     "publishedSlug": "portabilidad-derechos-imss-issste-convenio-2009-balance-2026"
@@ -1686,7 +2700,14 @@
       "Plan de Inversión en Infraestructura 2026-2030 por 5.6 billones de pesos y meta de inversión productiva del 28% del PIB",
       "EAEC 2024 con valor de producción de 696,000 mdp en 2023 (+33.3% anual) y 581,000 personas ocupadas"
     ],
-    "dataSources": ["INEGI", "IMSS", "SHCP", "CMIC", "BBVA Research", "Gobierno de México"],
+    "dataSources": [
+      "INEGI",
+      "IMSS",
+      "SHCP",
+      "CMIC",
+      "BBVA Research",
+      "Gobierno de México"
+    ],
     "covered": true,
     "publishedDate": "2026-08-02",
     "publishedSlug": "enec-inegi-arquitectura-radiografia-construccion-2024-2026"
@@ -1706,7 +2727,14 @@
       "Jurisprudencia sobre eliminación del plazo mínimo de matrimonio o concubinato para acceso a viudez bajo Ley 73",
       "Interacción con la Generación Afore vía renta vitalicia de sobrevivencia (art. 165 LSAR) y el Fondo de Pensiones para el Bienestar"
     ],
-    "dataSources": ["DOF", "IMSS", "SCJN", "CONSAR", "CIEP", "INEGI"],
+    "dataSources": [
+      "DOF",
+      "IMSS",
+      "SCJN",
+      "CONSAR",
+      "CIEP",
+      "INEGI"
+    ],
     "covered": true,
     "publishedDate": "2026-08-03",
     "publishedSlug": "orfandad-ascendientes-imss-ramo-vida-arquitectura-2026"
@@ -1729,7 +2757,17 @@
       "Acción de Inconstitucionalidad 181/2023 (SCJN, mayo 2025) y Amparo en Revisión 406/2024",
       "Iniciativa de 18 semanas registrada en el SIL el 10 de septiembre de 2025"
     ],
-    "dataSources": ["Cámara de Diputados", "DOF", "SCJN", "OCDE", "OIT", "INEGI", "IMSS", "SEGOB", "GIRE"],
+    "dataSources": [
+      "Cámara de Diputados",
+      "DOF",
+      "SCJN",
+      "OCDE",
+      "OIT",
+      "INEGI",
+      "IMSS",
+      "SEGOB",
+      "GIRE"
+    ],
     "covered": true,
     "publishedDate": "2026-08-04",
     "publishedSlug": "licencia-maternidad-lactancia-articulo-170-lft-imss-2026"
@@ -1750,7 +2788,17 @@
       "Convenio 106 OIT (1957) sobre descanso semanal en el comercio y las oficinas, ratificado por México en 1959",
       "Iniciativas de la LXVI Legislatura para elevar la prima dominical y ampliar la exención fiscal"
     ],
-    "dataSources": ["DOF", "Cámara de Diputados", "INEGI", "ENOE", "STPS", "PROFEDET", "OIT", "OCDE", "SAT"],
+    "dataSources": [
+      "DOF",
+      "Cámara de Diputados",
+      "INEGI",
+      "ENOE",
+      "STPS",
+      "PROFEDET",
+      "OIT",
+      "OCDE",
+      "SAT"
+    ],
     "covered": true,
     "publishedDate": "2026-08-05",
     "publishedSlug": "prima-dominical-articulo-71-lft-cobertura-mexico-2026"
@@ -1771,7 +2819,15 @@
       "Volumen esperado de pedidos con caída anual de 5.81 puntos en julio de 2026",
       "Cobertura acotada frente al universo de 5.47 millones de unidades económicas de los Censos Económicos 2024"
     ],
-    "dataSources": ["INEGI", "Banco de México", "EMOE", "IGAE", "IPM", "México ¿Cómo Vamos?", "SNIEG"],
+    "dataSources": [
+      "INEGI",
+      "Banco de México",
+      "EMOE",
+      "IGAE",
+      "IPM",
+      "México ¿Cómo Vamos?",
+      "SNIEG"
+    ],
     "covered": true,
     "publishedDate": "2026-08-06",
     "publishedSlug": "indicadores-confianza-empresarial-ice-mexico-2024-2026"
@@ -1792,7 +2848,16 @@
       "Convenios 87 y 98 de la OIT ratificados por México (1950 y 23-noviembre-2018)",
       "CFCRL: más de 1.29 millones de personas trabajadoras atendidas en conciliación individual al cierre de 2025"
     ],
-    "dataSources": ["DOF", "Cámara de Diputados", "SCJN", "INEGI", "ENOE", "CFCRL", "STPS", "OIT"],
+    "dataSources": [
+      "DOF",
+      "Cámara de Diputados",
+      "SCJN",
+      "INEGI",
+      "ENOE",
+      "CFCRL",
+      "STPS",
+      "OIT"
+    ],
     "covered": true,
     "publishedDate": "2026-08-07",
     "publishedSlug": "trabajadores-confianza-apartado-a-articulo-9-lft-2026"
@@ -1813,7 +2878,12 @@
       "Asignación de 2024: 378,716 cuentas y 9,939 millones de pesos distribuidos entre seis AFORE (Inbursa, PENSIONISSSTE, Principal, Profuturo, Sura y XXI Banorte)",
       "Reasignación bienal para incentivar la localización efectiva de titulares"
     ],
-    "dataSources": ["CONSAR", "Banco de México", "DOF", "Cámara de Diputados"],
+    "dataSources": [
+      "CONSAR",
+      "Banco de México",
+      "DOF",
+      "Cámara de Diputados"
+    ],
     "covered": true,
     "publishedDate": "2026-08-08",
     "publishedSlug": "cuenta-concentradora-sar-asignacion-licitacion-2026"
@@ -1834,7 +2904,15 @@
       "Ampliación salarial de 6.7 a 7.1 puntos porcentuales entre empresas con y sin legitimación",
       "Agenda 2026: convenciones revisoras en radio y televisión, azucarera y textiles; interacción con la revisión del T-MEC"
     ],
-    "dataSources": ["DOF", "Cámara de Diputados", "STPS", "CFCRL", "INEGI", "ENOE", "SNIEG"],
+    "dataSources": [
+      "DOF",
+      "Cámara de Diputados",
+      "STPS",
+      "CFCRL",
+      "INEGI",
+      "ENOE",
+      "SNIEG"
+    ],
     "covered": true,
     "publishedDate": "2026-08-09",
     "publishedSlug": "contrato-ley-mexico-articulo-404-lft-2026"
@@ -1855,7 +2933,15 @@
       "Presión estructural sobre el SAR, la PBAM, la Pensión Mujeres Bienestar y el Fondo de Pensiones para el Bienestar por longevidad y estrechamiento de la base laboral",
       "Comparativo OCDE: promedio TGF de 1.5 en Society at a Glance 2024, con México en el promedio del bloque"
     ],
-    "dataSources": ["INEGI", "ENR", "ENADID", "CONAPO", "SNIEG", "OCDE", "IMSS"],
+    "dataSources": [
+      "INEGI",
+      "ENR",
+      "ENADID",
+      "CONAPO",
+      "SNIEG",
+      "OCDE",
+      "IMSS"
+    ],
     "covered": true,
     "publishedDate": "2026-08-10",
     "publishedSlug": "nacimientos-registrados-mexico-2024-transicion-demografica"
@@ -1874,7 +2960,17 @@
       "Convenio doméstico de Portabilidad IMSS-ISSSTE del 17-feb-2009 como base articuladora con los convenios internacionales",
       "Diáspora mexicana superior a 12 millones de personas con 97% en EE.UU., informalidad de 55% de la ENOE y opciones alternativas como la continuación voluntaria del artículo 218 LSS (Modalidad 40)"
     ],
-    "dataSources": ["DOF", "BOE (España)", "IMSS", "SSA (EE.UU.)", "GAO", "OISS", "CONAPO", "STPS", "IMCP"],
+    "dataSources": [
+      "DOF",
+      "BOE (España)",
+      "IMSS",
+      "SSA (EE.UU.)",
+      "GAO",
+      "OISS",
+      "CONAPO",
+      "STPS",
+      "IMCP"
+    ],
     "covered": true,
     "publishedDate": "2026-08-11",
     "publishedSlug": "convenios-internacionales-seguridad-social-mexico-portabilidad-2026"
@@ -1893,7 +2989,14 @@
       "Inversión conjunta en infraestructura de 1,026,664 millones de pesos en 2026: 662,526 mmp en CKDs y CERPIs, 258,944 mmp en FIBRAs, 110,337 mmp en carreteras",
       "Plusvalías anuales del sistema por 1.14 billones de pesos en 2025 y rendimiento real histórico de aproximadamente 5.02% anual descontando inflación (CONSAR)"
     ],
-    "dataSources": ["CONSAR", "DOF", "Amafore", "LSAR", "OCDE", "Banxico"],
+    "dataSources": [
+      "CONSAR",
+      "DOF",
+      "Amafore",
+      "LSAR",
+      "OCDE",
+      "Banxico"
+    ],
     "covered": true,
     "publishedDate": "2026-08-12",
     "publishedSlug": "regimen-inversion-siefores-consar-arquitectura-2019-2026"
@@ -1915,7 +3018,16 @@
       "Programa de Inspección Federal del Trabajo 2025 con 43,000 inspecciones, SIDIL y Certificado Laboral de Agroexportación",
       "Convenio 184 de la OIT sobre seguridad y salud en la agricultura no ratificado por México como asignatura pendiente"
     ],
-    "dataSources": ["DOF", "Cámara de Diputados", "SCJN", "IMSS", "STPS", "INEGI", "ENOE", "OIT"],
+    "dataSources": [
+      "DOF",
+      "Cámara de Diputados",
+      "SCJN",
+      "IMSS",
+      "STPS",
+      "INEGI",
+      "ENOE",
+      "OIT"
+    ],
     "covered": true,
     "publishedDate": "2026-08-13",
     "publishedSlug": "trabajadores-campo-jornaleros-lft-scjn-2026"
@@ -1936,7 +3048,16 @@
       "Trabajo por cuenta propia en 21.5% de la ocupación y tasa de informalidad de 55.2% en abril de 2026",
       "Articulación con el Fondo de Pensiones para el Bienestar y la PBAM"
     ],
-    "dataSources": ["DOF", "Cámara de Diputados", "IMSS", "INEGI", "ENOE", "OCDE", "IMCP", "Deloitte"],
+    "dataSources": [
+      "DOF",
+      "Cámara de Diputados",
+      "IMSS",
+      "INEGI",
+      "ENOE",
+      "OCDE",
+      "IMCP",
+      "Deloitte"
+    ],
     "covered": true,
     "publishedDate": "2026-08-14",
     "publishedSlug": "aseguramiento-voluntario-articulo-13-lss-modalidad-10-2026"
@@ -1956,7 +3077,14 @@
       "Heterogeneidad territorial: 18 de 91 ciudades con cambios significativos, 12 a la baja y 6 al alza",
       "Complementariedad con ENVIPE como información de interés nacional desde diciembre de 2011"
     ],
-    "dataSources": ["INEGI", "ENSU", "ENVIPE", "SNIEG", "Presidencia de la República", "La Jornada"],
+    "dataSources": [
+      "INEGI",
+      "ENSU",
+      "ENVIPE",
+      "SNIEG",
+      "Presidencia de la República",
+      "La Jornada"
+    ],
     "covered": true,
     "publishedDate": "2026-08-15",
     "publishedSlug": "ensu-2t-2026-percepcion-inseguridad-minimo-sexenio-inegi"
@@ -1976,7 +3104,17 @@
       "Programa Institucional CONOCER 2025-2030 publicado en DOF el 7-ene-2026 con cinco líneas prioritarias",
       "Informalidad laboral de 55.2% en abril y 55.0% en mayo de 2026 según ENOE del INEGI como techo de cobertura"
     ],
-    "dataSources": ["DOF", "STPS", "Cámara de Diputados", "CONOCER", "SEP", "OIT/Cinterfor", "INEGI", "ENOE", "OCDE"],
+    "dataSources": [
+      "DOF",
+      "STPS",
+      "Cámara de Diputados",
+      "CONOCER",
+      "SEP",
+      "OIT/Cinterfor",
+      "INEGI",
+      "ENOE",
+      "OCDE"
+    ],
     "covered": true,
     "publishedDate": "2026-08-16",
     "publishedSlug": "capacitacion-competencias-mexico-lft-conocer-2026"
@@ -1996,7 +3134,15 @@
       "Sectorial anual 1T 2026: primarias +0.4%, secundarias -1.2% y terciarias +1.0%, con contracción industrial concentrada en el corredor norte manufacturero",
       "ITAEE se publica ~120 días después del trimestre bajo el SCNM base 2018 y SCIAN 2018, con ajuste estacional X-13ARIMA-SEATS"
     ],
-    "dataSources": ["INEGI", "SCNM", "PIBE", "ITAEE", "BBVA Research", "México ¿Cómo Vamos?", "CEPAL"],
+    "dataSources": [
+      "INEGI",
+      "SCNM",
+      "PIBE",
+      "ITAEE",
+      "BBVA Research",
+      "México ¿Cómo Vamos?",
+      "CEPAL"
+    ],
     "covered": true,
     "publishedDate": "2026-08-17",
     "publishedSlug": "pibe-itaee-inegi-arquitectura-concentracion-regional-2026"
@@ -2016,7 +3162,16 @@
       "Contexto sistémico: activos netos por 8.0 billones de pesos (22.9% del PIB) y 77.2 millones de cuentas al 3T 2025 según CONSAR",
       "Interacción con el Fondo de Pensiones para el Bienestar creado por decreto DOF 30-abr-2024 y 2.55 millones de cuentas resguardadas al 3T 2025"
     ],
-    "dataSources": ["CONSAR", "SCJN", "DOF", "LSS", "LFT", "Ley del ISSSTE", "AMAFORE", "PROFEDET"],
+    "dataSources": [
+      "CONSAR",
+      "SCJN",
+      "DOF",
+      "LSS",
+      "LFT",
+      "Ley del ISSSTE",
+      "AMAFORE",
+      "PROFEDET"
+    ],
     "covered": true,
     "publishedDate": "2026-08-18",
     "publishedSlug": "beneficiarios-cuenta-individual-sar-scjn-articulo-193-2026"
@@ -2037,7 +3192,13 @@
       "Régimen sancionatorio del artículo 992 LFT: 50 a 500 UMA (5,865.50 a 58,655.00 pesos con UMA 2026 de 117.31)",
       "Programa Anual de Inspección STPS 2026 con verificación explícita del RIT en el marco de la Ley Silla"
     ],
-    "dataSources": ["DOF", "STPS", "CFCRL", "INEGI", "Cámara de Diputados"],
+    "dataSources": [
+      "DOF",
+      "STPS",
+      "CFCRL",
+      "INEGI",
+      "Cámara de Diputados"
+    ],
     "covered": true,
     "publishedDate": "2026-08-19",
     "publishedSlug": "reglamento-interior-trabajo-lft-422-425-cfcrl-2026"
@@ -2056,7 +3217,14 @@
       "Proyecciones del CIEP: entre 7.1% y 7.8% del PIB hacia 2030 y aportaciones netas a la baja desde ese año",
       "Comparativo internacional: promedio OCDE de 8.3% del PIB en 2021 y posición de México por debajo de la media"
     ],
-    "dataSources": ["CIEP", "SHCP", "México Cómo Vamos", "México Evalúa", "OCDE", "CONAPO"],
+    "dataSources": [
+      "CIEP",
+      "SHCP",
+      "México Cómo Vamos",
+      "México Evalúa",
+      "OCDE",
+      "CONAPO"
+    ],
     "covered": true,
     "publishedDate": "2026-08-20",
     "publishedSlug": "gasto-pensiones-presion-finanzas-publicas-mexico-2026"
@@ -2076,7 +3244,15 @@
       "Línea de Crédito Flexible con el FMI vigente desde noviembre de 2009 como colchón complementario",
       "Comparativo regional: Brasil 357,827 mdd, México segundo lugar y Perú 73,967 mdd hacia mediados de 2025"
     ],
-    "dataSources": ["Banco de México", "DOF", "FMI", "CEFP", "CEPAL", "ASF", "México ¿Cómo Vamos?"],
+    "dataSources": [
+      "Banco de México",
+      "DOF",
+      "FMI",
+      "CEFP",
+      "CEPAL",
+      "ASF",
+      "México ¿Cómo Vamos?"
+    ],
     "covered": true,
     "publishedDate": "2026-08-21",
     "publishedSlug": "reservas-internacionales-banxico-arquitectura-record-2026"
@@ -2097,7 +3273,16 @@
       "MLRR del T-MEC: más de 40 solicitudes desde el 12 de mayo de 2021 y caso GM Silao como precedente",
       "Tasa de sindicalización en 22.3%-22.5% de la población asalariada según ENOE y techo estructural de la informalidad en 55% al cierre del 4T 2025"
     ],
-    "dataSources": ["DOF", "STPS", "CFCRL", "INEGI", "ENOE", "OIT", "Secretaría de Economía", "Cámara de Diputados"],
+    "dataSources": [
+      "DOF",
+      "STPS",
+      "CFCRL",
+      "INEGI",
+      "ENOE",
+      "OIT",
+      "Secretaría de Economía",
+      "Cámara de Diputados"
+    ],
     "covered": true,
     "publishedDate": "2026-08-22",
     "publishedSlug": "huelga-mexico-arquitectura-articulo-920-lft-cfcrl-2026"
@@ -2118,7 +3303,14 @@
       "Percepción de inseguridad y confianza superior en Marina, Fuerza Aérea y Ejército, con brecha frente a policías civiles",
       "Concentración territorial en Estado de México, CDMX, Querétaro, Puebla, Quintana Roo, Morelos y otras entidades"
     ],
-    "dataSources": ["INEGI", "SNIEG", "ENSU", "COPARMEX", "MCCI", "SESNSP"],
+    "dataSources": [
+      "INEGI",
+      "SNIEG",
+      "ENSU",
+      "COPARMEX",
+      "MCCI",
+      "SESNSP"
+    ],
     "covered": true,
     "publishedDate": "2026-08-23",
     "publishedSlug": "envipe-2025-arquitectura-victimizacion-cifra-negra-mexico"
@@ -2140,7 +3332,14 @@
       "Meta CONSAR: 34% del PIB en activos administrados hacia 2030",
       "Agenda 2025-2030: desacumulación, cobertura, supervisión reforzada y coordinación con el Fondo de Pensiones para el Bienestar"
     ],
-    "dataSources": ["CONSAR", "DOF", "SHCP", "Banco de México", "AMAFORE", "ASF"],
+    "dataSources": [
+      "CONSAR",
+      "DOF",
+      "SHCP",
+      "Banco de México",
+      "AMAFORE",
+      "ASF"
+    ],
     "covered": true,
     "publishedDate": "2026-08-24",
     "publishedSlug": "consar-arquitectura-institucional-regulador-sar-2026"
@@ -2160,7 +3359,17 @@
       "SNII bajo SECIHTI como reconocimiento federal complementario y su impacto sobre pensiones",
       "Agenda 2026: implementación de la LGES, T-MEC y libertad sindical, personal por asignatura y articulación con Fondo de Pensiones para el Bienestar"
     ],
-    "dataSources": ["DOF", "LFT", "Constitución", "ANUIES", "SECIHTI", "STPS", "UNAM", "UACh", "OIT"],
+    "dataSources": [
+      "DOF",
+      "LFT",
+      "Constitución",
+      "ANUIES",
+      "SECIHTI",
+      "STPS",
+      "UNAM",
+      "UACh",
+      "OIT"
+    ],
     "covered": true,
     "publishedDate": "2026-08-25",
     "publishedSlug": "trabajadores-universitarios-lft-capitulo-xvii-autonomia-2026"
@@ -2180,7 +3389,16 @@
       "Programa Sectorial de Cultura 2025-2030 (DOF 15-sep-2025) y PEF 2026 del Ramo 48 aprobado por 15,081.5 mdp",
       "Contraste con la contracción real de 30.8% del Ramo 48 en el PEF 2025"
     ],
-    "dataSources": ["INEGI", "SCNM", "UNESCO", "Convenio Andrés Bello", "DOF", "Cámara de Diputados", "Fundar", "FONART"],
+    "dataSources": [
+      "INEGI",
+      "SCNM",
+      "UNESCO",
+      "Convenio Andrés Bello",
+      "DOF",
+      "Cámara de Diputados",
+      "Fundar",
+      "FONART"
+    ],
     "covered": true,
     "publishedDate": "2026-08-26",
     "publishedSlug": "cscm-2024-cultura-mexico-arquitectura-brecha-presupuesto-2026"
@@ -2200,7 +3418,15 @@
       "UMA 2026 en 117.31 pesos diarios, 3,566.22 mensuales y 42,794.64 anuales (comunicado 1/26 del INEGI, DOF 9-ene-2026)",
       "Ratificación del objetivo de 3% con intervalo de variabilidad de ±1 pp en el Programa Monetario 2026 de Banxico"
     ],
-    "dataSources": ["INEGI", "Banco de México", "DOF", "Cámara de Diputados", "SNIEG", "México ¿Cómo Vamos?", "SAT"],
+    "dataSources": [
+      "INEGI",
+      "Banco de México",
+      "DOF",
+      "Cámara de Diputados",
+      "SNIEG",
+      "México ¿Cómo Vamos?",
+      "SAT"
+    ],
     "covered": true,
     "publishedDate": "2026-08-27",
     "publishedSlug": "inpc-arquitectura-estadistica-referencia-legal-2026"
@@ -2220,7 +3446,17 @@
       "Convenio CONSAR-STPS del 28-jul-2026 e implementación de las Disposiciones publicadas el 13-nov-2025",
       "Fiscalización IMSS 2025: 11 actos concluidos, 8.7 mdp recaudados, 1,571 personas restituidas y 174 revisiones en proceso para 2026 con base en el Criterio 01/2023/NV/SBC-LSS-27-VIII"
     ],
-    "dataSources": ["CONSAR", "SIREPP", "DOF", "STPS", "IMSS", "SAT", "SHCP", "LISR", "LSS"],
+    "dataSources": [
+      "CONSAR",
+      "SIREPP",
+      "DOF",
+      "STPS",
+      "IMSS",
+      "SAT",
+      "SHCP",
+      "LISR",
+      "LSS"
+    ],
     "covered": true,
     "publishedDate": "2026-08-28",
     "publishedSlug": "planes-privados-pensiones-registro-electronico-mexico-2026"
@@ -2240,7 +3476,17 @@
       "Visas H-2B: tope estatutario de 66,000 con aumento suplementario de hasta 64,716 para FY2024 autorizado por el DHS",
       "Mecanismo de Movilidad Laboral no agrícola: 1,113 personas mexicanas a marzo de 2025 en Canadá, Estados Unidos y Alemania (enfermería, gastronomía y construcción)"
     ],
-    "dataSources": ["DOF", "Cámara de Diputados", "STPS", "CFCRL", "SRE", "U.S. Department of State", "U.S. Department of Labor", "U.S. Department of Homeland Security", "OIT"],
+    "dataSources": [
+      "DOF",
+      "Cámara de Diputados",
+      "STPS",
+      "CFCRL",
+      "SRE",
+      "U.S. Department of State",
+      "U.S. Department of Labor",
+      "U.S. Department of Homeland Security",
+      "OIT"
+    ],
     "covered": true,
     "publishedDate": "2026-08-29",
     "publishedSlug": "trabajadores-mexicanos-extranjero-articulo-28-lft-2026"
@@ -2261,7 +3507,17 @@
       "México con 2,193 horas trabajadas por persona ocupada en 2024 según OCDE, casi 600 horas más que el promedio del bloque",
       "Iniciativas de ampliación de Cámara de Diputados (2024-2025) para llevar el catálogo a 15 días y crear tres puentes largos"
     ],
-    "dataSources": ["DOF", "Cámara de Diputados", "STPS", "PROFEDET", "INEGI", "ENOE", "OCDE", "IMCO", "OCC"],
+    "dataSources": [
+      "DOF",
+      "Cámara de Diputados",
+      "STPS",
+      "PROFEDET",
+      "INEGI",
+      "ENOE",
+      "OCDE",
+      "IMCO",
+      "OCC"
+    ],
     "covered": true,
     "publishedDate": "2026-08-30",
     "publishedSlug": "dias-descanso-obligatorio-articulo-74-lft-mexico-2026"
@@ -2282,7 +3538,14 @@
       "Articulación con SNIEG, CONAPO (esperanza de vida 75.5 años en 2024) y el Panorama Epidemiológico de la Secretaría de Salud",
       "Catálogo 1140 del Registro Nacional de Metadatos con desagregación nacional, estatal, municipal y de localidad"
     ],
-    "dataSources": ["INEGI", "EDR", "SNIEG", "CONAPO", "Secretaría de Salud", "Registro Civil"],
+    "dataSources": [
+      "INEGI",
+      "EDR",
+      "SNIEG",
+      "CONAPO",
+      "Secretaría de Salud",
+      "Registro Civil"
+    ],
     "covered": true,
     "publishedDate": "2026-08-31",
     "publishedSlug": "defunciones-registradas-2024-inegi-mortalidad-post-covid"
@@ -2302,7 +3565,14 @@
       "Concentración estatal en CDMX (54,473), Estado de México (48,426) y Querétaro (45,107)",
       "Continuidad de la serie desde 2011 y su lugar en el Programa Nacional de Estadística y Geografía 2025-2030"
     ],
-    "dataSources": ["INEGI", "ENVIPE", "SNIEG", "ENSU", "MCCI", "COPARMEX"],
+    "dataSources": [
+      "INEGI",
+      "ENVIPE",
+      "SNIEG",
+      "ENSU",
+      "MCCI",
+      "COPARMEX"
+    ],
     "covered": true,
     "publishedDate": "2026-09-01",
     "publishedSlug": "envipe-2025-victimizacion-cifra-negra-costo-mexico-inegi"
@@ -2324,7 +3594,16 @@
       "Falla interpretativa reconocida en julio de 2026 sobre percepciones integrantes de la remuneración presidencial",
       "Comparativo OCDE: bases máximas contributivas de 1 a 2 salarios medios y ausencia de tope en Finlandia, Portugal e Italia"
     ],
-    "dataSources": ["DOF", "SCJN", "ISSSTE", "SHCP", "Cámara de Diputados", "OCDE", "CIEP", "IMSS"],
+    "dataSources": [
+      "DOF",
+      "SCJN",
+      "ISSSTE",
+      "SHCP",
+      "Cámara de Diputados",
+      "OCDE",
+      "CIEP",
+      "IMSS"
+    ],
     "covered": true,
     "publishedDate": "2026-09-02",
     "publishedSlug": "tope-pensiones-publicas-articulo-127-reforma-2026-balance"
@@ -2346,7 +3625,16 @@
       "Beca institucional cercana al triple del salario mínimo con complemento reportado de 15,000 pesos en el ciclo 2024-2025",
       "Agenda pendiente: iniciativas para reducir el tope a 60 horas semanales y actualizar la beca"
     ],
-    "dataSources": ["DOF", "Cámara de Diputados", "SCJN", "CIFRHS", "IMSS", "ISSSTE", "ACGME", "Unión Europea"],
+    "dataSources": [
+      "DOF",
+      "Cámara de Diputados",
+      "SCJN",
+      "CIFRHS",
+      "IMSS",
+      "ISSSTE",
+      "ACGME",
+      "Unión Europea"
+    ],
     "covered": true,
     "publishedDate": "2026-09-03",
     "publishedSlug": "residentes-medicos-lft-nom-001-ssa-2023-balance-2026"
@@ -2368,7 +3656,15 @@
       "Ratificación pendiente del Convenio 151 de la OIT sobre relaciones de trabajo en la administración pública",
       "Agenda 2026-2030: acotación del catálogo, interpretación del nuevo artículo 69 Bis y alineación con estándares internacionales"
     ],
-    "dataSources": ["Constitución Política de los Estados Unidos Mexicanos", "DOF", "Cámara de Diputados", "SCJN", "OIT", "TFCA", "Instituto de Investigaciones Jurídicas de la UNAM"],
+    "dataSources": [
+      "Constitución Política de los Estados Unidos Mexicanos",
+      "DOF",
+      "Cámara de Diputados",
+      "SCJN",
+      "OIT",
+      "TFCA",
+      "Instituto de Investigaciones Jurídicas de la UNAM"
+    ],
     "covered": true,
     "publishedDate": "2026-09-04",
     "publishedSlug": "trabajadores-confianza-apartado-b-lftse-jurisprudencia-2026"
@@ -2388,7 +3684,16 @@
       "Contraste con ENADID 2023 y Censo 2020 sobre el peso creciente de la unión libre",
       "Agenda 2025-2030 del INEGI para consolidar el uso primario de registros administrativos en estadísticas vitales"
     ],
-    "dataSources": ["INEGI", "EMAT", "EDIV", "ENADID", "Censo 2020", "SCJN", "DOF", "CONAPO"],
+    "dataSources": [
+      "INEGI",
+      "EMAT",
+      "EDIV",
+      "ENADID",
+      "Censo 2020",
+      "SCJN",
+      "DOF",
+      "CONAPO"
+    ],
     "covered": true,
     "publishedDate": "2026-09-05",
     "publishedSlug": "matrimonios-divorcios-2024-inegi-vinculo-conyugal-mexico"
@@ -2408,7 +3713,16 @@
       "Nómina proyectada del RJP con crecimiento nominal de 11.2% en 2026",
       "Amparo Directo en Revisión 5192/2024 de la Segunda Sala de la SCJN sobre incompatibilidad entre jubilación contractual RJP y pensión de vejez"
     ],
-    "dataSources": ["IMSS", "SNTSS", "DOF", "SCJN", "ASF", "CIEP", "IMEF", "SHCP"],
+    "dataSources": [
+      "IMSS",
+      "SNTSS",
+      "DOF",
+      "SCJN",
+      "ASF",
+      "CIEP",
+      "IMEF",
+      "SHCP"
+    ],
     "covered": true,
     "publishedDate": "2026-09-06",
     "publishedSlug": "regimen-jubilaciones-pensiones-imss-pasivo-laboral-2024"
@@ -2428,7 +3742,16 @@
       "Traslado de las oficinas centrales de la PROFEDET a las instalaciones de la extinta Junta Federal de Conciliación y Arbitraje en enero de 2026",
       "Inserción en los seis objetivos prioritarios del Programa Sectorial de Trabajo y Previsión Social 2025-2030 publicado en el DOF el 27 de noviembre de 2025"
     ],
-    "dataSources": ["DOF", "STPS", "PROFEDET", "CFCRL", "Cámara de Diputados", "SHCP", "INEGI", "ENOE"],
+    "dataSources": [
+      "DOF",
+      "STPS",
+      "PROFEDET",
+      "CFCRL",
+      "Cámara de Diputados",
+      "SHCP",
+      "INEGI",
+      "ENOE"
+    ],
     "covered": true,
     "publishedDate": "2026-09-07",
     "publishedSlug": "profedet-defensa-trabajador-nuevo-modelo-justicia-laboral-2026"
@@ -2450,7 +3773,16 @@
       "Articulación con las Cuentas de los Ecosistemas de México 2024 (Comunicado 190/25) bajo el marco SEEA Ecosystem Accounting",
       "Origen técnico en el proyecto NCAVES (INEGI, SEMARNAT, UNSD, PNUMA) y agenda 2030 del Marco Mundial de la Biodiversidad Kunming-Montreal"
     ],
-    "dataSources": ["INEGI", "SEMARNAT", "CONAGUA", "SNIEG", "UNSD", "PNUMA", "CIEP", "IMCO"],
+    "dataSources": [
+      "INEGI",
+      "SEMARNAT",
+      "CONAGUA",
+      "SNIEG",
+      "UNSD",
+      "PNUMA",
+      "CIEP",
+      "IMCO"
+    ],
     "covered": true,
     "publishedDate": "2026-09-08",
     "publishedSlug": "cuentas-economicas-ecologicas-mexico-ceem-2024-pine"
@@ -2471,7 +3803,17 @@
       "Reforma constitucional al 123: transición gradual de 48 a 40 horas semanales entre 2026 y 2030",
       "Restricciones especiales para menores de 16 años y mujeres embarazadas (artículos 166 y 178 LFT)"
     ],
-    "dataSources": ["DOF", "STPS", "SCJN", "INEGI", "ENOE", "OCDE", "PROFEDET", "IMCO", "Banco de México"],
+    "dataSources": [
+      "DOF",
+      "STPS",
+      "SCJN",
+      "INEGI",
+      "ENOE",
+      "OCDE",
+      "PROFEDET",
+      "IMCO",
+      "Banco de México"
+    ],
     "covered": true,
     "publishedDate": "2026-09-09",
     "publishedSlug": "tiempo-extraordinario-articulos-66-68-lft-jurisprudencia-2026"
@@ -2491,7 +3833,17 @@
       "Brecha estructural urbana-rural y patrón estatal con Chiapas, Guerrero y Oaxaca en niveles elevados",
       "Agenda 2026-2030: continuidad, nota metodológica actualizada y complementariedad con ENIGH"
     ],
-    "dataSources": ["CONEVAL", "INEGI", "ENOE", "Banco de México", "CONASAMI", "DOF", "SNIEG", "CEPAL", "México ¿Cómo Vamos?"],
+    "dataSources": [
+      "CONEVAL",
+      "INEGI",
+      "ENOE",
+      "Banco de México",
+      "CONASAMI",
+      "DOF",
+      "SNIEG",
+      "CEPAL",
+      "México ¿Cómo Vamos?"
+    ],
     "covered": true,
     "publishedDate": "2026-09-10",
     "publishedSlug": "itlp-tendencia-laboral-pobreza-transicion-inegi-2026"
@@ -2512,7 +3864,16 @@
       "Leyes secundarias energéticas de marzo de 2025 y regreso a Empresa Pública del Estado",
       "Reforma al artículo 127 constitucional (DOF 10-abr-2026) con tope aproximado de 67,145 pesos netos mensuales"
     ],
-    "dataSources": ["CFE", "SUTERM", "SHCP", "IMCO", "DOF", "ASF", "Banco de México", "Espinosa Yglesias"],
+    "dataSources": [
+      "CFE",
+      "SUTERM",
+      "SHCP",
+      "IMCO",
+      "DOF",
+      "ASF",
+      "Banco de México",
+      "Espinosa Yglesias"
+    ],
     "covered": true,
     "publishedDate": "2026-09-11",
     "publishedSlug": "pasivo-laboral-cfe-suterm-convenio-2016-balance-2026"
@@ -2532,7 +3893,17 @@
       "Contexto de informalidad de 55 por ciento en el 4T 2025 según la ENOE como límite estructural",
       "No ratificación del Convenio 158 de la OIT sobre terminación de la relación de trabajo"
     ],
-    "dataSources": ["DOF", "Cámara de Diputados", "SCJN", "CFCRL", "STPS", "INEGI", "ENOE", "OIT", "PROFEDET"],
+    "dataSources": [
+      "DOF",
+      "Cámara de Diputados",
+      "SCJN",
+      "CFCRL",
+      "STPS",
+      "INEGI",
+      "ENOE",
+      "OIT",
+      "PROFEDET"
+    ],
     "covered": true,
     "publishedDate": "2026-09-12",
     "publishedSlug": "rescision-sin-responsabilidad-articulos-47-51-lft-2026"
@@ -2552,7 +3923,16 @@
       "Renuncia recaudatoria estimada en torno a 30% del gasto fiscal del ISR de personas físicas",
       "Informalidad de 55.0% en el 4T 2025 como techo estructural del instrumento"
     ],
-    "dataSources": ["DOF", "SAT", "INEGI", "CONASAMI", "CEFP", "SHCP", "PRODECON", "LISR"],
+    "dataSources": [
+      "DOF",
+      "SAT",
+      "INEGI",
+      "CONASAMI",
+      "CEFP",
+      "SHCP",
+      "PRODECON",
+      "LISR"
+    ],
     "covered": true,
     "publishedDate": "2026-09-13",
     "publishedSlug": "subsidio-empleo-arquitectura-uma-balance-2026"
@@ -2569,7 +3949,13 @@
       "Comparativo internacional: paradoja de satisfacción alta con dimensiones objetivas adversas",
       "Agenda: cobertura rural, series subnacionales y uso en Sistema de Evaluación del Desempeño"
     ],
-    "dataSources": ["INEGI", "OCDE", "SDSN", "Eurostat", "SNIEG"],
+    "dataSources": [
+      "INEGI",
+      "OCDE",
+      "SDSN",
+      "Eurostat",
+      "SNIEG"
+    ],
     "covered": true,
     "publishedDate": "2026-09-14",
     "publishedSlug": "biare-bienestar-subjetivo-inegi-2013-2026"
@@ -2586,9 +3972,39 @@
       "Cobertura efectiva de 38% de la población elegible según CONEVAL",
       "Comparación regional con Chile y Uruguay y ubicación baja en el rango latinoamericano de suficiencia"
     ],
-    "dataSources": ["DOF", "Secretaría de Bienestar", "INEGI", "CONEVAL", "SHCP", "CEFP", "CEPAL", "OCDE"],
+    "dataSources": [
+      "DOF",
+      "Secretaría de Bienestar",
+      "INEGI",
+      "CONEVAL",
+      "SHCP",
+      "CEFP",
+      "CEPAL",
+      "OCDE"
+    ],
     "covered": true,
     "publishedDate": "2026-09-15",
     "publishedSlug": "pension-bienestar-discapacidad-permanente-2026"
+  },
+  {
+    "id": "inspeccion-federal-trabajo-dgift-2026",
+    "title": "Inspección Federal del Trabajo en México: la DGIFT, competencia federal-local y balance del nuevo modelo laboral (2019-2026)",
+    "category": "laboral",
+    "description": "Arquitectura de la Dirección General de Inspección Federal del Trabajo, régimen competencial LFT 527, sanciones, SIDIL, VELAVO y comparativo con estándares OIT.",
+    "keyPoints": [
+      "Base constitucional (art. 123 A XXXI) y LFT 527",
+      "Estructura STPS-UTD-DGIFT-ORFT y plantilla de inspectores",
+      "Tipos de inspección y régimen de sanciones LFT 992-994",
+      "SIDIL y programa voluntario VELAVO",
+      "Brecha frente al Convenio 81 y ratios OIT"
+    ],
+    "dataSources": [
+      "STPS",
+      "DOF",
+      "OIT"
+    ],
+    "covered": true,
+    "publishedDate": "2026-09-16",
+    "publishedSlug": "inspeccion-federal-trabajo-dgift-nuevo-modelo-laboral-2026"
   }
 ]
