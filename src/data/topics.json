@@ -4006,5 +4006,28 @@
     "covered": true,
     "publishedDate": "2026-09-16",
     "publishedSlug": "inspeccion-federal-trabajo-dgift-nuevo-modelo-laboral-2026"
+  },
+  {
+    "id": "enoe-inegi-arquitectura-metodologia-2005-2026",
+    "title": "ENOE: arquitectura, metodología y trayectoria de la encuesta laboral de INEGI (2005-2026)",
+    "category": "datos",
+    "description": "Diseño muestral, aparato conceptual y trayectoria 2005-2026 de la Encuesta Nacional de Ocupación y Empleo del INEGI, con la ruptura pandémica y la Nueva Edición.",
+    "keyPoints": [
+      "Antecedentes ENEU-ENE y arranque de la ENOE en enero de 2005",
+      "Marco Muestral Maestro, esquema panel de cinco trimestres y cobertura nacional",
+      "Aparato conceptual PEA-PNEA y tasas complementarias alineadas con la 19ª CIET",
+      "Doble medición de informalidad (TIL1 y TOSI1) según la Guide on Statistics of Informality de la OIT",
+      "Ruptura pandémica de 2020, ETOE y reactivación como ENOE Nueva Edición",
+      "Trayectoria 2005-2026 de desocupación, informalidad, subocupación y TCCO"
+    ],
+    "dataSources": [
+      "INEGI",
+      "SNIEG",
+      "OIT",
+      "CONEVAL"
+    ],
+    "covered": true,
+    "publishedDate": "2026-09-17",
+    "publishedSlug": "enoe-inegi-arquitectura-metodologia-trayectoria-2005-2026"
   }
 ]
