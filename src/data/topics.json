@@ -4029,5 +4029,31 @@
     "covered": true,
     "publishedDate": "2026-09-17",
     "publishedSlug": "enoe-inegi-arquitectura-metodologia-trayectoria-2005-2026"
+  },
+  {
+    "id": "encig-2025-calidad-gubernamental-corrupcion",
+    "title": "ENCIG 2025: nueva medición de calidad gubernamental y el repunte de la corrupción en México",
+    "category": "datos",
+    "description": "Análisis de la octava edición de la ENCIG del INEGI publicada en mayo de 2026: costo de la corrupción por 17,707 mdp, caída de la satisfacción con servicios públicos y contraste de confianza institucional entre Fuerzas Armadas y partidos.",
+    "keyPoints": [
+      "Levantamiento de la ENCIG 2025 entre el 31 de octubre y el 16 de diciembre de 2025",
+      "Octava edición de la serie 2011-2025 con marco muestral cercano a 46 mil viviendas urbanas",
+      "Costo de la corrupción por 17,707.4 mdp en 2025, +48.7% respecto a 2023",
+      "Prevalencia de corrupción en trámites en 15.6% y percepción de corrupción frecuente en 84.1%",
+      "Prevalencia en contactos con seguridad pública de 63.5%, la más alta de la serie",
+      "Satisfacción con servicios básicos y bajo demanda en 47.2% frente a 50.0% en 2023",
+      "Brecha estatal de más de 18 puntos entre Coahuila y Guerrero en satisfacción con trámites",
+      "Confianza de 75.9% en Fuerzas Armadas frente a 23.9% en partidos políticos"
+    ],
+    "dataSources": [
+      "INEGI",
+      "SNIEG",
+      "ENCIG",
+      "ENCOAP",
+      "DOF"
+    ],
+    "covered": true,
+    "publishedDate": "2026-09-18",
+    "publishedSlug": "encig-2025-calidad-gubernamental-corrupcion-mexico"
   }
 ]
