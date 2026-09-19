@@ -4055,5 +4055,32 @@
     "covered": true,
     "publishedDate": "2026-09-18",
     "publishedSlug": "encig-2025-calidad-gubernamental-corrupcion-mexico"
+  },
+  {
+    "id": "prevision-social-fondo-ahorro-vales-despensa-2026",
+    "title": "Previsión social en México: fondo de ahorro, vales de despensa y su régimen fiscal en 2026",
+    "category": "laboral",
+    "description": "Análisis de la previsión social como categoría fiscal y laboral en México: fondo de ahorro, vales de despensa, ayuda de transporte, integración al Salario Base de Cotización y agenda 2026.",
+    "keyPoints": [
+      "Definición del artículo 7 de la LISR y su articulación con la LSS y la LFT",
+      "Requisito de generalidad del artículo 27 fracción XI de la LISR y jurisprudencia de la Segunda Sala de la SCJN",
+      "Fondo de ahorro: reglas de equivalencia y periodicidad del artículo 27 fracción II de la LSS",
+      "Vales de despensa: monedero electrónico obligatorio y tope de 40% de la UMA",
+      "UMA 2026 en 117.31 pesos diarios y su impacto en topes y exenciones",
+      "Exención del artículo 93 fracción VIII de la LISR y límite referido a 7 UMA anualizadas",
+      "Fiscalización cruzada SAT-IMSS con CFDI 4.0 y padrón de emisores"
+    ],
+    "dataSources": [
+      "DOF",
+      "SAT",
+      "IMSS",
+      "INEGI",
+      "CONASAMI",
+      "SCJN",
+      "CIEP"
+    ],
+    "covered": true,
+    "publishedDate": "2026-09-19",
+    "publishedSlug": "prevision-social-fondo-ahorro-vales-despensa-mexico-2026"
   }
 ]
