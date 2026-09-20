@@ -4082,5 +4082,30 @@
     "covered": true,
     "publishedDate": "2026-09-19",
     "publishedSlug": "prevision-social-fondo-ahorro-vales-despensa-mexico-2026"
+  },
+  {
+    "id": "ley-sar-trayectoria-reformas",
+    "title": "Ley del SAR a treinta años: trayectoria de reformas al ordenamiento pilar del sistema de cuentas individuales",
+    "category": "pensiones",
+    "description": "Balance de las reformas a la Ley de los Sistemas de Ahorro para el Retiro entre 1996 y 2026 y su efecto sobre la arquitectura del SAR.",
+    "keyPoints": [
+      "Diseño original de 1996 y arranque operativo del SAR en 1997",
+      "Eliminación de la comisión sobre flujo en 2007 y migración a comisión única sobre saldo",
+      "Incorporación del ISSSTE al régimen de cuentas individuales en 2007",
+      "Migración de multifondos a SIEFOREs generacionales en 2019",
+      "Reforma estructural de 2020: aportaciones, semanas, PMG y comisiones",
+      "Fondo de Pensiones para el Bienestar y adición del artículo 81 Bis en 2024"
+    ],
+    "dataSources": [
+      "DOF",
+      "CONSAR",
+      "Cámara de Diputados",
+      "CEFP",
+      "CIEP",
+      "OCDE"
+    ],
+    "covered": true,
+    "publishedDate": "2026-09-20",
+    "publishedSlug": "ley-sar-trayectoria-reformas-tres-decadas-2026"
   }
 ]
