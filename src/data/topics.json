@@ -4107,5 +4107,32 @@
     "covered": true,
     "publishedDate": "2026-09-20",
     "publishedSlug": "ley-sar-trayectoria-reformas-tres-decadas-2026"
+  },
+  {
+    "id": "censo-agropecuario-2022-radiografia-campo-mexicano",
+    "title": "Censo Agropecuario 2022: la novena radiografía del campo mexicano y su nueva estructura productiva",
+    "category": "datos",
+    "description": "Análisis de los resultados definitivos del Censo Agropecuario 2022 del INEGI: 4.6 millones de unidades de producción, concentración de la superficie, envejecimiento del productor, brecha de riego y dualidad estructural del sector primario.",
+    "keyPoints": [
+      "Novena entrega del Censo Agropecuario e integración al Sistema de Cuentas Nacionales",
+      "Levantamiento del 19 de septiembre al 30 de noviembre de 2022 y año agrícola de referencia octubre 2021 a septiembre 2022",
+      "4.6 millones de unidades de producción y 27.3 millones de personas ocupadas en el sector",
+      "Concentración productiva con 56.0% de unidades hasta 2 hectáreas y 54,289 grandes productores",
+      "Inventarios pecuarios: 24.8 millones de bovinos y 16.0 millones de porcinos al 15 de septiembre de 2022",
+      "Retroceso de la participación femenina de 19.7% en 2007 a 16.2% en 2022 y brecha de superficie por sexo",
+      "73.2% de la superficie sembrada bajo temporal y solo 13.3% de las unidades pequeñas con riego",
+      "Publicación definitiva del 21 de noviembre de 2023 y resultados adicionales del 2 de julio de 2024"
+    ],
+    "dataSources": [
+      "INEGI",
+      "SNIEG",
+      "CEDRSSA",
+      "SIAP",
+      "CONEVAL",
+      "Banco de México"
+    ],
+    "covered": true,
+    "publishedDate": "2026-09-21",
+    "publishedSlug": "censo-agropecuario-2022-radiografia-campo-mexicano-inegi"
   }
 ]
