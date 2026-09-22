@@ -4134,5 +4134,32 @@
     "covered": true,
     "publishedDate": "2026-09-21",
     "publishedSlug": "censo-agropecuario-2022-radiografia-campo-mexicano-inegi"
+  },
+  {
+    "id": "sustitucion-patronal-articulo-41-lft-reforma-subcontratacion-2026",
+    "title": "Sustitución patronal en México: el artículo 41 de la LFT tras la reforma de subcontratación de 2021",
+    "category": "laboral",
+    "description": "Análisis del artículo 41 de la LFT tras la reforma de subcontratación de 2021: transmisión de bienes, responsabilidad solidaria, aviso ante IMSS, jurisprudencia SCJN y balance de la migración masiva del personal subcontratado.",
+    "keyPoints": [
+      "Estructura de tres párrafos del artículo 41 LFT y adición del requisito de transmisión de bienes en 2021",
+      "Jurisprudencia 2a./J. 28/2008 de la Segunda Sala de la SCJN sobre carga de la prueba",
+      "Aviso ante el IMSS en cinco días hábiles conforme al artículo 16 del RACERF",
+      "Régimen especial del séptimo transitorio del decreto DOF 23-abr-2021 con dispensa de transmisión de bienes durante 90 días",
+      "Migración de 2.9 millones de personas del régimen de subcontratación al patrón real reportada por el IMSS en agosto de 2022",
+      "Caída de 89% del personal subcontratado entre 2018 y 2023 según STPS con base en Censos Económicos 2024",
+      "Padrón vigente de alrededor de 89 mil empresas en el REPSE al corte de enero de 2026"
+    ],
+    "dataSources": [
+      "DOF",
+      "Cámara de Diputados",
+      "IMSS",
+      "SCJN",
+      "STPS",
+      "CIEP",
+      "Colegio de Contadores Públicos de México"
+    ],
+    "covered": true,
+    "publishedDate": "2026-09-22",
+    "publishedSlug": "sustitucion-patronal-articulo-41-lft-reforma-subcontratacion-2026"
   }
 ]
