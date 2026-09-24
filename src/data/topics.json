@@ -4188,5 +4188,33 @@
     "covered": true,
     "publishedDate": "2026-09-23",
     "publishedSlug": "pensiones-estatales-mexico-pasivo-fragmentacion-2026"
+  },
+  {
+    "id": "industria-automotriz-mexico-2024-2026-inegi-aranceles-electromovilidad",
+    "title": "Industria automotriz mexicana 2024-2026: arquitectura estadística del INEGI, choque arancelario y transición eléctrica",
+    "category": "datos",
+    "description": "Radiografía del sector automotriz mexicano entre 2024 y 2026: registros administrativos del INEGI (RAIAVL y RAIAVP), cifras de vehículos ligeros y pesados, empleo, exportaciones, aranceles Sección 232 y transición eléctrica con predominio de marcas chinas.",
+    "keyPoints": [
+      "Arquitectura estadística: RAIAVL, RAIAVP, VAEMG y publicación divulgativa del INEGI",
+      "Producción de vehículos ligeros 2024 de 3.99 millones (+5.6%) y 3.95 millones en 2025",
+      "Contracción del segmento pesado en 2025: -36% en producción y -54.7% en ventas al mayoreo",
+      "Aranceles Sección 232 y pérdida de 4,870 mdd en compras estadounidenses en 1T 2026",
+      "Transición eléctrica: 9.6% del mercado en 2025 y 89% de participación de marcas chinas",
+      "Empleo de 961 mil personas en la cadena automotriz y peso en el corredor norte y Bajío"
+    ],
+    "dataSources": [
+      "INEGI",
+      "RAIAVL",
+      "RAIAVP",
+      "VAEMG",
+      "AMIA",
+      "ANPACT",
+      "Banco de México",
+      "ICCT",
+      "IMSS"
+    ],
+    "covered": true,
+    "publishedDate": "2026-09-24",
+    "publishedSlug": "industria-automotriz-mexico-2024-2026-inegi-aranceles-electromovilidad"
   }
 ]
