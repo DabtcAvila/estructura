@@ -4216,5 +4216,34 @@
     "covered": true,
     "publishedDate": "2026-09-24",
     "publishedSlug": "industria-automotriz-mexico-2024-2026-inegi-aranceles-electromovilidad"
+  },
+  {
+    "id": "bono-demografico-mexico-cierre-pensiones-2026",
+    "title": "Bono demográfico en México: la ventana que se cierra y sus consecuencias para el sistema de pensiones",
+    "category": "pensiones",
+    "description": "Análisis del cierre del bono demográfico mexicano, la aritmética de la razón de dependencia según las Proyecciones CONAPO 2020-2070 y sus consecuencias fiscales y actuariales para los pilares contributivo y no contributivo del sistema pensionario 2026-2050.",
+    "keyPoints": [
+      "Razón de dependencia total mínima entre finales de la década de 2020 e inicios de la de 2030",
+      "Fecundidad cercana o inferior al umbral de reemplazo según ENADID 2018 y 2023",
+      "Población de 60 años y más: >21% en 2044 y >34% en 2070 según CONAPO",
+      "Reforma DOF 16-dic-2020 y elevación de la aportación patronal RCV al 15% en 2030",
+      "Pensión para el Bienestar universal desde los 65 años y presión fiscal sin fondo de reserva",
+      "Baja densidad de cotización (~45%) e informalidad superior a 55% de la población ocupada",
+      "Tasas de reemplazo bajas en el comparativo OCDE y cobertura contributiva menor al 40%",
+      "Pasivo legacy de la Ley 73 del IMSS y del Décimo Transitorio del ISSSTE en el PEF"
+    ],
+    "dataSources": [
+      "CONAPO",
+      "INEGI",
+      "ENADID",
+      "CONSAR",
+      "CIEP",
+      "OCDE",
+      "CEPAL",
+      "DOF"
+    ],
+    "covered": true,
+    "publishedDate": "2026-09-25",
+    "publishedSlug": "bono-demografico-mexico-cierre-pensiones-2026"
   }
 ]
