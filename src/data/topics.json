@@ -4245,5 +4245,34 @@
     "covered": true,
     "publishedDate": "2026-09-25",
     "publishedSlug": "bono-demografico-mexico-cierre-pensiones-2026"
+  },
+  {
+    "id": "agentes-comercio-vendedores-lft-capitulo-viii-2026",
+    "title": "Agentes de comercio y vendedores: el capítulo VIII del Título Sexto de la LFT y la frontera con el trabajo independiente en 2026",
+    "category": "laboral",
+    "description": "Análisis del régimen especial del capítulo VIII del Título Sexto de la LFT (arts. 285-291): presunción de laboralidad, modalidades salariales, integración de comisiones al SBC, frontera con la prestación de servicios profesionales y articulación con las reformas de subcontratación 2021 y de plataformas digitales 2024.",
+    "keyPoints": [
+      "Artículo 285 LFT: presunción de laboralidad de agentes de comercio, seguros y vendedores cuando la actividad es permanente y ejecutada personalmente",
+      "Artículo 286 LFT: localización jurisdiccional en el domicilio de la empresa, agencia o sucursal",
+      "Artículo 287 LFT: modalidades salariales (unidad de tiempo, unidad de obra, comisión, precio alzado o mixta)",
+      "Artículo 289 LFT: promedio del último año como base para el salario diario y proyección al SBC del artículo 27 LSS con tope de 25 UMA (2,932.75 pesos en 2026)",
+      "Ley de Instituciones de Seguros y de Fianzas DOF 4-abr-2013 y dualidad agente dependiente vs no dependiente",
+      "Reforma en materia de subcontratación DOF 23-abr-2021 y creación del REPSE",
+      "Reforma en materia de plataformas digitales DOF 24-dic-2024 y prueba piloto IMSS jul-dic 2025",
+      "Informalidad de 55.0% en 4T 2025 (Boletín 97/26 INEGI) como límite estructural de la cobertura efectiva"
+    ],
+    "dataSources": [
+      "DOF",
+      "INEGI",
+      "ENOE",
+      "IMSS",
+      "CONSAR",
+      "SCJN",
+      "CNSF",
+      "STPS"
+    ],
+    "covered": true,
+    "publishedDate": "2026-09-26",
+    "publishedSlug": "agentes-comercio-vendedores-lft-capitulo-viii-2026"
   }
 ]
