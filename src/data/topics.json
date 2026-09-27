@@ -4274,5 +4274,32 @@
     "covered": true,
     "publishedDate": "2026-09-26",
     "publishedSlug": "agentes-comercio-vendedores-lft-capitulo-viii-2026"
+  },
+  {
+    "id": "immex-programa-manufactura-exportacion-mexico-2026",
+    "title": "El programa IMMEX: régimen fiscal-aduanero de la manufactura de exportación y su lectura estadística 2024-2026",
+    "category": "datos",
+    "description": "Análisis del Decreto IMMEX: consolidación de 2006, modalidades, obligaciones de exportación, diferimiento arancelario y de IVA vía certificación, estadística mensual del INEGI, concentración geográfica y sectorial, y agenda de la revisión sexenal del T-MEC en 2026.",
+    "keyPoints": [
+      "Decreto IMMEX publicado en DOF el 1 de noviembre de 2006 que consolidó los programas Maquila y PITEX",
+      "Cinco modalidades del artículo 3 del Decreto: industrial, servicios, albergue, terciarización y controladora de empresas",
+      "Umbral de exportación del artículo 11: 500 mil dólares anuales o 10% de las ventas totales",
+      "Certificación en materia de IVA e IEPS ante el SAT en modalidades A, AA y AAA tras la reforma fiscal de 2014",
+      "Anexos 24 y 30 de las Reglas Generales de Comercio Exterior sobre control de inventarios y sistemas de rastreo",
+      "Estadística Mensual del Programa IMMEX del INEGI: personal ocupado, remuneraciones, horas trabajadas y ventas al exterior",
+      "Concentración geográfica en frontera norte y en el Bajío con predominio del subsector 336 (automotriz)",
+      "Revisión sexenal del T-MEC en 2026 y volatilidad arancelaria como restricción de política industrial"
+    ],
+    "dataSources": [
+      "DOF",
+      "Secretaría de Economía",
+      "INEGI",
+      "SAT",
+      "Banco de México",
+      "T-MEC"
+    ],
+    "covered": true,
+    "publishedDate": "2026-09-27",
+    "publishedSlug": "programa-immex-manufactura-exportacion-mexico-2026"
   }
 ]
