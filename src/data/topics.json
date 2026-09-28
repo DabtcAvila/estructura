@@ -4301,5 +4301,33 @@
     "covered": true,
     "publishedDate": "2026-09-27",
     "publishedSlug": "programa-immex-manufactura-exportacion-mexico-2026"
+  },
+  {
+    "id": "trabajo-a-domicilio-lft-capitulo-xii-mexico-2026",
+    "title": "Trabajo a domicilio en México: el capítulo XII de la LFT frente al teletrabajo y la agenda pendiente en 2026",
+    "category": "laboral",
+    "description": "Análisis del régimen del trabajo a domicilio del capítulo XII de la LFT en México tras la reforma de 2021: elementos del contrato, distinción con el teletrabajo del capítulo XII Bis, obligaciones de registro y salario, Convenio 177 de la OIT y retos de formalización e inspección en 2026.",
+    "keyPoints": [
+      "Capítulo XII del Título Sexto de la LFT y reforma del artículo 311 por decreto DOF 11-ene-2021",
+      "Elementos del contrato: habitualidad, ejecución en el domicilio, ausencia de vigilancia inmediata y suministro de materia prima por el patrón",
+      "Obligación patronal de libro de registro y libreta o comprobante individual conforme a los artículos 316 y siguientes",
+      "Distinción frente al capítulo XII Bis de teletrabajo y a la NOM-037-STPS-2023",
+      "Comisiones Especiales de Salarios Mínimos Profesionales del artículo 324 y régimen de pago por unidad de obra",
+      "Convenio 177 y Recomendación 184 de la OIT (1996) no ratificados por México",
+      "Agenda de la STPS 2025-2030: modernización del padrón, módulo estadístico y reactivación de comisiones profesionales"
+    ],
+    "dataSources": [
+      "DOF",
+      "Cámara de Diputados",
+      "STPS",
+      "INEGI",
+      "ENOE",
+      "IMSS",
+      "OIT",
+      "IMCO"
+    ],
+    "covered": true,
+    "publishedDate": "2026-09-28",
+    "publishedSlug": "trabajo-a-domicilio-lft-capitulo-xii-mexico-2026"
   }
 ]
