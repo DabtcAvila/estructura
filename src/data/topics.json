@@ -4329,5 +4329,31 @@
     "covered": true,
     "publishedDate": "2026-09-28",
     "publishedSlug": "trabajo-a-domicilio-lft-capitulo-xii-mexico-2026"
+  },
+  {
+    "id": "csvm-2024-vivienda-inegi-arquitectura-pib-ampliado",
+    "title": "CSVM 2024: el sector vivienda mexicano como 11.4% del PIB ampliado",
+    "category": "datos",
+    "description": "Análisis de la Cuenta Satélite de Vivienda de México 2024 del INEGI: PIB del sector en 5.4% del nacional, 11.4% ampliado con renta imputada, 2.25 millones de empleos, dominio de la autoproducción y contraste con el rezago habitacional que reportan SEDATU y CONAVI.",
+    "keyPoints": [
+      "Comunicado 146/25 del INEGI del 21 de noviembre de 2025",
+      "PIB del sector vivienda 2024 en 1,693,949 mdp, 5.4% del PIB nacional",
+      "Crecimiento real de 3.1% frente a 1.3% de la economía",
+      "PIB ampliado con renta imputada de 3,580,000 mdp, 11.4% del PIB",
+      "Composición funcional dominada por autoproducción (55.6%) y renta efectiva (23.3%)",
+      "2,252,801 empleos generados, 5.5% del total nacional, +2.7%",
+      "Contraste con rezago habitacional de 8,381,545 viviendas (21.9%) y déficit cualitativo de 11,428,220 viviendas (29.8%)",
+      "Articulación con el Programa Vivienda para el Bienestar y meta sexenal de 1.8 millones de viviendas"
+    ],
+    "dataSources": [
+      "INEGI",
+      "SCNM",
+      "SEDATU",
+      "CONAVI",
+      "SNIEG"
+    ],
+    "covered": true,
+    "publishedDate": "2026-09-29",
+    "publishedSlug": "csvm-2024-vivienda-mexico-pib-ampliado-inegi"
   }
 ]
