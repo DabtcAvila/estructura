@@ -4355,5 +4355,35 @@
     "covered": true,
     "publishedDate": "2026-09-29",
     "publishedSlug": "csvm-2024-vivienda-mexico-pib-ampliado-inegi"
+  },
+  {
+    "id": "autotransporte-lft-capitulo-vi-deficit-operadores-2026",
+    "title": "Trabajadores del autotransporte en México: capítulo VI del Título Sexto de la LFT y déficit de operadores en 2026",
+    "category": "laboral",
+    "description": "Análisis del régimen especial del capítulo VI del Título Sexto de la LFT (artículos 256 a 264) que rige a choferes, conductores y operadores del autotransporte: aritmética salarial, NOM-087-SCT-2-2017 sobre tiempos de conducción, tamaño del parque vehicular federal, empleo formal e informalidad, déficit de 90 mil operadores reportado por CANACAR y siniestralidad en carreteras federales.",
+    "keyPoints": [
+      "Artículos 256 a 264 de la LFT y naturaleza laboral del vínculo con propietarios y permisionarios",
+      "Aritmética del salario por día, viaje, boletos, circuito o kilómetros y prima de 16.66% del artículo 258 para días de descanso",
+      "NOM-087-SCT-2-2017 con tope de 14 horas de conducción en 24 horas y pausa continua de 8 horas",
+      "Parque vehicular federal cercano a 1.51 millones de unidades según la Estadística Básica del Autotransporte Federal 2024 de la SICT",
+      "Informalidad de 59% en conductores de transporte terrestre con motor al 1T 2026 según la ENOE del INEGI",
+      "Salario promedio mensual de 7,760 pesos en conductores de camiones y vehículos de carga al 1T 2025 según DataMéxico",
+      "Déficit de 90 mil operadores y 90 mil unidades detenidas reportado por CANACAR",
+      "3,686 accidentes con víctimas y daños de vehículos de carga en carreteras federales en 2024 según la SICT",
+      "Actualización de factores de cotización del IMSS en 2025 y acuerdos con CANACAR y CANAPAT"
+    ],
+    "dataSources": [
+      "DOF",
+      "SICT",
+      "INEGI",
+      "ENOE",
+      "IMSS",
+      "CANACAR",
+      "DataMéxico",
+      "OIT"
+    ],
+    "covered": true,
+    "publishedDate": "2026-09-30",
+    "publishedSlug": "trabajadores-autotransporte-lft-capitulo-vi-mexico-2026"
   }
 ]
