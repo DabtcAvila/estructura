@@ -4385,5 +4385,31 @@
     "covered": true,
     "publishedDate": "2026-09-30",
     "publishedSlug": "trabajadores-autotransporte-lft-capitulo-vi-mexico-2026"
+  },
+  {
+    "id": "irn-indicador-rendimiento-neto-sar-metodologia-2026",
+    "title": "El Indicador de Rendimiento Neto del SAR: metodología, horizontes de medición y balance como instrumento de competencia",
+    "category": "pensiones",
+    "description": "Análisis técnico del IRN del SAR mexicano: génesis regulatoria tras la comisión única de 2008, construcción metodológica, horizontes diferenciados por SIEFORE Generacional, su papel como ancla del régimen de traspasos positivos y negativos, y las críticas sobre sensibilidad al horizonte, ausencia de ajuste por riesgo y correlación empírica con las decisiones de traspaso.",
+    "keyPoints": [
+      "Marco legal de la Ley SAR y de la Circular Única Financiera de la CONSAR",
+      "Transición de ventanas comunes de 36 meses a horizontes diferenciados por SIEFORE Generacional desde diciembre de 2019",
+      "Fórmula de rendimiento histórico anualizado descontando la comisión vigente",
+      "Función regulatoria del IRN como ancla de los traspasos positivos y negativos",
+      "Dispersión mayor en SIEFOREs de cohortes jóvenes y convergencia en fondos próximos al retiro",
+      "Críticas sobre sensibilidad al horizonte, ausencia de ajuste por riesgo y gestoría irregular",
+      "Comparativo con la Superintendencia de Pensiones de Chile y los lineamientos de la OCDE"
+    ],
+    "dataSources": [
+      "CONSAR",
+      "DOF",
+      "AMAFORE",
+      "OCDE",
+      "Superintendencia de Pensiones de Chile",
+      "CIEP"
+    ],
+    "covered": true,
+    "publishedDate": "2026-10-01",
+    "publishedSlug": "irn-indicador-rendimiento-neto-sar-metodologia-balance-2026"
   }
 ]
