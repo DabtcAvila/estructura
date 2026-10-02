@@ -4411,5 +4411,34 @@
     "covered": true,
     "publishedDate": "2026-10-01",
     "publishedSlug": "irn-indicador-rendimiento-neto-sar-metodologia-balance-2026"
+  },
+  {
+    "id": "endireh-2021-violencia-mujeres-mexico-radiografia",
+    "title": "ENDIREH 2021: arquitectura de la encuesta y radiografía de la violencia contra las mujeres en México",
+    "category": "datos",
+    "description": "Análisis de la Encuesta Nacional sobre la Dinámica de las Relaciones en los Hogares 2021 del INEGI: trayectoria desde 2003, diseño muestral y marco conceptual, resultados por tipo y ámbito de violencia, articulación con la Ley Olimpia y agenda estadística pendiente.",
+    "keyPoints": [
+      "Trayectoria de la ENDIREH desde 2003 y su carácter de Información de Interés Nacional",
+      "Marco interinstitucional con INEGI, INMUJERES y CONAVIM bajo la LGAMVLV y la Convención de Belém do Pará",
+      "Diseño muestral de aproximadamente 125 mil viviendas con representatividad nacional y estatal",
+      "Clasificación de la violencia en seis tipos y cinco ámbitos con prevalencia de vida y de 12 meses",
+      "Prevalencia a lo largo de la vida de 70.1% en 2021 y comparación con 66.1% de 2016",
+      "Preeminencia del ámbito comunitario y centralidad del ámbito de la pareja",
+      "Incorporación de la violencia digital tras la Ley Olimpia de 2021",
+      "Diálogo con los registros del SESNSP, la ENVIPE y las series de defunciones del INEGI"
+    ],
+    "dataSources": [
+      "INEGI",
+      "ENDIREH",
+      "INMUJERES",
+      "CONAVIM",
+      "SESNSP",
+      "DOF",
+      "ONU Mujeres",
+      "OMS"
+    ],
+    "covered": true,
+    "publishedDate": "2026-10-02",
+    "publishedSlug": "endireh-2021-arquitectura-violencia-mujeres-mexico-radiografia"
   }
 ]
