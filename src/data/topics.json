@@ -4440,5 +4440,34 @@
     "covered": true,
     "publishedDate": "2026-10-02",
     "publishedSlug": "endireh-2021-arquitectura-violencia-mujeres-mexico-radiografia"
+  },
+  {
+    "id": "enve-2024-victimizacion-empresas-ley-extorsion-2026",
+    "title": "ENVE 2024 y Ley General de Extorsión: la radiografía del delito contra las empresas y el nuevo marco punitivo",
+    "category": "datos",
+    "description": "Análisis de la Encuesta Nacional de Victimización de Empresas 2024 del INEGI: prevalencia de 27.2%, costo de 124.3 mmdp, extorsión como delito emblemático, cifra negra de 90.3%, heterogeneidad estatal y la Ley General de Extorsión publicada en el DOF el 28 de noviembre de 2025.",
+    "keyPoints": [
+      "Séptima edición bienal de la ENVE en el marco del SNIGSPIJ",
+      "Diseño muestral probabilístico con 36,892 unidades planeadas y 30,258 recuperadas",
+      "Prevalencia de 27.2% con 1.3 millones de establecimientos víctimas y 2.9 millones de delitos en 2023",
+      "Costo económico de 124.3 mil millones de pesos, equivalente al 0.51% del PIB",
+      "Extorsión con tasa de 1,562 por cada 10,000 unidades económicas y 747 mil delitos",
+      "Cifra negra de 90.3% e impunidad de 98.9% en actos de corrupción empresarial",
+      "Guanajuato (78.2%), Tabasco (73.7%) y Morelos (72.5%) como entidades con mayor percepción de inseguridad",
+      "Ley General de Extorsión publicada en el DOF el 28 de noviembre de 2025 con persecución de oficio y penas de 15 a 42 años"
+    ],
+    "dataSources": [
+      "INEGI",
+      "ENVE",
+      "SNIEG",
+      "DOF",
+      "Cámara de Diputados",
+      "Senado",
+      "COPARMEX",
+      "MUCD"
+    ],
+    "covered": true,
+    "publishedDate": "2026-10-03",
+    "publishedSlug": "enve-2024-victimizacion-empresas-ley-extorsion-2026"
   }
 ]
