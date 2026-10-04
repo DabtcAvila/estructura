@@ -4469,5 +4469,28 @@
     "covered": true,
     "publishedDate": "2026-10-03",
     "publishedSlug": "enve-2024-victimizacion-empresas-ley-extorsion-2026"
+  },
+  {
+    "id": "nom-036-1-stps-ergonomia-cargas-balance-2026",
+    "title": "NOM-036-1-STPS-2018: arquitectura ergonómica y balance de obligatoriedad plena",
+    "category": "laboral",
+    "description": "Análisis del alcance, umbrales técnicos y régimen sancionatorio de la norma mexicana de manejo manual de cargas tras entrar en vigor pleno en 2024.",
+    "keyPoints": [
+      "Umbral de activación y campo de aplicación de la NOM-036-1",
+      "Tabla 1 de masas máximas por edad y sexo",
+      "Metodología de identificación y análisis del riesgo",
+      "Carga epidemiológica de los trastornos musculoesqueléticos",
+      "Régimen de inspección y sanciones STPS",
+      "Pendiente regulatorio de la NOM-036-2 sobre posturas forzadas"
+    ],
+    "dataSources": [
+      "STPS",
+      "IMSS",
+      "DOF",
+      "OMS"
+    ],
+    "covered": true,
+    "publishedDate": "2026-10-04",
+    "publishedSlug": "nom-036-1-stps-ergonomia-cargas-balance-2026"
   }
 ]
