@@ -4492,5 +4492,32 @@
     "covered": true,
     "publishedDate": "2026-10-04",
     "publishedSlug": "nom-036-1-stps-ergonomia-cargas-balance-2026"
+  },
+  {
+    "id": "hoteles-restaurantes-bares-lft-capitulo-xiv-propinas-2026",
+    "title": "Trabajadores de hoteles, restaurantes y bares: LFT Capítulo XIV, régimen de propinas y balance 2026",
+    "category": "laboral",
+    "description": "Análisis del régimen laboral especial del Capítulo XIV de la Ley Federal del Trabajo, la naturaleza salarial de las propinas y la cobertura del sector en 2026.",
+    "keyPoints": [
+      "Alcance del Capítulo XIV y arquitectura de los artículos 344 a 350 de la LFT",
+      "Jurisprudencia 4a./J.33/93 de la SCJN sobre naturaleza salarial de las propinas",
+      "Criterios del Consejo Técnico del IMSS sobre integración al salario base de cotización",
+      "Tabulador CONASAMI 2026: cantineros 333.52 y cocineros mayores 368.05 pesos diarios",
+      "Tamaño sectorial: 4.76 a 4.88 millones de ocupados ENOE 2T 2025 y 8.7% del PIB vía CSTM 2024",
+      "Función especial de inspección del artículo 350 LFT y nuevo modelo de la DGIFT"
+    ],
+    "dataSources": [
+      "LFT",
+      "SCJN",
+      "IMSS",
+      "CONASAMI",
+      "INEGI",
+      "DOF",
+      "CANIRAC",
+      "STPS"
+    ],
+    "covered": true,
+    "publishedDate": "2026-10-05",
+    "publishedSlug": "hoteles-restaurantes-bares-lft-capitulo-xiv-propinas-2026"
   }
 ]
