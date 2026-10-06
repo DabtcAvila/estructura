@@ -4519,5 +4519,33 @@
     "covered": true,
     "publishedDate": "2026-10-05",
     "publishedSlug": "hoteles-restaurantes-bares-lft-capitulo-xiv-propinas-2026"
+  },
+  {
+    "id": "enasem-2024-salud-envejecimiento-longitudinal",
+    "title": "ENASEM 2024: la radiografía longitudinal del envejecimiento mexicano, de 2001 a 2024",
+    "category": "datos",
+    "description": "Análisis del séptimo levantamiento de la ENASEM, encuesta longitudinal del INEGI y UT Health San Antonio sobre la población de 50 años o más: diseño, trayectoria y resultados sobre salud, trabajo, pensiones y cuidados.",
+    "keyPoints": [
+      "Siete levantamientos entre 2001 y 2024, con coordinación INEGI-UTMB-UT Health SA y financiamiento del NIA",
+      "Muestra 2024 de 23,044 personas (17,043 panel + 6,001 reemplazo) levantada del 21 de octubre al 13 de diciembre",
+      "Prevalencia de 41.5% de hipertensión y 25.5% de diabetes en población de 50 años o más",
+      "Reducción de síntomas depresivos en mujeres 50+ de 41.2% en 2012 a 33.1% en 2024",
+      "Cobertura pensionaria contributiva en torno a 26.1% en población de 60 años o más",
+      "Carga de cuidados concentrada en mujeres (43.8%) frente a hombres (25.1%)",
+      "Nuevos módulos 2024: COVID persistente, bilingüismo con lenguas indígenas, discriminación y experiencias adversas de infancia",
+      "Más de 540 publicaciones académicas en 25 años de operación del proyecto"
+    ],
+    "dataSources": [
+      "INEGI",
+      "SNIEG",
+      "CONAPO",
+      "UT Health SA",
+      "UTMB",
+      "NIA",
+      "Salud Pública de México"
+    ],
+    "covered": true,
+    "publishedDate": "2026-10-06",
+    "publishedSlug": "enasem-2024-salud-envejecimiento-mexico-longitudinal-inegi"
   }
 ]
