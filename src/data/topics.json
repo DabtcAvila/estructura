@@ -4519,5 +4519,32 @@
     "covered": true,
     "publishedDate": "2026-10-05",
     "publishedSlug": "hoteles-restaurantes-bares-lft-capitulo-xiv-propinas-2026"
+  },
+  {
+    "id": "legitimacion-contratos-colectivos-reforma-2019-cfcrl-tmec-2026",
+    "title": "Legitimación de contratos colectivos en México: balance de la reforma laboral de 2019 y articulación con el T-MEC",
+    "category": "laboral",
+    "description": "Arquitectura jurídica, resultados del proceso de legitimación bajo el décimo primer transitorio y conexión con el Mecanismo Laboral de Respuesta Rápida del T-MEC.",
+    "keyPoints": [
+      "Décimo primer artículo transitorio de la reforma del 1 de mayo de 2019 y plazo vencido el 1 de mayo de 2023",
+      "Artículos 390 Bis, 390 Ter, 390 Quáter y 400 Bis de la LFT",
+      "Protocolo de legitimación de la STPS (DOF 31 de julio de 2019) y actualizaciones del CFCRL",
+      "Informe de cierre del CFCRL en mayo de 2023 y efecto depurativo sobre el universo de CCTs",
+      "Anexo 31-A del T-MEC y casos del Mecanismo Laboral de Respuesta Rápida (General Motors Silao, autopartes, minería)",
+      "Régimen permanente de consulta cada dos años y constancia de representatividad del 30%"
+    ],
+    "dataSources": [
+      "DOF",
+      "LFT",
+      "CFCRL",
+      "STPS",
+      "Secretaría de Economía",
+      "USTR",
+      "INEGI",
+      "OIT"
+    ],
+    "covered": true,
+    "publishedDate": "2026-10-07",
+    "publishedSlug": "legitimacion-contratos-colectivos-reforma-2019-cfcrl-tmec-2026"
   }
 ]
