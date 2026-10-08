@@ -4546,5 +4546,32 @@
     "covered": true,
     "publishedDate": "2026-10-07",
     "publishedSlug": "legitimacion-contratos-colectivos-reforma-2019-cfcrl-tmec-2026"
+  },
+  {
+    "id": "suspension-temporal-relacion-trabajo-lft-42-bis-covid-mexico-2026",
+    "title": "Suspensión temporal de la relación de trabajo en México: los artículos 42 a 46 de la LFT, el artículo 42 Bis y la prueba de la pandemia de COVID-19",
+    "category": "laboral",
+    "description": "Arquitectura del Capítulo IV del Título Segundo de la LFT, la contingencia sanitaria del artículo 42 Bis y las lecciones de la pandemia de 2020.",
+    "keyPoints": [
+      "Capítulo IV del Título Segundo de la LFT y distinción entre terminación, rescisión y suspensión",
+      "Causas del artículo 42 (fracciones I a VIII) y régimen procesal de los artículos 43 a 46",
+      "Adición del artículo 42 Bis por decreto del DOF del 30 de noviembre de 2012 y antecedente de la influenza AH1N1 de 2009",
+      "Remisión al artículo 429, fracción IV: indemnización de un día de salario mínimo general por día de suspensión, sin exceder de un mes",
+      "Debate de 2020: declaratoria de emergencia sanitaria por causa de fuerza mayor (CSG, DOF 30 de marzo de 2020) y aplicación discutida del artículo 42 Bis",
+      "Cobertura efectiva frente a la informalidad: 55.1% en el 2T 2026 según la ENOE del INEGI"
+    ],
+    "dataSources": [
+      "LFT",
+      "DOF",
+      "Consejo de Salubridad General",
+      "Secretaría de Salud",
+      "STPS",
+      "INEGI",
+      "IMSS",
+      "OIT"
+    ],
+    "covered": true,
+    "publishedDate": "2026-10-08",
+    "publishedSlug": "suspension-temporal-relacion-trabajo-lft-42-bis-covid-mexico-2026"
   }
 ]
