@@ -4573,5 +4573,33 @@
     "covered": true,
     "publishedDate": "2026-10-08",
     "publishedSlug": "suspension-temporal-relacion-trabajo-lft-42-bis-covid-mexico-2026"
+  },
+  {
+    "id": "shrfsp-trayectoria-presiones-deuda-publica-mexico-2026",
+    "title": "El Saldo Histórico de los Requerimientos Financieros del Sector Público: arquitectura, trayectoria 2008-2025 y presiones estructurales de la deuda pública mexicana",
+    "category": "datos",
+    "description": "Definición, componentes y trayectoria 2008-2025 del SHRFSP, la medida más amplia de la deuda pública mexicana, y sus presiones estructurales.",
+    "keyPoints": [
+      "Distinción entre RFSP (flujo anual) y SHRFSP (acervo acumulado)",
+      "Marco de la LFPRH (artículos 16 y 17) y Reglamento sobre metodologías",
+      "Perímetro institucional: Gobierno Federal, entidades de control directo, Pidiregas, IPAB, Fonadin y banca de desarrollo",
+      "Trayectoria 2008-2025: salto de 31.4% a niveles por encima del 52% del PIB",
+      "Costo financiero de 3.4% del PIB en 2024, equivalente a 1 billón 150 mil 427 mdp (SHCP)",
+      "Paquete Económico 2026: RFSP proyectados en 4.1% del PIB; CGPE 2027 anticipan SHRFSP de 55% del PIB al cierre de 2027",
+      "Presiones estructurales: pensiones, Pemex como pasivo contingente y servicio de la deuda"
+    ],
+    "dataSources": [
+      "SHCP",
+      "CEFP",
+      "CIEP",
+      "BBVA Research",
+      "Cámara de Diputados",
+      "INEGI",
+      "HR Ratings",
+      "Fitch Ratings"
+    ],
+    "covered": true,
+    "publishedDate": "2026-10-09",
+    "publishedSlug": "shrfsp-trayectoria-presiones-deuda-publica-mexico-2026"
   }
 ]
