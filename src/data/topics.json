@@ -4601,5 +4601,31 @@
     "covered": true,
     "publishedDate": "2026-10-09",
     "publishedSlug": "shrfsp-trayectoria-presiones-deuda-publica-mexico-2026"
+  },
+  {
+    "id": "aseguradoras-pensiones-especializadas-mexico-monto-constitutivo-2026",
+    "title": "Las aseguradoras de pensiones especializadas en México: arquitectura institucional, monto constitutivo y mercado de rentas vitalicias",
+    "category": "pensiones",
+    "description": "Marco legal, mecánica del monto constitutivo y estructura del mercado mexicano de aseguradoras de pensiones derivadas de la seguridad social.",
+    "keyPoints": [
+      "Exclusividad del ramo bajo la LISF y la LSAR, con escisión obligatoria de cartera",
+      "Monto constitutivo y suma asegurada: definición, mecánica y participación de IMSS/ISSSTE",
+      "Comité del artículo 81 de la LSAR: integración y función en el cálculo",
+      "Circular Modificatoria 11/23 y Anexos 14.2.1-q/14.2.1-y de la Circular Única CNSF",
+      "Mercado: Profuturo GNP Pensiones, Pensiones BBVA Bancomer, Pensiones Banorte, consolidación 2020",
+      "Paquete Económico 2027: 434,030 pensiones acumuladas y 466,700 mdp de monto constitutivo a julio de 2026",
+      "Riesgos estructurales: longevidad, tasa técnica, concentración, cambios regulatorios"
+    ],
+    "dataSources": [
+      "CNSF",
+      "Cámara de Diputados",
+      "SHCP",
+      "DOF",
+      "HR Ratings",
+      "Moody's"
+    ],
+    "covered": true,
+    "publishedDate": "2026-10-10",
+    "publishedSlug": "aseguradoras-pensiones-especializadas-mexico-monto-constitutivo-2026"
   }
 ]
