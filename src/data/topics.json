@@ -4627,5 +4627,35 @@
     "covered": true,
     "publishedDate": "2026-10-10",
     "publishedSlug": "aseguradoras-pensiones-especializadas-mexico-monto-constitutivo-2026"
+  },
+  {
+    "id": "iva-mexico-arquitectura-trayectoria-recaudatoria-2026",
+    "title": "El Impuesto al Valor Agregado en México: arquitectura legal, trayectoria recaudatoria 1980-2026 y comparativo internacional",
+    "category": "datos",
+    "description": "Arquitectura, tasas, estímulos y trayectoria recaudatoria del IVA mexicano, con el gasto fiscal asociado y el contraste frente a la OCDE y América Latina.",
+    "keyPoints": [
+      "Marco normativo: LIVA, hecho imponible, acreditamiento y tasa general del 16%",
+      "Tasa cero del artículo 2-A y exenciones de los artículos 9 y 15",
+      "Estímulo fiscal fronterizo del 8%: decretos 2018, 2020 y 2024",
+      "Capítulo III Bis: IVA a servicios digitales de residentes en el extranjero desde junio de 2020",
+      "Trayectoria histórica 1980-2026: 10%, 15%, 10%, 15% y 16%",
+      "Recaudación 2023: 1.37 billones; 2024: 1.41 billones (-1.6% real); 2026 1S: +10.6% real",
+      "Gasto fiscal 2024: 618 mil mdp (1.82% del PIB), concentrado en alimentos (84.7%)",
+      "Comparativo OCDE/CEPAL/BID/CIAT: México 18.3% del PIB, 3.4 pp bajo ALC, 15.8 pp bajo OCDE"
+    ],
+    "dataSources": [
+      "Cámara de Diputados",
+      "DOF",
+      "SHCP",
+      "SAT",
+      "CEFP",
+      "OCDE",
+      "CEPAL",
+      "BID",
+      "CIAT"
+    ],
+    "covered": true,
+    "publishedDate": "2026-10-11",
+    "publishedSlug": "iva-mexico-arquitectura-trayectoria-recaudatoria-2026"
   }
 ]
