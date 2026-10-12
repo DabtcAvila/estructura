@@ -4657,5 +4657,28 @@
     "covered": true,
     "publishedDate": "2026-10-11",
     "publishedSlug": "iva-mexico-arquitectura-trayectoria-recaudatoria-2026"
+  },
+  {
+    "id": "seguro-riesgos-trabajo-imss-2026",
+    "title": "Seguro de Riesgos de Trabajo del IMSS: arquitectura, prestaciones y siniestralidad 2026",
+    "category": "pensiones",
+    "description": "Arquitectura, financiamiento y prestaciones del Seguro de Riesgos de Trabajo del IMSS, con análisis de la siniestralidad reportada en 2024 y de la agenda regulatoria vigente en 2026.",
+    "keyPoints": [
+      "Marco jurídico: Título Segundo, Capítulo III LSS",
+      "Financiamiento 100% patronal y prima variable 0.5%-15%",
+      "Prestaciones por incapacidad temporal, permanente parcial y total",
+      "Siniestralidad 2024: Memoria Estadística IMSS",
+      "Tensión regulatoria: teletrabajo, plataformas digitales, subregistro de enfermedades ocupacionales"
+    ],
+    "dataSources": [
+      "IMSS",
+      "CONEVAL",
+      "STPS",
+      "OIT",
+      "Diputados"
+    ],
+    "covered": true,
+    "publishedDate": "2026-10-12",
+    "publishedSlug": "seguro-riesgos-trabajo-imss-prestaciones-siniestralidad-2026"
   }
 ]
