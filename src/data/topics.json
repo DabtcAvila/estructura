@@ -4680,5 +4680,37 @@
     "covered": true,
     "publishedDate": "2026-10-12",
     "publishedSlug": "seguro-riesgos-trabajo-imss-prestaciones-siniestralidad-2026"
+  },
+  {
+    "id": "tripulaciones-aeronauticas-lft-capitulo-iv-mexico-2026",
+    "title": "Tripulaciones aeronáuticas en México: capítulo IV del Título Sexto de la LFT, ASPA, ASSA y balance de la industria 2026",
+    "category": "laboral",
+    "description": "Régimen especial de pilotos y sobrecargos en la LFT, nacionalidad del artículo 216, coexistencia sindical del 245 Bis, revisiones contractuales 2026 y debate del cabotaje.",
+    "keyPoints": [
+      "Capítulo IV del Título Sexto LFT, artículos 215 a 245 Bis, última reforma 21-02-2025",
+      "Artículo 215: subordinación teleológica a la seguridad operacional",
+      "Artículo 216: tripulantes mexicanos por nacimiento como base laboral",
+      "Artículo 245 Bis (reforma 2019): coexistencia de sindicato industrial y gremial",
+      "Pilotos ocupados 3T 2024: 35.2 mil con salario promedio de 9,070 pesos (ENOE)",
+      "Capítulo 11 de Aeroméxico 2020-2021: 350 mdd en ahorros, 79 pilotos separados, 374 sobrecargos liquidados",
+      "Revisión ASSA–Aeroméxico mayo 2026: incremento 4.16% y extensión del Contrato A",
+      "FAA Categoría 2 (mayo 2021) y recuperación de Categoría 1 (septiembre 2023)",
+      "Autorización AFAC a Volaris con tripulación extranjera (diciembre 2025 – enero 2026)",
+      "Brecha estructural: 6,700 pilotos requeridos vs 450-800 formados al año"
+    ],
+    "dataSources": [
+      "DOF",
+      "AFAC",
+      "ASPA",
+      "ASSA",
+      "INEGI",
+      "DataMéxico",
+      "Sectur",
+      "FAA",
+      "Cámara de Diputados"
+    ],
+    "covered": true,
+    "publishedDate": "2026-10-13",
+    "publishedSlug": "tripulaciones-aeronauticas-lft-capitulo-iv-mexico-2026"
   }
 ]
