@@ -4712,5 +4712,34 @@
     "covered": true,
     "publishedDate": "2026-10-13",
     "publishedSlug": "tripulaciones-aeronauticas-lft-capitulo-iv-mexico-2026"
+  },
+  {
+    "id": "ckd-cerpi-sar-instrumentos-estructurados-reforma-2024",
+    "title": "CKDs y CERPIs en el SAR: arquitectura de los instrumentos estructurados y balance de la reforma 2024",
+    "category": "pensiones",
+    "description": "Análisis de los Certificados de Capital de Desarrollo y los CERPIs como vehículos de inversión alternativa de las SIEFORES, su participación en la cartera y la ampliación del límite regulatorio aprobada en 2024.",
+    "keyPoints": [
+      "CKDs vigentes desde octubre de 2009, exclusivamente para proyectos en México",
+      "CERPIs creados en 2016 con apertura al extranjero (hasta 90%) desde 2018",
+      "Estructurados representan cerca de 8.5% de los activos del SAR a valor de mercado",
+      "Capital comprometido se acerca a 20%, próximo al techo regulatorio previo",
+      "Reforma DOF 25-10-2024: techo de estructurados sube de 20% a 30%",
+      "FIBRAs amplían margen hasta ~12.5%, con énfasis en SIEFORES generacionales jóvenes",
+      "Financiamiento del SAR a infraestructura: ~627,500 mdp al cierre de 2023",
+      "Financiamiento al sector energético en 2026: ~309,000 mdp, 3.6% de activos",
+      "Debate sobre TIR dispersas y gobernanza de administradores",
+      "Pipeline de nearshoring y cuellos de botella en transmisión eléctrica"
+    ],
+    "dataSources": [
+      "CONSAR",
+      "DOF",
+      "BMV",
+      "AMEXCAP",
+      "AMAFORE",
+      "OECD"
+    ],
+    "covered": true,
+    "publishedDate": "2026-10-14",
+    "publishedSlug": "ckd-cerpi-sar-instrumentos-estructurados-reforma-2024-balance-2026"
   }
 ]
