@@ -4741,5 +4741,32 @@
     "covered": true,
     "publishedDate": "2026-10-14",
     "publishedSlug": "ckd-cerpi-sar-instrumentos-estructurados-reforma-2024-balance-2026"
+  },
+  {
+    "id": "enadid-2023-dinamica-demografica-mexico",
+    "title": "ENADID 2023: dinámica demográfica mexicana y choque con el sistema pensionario",
+    "category": "datos",
+    "description": "Lectura de los resultados de la Encuesta Nacional de la Dinámica Demográfica 2023 del INEGI, con énfasis en fecundidad por debajo del reemplazo, envejecimiento acelerado, migración y presión sobre el régimen de pensiones.",
+    "keyPoints": [
+      "Población estimada en 129.5 millones en 2023 (51.7% mujeres, 48.3% hombres)",
+      "Tasa global de fecundidad en 1.60 hijas e hijos por mujer (vs 2.07 en 2018 y 2.21 en 2014)",
+      "Población de 60 años y más pasa de 12.3% a 14.7% entre 2018 y 2023",
+      "Hogares unipersonales suben de 11.7% a 14.0% en el mismo periodo",
+      "Fecundidad adolescente cae de 70.6 a 45.2 nacimientos por mil mujeres de 15-19",
+      "Uso de anticoncepción en primera relación adolescente sube a 66.9%",
+      "1.2 millones de emigrantes 2018-2023 (78.5% hombres); solo 57.9% con documentos",
+      "Muestra ENADID 2023: 119,537 viviendas, levantamiento 14 agosto - 6 octubre 2023",
+      "CONAPO: edad mediana 30 años en 2024, 47 en 2070; inicio de contracción poblacional en 2053",
+      "Implicaciones para densidad de cotización del SAR y Pensión para el Bienestar"
+    ],
+    "dataSources": [
+      "INEGI",
+      "CONAPO",
+      "SNIEG",
+      "INSP"
+    ],
+    "covered": true,
+    "publishedDate": "2026-10-15",
+    "publishedSlug": "enadid-2023-radiografia-demografica-mexico-sistema-pensionario"
   }
 ]
