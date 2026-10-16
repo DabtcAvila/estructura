@@ -4768,5 +4768,30 @@
     "covered": true,
     "publishedDate": "2026-10-15",
     "publishedSlug": "enadid-2023-radiografia-demografica-mexico-sistema-pensionario"
+  },
+  {
+    "id": "universidades-autonomas-capitulo-xvii-lft",
+    "title": "Universidades autónomas por ley: el régimen laboral del Capítulo XVII de la LFT",
+    "category": "laboral",
+    "description": "Análisis del régimen laboral especial de las universidades e instituciones de educación superior autónomas por ley: origen, articulado del Capítulo XVII, planta académica y presión pensionaria.",
+    "keyPoints": [
+      "Origen en la huelga STUNAM de 1977 y la reforma constitucional al artículo 3º de 1980",
+      "Articulado del Capítulo XVII LFT (artículos 353-J a 353-U)",
+      "Reserva académica del artículo 353-L y facultad institucional de evaluación",
+      "Dualidad personal académico vs. administrativo y sindicalismo dual",
+      "Reforma laboral 2019 y legitimación de contratos colectivos en universidades",
+      "Pensiones de universidades públicas estatales y pasivos actuariales"
+    ],
+    "dataSources": [
+      "LFT",
+      "Constitución Política",
+      "CEFP",
+      "INEGI",
+      "UNAM",
+      "UAM"
+    ],
+    "covered": true,
+    "publishedDate": "2026-10-16",
+    "publishedSlug": "universidades-autonomas-capitulo-xvii-lft-regimen-laboral-2026"
   }
 ]
