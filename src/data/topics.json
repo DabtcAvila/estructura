@@ -4793,5 +4793,29 @@
     "covered": true,
     "publishedDate": "2026-10-16",
     "publishedSlug": "universidades-autonomas-capitulo-xvii-lft-regimen-laboral-2026"
+  },
+  {
+    "id": "esperanza-vida-mexico-trayectoria-covid",
+    "title": "Esperanza de vida al nacer en México: trayectoria, choque COVID-19 y lectura 2026",
+    "category": "datos",
+    "description": "Lectura de la esperanza de vida al nacer en México según INEGI y CONAPO: trayectoria histórica, caída pandémica, brecha de género, dispersión regional y comparación OCDE.",
+    "keyPoints": [
+      "Trayectoria larga 1930-2023: ~34, 61, 74 y 75.3 años",
+      "Caída de ~4.6 años en 2020-2021 por COVID-19 y recuperación hacia 2023",
+      "Brecha de género 2023: 72.3 años hombres y 78.6 mujeres (6.3 años)",
+      "Dispersión interestatal de hasta siete años entre Nuevo León y Chiapas",
+      "OCDE Health at a Glance 2025: México 75.5 vs promedio 81.1",
+      "Implicaciones para rentas vitalicias, montos constitutivos y pasivos de BD",
+      "Conciliación Demográfica CONAPO 1950-2019 y Proyecciones 2020-2070 como base"
+    ],
+    "dataSources": [
+      "INEGI",
+      "CONAPO",
+      "OCDE",
+      "CONSAR"
+    ],
+    "covered": true,
+    "publishedDate": "2026-10-17",
+    "publishedSlug": "esperanza-vida-mexico-trayectoria-covid-lectura-2026"
   }
 ]
