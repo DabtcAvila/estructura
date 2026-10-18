@@ -4817,5 +4817,32 @@
     "covered": true,
     "publishedDate": "2026-10-17",
     "publishedSlug": "esperanza-vida-mexico-trayectoria-covid-lectura-2026"
+  },
+  {
+    "id": "trabajadores-ferrocarrileros-lft-capitulo-v-expansion",
+    "title": "Trabajadores ferrocarrileros: régimen laboral de la LFT (Capítulo V, artículos 246-255) ante la expansión ferroviaria 2024-2026",
+    "category": "laboral",
+    "description": "Lectura del régimen laboral ferroviario de la LFT frente al ciclo de expansión 2024-2026: reforma al artículo 28 constitucional, nueva Ley Reglamentaria del Servicio Ferroviario, creación de ATTRAPI y empleo del sector.",
+    "keyPoints": [
+      "Capítulo V LFT, arts. 246-255: nacionalidad, personal de confianza, viajes y protección por antigüedad",
+      "Reforma al artículo 28 constitucional (DOF 30 octubre 2024): pasajeros como actividad prioritaria",
+      "Decreto DOF 16 julio 2025: ajustes a la Ley Reglamentaria del Servicio Ferroviario y asignaciones directas",
+      "ATTRAPI (DOF 13 enero 2026) sustituye a la ARTF y programa 2026-2030 con >3,000 km de vías de pasajeros",
+      "Empleo Q1-2026: 48.1k personas en Servicios Relacionados con el Transporte por Ferrocarril, 92.3% hombres",
+      "Carga 2024: 132.69 millones de toneladas, +0.92% y 72.37% comercio exterior según ARTF",
+      "Siniestralidad 2025: 1,167 accidentes ferroviarios, -25.5% según ATTRAPI"
+    ],
+    "dataSources": [
+      "LFT",
+      "DOF",
+      "SICT",
+      "ATTRAPI",
+      "ARTF",
+      "INEGI",
+      "Data México"
+    ],
+    "covered": true,
+    "publishedDate": "2026-10-18",
+    "publishedSlug": "trabajadores-ferrocarrileros-lft-capitulo-v-expansion-2026"
   }
 ]
