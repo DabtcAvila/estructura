@@ -4844,5 +4844,32 @@
     "covered": true,
     "publishedDate": "2026-10-18",
     "publishedSlug": "trabajadores-ferrocarrileros-lft-capitulo-v-expansion-2026"
+  },
+  {
+    "id": "deportistas-profesionales-lft-capitulo-x",
+    "title": "Deportistas profesionales en la LFT: arquitectura del Capítulo X del Título Sexto y tensiones del régimen 2026",
+    "category": "laboral",
+    "description": "Régimen especial de los deportistas profesionales en los artículos 292 a 303 de la LFT, reforma de 2025, sanción de la Cofece al pacto de caballeros y convivencia con la jurisdicción deportiva internacional.",
+    "keyPoints": [
+      "Capítulo X del Título Sexto LFT (art. 292-303) y reforma DOF 21-02-2025",
+      "Alcance subjetivo: enumeración histórica y SCJN 2018 sobre árbitros",
+      "Prima por transferencia y participación mínima de 25% para el deportista",
+      "Expediente IO-002-2018 Cofece: 177.6 mdp a 17 clubes de Liga MX",
+      "Jurisdicción deportiva: FIFA DRC, TAS y Comisión FMF",
+      "Liga MX Femenil: salario base y debate legislativo 2024-2025",
+      "AMFpro como asociación civil y déficit de contrato colectivo"
+    ],
+    "dataSources": [
+      "LFT",
+      "DOF",
+      "SCJN",
+      "Cofece",
+      "Cámara de Diputados",
+      "TAS",
+      "FIFA"
+    ],
+    "covered": true,
+    "publishedDate": "2026-10-19",
+    "publishedSlug": "deportistas-profesionales-lft-capitulo-x-mexico-2026"
   }
 ]
