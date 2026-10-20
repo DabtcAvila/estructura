@@ -4871,5 +4871,28 @@
     "covered": true,
     "publishedDate": "2026-10-19",
     "publishedSlug": "deportistas-profesionales-lft-capitulo-x-mexico-2026"
+  },
+  {
+    "id": "procesar-base-datos-nacional-sar",
+    "title": "PROCESAR: empresa operadora de la Base de Datos Nacional SAR, arquitectura y balance 2026",
+    "category": "pensiones",
+    "description": "Marco jurídico de la BDNSAR y de su empresa operadora PROCESAR, funciones de identificación, traspasos y retiros, normativa secundaria y encaje con el Fondo de Pensiones para el Bienestar.",
+    "keyPoints": [
+      "Artículos 57-61 LSAR: concesión única, propiedad estatal, capital mexicano",
+      "Funciones: identificación de cuentas, certificación, traspasos, retiros, biometría",
+      "Expediente Electrónico Único: 35.3 millones de registros a 2024",
+      "Circular CONSAR 19-8 y sus reformas 19-27, 19-29 y 19-31",
+      "Agregados del SAR a 2025-2026 y Fondo de Pensiones para el Bienestar"
+    ],
+    "dataSources": [
+      "LSAR",
+      "CONSAR",
+      "DOF",
+      "SHCP",
+      "datos.gob.mx"
+    ],
+    "covered": true,
+    "publishedDate": "2026-10-20",
+    "publishedSlug": "procesar-base-datos-nacional-sar-arquitectura-operador-2026"
   }
 ]
