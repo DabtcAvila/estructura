@@ -4894,5 +4894,28 @@
     "covered": true,
     "publishedDate": "2026-10-20",
     "publishedSlug": "procesar-base-datos-nacional-sar-arquitectura-operador-2026"
+  },
+  {
+    "id": "enasem-2024-envejecimiento-mexico",
+    "title": "ENASEM 2024: encuesta longitudinal de salud y envejecimiento en México y lectura para política pública",
+    "category": "datos",
+    "description": "Arquitectura metodológica de la ENASEM, hallazgos de la séptima ronda 2024 y su utilidad para medir salud, trabajo, pensiones y arreglos familiares de la población de 50 años y más.",
+    "keyPoints": [
+      "Siete rondas 2001-2024, panel longitudinal de personas de 50 años y más",
+      "32 millones estimados en 2024, muestra de 23 044 personas, muestra efectiva 21 301",
+      "Participación laboral: 63.4% hombres y 29.9% mujeres; pensión 31.5% vs 21.8%",
+      "Prevalencia 2024: hipertensión 41.5%, diabetes 25.5%, obesidad 33.1% mujeres",
+      "Pertenencia a la red internacional HRS y Gateway to Global Aging Data"
+    ],
+    "dataSources": [
+      "INEGI",
+      "UT Health San Antonio",
+      "CONAPO",
+      "Gateway to Global Aging Data",
+      "Repositorio Nacional de Microdatos"
+    ],
+    "covered": true,
+    "publishedDate": "2026-10-21",
+    "publishedSlug": "enasem-2024-salud-envejecimiento-mexico-inegi-longitudinal"
   }
 ]
