@@ -4917,5 +4917,33 @@
     "covered": true,
     "publishedDate": "2026-10-21",
     "publishedSlug": "enasem-2024-salud-envejecimiento-mexico-inegi-longitudinal"
+  },
+  {
+    "id": "semanas-cotizacion-ley-97-escalera-2020",
+    "title": "Semanas de cotización bajo la Ley 97: la escalera 750-1000 de la reforma de 2020 a cinco años",
+    "category": "pensiones",
+    "description": "Balance 2026 de la escalera de semanas cotizadas introducida por el decreto del 16 de diciembre de 2020: diseño, primera cohorte, interacción con la Pensión Garantizada y restricción fiscal pendiente.",
+    "keyPoints": [
+      "Reducción del umbral de 1,250 a 750 semanas en 2021 y escalera de 25 semanas anuales hasta 1,000 en 2031",
+      "Reforma a los artículos 154 y 162 de la LSS; edades legales 60-65 sin cambio",
+      "112,737 pensionados Ley 97 entre 2021 y 2025 frente a 11,392 bajo el umbral previo",
+      "Tasa de reemplazo promedio 71% combinando saldos de cuenta individual y Pensión Garantizada",
+      "Escalera paralela de aportación patronal CV hasta 11.875% del SBC en 2030",
+      "SCJN confirmó constitucionalidad del esquema de aportaciones (Comunicado 040/2023)"
+    ],
+    "dataSources": [
+      "DOF",
+      "Cámara de Diputados",
+      "CONSAR",
+      "IMSS",
+      "SCJN",
+      "BBVA Research",
+      "CIEP",
+      "OCDE",
+      "AMAFORE"
+    ],
+    "covered": true,
+    "publishedDate": "2026-10-22",
+    "publishedSlug": "semanas-cotizacion-ley-97-escalera-reforma-2020-balance-2026"
   }
 ]
