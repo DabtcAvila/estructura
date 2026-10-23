@@ -4945,5 +4945,33 @@
     "covered": true,
     "publishedDate": "2026-10-22",
     "publishedSlug": "semanas-cotizacion-ley-97-escalera-reforma-2020-balance-2026"
+  },
+  {
+    "id": "mlrr-tmec-balance-seis-anos",
+    "title": "El Mecanismo Laboral de Respuesta Rápida del T-MEC a seis años: casos, panel Atento y revisión 2026",
+    "category": "laboral",
+    "description": "Balance a 2026 del Mecanismo Laboral de Respuesta Rápida del T-MEC: 45 casos entre 2021 y 2025, concentración automotriz, el primer panel con determinación de denegación de derechos (Atento Servicios) y las tensiones hacia la revisión conjunta del tratado.",
+    "keyPoints": [
+      "Anexo 31-A del T-MEC, vigente desde el 1 de julio de 2020, con instalaciones cubiertas y procedimiento panelístico",
+      "45 casos entre mayo de 2021 y diciembre de 2025, con progresión acelerada (2 en 2021, 14 en 2025)",
+      "Concentración sectorial en automotriz y autopartes, metales, minería, con geografía Bajío-norte",
+      "Panel Atento Servicios (STRM), decisión del 4 de julio de 2025, primera determinación de denegación de derechos bajo el mecanismo",
+      "Casos emblemáticos: GM Silao (SINTTIA), Tridonex, Teksid, Panasonic Reynosa, Volkswagen Puebla, Camino Rojo",
+      "CFCRL legitimó 139,074 contratos colectivos hasta julio de 2023 con tasa de rechazo cercana al 25 por ciento",
+      "Revisión del T-MEC en julio de 2026: MLRR en el centro de la agenda bilateral"
+    ],
+    "dataSources": [
+      "T-MEC",
+      "USTR",
+      "Department of Labor",
+      "STPS",
+      "CFCRL",
+      "Secretaría de Economía",
+      "Revista Norteamérica UNAM",
+      "IMCO"
+    ],
+    "covered": true,
+    "publishedDate": "2026-10-23",
+    "publishedSlug": "mlrr-tmec-45-casos-panel-atento-balance-2026"
   }
 ]
