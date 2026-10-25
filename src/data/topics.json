@@ -4998,5 +4998,32 @@
     "covered": true,
     "publishedDate": "2026-10-24",
     "publishedSlug": "mociba-2024-ciberacoso-mexico-inegi-brecha-genero"
+  },
+  {
+    "id": "bono-pension-issste-regimen-transicion-2007-2026",
+    "title": "Bono de pensión ISSSTE: arquitectura del régimen de transición 2007-2026",
+    "category": "pensiones",
+    "description": "Diseño, cálculo, cobertura y balance del bono de pensión creado por la reforma al ISSSTE de 2007, a casi dos décadas de la bifurcación entre el décimo transitorio y el régimen de cuentas individuales.",
+    "keyPoints": [
+      "Reforma a la Ley del ISSSTE publicada en el DOF el 31 de marzo de 2007 y vigente desde el 1 de abril",
+      "Opción irrevocable entre régimen de reparto (décimo transitorio) y cuentas individuales con bono de pensión; plazo extendido al 14 de noviembre de 2008",
+      "El bono es un título cupón cero del Gobierno Federal, denominado en UDIs (100 UDI valor nominal), no negociable, con redención anticipada por derecho a pensión",
+      "Cálculo con factor de tabla por años cotizados y edad, multiplicado por sueldo básico anual en UDIs; fechas de corte: sueldo 31-dic-2006 y edad/cotización 31-dic-2007",
+      "ASF reportó ~1 591 740 trabajadores en el décimo transitorio en la Cuenta Pública 2012",
+      "PENSIONISSSTE administra desde 2012 bajo reglas CONSAR; comisión más baja del sistema en 2024 (0.53%)",
+      "Propuesta de junio de 2026 del director del ISSSTE para fortalecer PENSIONISSSTE y crear aseguradora pública para rentas vitalicias"
+    ],
+    "dataSources": [
+      "DOF",
+      "ISSSTE",
+      "PENSIONISSSTE",
+      "CONSAR",
+      "ASF",
+      "CEFP",
+      "SCJN"
+    ],
+    "covered": true,
+    "publishedDate": "2026-10-25",
+    "publishedSlug": "bono-pension-issste-regimen-transicion-2007-2026"
   }
 ]
