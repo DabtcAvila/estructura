@@ -5025,5 +5025,29 @@
     "covered": true,
     "publishedDate": "2026-10-25",
     "publishedSlug": "bono-pension-issste-regimen-transicion-2007-2026"
+  },
+  {
+    "id": "ensanut-continua-arquitectura-salud-nutricion-mexico",
+    "title": "ENSANUT Continua: arquitectura, cobertura y hallazgos del sistema de encuestas de salud en México",
+    "category": "datos",
+    "description": "Arquitectura institucional, metodología y resultados centrales de la ENSANUT Continua, el principal instrumento de medición de salud pública en México.",
+    "keyPoints": [
+      "Arquitectura tripartita INSP–INEGI–Secretaría de Salud bajo la LSNIEG (DOF 16-abr-2008)",
+      "Transición al modelo continuo desde 2020 y primer ciclo 2020-2024 cerrado",
+      "Prevalencias de sobrepeso 38.3%, obesidad 36.9% y obesidad abdominal 81.0% en adultos (Ensanut 2022, Campos-Nonato et al.)",
+      "Hipertensión 47.8% (ACC/AHA) con 65.5% sin diagnóstico previo (Ensanut 2022)",
+      "Inseguridad alimentaria en 44.6% de hogares (Informe nacional Ensanut Continua 2023, INSP, nov 2024)",
+      "Levantamiento Ensanut Continua 2026 iniciado el 12-ago-2026 por Secretaría de Salud e INSP"
+    ],
+    "dataSources": [
+      "INSP",
+      "INEGI",
+      "Secretaría de Salud",
+      "Salud Pública de México",
+      "SNIEG"
+    ],
+    "covered": true,
+    "publishedDate": "2026-10-26",
+    "publishedSlug": "ensanut-continua-arquitectura-salud-nutricion-mexico-2026"
   }
 ]
