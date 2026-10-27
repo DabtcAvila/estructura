@@ -5049,5 +5049,29 @@
     "covered": true,
     "publishedDate": "2026-10-26",
     "publishedSlug": "ensanut-continua-arquitectura-salud-nutricion-mexico-2026"
+  },
+  {
+    "id": "mopradef-2025-practica-deportiva-inactividad-fisica-mexico",
+    "title": "MOPRADEF 2025: arquitectura del módulo, actualización metodológica y lectura de la inactividad física en México",
+    "category": "datos",
+    "description": "Lectura del comunicado 6/26 del INEGI sobre el Módulo de Práctica Deportiva y Ejercicio Físico 2025, su rediseño metodológico y la radiografía de la inactividad en México.",
+    "keyPoints": [
+      "44.5% de la población urbana de 18 años y más activa en tiempo libre, segundo máximo de la serie 2013-2025 (INEGI, comunicado 6/26, 27-ene-2026)",
+      "Actualización metodológica 2025: cobertura nacional, población de 12 años y más y nueva medición de tiempo comprometido",
+      "Brecha de género urbana se reduce al mínimo de la serie: 8.4 pp (40.7% mujeres vs 49.1% hombres)",
+      "A nivel nacional 12+: 41.7% activa en tiempo libre y 59.2% al sumar tiempo comprometido, con 15 pp de brecha de género",
+      "Nivel de suficiencia nacional 12+ en 57.9%, con retroceso en la lectura urbana adulta (64.2% en 2024 a 58.3% en 2025)",
+      "32.2% de personas inactivas atribuye su condición al cansancio o falta de tiempo por trabajo o estudio"
+    ],
+    "dataSources": [
+      "INEGI",
+      "OMS",
+      "OCDE",
+      "CONADE",
+      "INSP"
+    ],
+    "covered": true,
+    "publishedDate": "2026-10-27",
+    "publishedSlug": "mopradef-2025-practica-deportiva-inactividad-fisica-mexico"
   }
 ]
