@@ -5073,5 +5073,32 @@
     "covered": true,
     "publishedDate": "2026-10-27",
     "publishedSlug": "mopradef-2025-practica-deportiva-inactividad-fisica-mexico"
+  },
+  {
+    "id": "trabajadores-minas-lft-capitulo-xiii-bis-seguridad-minera-2026",
+    "title": "Trabajadores en minas: Capítulo XIII Bis de la LFT y arquitectura de la seguridad en la minería mexicana a 2026",
+    "category": "laboral",
+    "description": "Balance a 2026 del Capítulo XIII Bis de la LFT (artículos 343-A a 343-E), introducido tras Pasta de Conchos, su interacción con la NOM-032-STPS-2008, la reforma minera de 2023 y la siniestralidad persistente.",
+    "keyPoints": [
+      "Capítulo XIII Bis adicionado al Título Sexto de la LFT por decreto del DOF del 30 de noviembre de 2012, con cinco artículos (343-A a 343-E)",
+      "Reforma del artículo 343-A aprobada el 11 de abril de 2013 (443 votos a favor, 3 abstenciones) para prohibir la extracción de carbón en tiros verticales a profundidades menores a 100 metros",
+      "Régimen sancionatorio escalonado del artículo 343-E: multas de 2,000, 3,500 y 5,000 UMA según el resultado del siniestro",
+      "NOM-032-STPS-2008 publicada el 23 de diciembre de 2008, vigente desde el 23 de marzo de 2009, sin revisión integral posterior",
+      "Camimex: 416,875 empleos directos en 2023, 74,529 trabajadoras (17.9%), remuneraciones 33% superiores al promedio nacional",
+      "Siniestralidad: Pasta de Conchos (19 de febrero de 2006, 65 mineros atrapados, 63 fallecidos) y El Pinabete (3 de agosto de 2022, 10 fallecidos)",
+      "Reforma a la Ley Minera (DOF 8 de mayo de 2023) con causal de cancelación por accidentes y endurecimiento del régimen de concesiones"
+    ],
+    "dataSources": [
+      "DOF",
+      "LFT",
+      "STPS",
+      "Cámara de Diputados",
+      "Camimex",
+      "INEGI",
+      "Secretaría de Economía"
+    ],
+    "covered": true,
+    "publishedDate": "2026-10-28",
+    "publishedSlug": "trabajadores-minas-lft-capitulo-xiii-bis-seguridad-minera-2026"
   }
 ]
