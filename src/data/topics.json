@@ -5100,5 +5100,28 @@
     "covered": true,
     "publishedDate": "2026-10-28",
     "publishedSlug": "trabajadores-minas-lft-capitulo-xiii-bis-seguridad-minera-2026"
+  },
+  {
+    "id": "emim-industria-manufacturera-inegi-arquitectura-lectura-2026",
+    "title": "EMIM 2024-2026: arquitectura de la Encuesta Mensual de la Industria Manufacturera y lectura del rebote de octubre",
+    "category": "datos",
+    "description": "Arquitectura, diseño muestral y lectura de los boletines de la Encuesta Mensual de la Industria Manufacturera del INEGI, con énfasis en el rebote mensual y anual reportado para octubre de 2025.",
+    "keyPoints": [
+      "EMIM serie 2018 con cobertura total de 91% del valor de ingresos manufactureros y cobertura mínima de 80% por clase, rama y subsector del SCIAN",
+      "Marco de muestreo basado en el directorio de los Censos Económicos 2019, con diseño mixto determinístico y probabilístico",
+      "Boletín 716/25 del INEGI (17 de diciembre de 2025): producción manufacturera +0.3% mensual y +0.7% anual en octubre de 2025",
+      "Secuencia previa de tres meses consecutivos de contracción entre junio y agosto de 2025 y acumulado de hasta nueve meses de caída anual en lecturas intermedias",
+      "Remuneraciones medias reales en octubre: +1.8% mensual y +5.0% anual, con personal ocupado en -2.5% anual",
+      "Articulación con el IMAI y el IMOAM dentro del Sistema Nacional de Información Estadística y Geográfica",
+      "Exposición de la manufactura al componente automotriz y a los aranceles estadounidenses durante 2025"
+    ],
+    "dataSources": [
+      "INEGI",
+      "DOF",
+      "BBVA Research"
+    ],
+    "covered": true,
+    "publishedDate": "2026-10-29",
+    "publishedSlug": "emim-industria-manufacturera-inegi-arquitectura-lectura-2026"
   }
 ]
