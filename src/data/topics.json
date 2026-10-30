@@ -5123,5 +5123,33 @@
     "covered": true,
     "publishedDate": "2026-10-29",
     "publishedSlug": "emim-industria-manufacturera-inegi-arquitectura-lectura-2026"
+  },
+  {
+    "id": "tasa-reemplazo-sar-mexico-metodologia-estimaciones-ocde-2026",
+    "title": "Tasa de reemplazo del SAR en México: arquitectura metodológica, estimaciones recientes y brecha con la OCDE",
+    "category": "pensiones",
+    "description": "Ordenamiento de las estimaciones de tasa de reemplazo del SAR tras la reforma de 2020 y el Fondo de Pensiones para el Bienestar, con lectura de Pensions at a Glance 2025 y las cifras observadas por CONSAR.",
+    "keyPoints": [
+      "ASF (Cuenta Pública 2017, informe de febrero de 2019): tasa de reemplazo proyectada 24.3% para afiliados Ley 97, con desagregación 30.4% hombres y 28.4% mujeres",
+      "Decreto DOF 16 de diciembre de 2020: aportación obligatoria sube de 6.5% a 15% del SBC con calendario 2023-2030; patronal CV pasa de 3.15% a 11.875%",
+      "Escalera de semanas de cotización: 750 (2021) a 1,000 (2031); umbral vigente 850 semanas en 2025 y 875 en 2026",
+      "CONSAR 2021-2025: 112,737 trabajadores pensionados bajo Ley 97, tasa de reemplazo promedio observada 71% con reforma frente a 54% contrafactual sin ella",
+      "OCDE Pensions at a Glance 2025: tasa bruta 121% ingresos bajos, 69.6% ingreso promedio, 46.7% ingresos altos; incremento de 18 y 47 puntos para medio y bajo tras reforma",
+      "Fondo de Pensiones para el Bienestar: 7,224 beneficiarios al corte mayo 2026, complemento promedio 4,820 pesos; tasa de 52.5% sin complemento a 96.1% con él",
+      "Banxico 2021: 55% de asegurados Ley 97 no alcanzarían 1,000 semanas con densidades de cotización promedio de 44.3%"
+    ],
+    "dataSources": [
+      "CONSAR",
+      "OCDE",
+      "CEFP",
+      "ASF",
+      "Banxico",
+      "IMSS",
+      "DOF",
+      "IMCO"
+    ],
+    "covered": true,
+    "publishedDate": "2026-10-30",
+    "publishedSlug": "tasa-reemplazo-sar-mexico-metodologia-estimaciones-ocde-2026"
   }
 ]
