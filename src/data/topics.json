@@ -5151,5 +5151,28 @@
     "covered": true,
     "publishedDate": "2026-10-30",
     "publishedSlug": "tasa-reemplazo-sar-mexico-metodologia-estimaciones-ocde-2026"
+  },
+  {
+    "id": "activos-netos-sar-pib-2026",
+    "title": "Activos netos del SAR en 2026: magnitud, composición y peso en la economía mexicana",
+    "category": "pensiones",
+    "description": "Lectura del Sistema de Ahorro para el Retiro en 2026: tamaño de los recursos administrados, su participación en el PIB, composición de cartera, distribución entre AFORES y trayectoria hacia 2030.",
+    "keyPoints": [
+      "Activos netos del SAR cercanos a 8.9 billones de pesos a mediados de 2026 (alrededor de 25% del PIB)",
+      "Composición de cartera T1 2026: 51.5% deuda gubernamental, 30.8% valores nacionales no gubernamentales, 13.1% valores internacionales, 3.1% otros, 1.5% mercancías",
+      "Participación por AFORE T1 2026: Profuturo 19.5%, XXI Banorte 19.0%, Sura 16.2%, Banamex 15.4%",
+      "Padrón de ~70 millones de cuentas administradas (enero 2026)",
+      "Reforma 2020: aportación patronal CV de 3.15% a 11.875% hasta 2030, para alcanzar aportación total cercana a 15% del SBC",
+      "Proyección CONSAR: activos netos del SAR cercanos a 34% del PIB en 2030; 30 billones de pesos en 2050"
+    ],
+    "dataSources": [
+      "CONSAR",
+      "AMAFORE",
+      "INEGI",
+      "DOF"
+    ],
+    "covered": true,
+    "publishedDate": "2026-10-31",
+    "publishedSlug": "activos-netos-sar-magnitud-composicion-pib-2026"
   }
 ]
