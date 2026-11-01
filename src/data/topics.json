@@ -5174,5 +5174,26 @@
     "covered": true,
     "publishedDate": "2026-10-31",
     "publishedSlug": "activos-netos-sar-magnitud-composicion-pib-2026"
+  },
+  {
+    "id": "ioae-inegi-nowcast-igae-2026",
+    "title": "Indicador Oportuno de la Actividad Económica (IOAE): el nowcast mensual del INEGI y la lectura adelantada a septiembre de 2026",
+    "category": "datos",
+    "description": "Arquitectura metodológica del IOAE, su lectura más reciente para el IGAE y las actividades secundarias y terciarias, y su articulación con los Indicadores de Confianza Empresarial y el IPM.",
+    "keyPoints": [
+      "IOAE: nowcast mensual del IGAE con rezago de 3 semanas, frente a 8 del IGAE y 13 del PIB trimestral",
+      "Boletín 629/26 (20 de octubre de 2026): IGAE +3.7% anual y +0.1% mensual estimados para septiembre",
+      "Actividades terciarias +4.0% anual, secundarias +3.6% anual, con intervalos de confianza al 95%",
+      "Modelo de factores dinámicos, PLS y validación cruzada; componentes calculados de forma independiente",
+      "Serie publicada por el INEGI desde octubre de 2020 tras pivote del nowcast de PIB a IGAE por la pandemia",
+      "Divergencia con IGOEC de 48.4 puntos en septiembre de 2026 (19 meses bajo el umbral de 50)"
+    ],
+    "dataSources": [
+      "INEGI",
+      "Banxico"
+    ],
+    "covered": true,
+    "publishedDate": "2026-11-01",
+    "publishedSlug": "ioae-inegi-nowcast-igae-septiembre-2026"
   }
 ]
