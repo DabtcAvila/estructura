@@ -5195,5 +5195,30 @@
     "covered": true,
     "publishedDate": "2026-11-01",
     "publishedSlug": "ioae-inegi-nowcast-igae-septiembre-2026"
+  },
+  {
+    "id": "artistas-interpretes-ejecutantes-lft-capitulo-xi-2026",
+    "title": "Artistas intérpretes o ejecutantes: la reforma de 2026 al Capítulo XI de la LFT y el régimen laboral del sector cultural",
+    "category": "laboral",
+    "description": "Decreto DOF 14-05-2026: rebautizo del Capítulo XI del Título Sexto, nuevo artículo 305 Bis, uso de imagen y voz por IA en los contratos, y articulación con la LFDA, leídos a la luz de la CSCM 2024.",
+    "keyPoints": [
+      "DOF 14-05-2026: reforma a los artículos 304, 307, 308, 309 y 310 LFT y adición del 305 Bis; vigencia desde el 15-05-2026",
+      "Capítulo XI pasa de 'trabajadores actores y músicos' a 'personas trabajadoras artistas intérpretes o ejecutantes', por remisión al artículo 116 LFDA",
+      "El artículo 305 Bis obliga a pactar en el contrato condiciones y remuneración por el uso de imagen y voz, incluida la IA",
+      "Sanción patronal: multa de 50 a 5,000 UMA (~5,865.50 a 586,550.00 pesos con la UMA 2026)",
+      "CSCM 2024: sector cultural 2.8% del PIB (865,682 mdp), 1.43 millones de puestos equivalentes a tiempo completo (3.5% del empleo nacional)",
+      "Música y conciertos 14.9% del PIB cultural en 2024, entre las áreas de mayor crecimiento; medios audiovisuales -3.6%",
+      "La reforma LFDA del mismo día prohíbe clonar o simular voz e imagen por IA sin autorización previa y por escrito, y habilita el registro de contratos ante INDAUTOR"
+    ],
+    "dataSources": [
+      "DOF",
+      "Cámara de Diputados",
+      "INEGI",
+      "INDAUTOR",
+      "SCJN"
+    ],
+    "covered": true,
+    "publishedDate": "2026-11-02",
+    "publishedSlug": "artistas-interpretes-ejecutantes-lft-capitulo-xi-reforma-2026"
   }
 ]
