@@ -5220,5 +5220,31 @@
     "covered": true,
     "publishedDate": "2026-11-02",
     "publishedSlug": "artistas-interpretes-ejecutantes-lft-capitulo-xi-reforma-2026"
+  },
+  {
+    "id": "enaproce-2015-2018-mipymes-vacio-estadistico-2026",
+    "title": "ENAPROCE 2015 y 2018: la radiografía fina de las MIPYMES mexicanas y el vacío estadístico siete años después",
+    "category": "datos",
+    "description": "Las dos ediciones de la Encuesta Nacional sobre Productividad y Competitividad de las MIPYMES (INEGI, 2015 y 2018), su diseño muestral, hallazgos comparables y el relevo parcial que operan los resultados oportunos de los Censos Económicos 2024 ante la ausencia de un nuevo levantamiento.",
+    "keyPoints": [
+      "ENAPROCE 2015: muestra de 26,997 empresas, diseño probabilístico y estratificado, marco en los Censos Económicos 2014, presentación de resultados en julio de 2016",
+      "ENAPROCE 2018: muestra de 22,188 empresas, captación del 1 de octubre al 30 de noviembre de 2018, comunicado 448/19 del INEGI del 2 de septiembre de 2019",
+      "ENAPROCE 2018 reportó 4,169,677 MIPYMES: 4,057,719 micro (97.3%) y 111,958 PyMES (2.7%)",
+      "Capacitación: 15.3% del universo MIPYME en 2017 (55.1% en PyMES); 61% de las personas capacitadas eran hombres",
+      "Financiamiento: 8% de acceso efectivo en 2017 (23.2% PyMES vs 7.6% micro); tasa anual promedio pagada de 11.86%",
+      "7 de cada 10 MIPYMES rechazarían un crédito bancario en términos de 2018; 57.9% lo considera caro",
+      "14.8% de las MIPYMES conocía los programas federales de apoyo en 2018; 95.4% no participaba en cadenas globales de valor",
+      "DOF 13-08-2019: extinción del INADEM, patrocinador original de la encuesta; sin nueva edición desde entonces",
+      "Censos Económicos 2024 (resultados oportunos, 23-01-2025): 5,451,113 unidades económicas en 2023; 95.5% micro; 41.5% del empleo privado",
+      "El censo captura estructura (empleo, ingreso, uso de TIC, edad del personal) pero no proceso (capacitación, decisión de crédito, conocimiento de programas)"
+    ],
+    "dataSources": [
+      "INEGI",
+      "Secretaría de Economía",
+      "DOF"
+    ],
+    "covered": true,
+    "publishedDate": "2026-11-03",
+    "publishedSlug": "enaproce-2015-2018-mipymes-mexico-vacio-estadistico-2026"
   }
 ]
