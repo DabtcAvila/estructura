@@ -5246,5 +5246,33 @@
     "covered": true,
     "publishedDate": "2026-11-03",
     "publishedSlug": "enaproce-2015-2018-mipymes-mexico-vacio-estadistico-2026"
+  },
+  {
+    "id": "seguro-separacion-individualizado-ssi-mandos-federales-2026",
+    "title": "El Seguro de Separación Individualizado: régimen complementario de los mandos del gobierno federal y su articulación con el SAR del ISSSTE",
+    "category": "pensiones",
+    "description": "Arquitectura del Seguro de Separación Individualizado (SSI) para mandos medios y superiores de la Administración Pública Federal: naturaleza híbrida ahorro-seguro, aportaciones pareadas servidor-dependencia, administración por aseguradoras, articulación con el Ahorro Solidario del artículo 100 de la Ley del ISSSTE y tratamiento fiscal.",
+    "keyPoints": [
+      "El SSI es un contrato colectivo de seguro con componente de inversión suscrito entre la dependencia y una aseguradora autorizada",
+      "Se funda en el Manual de Percepciones de los Servidores Públicos publicado por SHCP y la Secretaría Anticorrupción y Buen Gobierno",
+      "El Manual de Percepciones 2025 se publicó en el DOF el 30 de mayo de 2025",
+      "Opera con aportaciones pareadas entre el servidor público y la dependencia dentro de un rango habitual del 2% al 10% del sueldo tabular",
+      "Cobertura restringida a los grupos jerárquicos G a O del tabulador federal (mandos medios y superiores)",
+      "Convive con la cuenta individual del ISSSTE y con el Ahorro Solidario sin sustituirlos",
+      "Los recursos permanecen bajo custodia de la aseguradora y no en una AFORE",
+      "Régimen fiscal diferenciado: capital no imponible, rendimientos acumulables como intereses, aportación patronal exenta como previsión social",
+      "No califica como plan personal de retiro del artículo 151 fracción V de la LISR por ser seguro grupal",
+      "Tensiones con el principio de austeridad republicana y con el régimen de equidad intra-dependencia"
+    ],
+    "dataSources": [
+      "DOF",
+      "SHCP",
+      "ISSSTE",
+      "SAT",
+      "ASF"
+    ],
+    "covered": true,
+    "publishedDate": "2026-11-04",
+    "publishedSlug": "seguro-separacion-individualizado-ssi-mandos-federales-2026"
   }
 ]
