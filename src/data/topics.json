@@ -5274,5 +5274,35 @@
     "covered": true,
     "publishedDate": "2026-11-04",
     "publishedSlug": "seguro-separacion-individualizado-ssi-mandos-federales-2026"
+  },
+  {
+    "id": "trabajadores-buques-lft-capitulo-iii-marina-mercante",
+    "title": "Trabajadores de buques: régimen especial del Capítulo III de la LFT y la flota mercante mexicana",
+    "category": "laboral",
+    "description": "Análisis del régimen laboral de los trabajadores de buques en los artículos 187-214 de la LFT, su articulación con la Ley de Navegación y Comercio Marítimos, el MLC 2006 de la OIT y la realidad operativa de la flota mercante bajo bandera mexicana.",
+    "keyPoints": [
+      "El Capítulo III del Título Sexto de la LFT abarca los artículos 187-214 y rige a trabajadores en buques con bandera mexicana",
+      "La última reforma de la LFT se publicó en el DOF el 21 de febrero de 2025",
+      "El artículo 30 extiende la ley mexicana a buques de bandera nacional en aguas internacionales",
+      "El contrato de embarco admite modalidades por tiempo determinado, indeterminado o por viaje (arts. 195-196)",
+      "La repatriación al puerto de origen se presume en ausencia de pacto expreso",
+      "La Inspección del Trabajo vigila el cumplimiento cuando los buques están en puerto (art. 212)",
+      "La LNCM tuvo su última reforma el 14 de noviembre de 2025",
+      "El 17 de octubre de 2025 el DOF publicó un reglamento de formación de marinos mercantes",
+      "El MLC 2006 de la OIT entró en vigor internacional el 20 de agosto de 2013",
+      "La flota nacional ronda 160 embarcaciones mexicanas, con dependencia estructural de Pemex"
+    ],
+    "dataSources": [
+      "DOF",
+      "LFT",
+      "LNCM",
+      "OIT",
+      "SEMAR",
+      "INEGI",
+      "Cameintram"
+    ],
+    "covered": true,
+    "publishedDate": "2026-11-05",
+    "publishedSlug": "trabajadores-buques-lft-capitulo-iii-marina-mercante-2026"
   }
 ]
