@@ -5304,5 +5304,34 @@
     "covered": true,
     "publishedDate": "2026-11-05",
     "publishedSlug": "trabajadores-buques-lft-capitulo-iii-marina-mercante-2026"
+  },
+  {
+    "id": "csisflm-2024-tercer-sector-voluntariado",
+    "title": "CSISFLM 2024: la radiografía del tercer sector mexicano y el valor económico del voluntariado",
+    "category": "datos",
+    "description": "Lectura de la Cuenta Satélite de las Instituciones Sin Fines de Lucro de México 2024: aportación al PIB, empleo, voluntariado y debates estadísticos pendientes.",
+    "keyPoints": [
+      "La CSISFLM es una cuenta satélite del SCNM con año base 2018 y serie 2009-2024",
+      "El sector aportó 3.3% del PIB nacional en 2024, con un valor agregado combinado de 1,046,284 millones de pesos a precios corrientes",
+      "El tercer sector absorbió 3,317,622 puestos de trabajo ocupados, equivalentes a 8.4% del empleo total",
+      "Alrededor de 1.68 millones de puestos fueron remunerados y 1.63 millones correspondieron a voluntariado",
+      "El valor económico imputado al voluntariado se estimó en 341,859 millones de pesos",
+      "La metodología sigue el Manual sobre las ISFL en el SCN de Naciones Unidas (2003) y el Manual de la OIT sobre trabajo voluntario (2011)",
+      "La CSISFLM 2023 había reportado 3,073,041 puestos (7.8% del total), lo que implica una expansión de ~245 mil puestos entre 2023 y 2024",
+      "El crecimiento promedio anual del sector entre 2008 y 2024 ha sido de 2.5%",
+      "El comunicado 149/25 del INEGI publicó los resultados el 28 de noviembre de 2025",
+      "La cuenta todavía presenta limitaciones en cobertura de OSC pequeñas, desagregación por financiamiento y frecuencia anual"
+    ],
+    "dataSources": [
+      "INEGI",
+      "SCNM",
+      "ONU",
+      "OIT",
+      "Indesol",
+      "SAT"
+    ],
+    "covered": true,
+    "publishedDate": "2026-11-06",
+    "publishedSlug": "csisflm-2024-tercer-sector-mexico-voluntariado-inegi"
   }
 ]
