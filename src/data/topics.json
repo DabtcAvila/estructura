@@ -5333,5 +5333,32 @@
     "covered": true,
     "publishedDate": "2026-11-06",
     "publishedSlug": "csisflm-2024-tercer-sector-mexico-voluntariado-inegi"
+  },
+  {
+    "id": "cpv-2020-inegi-arquitectura",
+    "title": "Censo de Población y Vivienda 2020: arquitectura del levantamiento decenal del INEGI, resultados y legado estadístico",
+    "category": "datos",
+    "description": "Lectura del Censo de Población y Vivienda 2020 del INEGI: base legal, operativo bajo pandemia, cuestionarios básico y ampliado, y principales resultados estadísticos.",
+    "keyPoints": [
+      "El CPV se realiza cada diez años como facultad exclusiva del INEGI bajo el artículo 59 de la LSNIEG",
+      "Los censos generales se realizan cada diez años desde 1900, con excepción de 1921",
+      "El levantamiento corrió del 2 al 27 de marzo de 2020 con fecha de referencia 15 de marzo y cerca de 147 mil entrevistadores",
+      "El cuestionario básico tiene 38 preguntas y se aplicó a todas las viviendas",
+      "El cuestionario ampliado tiene 103 preguntas y se aplicó a una muestra probabilística de ~4 millones de viviendas, con 22 minutos promedio de entrevista",
+      "El ampliado se aplicó de forma exhaustiva en 786 municipios de alta y muy alta marginación; el diseño muestral cubrió 2,469 municipios",
+      "La Encuesta Posenumeración fue cancelada por la pandemia de COVID-19",
+      "Los resultados básicos se publicaron el 25 de enero de 2021 y los complementarios el 16 de marzo de 2021",
+      "La población total fue 126,014,024 personas, con un incremento de 13.6 millones respecto a 2010 y tasa anual de 1.2%",
+      "Se contabilizaron 35,219,141 viviendas particulares habitadas, 7,364,645 hablantes de lengua indígena (6.1%) y 2,576,213 personas afromexicanas (2.0%)"
+    ],
+    "dataSources": [
+      "INEGI",
+      "SNIEG",
+      "CONAPO",
+      "LSNIEG"
+    ],
+    "covered": true,
+    "publishedDate": "2026-11-07",
+    "publishedSlug": "censo-poblacion-vivienda-2020-mexico-inegi-arquitectura"
   }
 ]
