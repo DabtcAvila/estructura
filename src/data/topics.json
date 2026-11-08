@@ -5360,5 +5360,30 @@
     "covered": true,
     "publishedDate": "2026-11-07",
     "publishedSlug": "censo-poblacion-vivienda-2020-mexico-inegi-arquitectura"
+  },
+  {
+    "id": "ems-encuesta-mensual-servicios-sector-terciario",
+    "title": "Encuesta Mensual de Servicios (EMS): arquitectura estadística del sector terciario y lectura 2024-2026",
+    "category": "datos",
+    "description": "Análisis de la EMS del INEGI como instrumento de medición de los servicios privados no financieros: cobertura, metodología de la serie base 2018 y trayectoria 2024-2026.",
+    "keyPoints": [
+      "La EMS mide ingresos, personal ocupado, remuneraciones y gastos de los servicios privados no financieros, excluyendo servicios financieros y gobierno",
+      "La serie vigente base 2018=100 contempla 61 dominios nacionales (48 probabilísticos, 13 no probabilísticos) y 88 por entidad federativa",
+      "El marco nacional incluye 1,810,775 unidades económicas y la muestra asciende a 11,909 empresas y establecimientos",
+      "La EMS fue determinada Información de Interés Nacional en 2016 y rediseñada en 2023 con ponderadores de los Censos Económicos 2019",
+      "El rezago de publicación es de aproximadamente 51 días posteriores al mes de referencia",
+      "En agosto de 2026, los ingresos reales desestacionalizados crecieron 0.6% anual y el personal ocupado cayó 1.8% anual",
+      "El acumulado enero-agosto 2026 registra caídas de 1.5% en ingresos y 1.9% en personal ocupado frente al mismo tramo de 2025",
+      "La heterogeneidad sectorial es marcada: Información en medios masivos +6.3% anual vs. Alojamiento y alimentos -5.3% en agosto de 2026"
+    ],
+    "dataSources": [
+      "INEGI",
+      "SNIEG",
+      "SCNM",
+      "BIE"
+    ],
+    "covered": true,
+    "publishedDate": "2026-11-08",
+    "publishedSlug": "ems-servicios-inegi-arquitectura-lectura-2026"
   }
 ]
