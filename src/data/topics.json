@@ -5385,5 +5385,28 @@
     "covered": true,
     "publishedDate": "2026-11-08",
     "publishedSlug": "ems-servicios-inegi-arquitectura-lectura-2026"
+  },
+  {
+    "id": "mapa-mercado-afore-concentracion-fusiones",
+    "title": "Mapa del mercado AFORE 2026: concentración, fusiones y participación por administradora",
+    "category": "pensiones",
+    "description": "Análisis estructural del mercado AFORE: trayectoria de consolidación desde 1997, participación por administradora, concentración y marco de competencia aplicable a fusiones.",
+    "keyPoints": [
+      "El SAR opera en 2026 con diez AFORES tras una trayectoria desde diecisiete iniciales en 1997 y un máximo intermedio superior a veinte",
+      "Los activos netos administrados alcanzan 8.3 billones de pesos al 1T 2026, equivalentes a 23.6% del PIB",
+      "Profuturo, XXI Banorte, SURA y Banamex concentran aproximadamente 70% de los activos del sistema",
+      "La fusión SURA-Principal, en revisión por COFECE desde 2024, condensa la tensión entre concentración empresarial y supervisión antimonopolio",
+      "Las comisiones autorizadas para 2026 son 0.54% sobre saldo en administradoras privadas y 0.52% en PENSIONISSSTE",
+      "Las fusiones y adquisiciones entre AFORES requieren autorización de CONSAR, SHCP, Banxico y, cuando aplica, COFECE"
+    ],
+    "dataSources": [
+      "CONSAR",
+      "COFECE",
+      "AMAFORE",
+      "INEGI"
+    ],
+    "covered": true,
+    "publishedDate": "2026-11-09",
+    "publishedSlug": "mapa-mercado-afore-mexico-concentracion-fusiones-2026"
   }
 ]
