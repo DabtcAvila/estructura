@@ -5408,5 +5408,29 @@
     "covered": true,
     "publishedDate": "2026-11-09",
     "publishedSlug": "mapa-mercado-afore-mexico-concentracion-fusiones-2026"
+  },
+  {
+    "id": "indice-global-pensiones-mercer-cfa-2026-mexico",
+    "title": "Índice Global de Pensiones 2026: México mejora al puesto 16 con 71.2 puntos",
+    "category": "pensiones",
+    "description": "Lectura comparada del Mercer CFA Institute Global Pension Index 2026: posición de México en el ranking global, subíndices de adecuación, sostenibilidad e integridad, trayectoria desde la reforma de 2020 y agenda pendiente.",
+    "keyPoints": [
+      "México obtiene 71.2 puntos y calificación B en la edición 2026 del índice Mercer CFA Institute, que evalúa 55 sistemas de pensiones",
+      "El país ocupa el lugar 16 global y el segundo en América Latina, detrás de Chile (79.2) y por encima de Uruguay (69.7)",
+      "Los subíndices de México son adecuación 77.2, sostenibilidad 64.0 e integridad 71.8, con ponderaciones de 40%, 35% y 25%",
+      "La trayectoria 2024-2026 condensa el efecto de la reforma al SAR de 2020 y la universalización constitucional de la Pensión del Bienestar",
+      "El pilar de sostenibilidad es el más débil y recoge la presión demográfica proyectada por CONAPO hacia 2070",
+      "México supera en calificación comparada a Estados Unidos (61.6), Alemania (67.9) y España (63.3), aunque la métrica evalúa arquitectura institucional, no monto absoluto de pensiones"
+    ],
+    "dataSources": [
+      "Mercer CFA Institute Global Pension Index",
+      "CONSAR",
+      "OCDE",
+      "CONAPO",
+      "DOF"
+    ],
+    "covered": true,
+    "publishedDate": "2026-11-10",
+    "publishedSlug": "indice-global-pensiones-mercer-cfa-2026-mexico"
   }
 ]
