@@ -5432,5 +5432,30 @@
     "covered": true,
     "publishedDate": "2026-11-10",
     "publishedSlug": "indice-global-pensiones-mercer-cfa-2026-mexico"
+  },
+  {
+    "id": "periodo-prueba-capacitacion-inicial-lft-articulos-39-a-39-f-2026",
+    "title": "Periodo a prueba y capacitación inicial en la LFT: arquitectura de los artículos 39-A a 39-F a catorce años de la reforma de 2012",
+    "category": "laboral",
+    "description": "Lectura de los artículos 39-A a 39-F de la LFT que regulan el periodo a prueba y la capacitación inicial, con revisión del régimen vigente, debate doctrinal y comparación OCDE.",
+    "keyPoints": [
+      "Los artículos 39-A a 39-F fueron adicionados por el decreto del DOF del 30 de noviembre de 2012, firmado por Felipe Calderón",
+      "El artículo 39-A fija un tope ordinario de 30 días para el periodo a prueba, ampliable a 180 días para puestos directivos, gerenciales o técnicos especializados",
+      "El artículo 39-B regula la capacitación inicial con duración máxima de tres meses, hasta seis para puestos directivos o conocimientos especializados",
+      "El artículo 39-C exige forma escrita y cobertura de seguridad social desde el primer día, bajo sanción de recalificación a tiempo indeterminado",
+      "El artículo 39-D prohíbe prorrogar los periodos o aplicarlos más de una vez al mismo trabajador, y el 39-E establece que el tiempo transcurrido cuenta para antigüedad",
+      "La mediana del periodo máximo a prueba en la OCDE se ubica en tres meses, con la Unión Europea convergiendo a topes de seis meses tras la Directiva 2019/1152"
+    ],
+    "dataSources": [
+      "DOF",
+      "Cámara de Diputados",
+      "OCDE",
+      "OIT",
+      "INEGI",
+      "STPS"
+    ],
+    "covered": true,
+    "publishedDate": "2026-11-11",
+    "publishedSlug": "periodo-prueba-capacitacion-inicial-lft-articulos-39-a-39-f-2026"
   }
 ]
