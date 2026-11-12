@@ -5457,5 +5457,29 @@
     "covered": true,
     "publishedDate": "2026-11-11",
     "publishedSlug": "periodo-prueba-capacitacion-inicial-lft-articulos-39-a-39-f-2026"
+  },
+  {
+    "id": "indicador-imef-manufacturero-no-manufacturero-arquitectura-2026",
+    "title": "Indicador IMEF: arquitectura del índice de difusión y lectura 2026",
+    "category": "datos",
+    "description": "Anatomía metodológica del Indicador IMEF Manufacturero y No Manufacturero, su valor como señal temprana y lo que arrojó la serie en lo que va de 2026.",
+    "keyPoints": [
+      "El Indicador IMEF nació de un convenio IMEF-INEGI firmado el 18 de diciembre de 2003, con primera encuesta en enero de 2004 y difusión pública desde el 14 de septiembre de 2006",
+      "Es un índice de difusión con umbral de 50: por encima indica expansión, por debajo contracción, sin medir magnitud del cambio",
+      "El subíndice manufacturero se construye con cinco componentes (nuevos pedidos, producción, empleo, entrega de proveedores, inventarios); el no manufacturero omite inventarios",
+      "Se publica en dos versiones, IMEF-IG (ponderación igualitaria) e IMEF-AT (ajustada por tamaño de empresa), con ajuste estacional desde 2008",
+      "El marco conceptual original fue elaborado por Jonathan Heath y Lorena Domínguez en 2004",
+      "En enero de 2026 el subíndice manufacturero se ubicó en 46.4, su mes veintidós consecutivo en contracción; en septiembre regresó a la línea neutral de 50.0",
+      "El no manufacturero (49.2 en septiembre de 2026) no logró cruzar el umbral durante el año"
+    ],
+    "dataSources": [
+      "IMEF",
+      "INEGI",
+      "Banxico",
+      "S&P Global"
+    ],
+    "covered": true,
+    "publishedDate": "2026-11-12",
+    "publishedSlug": "indicador-imef-manufacturero-no-manufacturero-arquitectura-2026"
   }
 ]
