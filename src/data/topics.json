@@ -5481,5 +5481,32 @@
     "covered": true,
     "publishedDate": "2026-11-12",
     "publishedSlug": "indicador-imef-manufacturero-no-manufacturero-arquitectura-2026"
+  },
+  {
+    "id": "maniobras-servicio-publico-zonas-federales-lft-capitulo-vii-2026",
+    "title": "Maniobras de servicio público en zonas federales: arquitectura del Capítulo VII de la LFT y su vigencia portuaria en 2026",
+    "category": "laboral",
+    "description": "Lectura del Capítulo VII del Título Sexto de la LFT (arts. 265-278) sobre maniobristas, estibadores y cargadores en zonas federales, con contexto del Sistema Portuario Nacional 2025-2026.",
+    "keyPoints": [
+      "El Capítulo VII del Título Sexto de la LFT, artículos 265 a 278, regula los trabajos de carga, descarga, estiba, desestiba, alijo, chequeo, amarre, acarreo, almacenaje y transbordo en zonas federales",
+      "El artículo 265 fue reformado por decreto publicado en el DOF el 22 de junio de 2018 para ajustar el ámbito material del capítulo",
+      "El artículo 268 define un patrón ampliado: navieros, empresas de maniobras, armadores, fletadores, consignatarios y agentes aduanales responden por el trabajo encomendado",
+      "Los artículos 270 a 274 configuran un salario flexible (por tiempo, obra, peso o convenio), con lista sindical de trabajadores y antigüedad como criterio de asignación de servicios",
+      "El artículo 275 prohíbe la sustitución del trabajador y el 278 permite constituir un fondo contractual para pérdidas y averías",
+      "El Sistema Portuario Nacional movilizó alrededor de 229 millones de toneladas y 9.5 millones de TEU en 2025, según los reportes de la Dirección General de Puertos de la Semar",
+      "Los convenios IMSS-empresas-sindicatos de 1996 adaptan la afiliación obligatoria a la dinámica del puerto, pero su cobertura no es universal",
+      "El Centro Federal de Conciliación y Registro Laboral mantiene activos los contratos colectivos de los sindicatos portuarios"
+    ],
+    "dataSources": [
+      "Cámara de Diputados",
+      "DOF",
+      "Semar",
+      "INEGI",
+      "IMCP",
+      "CFCRL"
+    ],
+    "covered": true,
+    "publishedDate": "2026-11-13",
+    "publishedSlug": "maniobras-servicio-publico-zonas-federales-lft-2026"
   }
 ]
