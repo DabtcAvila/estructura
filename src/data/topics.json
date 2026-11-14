@@ -5508,5 +5508,28 @@
     "covered": true,
     "publishedDate": "2026-11-13",
     "publishedSlug": "maniobras-servicio-publico-zonas-federales-lft-2026"
+  },
+  {
+    "id": "comisiones-mixtas-seguridad-higiene-articulo-509-lft",
+    "title": "Comisiones Mixtas de Seguridad e Higiene: arquitectura del artículo 509 de la LFT, la NOM-019-STPS-2011 y balance operativo a 2026",
+    "category": "laboral",
+    "description": "Anatomía de la Comisión Mixta de Seguridad e Higiene en México: fundamento constitucional, Convenio 155 OIT, NOM-019-STPS-2011 y balance del SRT y la inspección federal en 2026.",
+    "keyPoints": [
+      "Artículos 509 a 512 de la LFT",
+      "NOM-019-STPS-2011 y RFSST de 2014",
+      "Convenio 155 de la OIT y caso individual 2026",
+      "SRT del IMSS, inspección federal y PASST",
+      "Régimen sancionatorio del artículo 994 LFT"
+    ],
+    "dataSources": [
+      "LFT",
+      "DOF",
+      "IMSS",
+      "STPS",
+      "OIT"
+    ],
+    "covered": true,
+    "publishedDate": "2026-11-14",
+    "publishedSlug": "comisiones-mixtas-seguridad-higiene-articulo-509-lft-2026"
   }
 ]
