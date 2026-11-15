@@ -5531,5 +5531,29 @@
     "covered": true,
     "publishedDate": "2026-11-14",
     "publishedSlug": "comisiones-mixtas-seguridad-higiene-articulo-509-lft-2026"
+  },
+  {
+    "id": "aportacion-patronal-rcv-gradual-2023-2030",
+    "title": "Aportación patronal al RCV: diseño del incremento gradual 2023-2030 y balance a tres años",
+    "category": "pensiones",
+    "description": "Análisis del aumento gradual de la cuota patronal de cesantía y vejez derivado de la reforma SAR 2020: diseño, calendario 2023-2030 y balance a 2026.",
+    "keyPoints": [
+      "Decreto DOF 16 de diciembre de 2020 y artículo 168 LSS",
+      "Transición patronal 3.150% a 11.875% por tramos de UMA",
+      "Articulación con cuota social y escalera de semanas cotizadas",
+      "Jurisprudencia SCJN 2a./J. 59/2024 (11a.)",
+      "Balance CONSAR 2021-2025 y evaluación prevista para 2031"
+    ],
+    "dataSources": [
+      "DOF",
+      "LSS",
+      "CEFP",
+      "CONSAR",
+      "SCJN",
+      "SHCP"
+    ],
+    "covered": true,
+    "publishedDate": "2026-11-15",
+    "publishedSlug": "aportacion-patronal-rcv-gradual-2023-2030-balance-2026"
   }
 ]
