@@ -5555,5 +5555,29 @@
     "covered": true,
     "publishedDate": "2026-11-15",
     "publishedSlug": "aportacion-patronal-rcv-gradual-2023-2030-balance-2026"
+  },
+  {
+    "id": "enut-2024-metodologia-uso-tiempo",
+    "title": "ENUT 2024: arquitectura metodológica y retrato del uso del tiempo en México",
+    "category": "datos",
+    "description": "Análisis de la Encuesta Nacional sobre Uso del Tiempo 2024 del INEGI: metodología, cambios conceptuales, resultados y brechas de género por entidad.",
+    "keyPoints": [
+      "Ficha metodológica de la ENUT 2024 y novedades 2019-2024",
+      "Declaratoria de Información de Interés Nacional (noviembre 2022)",
+      "Brecha de género en trabajo no remunerado y comparación 2014-2019-2024",
+      "Brechas regionales y por grupos de población",
+      "Satisfacción con el uso del tiempo y agenda legislativa de cuidados"
+    ],
+    "dataSources": [
+      "INEGI",
+      "ENUT",
+      "CSTNRHM",
+      "ONU",
+      "CEPAL",
+      "IMCO"
+    ],
+    "covered": true,
+    "publishedDate": "2026-11-16",
+    "publishedSlug": "enut-2024-arquitectura-metodologia-uso-tiempo-mexico"
   }
 ]
