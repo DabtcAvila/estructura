@@ -5579,5 +5579,28 @@
     "covered": true,
     "publishedDate": "2026-11-16",
     "publishedSlug": "enut-2024-arquitectura-metodologia-uso-tiempo-mexico"
+  },
+  {
+    "id": "centros-conciliacion-laboral-mexico-balance-2026",
+    "title": "Centros de Conciliación Laboral en México: arquitectura del modelo prejudicial y balance operativo con ERLAJUL 2025",
+    "category": "laboral",
+    "description": "Análisis de la implementación de los centros de conciliación federal y local tras la reforma de 2019: arquitectura, calendario por etapas y resultados con ERLAJUL 2025 del INEGI.",
+    "keyPoints": [
+      "Arquitectura del modelo dual: CFCRL y centros estatales",
+      "Calendario de implementación 2020-2022 por etapas",
+      "Conciliación prejudicial obligatoria de 45 días",
+      "ERLAJUL 2025: 515,780 convenios prejudiciales y crecimiento asimétrico de conflictos",
+      "Rezago de las JCA y retos de homogeneización"
+    ],
+    "dataSources": [
+      "INEGI ERLAJUL",
+      "INEGI RALABF",
+      "CFCRL",
+      "STPS",
+      "ASF"
+    ],
+    "covered": true,
+    "publishedDate": "2026-11-17",
+    "publishedSlug": "centros-conciliacion-laboral-mexico-balance-2026"
   }
 ]
