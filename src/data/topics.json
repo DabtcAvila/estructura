@@ -5602,5 +5602,28 @@
     "covered": true,
     "publishedDate": "2026-11-17",
     "publishedSlug": "centros-conciliacion-laboral-mexico-balance-2026"
+  },
+  {
+    "id": "seguro-enfermedades-maternidad-imss-ramo-1-balance-2026",
+    "title": "Seguro de Enfermedades y Maternidad del IMSS: arquitectura del Ramo 1 de la LSS y balance financiero a 2026",
+    "category": "pensiones",
+    "description": "Análisis del Seguro de Enfermedades y Maternidad del IMSS: cuota tripartita, cobertura de 77.4 millones de personas y déficit operativo de 110 mil millones de pesos en 2024.",
+    "keyPoints": [
+      "Marco normativo del Capítulo IV del Título Segundo de la LSS (arts. 84-111)",
+      "Cuota tripartita: artículos 106, 107 y 25 de la LSS",
+      "Cobertura de 77.4 millones de derechohabientes al cierre de 2024",
+      "Déficit operativo de 110,379 mdp en 2024 y trayectoria estructural",
+      "Gastos Médicos para Pensionados y enfermedades crónicas como presión principal"
+    ],
+    "dataSources": [
+      "IMSS",
+      "Cuenta Pública SHCP",
+      "CIEP",
+      "IMCO",
+      "LSS"
+    ],
+    "covered": true,
+    "publishedDate": "2026-11-18",
+    "publishedSlug": "seguro-enfermedades-maternidad-imss-ramo-1-balance-2026"
   }
 ]
