@@ -5625,5 +5625,29 @@
     "covered": true,
     "publishedDate": "2026-11-18",
     "publishedSlug": "seguro-enfermedades-maternidad-imss-ramo-1-balance-2026"
+  },
+  {
+    "id": "isr-personas-fisicas-mexico-tarifa-2026-sueldos-salarios",
+    "title": "ISR de personas físicas en México: arquitectura del régimen de sueldos y salarios, tarifa 2026 y trayectoria recaudatoria",
+    "category": "datos",
+    "description": "Análisis del ISR de personas físicas en México: tarifa 2026, subsidio para el empleo tras la reforma del 1 de mayo de 2024 y peso de la retención salarial en la recaudación.",
+    "keyPoints": [
+      "Arquitectura del Título IV y artículo 96 de la LISR",
+      "Reforma del subsidio para el empleo del 1 de mayo de 2024",
+      "Tarifa 2026 publicada en el Anexo 8 de la RMF el 28 de diciembre de 2025",
+      "ISR cerró 2024 en 2.68 billones de pesos; 99.1% de la meta LIF",
+      "Participación aproximada del 47% de sueldos y salarios en el ISR total",
+      "Comparación internacional: 17.7% del PIB en ingresos tributarios 2023"
+    ],
+    "dataSources": [
+      "SAT",
+      "SHCP",
+      "CEFP",
+      "DOF",
+      "OCDE"
+    ],
+    "covered": true,
+    "publishedDate": "2026-11-19",
+    "publishedSlug": "isr-personas-fisicas-mexico-tarifa-2026-sueldos-salarios"
   }
 ]
