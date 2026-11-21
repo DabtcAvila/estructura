@@ -5673,5 +5673,28 @@
     "covered": true,
     "publishedDate": "2026-11-20",
     "publishedSlug": "reinstalacion-articulo-49-lft-opcion-patronal-2026"
+  },
+  {
+    "id": "movilidad-social-intergeneracional-mexico-esru-emovi-2023",
+    "title": "Movilidad social intergeneracional en México: evidencia del ESRU-EMOVI 2023 del CEEY y del MMSI 2016 del INEGI",
+    "category": "datos",
+    "description": "Diagnóstico de la movilidad social intergeneracional en México con los datos más recientes del CEEY y del INEGI, persistencia regional y brechas por género.",
+    "keyPoints": [
+      "ESRU-EMOVI 2023: 17,843 entrevistas efectivas con representatividad en cinco regiones",
+      "75% de hijos de hogares del quintil inferior no logra superarlo; solo 2% alcanza el quintil más alto",
+      "Pobreza por ingresos bajó de 48% a 41% entre 2017 y 2023; persistencia intergeneracional de 79% a 73%",
+      "Desigualdad de oportunidades explica 48% de la desigualdad económica (Informe CEEY 2025)",
+      "Persistencia en el quintil inferior: 57% con tonos de piel oscuros vs 34% con tonos claros",
+      "MMSI 2016 del INEGI: 61.8 millones de personas de 25 a 64 años; predominio de movilidad educativa ascendente"
+    ],
+    "dataSources": [
+      "CEEY",
+      "INEGI",
+      "OCDE",
+      "Banco Mundial"
+    ],
+    "covered": true,
+    "publishedDate": "2026-11-21",
+    "publishedSlug": "movilidad-social-intergeneracional-mexico-esru-emovi-2023-ceey-inegi"
   }
 ]
