@@ -5696,5 +5696,29 @@
     "covered": true,
     "publishedDate": "2026-11-21",
     "publishedSlug": "movilidad-social-intergeneracional-mexico-esru-emovi-2023-ceey-inegi"
+  },
+  {
+    "id": "tope-pension-ley-73-imss-diez-veinticinco-smg",
+    "title": "Tope de pensión bajo la Ley 73 del IMSS: diez versus veinticinco salarios mínimos y la fractura entre la Corte y el Consejo Técnico",
+    "category": "pensiones",
+    "description": "Análisis del tope aplicable a las pensiones del régimen de transición del IMSS: artículo 33 LSS 1973, línea jurisprudencial de la Segunda Sala SCJN de 2010 a 2020 y acuerdo administrativo del Consejo Técnico del IMSS de febrero de 2020.",
+    "keyPoints": [
+      "Artículo 33, segundo párrafo, LSS 1973: tope de diez veces el salario mínimo general",
+      "Artículo 28 LSS 1997: tope ampliado a veinticinco veces el salario mínimo",
+      "Línea jurisprudencial Segunda Sala SCJN: 2a./J. 85/2010, 114/2012, 8/2016 y 164/2019",
+      "Acuerdo del Consejo Técnico del IMSS del 6 de febrero de 2020 bajo artículo 264 LSS",
+      "Asimetría UMA entre IMSS y ISSSTE a partir de la reforma constitucional de 2016",
+      "Universo afectado concentrado en bases de cotización altas del régimen de transición"
+    ],
+    "dataSources": [
+      "DOF",
+      "SCJN",
+      "IMSS",
+      "CONASAMI",
+      "CIEP"
+    ],
+    "covered": true,
+    "publishedDate": "2026-11-22",
+    "publishedSlug": "tope-pension-ley-73-imss-diez-veinticinco-smg-scjn-2026"
   }
 ]
