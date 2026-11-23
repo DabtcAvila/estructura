@@ -5720,5 +5720,26 @@
     "covered": true,
     "publishedDate": "2026-11-22",
     "publishedSlug": "tope-pension-ley-73-imss-diez-veinticinco-smg-scjn-2026"
+  },
+  {
+    "id": "sua-idse-sipare-cumplimiento-patronal-imss-2026",
+    "title": "SUA, IDSE y SIPARE: arquitectura del cumplimiento patronal IMSS — balance 2026",
+    "category": "laboral",
+    "description": "Análisis de la plataforma de cumplimiento patronal del IMSS integrada por SUA, IDSE y SIPARE, transición a e.firma del SAT y la incorporación de EMA y EBA al Buzón IMSS en 2026.",
+    "keyPoints": [
+      "SUA: base normativa (artículo 39 LSS, RACERF) y versiones 3.6.6 a 3.7.0 liberadas en 2025",
+      "IDSE: cierre del NPIE y transición a e.firma del SAT el 13 de octubre de 2026 (Boletín IMSS 380/2026)",
+      "SIPARE: validación del archivo SUA y emisión de línea de captura para entero bancario",
+      "EMA y EBA incorporadas al Buzón IMSS por acuerdo del Consejo Técnico del 29 de septiembre de 2026",
+      "Cobertura: más de 23 millones de puestos de trabajo y alrededor de 1 millón de registros patronales"
+    ],
+    "dataSources": [
+      "IMSS",
+      "DOF",
+      "Cámara de Diputados"
+    ],
+    "covered": true,
+    "publishedDate": "2026-11-23",
+    "publishedSlug": "sua-idse-sipare-cumplimiento-patronal-imss-2026"
   }
 ]
