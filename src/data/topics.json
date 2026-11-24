@@ -5741,5 +5741,31 @@
     "covered": true,
     "publishedDate": "2026-11-23",
     "publishedSlug": "sua-idse-sipare-cumplimiento-patronal-imss-2026"
+  },
+  {
+    "id": "prima-vacacional-articulo-80-lft-cobertura-efectiva-2026",
+    "title": "Prima vacacional en México: arquitectura del artículo 80 de la LFT, régimen fiscal y cobertura efectiva a 2026",
+    "category": "laboral",
+    "description": "Análisis del artículo 80 de la LFT: fórmula del 25%, exención fiscal de 15 UMA, cobertura efectiva y debate sobre el aumento al 50% en México 2026.",
+    "keyPoints": [
+      "Artículo 80 LFT: prima mínima de 25% sobre salarios del periodo vacacional",
+      "Reforma de vacaciones dignas (DOF 27 de diciembre de 2022) tocó el artículo 76, no el 80",
+      "Exención ISR hasta 15 UMA por año (artículo 93 LISR); tope 2026 = $1,759.65",
+      "ENOE 4T2025: informalidad laboral de 55.0% de la población ocupada",
+      "ERLAJUL 2025: 515,780 convenios prejudiciales en centros de conciliación",
+      "Iniciativa pendiente para subir la prima a 50% (Cámara de Diputados, agosto 2023)"
+    ],
+    "dataSources": [
+      "DOF",
+      "LFT",
+      "LISR",
+      "INEGI",
+      "STPS",
+      "PROFEDET",
+      "Cámara de Diputados"
+    ],
+    "covered": true,
+    "publishedDate": "2026-11-24",
+    "publishedSlug": "prima-vacacional-articulo-80-lft-cobertura-efectiva-2026"
   }
 ]
