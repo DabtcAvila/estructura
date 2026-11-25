@@ -5767,5 +5767,29 @@
     "covered": true,
     "publishedDate": "2026-11-24",
     "publishedSlug": "prima-vacacional-articulo-80-lft-cobertura-efectiva-2026"
+  },
+  {
+    "id": "jefatura-femenina-hogar-mexico-evolucion-brechas-2026",
+    "title": "Jefatura femenina en los hogares mexicanos: evolución 2000-2024 y brechas estructurales",
+    "category": "datos",
+    "description": "Trayectoria de la jefatura femenina en los hogares mexicanos entre 2000 y 2024: cobertura, perfil demográfico, mercado laboral, cuidados y pobreza.",
+    "keyPoints": [
+      "Jefatura femenina pasó de ~21% en 2000 a 33.5% en ENIGH 2024",
+      "Heterogeneidad regional: Chihuahua 36%, Jalisco 34.1%, Edomex 31.5%, Chiapas 26.5%",
+      "11.5 millones de madres jefas de hogar (ENOE 4T2023)",
+      "Brecha de ingreso por sexo de 34% en ENIGH 2024 según IMCO",
+      "73% del trabajo no remunerado recae en mujeres (CSTNRHM 2024)",
+      "Brecha laboral 3T2025: 20.8% mujeres vs 14.3% hombres (ENOE)"
+    ],
+    "dataSources": [
+      "INEGI",
+      "CEPAL",
+      "CONEVAL",
+      "CONAPO",
+      "IMCO"
+    ],
+    "covered": true,
+    "publishedDate": "2026-11-25",
+    "publishedSlug": "jefatura-femenina-hogar-mexico-evolucion-brechas-2026"
   }
 ]
