@@ -5791,5 +5791,29 @@
     "covered": true,
     "publishedDate": "2026-11-25",
     "publishedSlug": "jefatura-femenina-hogar-mexico-evolucion-brechas-2026"
+  },
+  {
+    "id": "pension-incapacidad-permanente-rt-imss-2026",
+    "title": "Pensión por incapacidad permanente del Seguro de Riesgos de Trabajo del IMSS: valuación, monto constitutivo y padrón al cierre de 2025",
+    "category": "pensiones",
+    "description": "Análisis técnico de la pensión por incapacidad permanente del Seguro de Riesgos de Trabajo del IMSS en 2026: artículos 58 a 64 LSS, tabla de valuación de la LFT, monto constitutivo y cifras del padrón.",
+    "keyPoints": [
+      "Artículo 58 LSS: 70% del SBC para incapacidad permanente total",
+      "Tabla de valuación del artículo 513 LFT ampliada de 409 a 524 supuestos (DOF 4 de diciembre de 2023)",
+      "Dictamen ST-3 y procedimiento 3A21-003-003 de los Servicios de Salud en el Trabajo",
+      "Monto constitutivo del artículo 159 LSS y reforma del 16 de diciembre de 2020 que habilita la combinación renta vitalicia-retiro programado",
+      "Periodo provisional de dos años (artículo 61 LSS) y revisión del grado",
+      "18,371 mdp de prestaciones en dinero del SRT en 2025 (Informe IMSS 2025-2026)",
+      "353,358 casos de riesgos laborales registrados en 2024 (Memoria Estadística IMSS)"
+    ],
+    "dataSources": [
+      "DOF",
+      "IMSS",
+      "CONSAR",
+      "STPS"
+    ],
+    "covered": true,
+    "publishedDate": "2026-11-26",
+    "publishedSlug": "pension-incapacidad-permanente-rt-imss-2026"
   }
 ]
