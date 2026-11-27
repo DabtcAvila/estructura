@@ -5815,5 +5815,31 @@
     "covered": true,
     "publishedDate": "2026-11-26",
     "publishedSlug": "pension-incapacidad-permanente-rt-imss-2026"
+  },
+  {
+    "id": "puestos-trabajo-imss-octubre-2026",
+    "title": "Puestos de trabajo afiliados al IMSS al cierre de octubre de 2026: récord nominal, estancamiento estructural y el saldo de la reforma de plataformas digitales",
+    "category": "laboral",
+    "description": "Análisis del padrón del IMSS al 31 de octubre de 2026: 23.09 millones de puestos, variación anual, salario base promedio de 664.7 pesos y efecto residual del piloto de plataformas digitales.",
+    "keyPoints": [
+      "23,088,353 puestos de trabajo al 31-oct-2026, nivel más alto para un mes en la serie",
+      "Composición permanente-eventual estable en 87.4-12.6% a octubre de 2025",
+      "Salario base de cotización promedio de 664.7 pesos diarios en octubre de 2026",
+      "Reforma de plataformas digitales: piloto 1-jul-2025 a 31-dic-2025 (DOF 24-jun-2025), ~206 mil puestos asociados",
+      "Transportes y comunicaciones: +13.7% anual a cierre 2025; +9.6% a septiembre 2026",
+      "Registros patronales: 1,008,887 en oct-2026, caída anual de 2.9%",
+      "Tasa de informalidad ENOE 55.1% en 2T-2026 (INEGI), superior al 54.8% del 2T-2025"
+    ],
+    "dataSources": [
+      "IMSS",
+      "INEGI",
+      "STPS",
+      "DOF",
+      "BBVA Research",
+      "CEFP"
+    ],
+    "covered": true,
+    "publishedDate": "2026-11-27",
+    "publishedSlug": "puestos-trabajo-imss-octubre-2026-estancamiento"
   }
 ]
